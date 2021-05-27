@@ -1,0 +1,1993 @@
+﻿[
+    {
+        "value": "SUBJECT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            60,
+            121,
+            67,
+            14
+        ]
+    },
+    {
+        "value": "SAMPLE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            59,
+            152,
+            59,
+            14
+        ]
+    },
+    {
+        "value": "CIGARETTES:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            57,
+            237,
+            97,
+            14
+        ]
+    },
+    {
+        "value": "TAR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            473,
+            218,
+            29,
+            17
+        ]
+    },
+    {
+        "value": "9.1",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            473,
+            235,
+            28,
+            14
+        ]
+    },
+    {
+        "value": "NIC",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            518,
+            219,
+            32,
+            14
+        ]
+    },
+    {
+        "value": ".88",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            520,
+            235,
+            27,
+            17
+        ]
+    },
+    {
+        "value": "MOIST",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            567,
+            221,
+            46,
+            14
+        ]
+    },
+    {
+        "value": "14.0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            571,
+            232,
+            34,
+            14
+        ]
+    },
+    {
+        "value": "MENT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            637,
+            223,
+            39,
+            14
+        ]
+    },
+    {
+        "value": ".841",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            645,
+            276,
+            27,
+            15
+        ]
+    },
+    {
+        "value": "PREFERENCE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            353,
+            97,
+            17
+        ]
+    },
+    {
+        "value": "Bright",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            215,
+            429,
+            47,
+            15
+        ]
+    },
+    {
+        "value": "39",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            380,
+            430,
+            21,
+            11
+        ]
+    },
+    {
+        "value": "34",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            459,
+            428,
+            13,
+            14
+        ]
+    },
+    {
+        "value": "43",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            527,
+            430,
+            22,
+            9
+        ]
+    },
+    {
+        "value": "35",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            596,
+            429,
+            20,
+            12
+        ]
+    },
+    {
+        "value": "42",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            656,
+            430,
+            21,
+            12
+        ]
+    },
+    {
+        "value": "8",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            660,
+            458,
+            17,
+            15
+        ]
+    },
+    {
+        "value": "9",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            601,
+            458,
+            13,
+            17
+        ]
+    },
+    {
+        "value": "11",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            531,
+            456,
+            14,
+            17
+        ]
+    },
+    {
+        "value": "6",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            459,
+            459,
+            15,
+            15
+        ]
+    },
+    {
+        "value": "8",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            383,
+            460,
+            17,
+            14
+        ]
+    },
+    {
+        "value": "200",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            373,
+            478,
+            26,
+            19
+        ]
+    },
+    {
+        "value": "100",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            452,
+            480,
+            25,
+            14
+        ]
+    },
+    {
+        "value": "100",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            521,
+            479,
+            31,
+            13
+        ]
+    },
+    {
+        "value": "100",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            590,
+            480,
+            28,
+            15
+        ]
+    },
+    {
+        "value": "100",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            653,
+            479,
+            24,
+            14
+        ]
+    },
+    {
+        "value": "ATTRIBUTES:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            13,
+            522,
+            97,
+            11
+        ]
+    },
+    {
+        "value": "53+++",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            380,
+            399,
+            41,
+            13
+        ]
+    },
+    {
+        "value": "60+++",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            455,
+            397,
+            42,
+            17
+        ]
+    },
+    {
+        "value": "46",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            532,
+            399,
+            19,
+            14
+        ]
+    },
+    {
+        "value": "56+++",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            599,
+            396,
+            38,
+            15
+        ]
+    },
+    {
+        "value": "50",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            660,
+            396,
+            17,
+            15
+        ]
+    },
+    {
+        "value": "(n=)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            317,
+            355,
+            27,
+            17
+        ]
+    },
+    {
+        "value": "Total",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            167,
+            525,
+            39,
+            14
+        ]
+    },
+    {
+        "value": "Male",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            284,
+            520,
+            34,
+            17
+        ]
+    },
+    {
+        "value": "Female",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            381,
+            519,
+            50,
+            18
+        ]
+    },
+    {
+        "value": "35+",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            613,
+            518,
+            24,
+            17
+        ]
+    },
+    {
+        "value": "KL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            144,
+            547,
+            26,
+            18
+        ]
+    },
+    {
+        "value": "Bright",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            191,
+            545,
+            50,
+            18
+        ]
+    },
+    {
+        "value": "KL",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            259,
+            547,
+            24,
+            15
+        ]
+    },
+    {
+        "value": "Bright",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            309,
+            544,
+            46,
+            20
+        ]
+    },
+    {
+        "value": "KL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            370,
+            546,
+            21,
+            13
+        ]
+    },
+    {
+        "value": "Bright",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            414,
+            546,
+            46,
+            14
+        ]
+    },
+    {
+        "value": "KL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            481,
+            547,
+            24,
+            13
+        ]
+    },
+    {
+        "value": "Bright",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            531,
+            546,
+            47,
+            13
+        ]
+    },
+    {
+        "value": "KL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            591,
+            547,
+            22,
+            11
+        ]
+    },
+    {
+        "value": "Bright",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            639,
+            545,
+            45,
+            12
+        ]
+    },
+    {
+        "value": "4.51",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            366,
+            577,
+            32,
+            15
+        ]
+    },
+    {
+        "value": "4.45",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            320,
+            579,
+            31,
+            15
+        ]
+    },
+    {
+        "value": "4.09**",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            254,
+            577,
+            41,
+            14
+        ]
+    },
+    {
+        "value": "4.59",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            205,
+            579,
+            32,
+            15
+        ]
+    },
+    {
+        "value": "4.31***",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            140,
+            577,
+            57,
+            17
+        ]
+    },
+    {
+        "value": "3.60**",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            140,
+            608,
+            51,
+            14
+        ]
+    },
+    {
+        "value": "3.64***",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            139,
+            638,
+            52,
+            15
+        ]
+    },
+    {
+        "value": "3.39***",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            142,
+            670,
+            57,
+            15
+        ]
+    },
+    {
+        "value": "3.12***",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            139,
+            700,
+            54,
+            13
+        ]
+    },
+    {
+        "value": "3.56***",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            142,
+            730,
+            55,
+            15
+        ]
+    },
+    {
+        "value": "4.00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            134,
+            765,
+            42,
+            15
+        ]
+    },
+    {
+        "value": "3.42",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            202,
+            608,
+            35,
+            15
+        ]
+    },
+    {
+        "value": "3.73**",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            250,
+            607,
+            46,
+            17
+        ]
+    },
+    {
+        "value": "3.58***",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            246,
+            640,
+            58,
+            14
+        ]
+    },
+    {
+        "value": "4.94",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            204,
+            643,
+            37,
+            12
+        ]
+    },
+    {
+        "value": "3.04",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            200,
+            669,
+            40,
+            19
+        ]
+    },
+    {
+        "value": "3.46***",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            248,
+            670,
+            60,
+            18
+        ]
+    },
+    {
+        "value": "3.28***",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            248,
+            696,
+            53,
+            19
+        ]
+    },
+    {
+        "value": "2.78",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            200,
+            697,
+            39,
+            19
+        ]
+    },
+    {
+        "value": "3.24",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            202,
+            730,
+            37,
+            20
+        ]
+    },
+    {
+        "value": "3.96",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            197,
+            761,
+            44,
+            19
+        ]
+    },
+    {
+        "value": "4.02",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            246,
+            762,
+            33,
+            15
+        ]
+    },
+    {
+        "value": "3.69***",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            249,
+            730,
+            53,
+            14
+        ]
+    },
+    {
+        "value": "3.02",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            321,
+            669,
+            32,
+            20
+        ]
+    },
+    {
+        "value": "2.78",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            321,
+            698,
+            29,
+            17
+        ]
+    },
+    {
+        "value": "3.21",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            320,
+            731,
+            33,
+            17
+        ]
+    },
+    {
+        "value": "3.95",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            314,
+            759,
+            42,
+            21
+        ]
+    },
+    {
+        "value": "3.99",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            363,
+            763,
+            34,
+            15
+        ]
+    },
+    {
+        "value": "3.44",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            360,
+            732,
+            38,
+            14
+        ]
+    },
+    {
+        "value": "2.97*",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            363,
+            695,
+            39,
+            19
+        ]
+    },
+    {
+        "value": "3.33**",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            364,
+            666,
+            44,
+            18
+        ]
+    },
+    {
+        "value": "3.70***",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            363,
+            637,
+            51,
+            18
+        ]
+    },
+    {
+        "value": "3.47",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            364,
+            607,
+            40,
+            17
+        ]
+    },
+    {
+        "value": "3.43",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            318,
+            610,
+            32,
+            14
+        ]
+    },
+    {
+        "value": "4.85",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            316,
+            643,
+            35,
+            14
+        ]
+    },
+    {
+        "value": "4.71",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            427,
+            575,
+            33,
+            15
+        ]
+    },
+    {
+        "value": "3.41",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            427,
+            608,
+            33,
+            17
+        ]
+    },
+    {
+        "value": "5.02",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            423,
+            636,
+            42,
+            20
+        ]
+    },
+    {
+        "value": "3.06",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            427,
+            671,
+            33,
+            14
+        ]
+    },
+    {
+        "value": "2.78",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            422,
+            696,
+            41,
+            19
+        ]
+    },
+    {
+        "value": "3.26",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            425,
+            732,
+            34,
+            17
+        ]
+    },
+    {
+        "value": "3.96",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            427,
+            764,
+            32,
+            14
+        ]
+    },
+    {
+        "value": "4.35**",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            473,
+            574,
+            51,
+            15
+        ]
+    },
+    {
+        "value": "3.61*",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            472,
+            606,
+            44,
+            15
+        ]
+    },
+    {
+        "value": "3.63***",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            475,
+            639,
+            53,
+            15
+        ]
+    },
+    {
+        "value": "3.45***",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            474,
+            667,
+            53,
+            20
+        ]
+    },
+    {
+        "value": "3.17***",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            474,
+            695,
+            50,
+            19
+        ]
+    },
+    {
+        "value": "3.52***",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            474,
+            728,
+            51,
+            20
+        ]
+    },
+    {
+        "value": "4.07**",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            476,
+            765,
+            42,
+            12
+        ]
+    },
+    {
+        "value": "4.74",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            539,
+            577,
+            37,
+            14
+        ]
+    },
+    {
+        "value": "3.38",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            541,
+            607,
+            33,
+            14
+        ]
+    },
+    {
+        "value": "5.31",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            545,
+            638,
+            33,
+            18
+        ]
+    },
+    {
+        "value": "2.99",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            540,
+            667,
+            34,
+            20
+        ]
+    },
+    {
+        "value": "2.74",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            542,
+            697,
+            32,
+            18
+        ]
+    },
+    {
+        "value": "3.07",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            546,
+            732,
+            25,
+            17
+        ]
+    },
+    {
+        "value": "3.92",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            544,
+            761,
+            29,
+            20
+        ]
+    },
+    {
+        "value": "4.27",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            590,
+            574,
+            33,
+            15
+        ]
+    },
+    {
+        "value": "3.58",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            590,
+            607,
+            35,
+            13
+        ]
+    },
+    {
+        "value": "3.65***",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            590,
+            638,
+            50,
+            14
+        ]
+    },
+    {
+        "value": "2.34**",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            592,
+            672,
+            44,
+            12
+        ]
+    },
+    {
+        "value": "3.08**",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            592,
+            692,
+            44,
+            21
+        ]
+    },
+    {
+        "value": "3.60*",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            591,
+            730,
+            38,
+            17
+        ]
+    },
+    {
+        "value": "3.94",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            587,
+            763,
+            33,
+            14
+        ]
+    },
+    {
+        "value": "4.45",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            645,
+            574,
+            39,
+            17
+        ]
+    },
+    {
+        "value": "3.46",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            639,
+            607,
+            38,
+            12
+        ]
+    },
+    {
+        "value": "4.61",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            644,
+            640,
+            37,
+            12
+        ]
+    },
+    {
+        "value": "2.08",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            646,
+            670,
+            31,
+            13
+        ]
+    },
+    {
+        "value": "2.82",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            642,
+            697,
+            37,
+            18
+        ]
+    },
+    {
+        "value": "3.39",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            637,
+            729,
+            39,
+            18
+        ]
+    },
+    {
+        "value": "3.99",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            643,
+            762,
+            32,
+            14
+        ]
+    },
+    {
+        "value": "620915734",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            550,
+            883,
+            125,
+            21
+        ]
+    },
+    {
+        "value": "+/-/*",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            113,
+            829,
+            50,
+            14
+        ]
+    },
+    {
+        "value": "++/--/**",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            107,
+            848,
+            73,
+            11
+        ]
+    },
+    {
+        "value": "+++/---/***",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            101,
+            861,
+            90,
+            14
+        ]
+    },
+    {
+        "value": "Attribute",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            45,
+            795,
+            68,
+            13
+        ]
+    },
+    {
+        "value": "scores",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            116,
+            795,
+            47,
+            14
+        ]
+    },
+    {
+        "value": "reflectia",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            156,
+            794,
+            60,
+            14
+        ]
+    },
+    {
+        "value": "a",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            213,
+            794,
+            15,
+            14
+        ]
+    },
+    {
+        "value": "comparison",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            228,
+            796,
+            77,
+            12
+        ]
+    },
+    {
+        "value": "of",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            303,
+            790,
+            20,
+            13
+        ]
+    },
+    {
+        "value": "the",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            328,
+            792,
+            21,
+            13
+        ]
+    },
+    {
+        "value": "test",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            354,
+            792,
+            28,
+            15
+        ]
+    },
+    {
+        "value": "product",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            384,
+            794,
+            57,
+            11
+        ]
+    },
+    {
+        "value": "to",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            441,
+            794,
+            19,
+            11
+        ]
+    },
+    {
+        "value": "the",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            465,
+            792,
+            24,
+            13
+        ]
+    },
+    {
+        "value": "smoker's",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            491,
+            791,
+            57,
+            14
+        ]
+    },
+    {
+        "value": "most",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            546,
+            789,
+            34,
+            17
+        ]
+    },
+    {
+        "value": "often",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            579,
+            792,
+            42,
+            13
+        ]
+    },
+    {
+        "value": "brand",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            624,
+            789,
+            39,
+            17
+        ]
+    },
+    {
+        "value": "NOTE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            8,
+            790,
+            34,
+            18
+        ]
+    },
+    {
+        "value": "TOP- LINES MENTHOL PRODUCT TEST",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            60,
+            60,
+            171,
+            29
+        ]
+    },
+    {
+        "value": "C273- 82- 7",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            493,
+            39,
+            70,
+            17
+        ]
+    },
+    {
+        "value": "1982 102KL",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            488,
+            55,
+            71,
+            14
+        ]
+    },
+    {
+        "value": "1 of 4",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            486,
+            73,
+            52,
+            13
+        ]
+    },
+    {
+        "value": "PDC #",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            441,
+            42,
+            44,
+            14
+        ]
+    },
+    {
+        "value": "PROJECT #",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            408,
+            58,
+            76,
+            15
+        ]
+    },
+    {
+        "value": "PAGE #",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            429,
+            73,
+            55,
+            15
+        ]
+    },
+    {
+        "value": "KOOL Lights KS vs. Bright KS Product Monitor",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            185,
+            113,
+            308,
+            21
+        ]
+    },
+    {
+        "value": "408 Menthol Lights / 105 Menthol Ultra, 111 Non- Menthol Lights / 92 Non- Menthol Ultras)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            182,
+            140,
+            400,
+            48
+        ]
+    },
+    {
+        "value": "September 13, 1982",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            189,
+            197,
+            124,
+            18
+        ]
+    },
+    {
+        "value": "FIELD DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            58,
+            205,
+            95,
+            14
+        ]
+    },
+    {
+        "value": "# 839 / 869",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            165,
+            233,
+            89,
+            17
+        ]
+    },
+    {
+        "value": "# 369 / 839",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            167,
+            275,
+            88,
+            21
+        ]
+    },
+    {
+        "value": "KOOL Lights KS- white tip- ping masked",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            265,
+            232,
+            187,
+            34
+        ]
+    },
+    {
+        "value": ".4 4",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            644,
+            236,
+            33,
+            12
+        ]
+    },
+    {
+        "value": "13. 5",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            574,
+            274,
+            33,
+            17
+        ]
+    },
+    {
+        "value": ".55",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            521,
+            275,
+            24,
+            17
+        ]
+    },
+    {
+        "value": "5. 5",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            473,
+            275,
+            27,
+            14
+        ]
+    },
+    {
+        "value": "masked / a certain proportion of the menthol result is pep- perrront oil; R&D is unable to determine the percentage.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            267,
+            289,
+            398,
+            31
+        ]
+    },
+    {
+        "value": "Bright KS white tipping-",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            269,
+            275,
+            174,
+            16
+        ]
+    },
+    {
+        "value": "Total Menthol Smokers",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            458,
+            328,
+            150,
+            15
+        ]
+    },
+    {
+        "value": "Total (205)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            375,
+            343,
+            38,
+            29
+        ]
+    },
+    {
+        "value": "Male (99)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            448,
+            343,
+            35,
+            30
+        ]
+    },
+    {
+        "value": "Female (106)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            512,
+            343,
+            46,
+            31
+        ]
+    },
+    {
+        "value": "21- 34 (96)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            586,
+            342,
+            39,
+            26
+        ]
+    },
+    {
+        "value": "35+ 109",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            649,
+            343,
+            33,
+            28
+        ]
+    },
+    {
+        "value": "KOOL Lights",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            215,
+            396,
+            83,
+            19
+        ]
+    },
+    {
+        "value": "No Preference",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            210,
+            458,
+            100,
+            18
+        ]
+    },
+    {
+        "value": "21- 34",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            506,
+            518,
+            36,
+            19
+        ]
+    },
+    {
+        "value": "STRENGTH (7= Stronger)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            15,
+            574,
+            106,
+            31
+        ]
+    },
+    {
+        "value": "SMOOTHNESS (7= 5moother",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            14,
+            607,
+            105,
+            28
+        ]
+    },
+    {
+        "value": "AMT MENTHOL (7= More)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            12,
+            633,
+            106,
+            33
+        ]
+    },
+    {
+        "value": "MENTHOL TASTE (7= Better",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            14,
+            669,
+            112,
+            29
+        ]
+    },
+    {
+        "value": "SATISFYING (7= More",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            13,
+            698,
+            85,
+            29
+        ]
+    },
+    {
+        "value": "APTERTASTE (7= Pleasant)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            11,
+            730,
+            107,
+            30
+        ]
+    },
+    {
+        "value": "EASE OF DRAW 17 Easier",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            13,
+            765,
+            96,
+            28
+        ]
+    },
+    {
+        "value": "Directional Difference:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            195,
+            829,
+            199,
+            14
+        ]
+    },
+    {
+        "value": "66 79% confidence Level",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            401,
+            827,
+            197,
+            18
+        ]
+    },
+    {
+        "value": "80- 94% confidence Level",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            403,
+            843,
+            193,
+            19
+        ]
+    },
+    {
+        "value": "95+% confidence Level",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            399,
+            856,
+            183,
+            25
+        ]
+    },
+    {
+        "value": "Marginal Difference:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            193,
+            846,
+            171,
+            17
+        ]
+    },
+    {
+        "value": "Significant Difference:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            198,
+            862,
+            191,
+            17
+        ]
+    }
+]

@@ -1,0 +1,387 @@
+﻿[
+    {
+        "value": "TO:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            247,
+            60,
+            22,
+            14
+        ]
+    },
+    {
+        "value": "From:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            247,
+            116,
+            41,
+            14
+        ]
+    },
+    {
+        "value": "Contribution",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            291,
+            258,
+            101,
+            13
+        ]
+    },
+    {
+        "value": "Requested",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            249,
+            286,
+            75,
+            14
+        ]
+    },
+    {
+        "value": "by",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            331,
+            286,
+            20,
+            15
+        ]
+    },
+    {
+        "value": "1976",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            642,
+            860,
+            34,
+            14
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            265,
+            254,
+            21,
+            20
+        ]
+    },
+    {
+        "value": "Message",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            356,
+            344,
+            61,
+            14
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            353,
+            763,
+            21,
+            20
+        ]
+    },
+    {
+        "value": "Mr. G. J. Schramm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            296,
+            59,
+            146,
+            14
+        ]
+    },
+    {
+        "value": "Mr. W. P. Myhan",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            507,
+            59,
+            129,
+            14
+        ]
+    },
+    {
+        "value": "Mr. F. X. Whelan",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            507,
+            73,
+            137,
+            14
+        ]
+    },
+    {
+        "value": "Mr. R. H. Stinnette",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            296,
+            74,
+            162,
+            14
+        ]
+    },
+    {
+        "value": "Mr. J. B. McCarthy",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            296,
+            88,
+            153,
+            14
+        ]
+    },
+    {
+        "value": "E. E. Curtin",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            296,
+            115,
+            105,
+            14
+        ]
+    },
+    {
+        "value": "Request for contribution or membership to be considered by contributions Committee at next meeting",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            247,
+            186,
+            380,
+            45
+        ]
+    },
+    {
+        "value": "☐ Membership",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            448,
+            256,
+            112,
+            17
+        ]
+    },
+    {
+        "value": "Harvard Medical School and Dr. Gary Huber Boston, Massachusetts",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            377,
+            271,
+            189,
+            57
+        ]
+    },
+    {
+        "value": "Letter 8/ 1/ 76",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            454,
+            341,
+            113,
+            15
+        ]
+    },
+    {
+        "value": "For American Brands, Inc.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            249,
+            372,
+            209,
+            14
+        ]
+    },
+    {
+        "value": "Recent actions regarding above solicitor ",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            267,
+            429,
+            354,
+            14
+        ]
+    },
+    {
+        "value": "1976 $ 40, 921. 30 by A. B., Inc.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            331,
+            453,
+            232,
+            15
+        ]
+    },
+    {
+        "value": "1975 84, 309. 94 A. B., Inc.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            330,
+            466,
+            234,
+            16
+        ]
+    },
+    {
+        "value": "1974 92, 131. 29 A. B., Inc.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            328,
+            479,
+            238,
+            17
+        ]
+    },
+    {
+        "value": "1973 91, 630. 53 A. B., Inc.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            331,
+            492,
+            235,
+            18
+        ]
+    },
+    {
+        "value": "Remarks -",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            267,
+            584,
+            78,
+            13
+        ]
+    },
+    {
+        "value": "Payment -",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            243,
+            457,
+            78,
+            11
+        ]
+    },
+    {
+        "value": "For confirmation by the Committee. Check for $ 43, 910. 30 representing the ninth semi- annual installment to the Harvard Project transmitted August 1976.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            246,
+            620,
+            390,
+            59
+        ]
+    },
+    {
+        "value": "Decision of Committee on Present Request -",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            251,
+            749,
+            354,
+            16
+        ]
+    },
+    {
+        "value": "Pay - $",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            268,
+            778,
+            62,
+            17
+        ]
+    },
+    {
+        "value": "Declined - Send letter",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            270,
+            804,
+            185,
+            18
+        ]
+    },
+    {
+        "value": "YES NO",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            546,
+            806,
+            68,
+            14
+        ]
+    },
+    {
+        "value": "Consideration deferred until",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            270,
+            834,
+            237,
+            14
+        ]
+    },
+    {
+        "value": "Committee meeting ",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            372,
+            860,
+            168,
+            17
+        ]
+    },
+    {
+        "value": "8/ 26",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            561,
+            834,
+            48,
+            42
+        ]
+    }
+]

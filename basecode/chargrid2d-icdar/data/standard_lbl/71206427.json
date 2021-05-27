@@ -1,0 +1,343 @@
+﻿[
+    {
+        "value": "ITEM:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            394,
+            145,
+            39,
+            17
+        ]
+    },
+    {
+        "value": "DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            109,
+            112,
+            42,
+            17
+        ]
+    },
+    {
+        "value": "BRAND:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            110,
+            140,
+            49,
+            15
+        ]
+    },
+    {
+        "value": "SUMMARY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            109,
+            183,
+            59,
+            15
+        ]
+    },
+    {
+        "value": "OF",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            175,
+            184,
+            18,
+            11
+        ]
+    },
+    {
+        "value": "PROJECT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            201,
+            184,
+            66,
+            14
+        ]
+    },
+    {
+        "value": "Attached",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            317,
+            186,
+            68,
+            13
+        ]
+    },
+    {
+        "value": "See",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            282,
+            186,
+            28,
+            11
+        ]
+    },
+    {
+        "value": "FUNDING:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            103,
+            404,
+            70,
+            14
+        ]
+    },
+    {
+        "value": "SIGNATURES:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            101,
+            559,
+            95,
+            15
+        ]
+    },
+    {
+        "value": "4514cbta",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            98,
+            824,
+            68,
+            14
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            545,
+            21,
+            102,
+            96
+        ]
+    },
+    {
+        "value": "PROJECT BRIEF",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            328,
+            74,
+            109,
+            16
+        ]
+    },
+    {
+        "value": "June 1, 1990",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            194,
+            115,
+            101,
+            15
+        ]
+    },
+    {
+        "value": "General Merchandising Nonspecific",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            176,
+            142,
+            176,
+            28
+        ]
+    },
+    {
+        "value": "Package Fixture Circle-K Convenient Stores",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            450,
+            147,
+            203,
+            28
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            550,
+            216,
+            153,
+            109
+        ]
+    },
+    {
+        "value": "SUPPLIERS BEING CONSIDERED:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            106,
+            251,
+            225,
+            17
+        ]
+    },
+    {
+        "value": "Chicago Show",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            106,
+            278,
+            104,
+            17
+        ]
+    },
+    {
+        "value": "Display Equation",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            105,
+            306,
+            136,
+            18
+        ]
+    },
+    {
+        "value": "Chicago Display",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            106,
+            335,
+            127,
+            17
+        ]
+    },
+    {
+        "value": "Robert Nielson & Associates",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            106,
+            360,
+            227,
+            20
+        ]
+    },
+    {
+        "value": "1990 Customized Merchandising",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            106,
+            430,
+            241,
+            21
+        ]
+    },
+    {
+        "value": "Services ESPNS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            105,
+            459,
+            126,
+            15
+        ]
+    },
+    {
+        "value": "REQUESTING MANAGER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            101,
+            598,
+            153,
+            17
+        ]
+    },
+    {
+        "value": "MERCHANDISING MANAGER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            101,
+            640,
+            177,
+            17
+        ]
+    },
+    {
+        "value": "GROUP PRODUCT DIRECTOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            682,
+            186,
+            17
+        ]
+    },
+    {
+        "value": "PURCHASING DEPARTMENT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            98,
+            725,
+            177,
+            17
+        ]
+    },
+    {
+        "value": "RETURN TO:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            768,
+            85,
+            15
+        ]
+    },
+    {
+        "value": "REQUESTING MANAGER",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            197,
+            771,
+            154,
+            14
+        ]
+    },
+    {
+        "value": "462231045 PRODUCED FROM B&W WEB SITE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            1,
+            953,
+            231,
+            30
+        ]
+    }
+]

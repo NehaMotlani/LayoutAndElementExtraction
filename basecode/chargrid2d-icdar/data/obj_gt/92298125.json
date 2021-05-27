@@ -1,0 +1,202 @@
+﻿[
+    {
+        "text": "TO:",
+        "box": [
+            94,
+            225,
+            28,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FROM:",
+        "box": [
+            95,
+            256,
+            47,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE:",
+        "box": [
+            96,
+            288,
+            41,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "RE:",
+        "box": [
+            96,
+            353,
+            25,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PAGES:",
+        "box": [
+            96,
+            320,
+            50,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "92298125",
+        "box": [
+            630,
+            809,
+            14,
+            68
+        ],
+        "class": "other"
+    },
+    {
+        "text": "JAN 19 96 05:27 PM AB RESEARCH ASSOC.",
+        "box": [
+            88,
+            82,
+            246,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "P 1/ 16",
+        "box": [
+            598,
+            81,
+            42,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "AB Research Associates, Inc.",
+        "box": [
+            74,
+            115,
+            275,
+            31
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "TELECOPIER TRANSMITTAL COVER SHEET",
+        "box": [
+            215,
+            186,
+            291,
+            21
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Revisions",
+        "box": [
+            539,
+            169,
+            116,
+            128
+        ],
+        "class": "other"
+    },
+    {
+        "text": "MARY MAZZA",
+        "box": [
+            176,
+            222,
+            95,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Pam Churchill",
+        "box": [
+            177,
+            253,
+            88,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "JAN 19. 1995",
+        "box": [
+            179,
+            285,
+            87,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(Including this cover sheet)",
+        "box": [
+            303,
+            314,
+            166,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CIGARETTE QUESTIONNAIRE",
+        "box": [
+            189,
+            348,
+            195,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Here is yet another version of the questionnaire. Please note that the last 2 pages are at the alternate versions that we discussed. Take a look at the alternate Q9 to try to get at the intensity issue, and maybe we can improve on it from here.",
+        "box": [
+            98,
+            425,
+            536,
+            54
+        ],
+        "class": "other"
+    },
+    {
+        "text": "By the way, we received 13 more signature cards today and sent the cigarettes out. We are now up to 74 respondents who have been sent cigarettes. Hopefully we will get a lot of callbacks this weekend.",
+        "box": [
+            101,
+            486,
+            534,
+            56
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Talk you Monday. Thanks",
+        "box": [
+            102,
+            556,
+            182,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "41 Kenosia Avenue, Danbury, CT 06810 Phone 203 794- 0323 Fax 203 748- 6304",
+        "box": [
+            117,
+            934,
+            504,
+            20
+        ],
+        "class": "other"
+    }
+]

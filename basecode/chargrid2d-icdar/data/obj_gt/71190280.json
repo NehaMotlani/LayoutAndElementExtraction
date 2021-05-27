@@ -1,0 +1,382 @@
+﻿[
+    {
+        "text": "Signature",
+        "box": [
+            85,
+            527,
+            63,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Department",
+        "box": [
+            319,
+            525,
+            73,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            513,
+            523,
+            35,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            515,
+            676,
+            38,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Department",
+        "box": [
+            322,
+            679,
+            76,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Signature",
+        "box": [
+            88,
+            683,
+            60,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "T&N",
+        "box": [
+            56,
+            453,
+            30,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "WARNING",
+        "box": [
+            58,
+            394,
+            65,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            51,
+            239,
+            43,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "44",
+        "box": [
+            462,
+            228,
+            56,
+            38
+        ],
+        "class": "other"
+    },
+    {
+        "text": "8'",
+        "box": [
+            171,
+            447,
+            18,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            181,
+            628,
+            158,
+            143
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "33/16\"WX21/2\"H",
+        "box": [
+            171,
+            332,
+            125,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10/22/98",
+        "box": [
+            113,
+            238,
+            55,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(Date)",
+        "box": [
+            540,
+            346,
+            35,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REVISIONS",
+        "box": [
+            60,
+            819,
+            78,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BRAND",
+        "box": [
+            50,
+            159,
+            51,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DESCRIPTION",
+        "box": [
+            53,
+            199,
+            90,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "7848",
+        "box": [
+            120,
+            120,
+            33,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "JOB NO.",
+        "box": [
+            53,
+            121,
+            55,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BROWN & WILLIAMSON TOBACCO CORPORATION B&W",
+        "box": [
+            48,
+            35,
+            265,
+            68
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "INC",
+        "box": [
+            502,
+            12,
+            154,
+            58
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "",
+        "box": [
+            556,
+            71,
+            94,
+            40
+        ],
+        "class": "other"
+    },
+    {
+        "text": "KOOL Natural",
+        "box": [
+            116,
+            159,
+            86,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Passport Winter Program Ad- EMRO",
+        "box": [
+            145,
+            183,
+            274,
+            30
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "7.96875 sq inches",
+        "box": [
+            173,
+            276,
+            115,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SQ. INCHES/FEET",
+        "box": [
+            53,
+            274,
+            111,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TRIM SIZE",
+        "box": [
+            58,
+            334,
+            64,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Exhibt 1(a) Statement A",
+        "box": [
+            173,
+            387,
+            140,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Legal Approval",
+        "box": [
+            409,
+            319,
+            51,
+            29
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OTT APPROVALS",
+        "box": [
+            53,
+            507,
+            113,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "LKelly ",
+        "box": [
+            95,
+            537,
+            85,
+            63
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "production AE",
+        "box": [
+            326,
+            540,
+            110,
+            42
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10/22/98 10/22/98",
+        "box": [
+            517,
+            533,
+            92,
+            45
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "B&W APPROVALS",
+        "box": [
+            56,
+            663,
+            119,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "DATE COMPLETE",
+        "box": [
+            324,
+            812,
+            111,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REVISIONS APPROVED",
+        "box": [
+            520,
+            811,
+            151,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "176103236 PRODUCED FROM B&W WEB SITE",
+        "box": [
+            0,
+            953,
+            231,
+            31
+        ],
+        "class": "other"
+    }
+]

@@ -1,0 +1,970 @@
+﻿[
+    {
+        "value": "DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            57,
+            43,
+            22
+        ]
+    },
+    {
+        "value": "SUPPLIER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            81,
+            127,
+            80,
+            24
+        ]
+    },
+    {
+        "value": "PREVIOUS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            82,
+            172,
+            71,
+            21
+        ]
+    },
+    {
+        "value": "$",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            161,
+            175,
+            11,
+            17
+        ]
+    },
+    {
+        "value": "COMMITMENTS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            177,
+            170,
+            99,
+            25
+        ]
+    },
+    {
+        "value": "THIS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            284,
+            173,
+            36,
+            22
+        ]
+    },
+    {
+        "value": "PROJECI:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            328,
+            173,
+            68,
+            25
+        ]
+    },
+    {
+        "value": "$",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            476,
+            177,
+            13,
+            20
+        ]
+    },
+    {
+        "value": "$",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            476,
+            205,
+            11,
+            21
+        ]
+    },
+    {
+        "value": "$",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            476,
+            258,
+            10,
+            20
+        ]
+    },
+    {
+        "value": "REASONS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            78,
+            296,
+            73,
+            25
+        ]
+    },
+    {
+        "value": "COMMITTED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            359,
+            624,
+            85,
+            17
+        ]
+    },
+    {
+        "value": "TO",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            451,
+            626,
+            21,
+            17
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            475,
+            624,
+            50,
+            20
+        ]
+    },
+    {
+        "value": "Year)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            440,
+            642,
+            52,
+            15
+        ]
+    },
+    {
+        "value": "(Current",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            360,
+            640,
+            75,
+            21
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            588,
+            697,
+            41,
+            21
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            589,
+            735,
+            38,
+            17
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            587,
+            772,
+            42,
+            18
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            588,
+            809,
+            39,
+            18
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            587,
+            845,
+            41,
+            18
+        ]
+    },
+    {
+        "value": "BEATTY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            285,
+            694,
+            45,
+            15
+        ]
+    },
+    {
+        "value": "A.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            261,
+            694,
+            15,
+            15
+        ]
+    },
+    {
+        "value": "D.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            239,
+            693,
+            17,
+            15
+        ]
+    },
+    {
+        "value": "T.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            239,
+            729,
+            15,
+            17
+        ]
+    },
+    {
+        "value": "E.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            260,
+            729,
+            17,
+            17
+        ]
+    },
+    {
+        "value": "SPROUGE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            284,
+            767,
+            56,
+            14
+        ]
+    },
+    {
+        "value": "ALBERT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            286,
+            730,
+            43,
+            15
+        ]
+    },
+    {
+        "value": "A.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            260,
+            767,
+            18,
+            14
+        ]
+    },
+    {
+        "value": "B.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            240,
+            768,
+            15,
+            11
+        ]
+    },
+    {
+        "value": "ORIGINAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            865,
+            70,
+            22
+        ]
+    },
+    {
+        "value": "CC:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            887,
+            28,
+            20
+        ]
+    },
+    {
+        "value": "PROJECTED:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            38,
+            430,
+            95,
+            20
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            219,
+            655,
+            156,
+            53
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            223,
+            708,
+            152,
+            32
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            362,
+            781,
+            123,
+            42
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            328,
+            804,
+            162,
+            60
+        ]
+    },
+    {
+        "value": "681925147",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            624,
+            922,
+            128,
+            21
+        ]
+    },
+    {
+        "value": "CHANGE OF AUTHORIZED COST",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            293,
+            17,
+            224,
+            28
+        ]
+    },
+    {
+        "value": "AUTHORIZATION NO.:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            441,
+            60,
+            161,
+            24
+        ]
+    },
+    {
+        "value": "NP -75",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            642,
+            66,
+            48,
+            17
+        ]
+    },
+    {
+        "value": "11/ 28/ 84",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            187,
+            57,
+            58,
+            20
+        ]
+    },
+    {
+        "value": "PROJECT NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            82,
+            98,
+            117,
+            24
+        ]
+    },
+    {
+        "value": "GEMINI AWARENESS ATTITUDE & USAGE MONITOR. - PORTLAND",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            215,
+            103,
+            386,
+            23
+        ]
+    },
+    {
+        "value": "BURKE MARKETING RESEARCH",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            203,
+            133,
+            177,
+            17
+        ]
+    },
+    {
+        "value": "220, 000",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            496,
+            175,
+            69,
+            21
+        ]
+    },
+    {
+        "value": "+1 ,000 (0 .5% CHANGE)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            504,
+            205,
+            214,
+            27
+        ]
+    },
+    {
+        "value": "221, 000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            497,
+            251,
+            64,
+            20
+        ]
+    },
+    {
+        "value": "AMOUNT OF CHANGE INCREASE ): (CIRCLE ONE)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            78,
+            201,
+            329,
+            48
+        ]
+    },
+    {
+        "value": "ADJUSTED TOTAL COST OF PROJECT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            80,
+            253,
+            272,
+            24
+        ]
+    },
+    {
+        "value": "REVISED COST DUE TO A QUESTION ADDED TO THE SECOND WAVE AND CHANGES MADE IN WORDING OF OTHER QUESTIONS. THIS COVERS THE COST OF ADDITIONAL TELEPHONE INTERVIEW LENGTH, CODING OF THE OPEN- END, PROGRAMING CHANGES, TABULATION AND ANALYSIS.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            135,
+            330,
+            559,
+            59
+        ]
+    },
+    {
+        "value": "Field Start",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            42,
+            450,
+            96,
+            14
+        ]
+    },
+    {
+        "value": "Field Complete",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            465,
+            126,
+            17
+        ]
+    },
+    {
+        "value": "Final Report Due",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            42,
+            479,
+            143,
+            21
+        ]
+    },
+    {
+        "value": "Aug. 1984",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            223,
+            448,
+            85,
+            17
+        ]
+    },
+    {
+        "value": "Dec. 1984",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            223,
+            466,
+            83,
+            13
+        ]
+    },
+    {
+        "value": "Jan. 1985",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            225,
+            480,
+            84,
+            15
+        ]
+    },
+    {
+        "value": "TOTAL AREA BUDGET:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            365,
+            434,
+            155,
+            20
+        ]
+    },
+    {
+        "value": "CURRENT BAL. AVAILABLE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            363,
+            461,
+            197,
+            17
+        ]
+    },
+    {
+        "value": "THIS CHANGE: (From Current Budget)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            363,
+            486,
+            183,
+            34
+        ]
+    },
+    {
+        "value": "THIS AMOUNT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            360,
+            525,
+            106,
+            17
+        ]
+    },
+    {
+        "value": "(From Next Year's Budget)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            366,
+            542,
+            219,
+            18
+        ]
+    },
+    {
+        "value": "NEW BALANCE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            359,
+            564,
+            112,
+            18
+        ]
+    },
+    {
+        "value": "16, 395. 66",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            644,
+            564,
+            82,
+            18
+        ]
+    },
+    {
+        "value": "200. 00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            494,
+            528,
+            55,
+            14
+        ]
+    },
+    {
+        "value": "17 195. 66",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            645,
+            459,
+            78,
+            17
+        ]
+    },
+    {
+        "value": "-800. 00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            662,
+            483,
+            67,
+            20
+        ]
+    },
+    {
+        "value": "1984 (REV) 3, 488, 000. 00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            531,
+            423,
+            195,
+            29
+        ]
+    },
+    {
+        "value": "3, 493, 204. 34",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            616,
+            624,
+            112,
+            18
+        ]
+    },
+    {
+        "value": "11/ /29 /84",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            573,
+            666,
+            79,
+            34
+        ]
+    },
+    {
+        "value": "12 /10 /84",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            538,
+            705,
+            89,
+            43
+        ]
+    },
+    {
+        "value": "12- 10- 84",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            559,
+            743,
+            86,
+            32
+        ]
+    },
+    {
+        "value": "12/ 11/ 84",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            567,
+            786,
+            92,
+            30
+        ]
+    },
+    {
+        "value": "12 -11",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            568,
+            821,
+            66,
+            22
+        ]
+    },
+    {
+        "value": "SUBMITTED BY:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            675,
+            118,
+            22
+        ]
+    },
+    {
+        "value": "APPROVED BY:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            711,
+            108,
+            23
+        ]
+    },
+    {
+        "value": "APPROVED BY:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            750,
+            106,
+            21
+        ]
+    },
+    {
+        "value": "APPROVED BY:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            785,
+            106,
+            21
+        ]
+    },
+    {
+        "value": "APPROVED BY:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            823,
+            106,
+            21
+        ]
+    },
+    {
+        "value": "- PROJECT FILE",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            147,
+            863,
+            127,
+            27
+        ]
+    },
+    {
+        "value": "S. WILLINGER (3) ☑ RESEARCH GROUP MANAGER",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            163,
+            880,
+            196,
+            54
+        ]
+    },
+    {
+        "value": "A. J. MELLMAN",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            236,
+            839,
+            102,
+            17
+        ]
+    },
+    {
+        "value": "L. R. GRAVELY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            236,
+            802,
+            100,
+            17
+        ]
+    },
+    {
+        "value": "B a ",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            230,
+            732,
+            164,
+            52
+        ]
+    },
+    {
+        "value": "PROJECT No.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            408,
+            890,
+            106,
+            24
+        ]
+    },
+    {
+        "value": "ACCOUNT NAME",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            412,
+            923,
+            114,
+            20
+        ]
+    },
+    {
+        "value": "1984- 175NP",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            531,
+            894,
+            78,
+            16
+        ]
+    },
+    {
+        "value": "New Products",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            531,
+            923,
+            91,
+            15
+        ]
+    }
+]

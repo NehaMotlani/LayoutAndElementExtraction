@@ -1,0 +1,585 @@
+﻿[
+    {
+        "value": "TO:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            113,
+            233,
+            22,
+            15
+        ]
+    },
+    {
+        "value": "INSTRUCTIONS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            115,
+            274,
+            84,
+            13
+        ]
+    },
+    {
+        "value": "WELCOMED.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            520,
+            534,
+            61,
+            14
+        ]
+    },
+    {
+        "value": "ARE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            490,
+            535,
+            24,
+            13
+        ]
+    },
+    {
+        "value": "AGENCY",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            443,
+            534,
+            46,
+            15
+        ]
+    },
+    {
+        "value": "THE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            418,
+            535,
+            22,
+            13
+        ]
+    },
+    {
+        "value": "FROM",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            384,
+            536,
+            31,
+            13
+        ]
+    },
+    {
+        "value": "DESIGNS",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            331,
+            536,
+            49,
+            14
+        ]
+    },
+    {
+        "value": "ALTERNATE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            265,
+            538,
+            63,
+            14
+        ]
+    },
+    {
+        "value": "FOR",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            239,
+            536,
+            24,
+            17
+        ]
+    },
+    {
+        "value": "SUGGESTIONS",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            158,
+            539,
+            78,
+            11
+        ]
+    },
+    {
+        "value": "THESE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            158,
+            552,
+            36,
+            15
+        ]
+    },
+    {
+        "value": "SHOULD",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            200,
+            550,
+            42,
+            14
+        ]
+    },
+    {
+        "value": "BE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            246,
+            553,
+            15,
+            11
+        ]
+    },
+    {
+        "value": "SUBMITTED",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            267,
+            549,
+            64,
+            14
+        ]
+    },
+    {
+        "value": "AS",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            331,
+            550,
+            17,
+            13
+        ]
+    },
+    {
+        "value": "SEPARATE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            353,
+            549,
+            57,
+            13
+        ]
+    },
+    {
+        "value": "DOCUMENTS",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            413,
+            549,
+            60,
+            11
+        ]
+    },
+    {
+        "value": "APPENDED",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            475,
+            547,
+            60,
+            13
+        ]
+    },
+    {
+        "value": "TO",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            539,
+            546,
+            14,
+            15
+        ]
+    },
+    {
+        "value": "THIS",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            559,
+            546,
+            28,
+            14
+        ]
+    },
+    {
+        "value": "BID",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            592,
+            546,
+            22,
+            10
+        ]
+    },
+    {
+        "value": "HOWEVER,",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            587,
+            532,
+            57,
+            14
+        ]
+    },
+    {
+        "value": "3.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            117,
+            592,
+            15,
+            14
+        ]
+    },
+    {
+        "value": "FAX",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            159,
+            656,
+            24,
+            15
+        ]
+    },
+    {
+        "value": "NUMBER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            186,
+            656,
+            49,
+            13
+        ]
+    },
+    {
+        "value": "464565018",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            506,
+            837,
+            110,
+            21
+        ]
+    },
+    {
+        "value": "BROWN & WILLIAMSON BID REQUEST FORM",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            260,
+            81,
+            236,
+            18
+        ]
+    },
+    {
+        "value": "(QUANTITATIVE RESEARCH)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            299,
+            108,
+            155,
+            17
+        ]
+    },
+    {
+        "value": "PROJECT NUMBER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            110,
+            179,
+            105,
+            13
+        ]
+    },
+    {
+        "value": "1991- 18",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            275,
+            179,
+            47,
+            15
+        ]
+    },
+    {
+        "value": "B&W ORIGINATOR:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            112,
+            205,
+            103,
+            17
+        ]
+    },
+    {
+        "value": "Mary D. Davis",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            233,
+            205,
+            90,
+            17
+        ]
+    },
+    {
+        "value": "Mr. Johnny Pedersen - Gallup",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            152,
+            230,
+            194,
+            19
+        ]
+    },
+    {
+        "value": "1. THE FOLLOWING DOCUMENT IS DIVIDED INTO TWO SECTIONS.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            113,
+            295,
+            388,
+            22
+        ]
+    },
+    {
+        "value": "OTHER INFORMATION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            117,
+            696,
+            121,
+            16
+        ]
+    },
+    {
+        "value": "DATE REQUESTED:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            119,
+            723,
+            103,
+            16
+        ]
+    },
+    {
+        "value": "DEADLINE FOR BID RECEIPT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            120,
+            739,
+            170,
+            20
+        ]
+    },
+    {
+        "value": "2/ 22 by courier",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            328,
+            719,
+            103,
+            18
+        ]
+    },
+    {
+        "value": "3/1/91",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            325,
+            740,
+            45,
+            18
+        ]
+    },
+    {
+        "value": "Mary D. Davis",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            170,
+            628,
+            92,
+            16
+        ]
+    },
+    {
+        "value": "1- 502- 568- 8092",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            249,
+            656,
+            96,
+            15
+        ]
+    },
+    {
+        "value": "IF YOU HAVE ANY QUESTIONS, PLEASE CONTACT THE FOLLOWING PERSON:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            159,
+            584,
+            422,
+            22
+        ]
+    },
+    {
+        "value": "2. IN ORDER TO ALLOW US TO COMPARE BIDS, WE REQUEST THAT YOU SUBMIT A BID FOR THE RESEARCH AS SPECIFIED IN SECTION ONE.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            115,
+            492,
+            512,
+            34
+        ]
+    },
+    {
+        "value": "1- 502- 568 8092",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            450,
+            466,
+            96,
+            16
+        ]
+    },
+    {
+        "value": "FAX MUMBER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            365,
+            468,
+            75,
+            14
+        ]
+    },
+    {
+        "value": "MS. JACKIE KEY B&W LOUISVILLE, KENTUCKY U. S. A.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            362,
+            402,
+            136,
+            55
+        ]
+    },
+    {
+        "value": "SECTION ONE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            155,
+            325,
+            75,
+            14
+        ]
+    },
+    {
+        "value": "SECTION TWO",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            155,
+            365,
+            76,
+            16
+        ]
+    },
+    {
+        "value": "SHOULD BE COMPLETED BY THE RESEARCH AGENCY AND RETURNED BY",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            236,
+            358,
+            386,
+            21
+        ]
+    },
+    {
+        "value": "FAX TO THE FOLLOWING PERSON:",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            156,
+            378,
+            187,
+            15
+        ]
+    },
+    {
+        "value": "CONTAINS THE PROJECT DESCRIPTIONS AND SPECIFICATIONS FROM",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            235,
+            320,
+            382,
+            19
+        ]
+    },
+    {
+        "value": "B&W. ALL BIDS SHOULD BE BASED ON THE SPECIFICATIONS IN THIS DOCUMENT.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            155,
+            334,
+            466,
+            18
+        ]
+    }
+]

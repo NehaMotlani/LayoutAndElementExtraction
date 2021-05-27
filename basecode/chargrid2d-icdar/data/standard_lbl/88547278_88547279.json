@@ -1,0 +1,442 @@
+﻿[
+    {
+        "value": "Sizes:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            78,
+            357,
+            37,
+            18
+        ]
+    },
+    {
+        "value": "Binding",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            627,
+            41,
+            17
+        ]
+    },
+    {
+        "value": "88547278",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            666,
+            787,
+            25,
+            97
+        ]
+    },
+    {
+        "value": "Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            493,
+            175,
+            26,
+            14
+        ]
+    },
+    {
+        "value": "Qty:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            189,
+            324,
+            35,
+            13
+        ]
+    },
+    {
+        "value": "TEL:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            468,
+            923,
+            28,
+            15
+        ]
+    },
+    {
+        "value": "FAX:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            579,
+            927,
+            28,
+            14
+        ]
+    },
+    {
+        "value": "19",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            300,
+            926,
+            17,
+            12
+        ]
+    },
+    {
+        "value": "Quotation Request",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            68,
+            61,
+            137,
+            71
+        ]
+    },
+    {
+        "value": "APPLIED GRAPHICS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            496,
+            93,
+            178,
+            27
+        ]
+    },
+    {
+        "value": "Lorillard One Park Avenue New York, NY 10016 Attn: Neil Toumey",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            190,
+            171,
+            142,
+            67
+        ]
+    },
+    {
+        "value": "Quotation To:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            80,
+            175,
+            68,
+            13
+        ]
+    },
+    {
+        "value": "July 7, 1993",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            533,
+            171,
+            87,
+            20
+        ]
+    },
+    {
+        "value": "Estimate No:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            493,
+            195,
+            59,
+            14
+        ]
+    },
+    {
+        "value": "4854- 5",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            535,
+            205,
+            49,
+            15
+        ]
+    },
+    {
+        "value": "Account Executive:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            493,
+            224,
+            85,
+            15
+        ]
+    },
+    {
+        "value": "Peter Faucetta Jr.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            532,
+            238,
+            123,
+            19
+        ]
+    },
+    {
+        "value": "Quantities and Description:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            78,
+            272,
+            132,
+            17
+        ]
+    },
+    {
+        "value": "H/D 8 Pk. Wide Header 4 C/P + 2 Hits Day- Glo + Spot Varnish",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            189,
+            285,
+            273,
+            39
+        ]
+    },
+    {
+        "value": "89,725",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            236,
+            321,
+            48,
+            18
+        ]
+    },
+    {
+        "value": "19.750 X 11",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            193,
+            373,
+            80,
+            20
+        ]
+    },
+    {
+        "value": "Paper and Materials:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            409,
+            104,
+            19
+        ]
+    },
+    {
+        "value": "24 pt. Carolina C/1/S",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            190,
+            425,
+            156,
+            21
+        ]
+    },
+    {
+        "value": "Preparation and Composition:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            78,
+            467,
+            145,
+            18
+        ]
+    },
+    {
+        "value": "Final Film Supplied Combined Blue",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            190,
+            494,
+            141,
+            37
+        ]
+    },
+    {
+        "value": "Process and Colors:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            565,
+            99,
+            14
+        ]
+    },
+    {
+        "value": "6/1 1/1",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            190,
+            566,
+            27,
+            34
+        ]
+    },
+    {
+        "value": "Leave in Full Sheets",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            192,
+            634,
+            137,
+            17
+        ]
+    },
+    {
+        "value": "Packing and Distribution:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            78,
+            691,
+            118,
+            15
+        ]
+    },
+    {
+        "value": "Bulk in cartons, FOB Oceanside Please allow 14 working days for delivery",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            189,
+            700,
+            286,
+            38
+        ]
+    },
+    {
+        "value": "Delivery Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            726,
+            70,
+            13
+        ]
+    },
+    {
+        "value": "Prices and Schedule:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            78,
+            755,
+            99,
+            15
+        ]
+    },
+    {
+        "value": "$16, 158",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            190,
+            767,
+            57,
+            20
+        ]
+    },
+    {
+        "value": "Other Specifications:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            838,
+            101,
+            14
+        ]
+    },
+    {
+        "value": "Authorized Signature:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            494,
+            840,
+            102,
+            15
+        ]
+    },
+    {
+        "value": "Accepted by:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            897,
+            63,
+            18
+        ]
+    },
+    {
+        "value": "we wted with line Whortly how Motion ",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            74,
+            945,
+            596,
+            38
+        ]
+    },
+    {
+        "value": "(212) 627 4111",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            498,
+            926,
+            74,
+            15
+        ]
+    },
+    {
+        "value": "(212) 627- 8602",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            608,
+            925,
+            76,
+            15
+        ]
+    },
+    {
+        "value": "Applied Graphics Technologies 50 West 23rd Street, N.Y.C. 10010",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            467,
+            855,
+            174,
+            72
+        ]
+    }
+]

@@ -1,0 +1,652 @@
+﻿[
+    {
+        "text": "Scott",
+        "box": [
+            535,
+            71,
+            54,
+            34
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Job#:",
+        "box": [
+            468,
+            230,
+            46,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Revision",
+        "box": [
+            80,
+            250,
+            57,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☑",
+        "box": [
+            142,
+            246,
+            24,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Reason:",
+        "box": [
+            243,
+            250,
+            54,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "803108404",
+        "box": [
+            628,
+            795,
+            20,
+            119
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            203,
+            817,
+            13,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Pasholuk",
+        "box": [
+            221,
+            817,
+            56,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Jan",
+        "box": [
+            399,
+            665,
+            25,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Feb",
+        "box": [
+            398,
+            683,
+            29,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Jul",
+        "box": [
+            529,
+            668,
+            24,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Aug",
+        "box": [
+            532,
+            683,
+            28,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Sep",
+        "box": [
+            528,
+            700,
+            29,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Oct",
+        "box": [
+            525,
+            715,
+            31,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Nov",
+        "box": [
+            529,
+            730,
+            28,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Dec",
+        "box": [
+            528,
+            744,
+            31,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Director",
+        "box": [
+            221,
+            838,
+            59,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MPIO",
+        "box": [
+            186,
+            834,
+            31,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "5543/295",
+        "box": [
+            534,
+            228,
+            61,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1",
+        "box": [
+            193,
+            250,
+            36,
+            20
+        ],
+        "class": "other"
+    },
+    {
+        "text": "#",
+        "box": [
+            176,
+            247,
+            14,
+            22
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Mar",
+        "box": [
+            397,
+            697,
+            29,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Apr",
+        "box": [
+            401,
+            714,
+            27,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "May",
+        "box": [
+            398,
+            729,
+            28,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Jun",
+        "box": [
+            399,
+            743,
+            27,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            197,
+            811,
+            184,
+            54
+        ],
+        "class": "other"
+    },
+    {
+        "text": "January 18, 1998",
+        "box": [
+            536,
+            119,
+            107,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Date: PROJECT APPROVAL MARKET PLANNING AND INFORMATION DEPARTMENT",
+        "box": [
+            177,
+            117,
+            371,
+            63
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Sales Analysis ☐",
+        "box": [
+            211,
+            177,
+            134,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Consumor Research ☑",
+        "box": [
+            358,
+            180,
+            165,
+            20
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Newport Lights",
+        "box": [
+            194,
+            214,
+            95,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Direct Mail Conversion Research",
+        "box": [
+            193,
+            229,
+            202,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Project Title:",
+        "box": [
+            81,
+            229,
+            85,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Lower Incidence",
+        "box": [
+            324,
+            251,
+            106,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Marketing and or Research Objectives",
+        "box": [
+            80,
+            285,
+            251,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Determine the level of interest and conversion opportunities among pompotitive smokers. receiving a Direct Mail offer for Newport Lights.",
+        "box": [
+            78,
+            316,
+            540,
+            33
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Provide insight into the reasons for offer acceptance or rejection of offer and examine consumer perceptions about Newport Lights.",
+        "box": [
+            78,
+            362,
+            516,
+            30
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Research Design",
+        "box": [
+            80,
+            398,
+            111,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Interviews divided among 3 gorups:",
+        "box": [
+            78,
+            426,
+            218,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Group 1= Best redeeming customers (2+ paid coupons): n= 750 Group 2= Paid redeoming customers 1 paid coupon) n= 750 Group 3= Non- redeeming customers (no redemption) n= 750",
+        "box": [
+            140,
+            458,
+            393,
+            48
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "The total sample size is 2,250. All smokers 21+ years of age.",
+        "box": [
+            78,
+            515,
+            373,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Respondent Incidence:",
+        "box": [
+            71,
+            578,
+            86,
+            37
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "38% revised from 70%",
+        "box": [
+            168,
+            596,
+            82,
+            33
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Interview Length:",
+        "box": [
+            332,
+            587,
+            66,
+            28
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Screener Questionnaire",
+        "box": [
+            413,
+            584,
+            100,
+            33
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "5 minutes",
+        "box": [
+            568,
+            588,
+            66,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10 minutes",
+        "box": [
+            564,
+            605,
+            68,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Research Firm:",
+        "box": [
+            77,
+            642,
+            101,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cost Estimate:",
+        "box": [
+            77,
+            675,
+            98,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Revised From:",
+        "box": [
+            73,
+            708,
+            101,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Prepared by",
+        "box": [
+            74,
+            754,
+            88,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved by:",
+        "box": [
+            70,
+            785,
+            92,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "$100 600",
+        "box": [
+            204,
+            677,
+            59,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$76 600",
+        "box": [
+            205,
+            708,
+            49,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "S. R. Benson ",
+        "box": [
+            201,
+            736,
+            179,
+            54
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Group Manager",
+        "box": [
+            187,
+            803,
+            103,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Group Product Manager",
+        "box": [
+            187,
+            895,
+            165,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Product Manager",
+        "box": [
+            184,
+            865,
+            119,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Start Field w/o 11 /13 /95",
+        "box": [
+            398,
+            821,
+            147,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Reporting Schedule:",
+        "box": [
+            388,
+            852,
+            149,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Topline w/o 12 /18 /95 Final Report 12/ 31/ 95",
+        "box": [
+            397,
+            881,
+            131,
+            33
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$100 600",
+        "box": [
+            577,
+            742,
+            58,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Revised Costs (if any)",
+        "box": [
+            398,
+            761,
+            162,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Fieldwork Schedule:",
+        "box": [
+            397,
+            788,
+            135,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "A & G Research",
+        "box": [
+            204,
+            642,
+            91,
+            17
+        ],
+        "class": "value_answer"
+    }
+]

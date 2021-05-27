@@ -1,0 +1,482 @@
+﻿[
+    {
+        "text": "FROM:",
+        "box": [
+            88,
+            113,
+            45,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TO:",
+        "box": [
+            88,
+            147,
+            22,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CC:",
+        "box": [
+            88,
+            182,
+            22,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MEDIA",
+        "box": [
+            87,
+            286,
+            43,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "September",
+        "box": [
+            310,
+            356,
+            66,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Pack",
+        "box": [
+            307,
+            615,
+            32,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Rebecca",
+        "box": [
+            307,
+            648,
+            53,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Magazines:",
+        "box": [
+            309,
+            390,
+            68,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Newspapers:",
+        "box": [
+            419,
+            390,
+            78,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Magazines:",
+        "box": [
+            309,
+            289,
+            70,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Newspaper:",
+        "box": [
+            309,
+            323,
+            73,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "93351929",
+        "box": [
+            716,
+            825,
+            20,
+            80
+        ],
+        "class": "other"
+    },
+    {
+        "text": "COUPON CODE REGISTRATION FORM",
+        "box": [
+            311,
+            75,
+            244,
+            16
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "JESSICA ARATO",
+        "box": [
+            138,
+            112,
+            108,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "VINCE LOSITO",
+        "box": [
+            127,
+            145,
+            93,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "K. AUGUSTYN. L. GIORDANO, M. McGLYNN, S. RAPISARLDI",
+        "box": [
+            127,
+            180,
+            377,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BRANDS (S) APPLICABLE",
+        "box": [
+            85,
+            250,
+            160,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ISSUE FREQUENCY/ YEAR",
+        "box": [
+            84,
+            353,
+            170,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SPACE/ COLOR",
+        "box": [
+            85,
+            388,
+            98,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "COUPON ISSUE DATE",
+        "box": [
+            85,
+            425,
+            140,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COUPON EXPIRATION DATE",
+        "box": [
+            85,
+            459,
+            182,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CIRCULATION",
+        "box": [
+            87,
+            511,
+            89,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "GEOGFIAPHICAL AREA(S)",
+        "box": [
+            84,
+            545,
+            163,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COUPON VALUE",
+        "box": [
+            84,
+            580,
+            104,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PACK AND OR/ CARTON",
+        "box": [
+            84,
+            612,
+            152,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ADVERTISING CREATIVE THEME",
+        "box": [
+            85,
+            647,
+            205,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SIGNATURE OF INITIATOR",
+        "box": [
+            82,
+            682,
+            170,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE INITIATED",
+        "box": [
+            82,
+            716,
+            107,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ANALYTICAL REQUIREMENTS:",
+        "box": [
+            84,
+            747,
+            196,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "FOR CONTROL USE ONLY:",
+        "box": [
+            306,
+            781,
+            171,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CODE ASSIGNED:",
+        "box": [
+            306,
+            817,
+            116,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "JOB NUMBER:",
+        "box": [
+            307,
+            834,
+            92,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EST. REDEMPTION:",
+        "box": [
+            307,
+            852,
+            126,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "3 %",
+        "box": [
+            568,
+            849,
+            41,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "414",
+        "box": [
+            553,
+            832,
+            34,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "221782",
+        "box": [
+            527,
+            807,
+            89,
+            24
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "May 14, 1992",
+        "box": [
+            306,
+            715,
+            83,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Free Pack",
+        "box": [
+            307,
+            578,
+            63,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Tier ",
+        "box": [
+            309,
+            545,
+            31,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1, 221, 000",
+        "box": [
+            309,
+            511,
+            59,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "December 31, 1992",
+        "box": [
+            307,
+            459,
+            119,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "September 1, 1992",
+        "box": [
+            309,
+            425,
+            112,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "P 4/ C;",
+        "box": [
+            378,
+            388,
+            41,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1/ 2 B/ W",
+        "box": [
+            500,
+            388,
+            49,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Village Voice",
+        "box": [
+            383,
+            320,
+            78,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "All Kent Family Packings",
+        "box": [
+            309,
+            253,
+            146,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "People, Rolling Stone, Cosmopolitan,",
+        "box": [
+            383,
+            285,
+            222,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mademoiselle, New York Magazine",
+        "box": [
+            309,
+            304,
+            208,
+            15
+        ],
+        "class": "value_answer"
+    }
+]

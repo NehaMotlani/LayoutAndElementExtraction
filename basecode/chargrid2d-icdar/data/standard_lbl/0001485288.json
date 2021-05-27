@@ -1,0 +1,332 @@
+﻿[
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            482,
+            102,
+            15,
+            13
+        ]
+    },
+    {
+        "value": "20",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            345,
+            454,
+            17,
+            14
+        ]
+    },
+    {
+        "value": "620745255",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            506,
+            848,
+            117,
+            21
+        ]
+    },
+    {
+        "value": "Signed",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            420,
+            899,
+            54,
+            17
+        ]
+    },
+    {
+        "value": "Free",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            584,
+            458,
+            32,
+            14
+        ]
+    },
+    {
+        "value": "DC B38 (8 78)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            39,
+            29,
+            66,
+            13
+        ]
+    },
+    {
+        "value": "BROWN & WILLIAMSON TOBACCO CORPORATION LOUISVILLE, KENTUCKY 40201",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            200,
+            59,
+            325,
+            28
+        ]
+    },
+    {
+        "value": "SPECIAL SAMPLE MANUFACTURE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            250,
+            101,
+            223,
+            13
+        ]
+    },
+    {
+        "value": "SHIPMENT ☐",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            405,
+            123,
+            94,
+            14
+        ]
+    },
+    {
+        "value": "TRANSFER ☐",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            406,
+            142,
+            90,
+            15
+        ]
+    },
+    {
+        "value": "REDUCED TO MATERIAL ☐",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            311,
+            162,
+            186,
+            18
+        ]
+    },
+    {
+        "value": "Date of Request",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            436,
+            186,
+            129,
+            17
+        ]
+    },
+    {
+        "value": "Account Number",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            436,
+            201,
+            121,
+            15
+        ]
+    },
+    {
+        "value": "6/ 25/ 81",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            610,
+            182,
+            52,
+            18
+        ]
+    },
+    {
+        "value": "22 244 00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            596,
+            204,
+            66,
+            15
+        ]
+    },
+    {
+        "value": "Copies to:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            43,
+            168,
+            87,
+            16
+        ]
+    },
+    {
+        "value": "Factory Cost Dept. Writer Development Center Sue Livesay",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            128,
+            198,
+            156,
+            58
+        ]
+    },
+    {
+        "value": "Sample Disposition",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            42,
+            338,
+            158,
+            17
+        ]
+    },
+    {
+        "value": "Quantity, Cartons of 200 each",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            296,
+            383,
+            149,
+            29
+        ]
+    },
+    {
+        "value": "Tax Status Paid or Free",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            553,
+            383,
+            106,
+            31
+        ]
+    },
+    {
+        "value": "To Sample Stock",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            59,
+            422,
+            130,
+            18
+        ]
+    },
+    {
+        "value": "R & D",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            451,
+            28,
+            15
+        ]
+    },
+    {
+        "value": "M. R.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            101,
+            482,
+            30,
+            14
+        ]
+    },
+    {
+        "value": "Method of Shipment",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            549,
+            158,
+            18
+        ]
+    },
+    {
+        "value": "Cigarette Description",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            36,
+            592,
+            184,
+            17
+        ]
+    },
+    {
+        "value": "KS 1 mg grooved product using 4. 3/ 37 filter material. Cigarette code 244131",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            127,
+            634,
+            377,
+            44
+        ]
+    },
+    {
+        "value": "Special Instructions & Comments",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            36,
+            718,
+            269,
+            17
+        ]
+    },
+    {
+        "value": "Completion Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            34,
+            895,
+            130,
+            18
+        ]
+    },
+    {
+        "value": "6/ 25/ 81",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            221,
+            895,
+            51,
+            14
+        ]
+    },
+    {
+        "value": "B. D. WINGLER",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            511,
+            899,
+            94,
+            14
+        ]
+    }
+]

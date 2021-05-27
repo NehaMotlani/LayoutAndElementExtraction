@@ -1,0 +1,266 @@
+﻿[
+    {
+        "value": "AUTHORS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            92,
+            197,
+            70,
+            18
+        ]
+    },
+    {
+        "value": "TITLE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            92,
+            225,
+            45,
+            14
+        ]
+    },
+    {
+        "value": "RECOMMENDATION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            391,
+            310,
+            144,
+            20
+        ]
+    },
+    {
+        "value": "533",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            209,
+            169,
+            27,
+            13
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            508,
+            172,
+            29,
+            14
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            549,
+            310,
+            13,
+            14
+        ]
+    },
+    {
+        "value": "NOT",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            240,
+            339,
+            28,
+            14
+        ]
+    },
+    {
+        "value": "APPROVE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            272,
+            339,
+            68,
+            13
+        ]
+    },
+    {
+        "value": "00070353",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            656,
+            742,
+            24,
+            94
+        ]
+    },
+    {
+        "value": "Manuscript Review Form",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            96,
+            67,
+            157,
+            17
+        ]
+    },
+    {
+        "value": "TOBACCO SCIENCE",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            334,
+            126,
+            124,
+            18
+        ]
+    },
+    {
+        "value": "Registration No",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            94,
+            169,
+            97,
+            17
+        ]
+    },
+    {
+        "value": "March 18, 1968",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            543,
+            173,
+            106,
+            15
+        ]
+    },
+    {
+        "value": "Andrew G. Kallianos, Richard K. Means, James D. Mold",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            208,
+            197,
+            390,
+            18
+        ]
+    },
+    {
+        "value": "\"Effect of Nitrates in Tobacco on the Catechol Yield in Cigarette Smoke\"",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            209,
+            223,
+            411,
+            47
+        ]
+    },
+    {
+        "value": "REVIEW COMPLETED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            92,
+            310,
+            153,
+            14
+        ]
+    },
+    {
+        "value": "PRESENT FORM:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            338,
+            118,
+            17
+        ]
+    },
+    {
+        "value": "3/ 29/ 68",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            274,
+            304,
+            65,
+            17
+        ]
+    },
+    {
+        "value": "APPROVE IN ITS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            570,
+            313,
+            116,
+            17
+        ]
+    },
+    {
+        "value": "(Give reasons below):",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            345,
+            338,
+            131,
+            19
+        ]
+    },
+    {
+        "value": "APPROVE TENTATIVELY",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            507,
+            341,
+            176,
+            17
+        ]
+    },
+    {
+        "value": "SUBJECT TO THE FOLLOWING SUGGESTED REVISIONS: (itemize below):",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            92,
+            365,
+            487,
+            22
+        ]
+    },
+    {
+        "value": "Page 4 - Last line should be Mass spectrometric instead of Mass spectroscopic.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            91,
+            416,
+            525,
+            45
+        ]
+    },
+    {
+        "value": "NOTE- Execute in triplicate using additionall sheets if more space is required. Retain the third copy for your file Return the original (signed) and the first carbon (unsigned) along with the manuscript to this office The unsigned copy and the manuscript will be for returned to the author his consideration.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            88,
+            845,
+            597,
+            56
+        ]
+    }
+]

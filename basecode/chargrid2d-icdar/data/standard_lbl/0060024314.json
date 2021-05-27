@@ -1,0 +1,431 @@
+﻿[
+    {
+        "value": "Facility:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            110,
+            158,
+            46,
+            14
+        ]
+    },
+    {
+        "value": "Permit#:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            542,
+            156,
+            52,
+            15
+        ]
+    },
+    {
+        "value": "DESCRIPTION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            120,
+            281,
+            73,
+            17
+        ]
+    },
+    {
+        "value": "CAS#",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            119,
+            394,
+            28,
+            14
+        ]
+    },
+    {
+        "value": "MANUFACTURER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            119,
+            432,
+            89,
+            14
+        ]
+    },
+    {
+        "value": "No",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            494,
+            471,
+            18,
+            13
+        ]
+    },
+    {
+        "value": "Inorganic",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            497,
+            323,
+            45,
+            15
+        ]
+    },
+    {
+        "value": "PHONE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            536,
+            432,
+            49,
+            13
+        ]
+    },
+    {
+        "value": "Other",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            135,
+            764,
+            28,
+            13
+        ]
+    },
+    {
+        "value": "Organic",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            381,
+            324,
+            36,
+            13
+        ]
+    },
+    {
+        "value": "Yes",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            376,
+            471,
+            20,
+            11
+        ]
+    },
+    {
+        "value": "74880",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            295,
+            568,
+            34,
+            15
+        ]
+    },
+    {
+        "value": "6240",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            309,
+            596,
+            28,
+            10
+        ]
+    },
+    {
+        "value": "0001",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            612,
+            175,
+            28,
+            15
+        ]
+    },
+    {
+        "value": "CITY OF REIDSVILLE CHEMICAL MANAGEMENT PLAN 1993 INVENTORY CHEMICAL USAGE FACT SHEET",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            228,
+            53,
+            364,
+            46
+        ]
+    },
+    {
+        "value": "Process Chemicals Used in Excess of 100 Pounds/ Day, Water Treatment Chemicals, Cleaning Compounds",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            251,
+            112,
+            313,
+            31
+        ]
+    },
+    {
+        "value": "The American Tobacco Company",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            161,
+            176,
+            185,
+            17
+        ]
+    },
+    {
+        "value": "CHEMICAL DESCRIPTION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            335,
+            211,
+            137,
+            15
+        ]
+    },
+    {
+        "value": "PRODUCT (CHEMICAL) NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            123,
+            246,
+            152,
+            18
+        ]
+    },
+    {
+        "value": "Fuller G2315 DC",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            295,
+            256,
+            100,
+            15
+        ]
+    },
+    {
+        "value": "Liquid Adhesive",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            196,
+            286,
+            101,
+            16
+        ]
+    },
+    {
+        "value": "PRODUCT CLASSIFICATION (Circle Dne):",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            119,
+            320,
+            199,
+            15
+        ]
+    },
+    {
+        "value": "CHEMICAL FORMULA:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            119,
+            358,
+            116,
+            16
+        ]
+    },
+    {
+        "value": "Vinyl Acetate",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            267,
+            362,
+            85,
+            16
+        ]
+    },
+    {
+        "value": "PERCENT ACTIVES (Non -water):",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            454,
+            395,
+            161,
+            16
+        ]
+    },
+    {
+        "value": ".5%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            623,
+            391,
+            42,
+            31
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            584,
+            441,
+            81,
+            15
+        ]
+    },
+    {
+        "value": "H. B. Fuller Company",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            237,
+            439,
+            133,
+            15
+        ]
+    },
+    {
+        "value": "108 -05 -4",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            197,
+            399,
+            52,
+            15
+        ]
+    },
+    {
+        "value": "MSDS ON FILE? (Circle One):",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            116,
+            468,
+            139,
+            17
+        ]
+    },
+    {
+        "value": "CHEMICAL USAGE",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            346,
+            518,
+            101,
+            13
+        ]
+    },
+    {
+        "value": "1993 ANNUAL USAGE (LBS.):",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            115,
+            556,
+            145,
+            15
+        ]
+    },
+    {
+        "value": "1993 AVG. MONTHLY USAGE (LBS.)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            115,
+            592,
+            179,
+            16
+        ]
+    },
+    {
+        "value": "APPLICATION (Circle One and Briefly Describe):",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            113,
+            626,
+            224,
+            19
+        ]
+    },
+    {
+        "value": "Producion Process",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            138,
+            654,
+            86,
+            14
+        ]
+    },
+    {
+        "value": "label adhesive",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            289,
+            648,
+            89,
+            15
+        ]
+    },
+    {
+        "value": "Water Treatment:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            135,
+            691,
+            78,
+            13
+        ]
+    },
+    {
+        "value": "Housekeeping Cleaning",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            137,
+            726,
+            106,
+            16
+        ]
+    },
+    {
+        "value": "ATXO2 0132045",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            527,
+            876,
+            108,
+            14
+        ]
+    }
+]

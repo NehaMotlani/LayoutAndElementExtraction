@@ -1,0 +1,200 @@
+﻿[
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            425,
+            258,
+            37,
+            14
+        ]
+    },
+    {
+        "value": "BD-FF",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            259,
+            255,
+            42,
+            15
+        ]
+    },
+    {
+        "value": "1/4/90",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            500,
+            259,
+            51,
+            14
+        ]
+    },
+    {
+        "value": "Marketing",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            257,
+            382,
+            73,
+            15
+        ]
+    },
+    {
+        "value": "cc:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            65,
+            755,
+            26,
+            13
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            363,
+            737,
+            218,
+            57
+        ]
+    },
+    {
+        "value": "PROJECT INITIATION FORM",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            256,
+            150,
+            202,
+            24
+        ]
+    },
+    {
+        "value": "PROJECT CODE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            250,
+            111,
+            18
+        ]
+    },
+    {
+        "value": "PROJECT NAME",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            72,
+            294,
+            106,
+            16
+        ]
+    },
+    {
+        "value": "BULL DURHAM Full Flavor King Size Cigarettes",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            259,
+            296,
+            315,
+            20
+        ]
+    },
+    {
+        "value": "J. F. Anders/ J. E. Mann",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            262,
+            338,
+            163,
+            21
+        ]
+    },
+    {
+        "value": "PROJECT LEADER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            334,
+            126,
+            19
+        ]
+    },
+    {
+        "value": "WORK REQUESTED BY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            375,
+            147,
+            18
+        ]
+    },
+    {
+        "value": "PROJECT OBJECTIVE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            66,
+            417,
+            154,
+            20
+        ]
+    },
+    {
+        "value": "Develop 14- mg \"tar\" delivery king size cigarette for generic pricing directed toward young male smokers. Cigarette dimensions- 85 mm x 24.9 mm circumference- 20 mm filter- 24 mm tipping. Offshore tobacco blend with unique flavor formulation. Cork tipping.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            255,
+            423,
+            384,
+            158
+        ]
+    },
+    {
+        "value": "OTHER PERSONNEL ASSIGNED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            66,
+            581,
+            109,
+            40
+        ]
+    },
+    {
+        "value": "Approved by",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            368,
+            718,
+            98,
+            14
+        ]
+    },
+    {
+        "value": "RSS RDC PHL PRC DRB Records Project Leader Other Personnel Assigned",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            106,
+            756,
+            207,
+            117
+        ]
+    }
+]

@@ -1,0 +1,486 @@
+﻿[
+    {
+        "value": "CONTRACT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            66,
+            240,
+            68,
+            14
+        ]
+    },
+    {
+        "value": "CLIENT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            64,
+            271,
+            54,
+            13
+        ]
+    },
+    {
+        "value": "MARKET:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            66,
+            327,
+            52,
+            15
+        ]
+    },
+    {
+        "value": "9",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            316,
+            419,
+            20,
+            27
+        ]
+    },
+    {
+        "value": "45",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            459,
+            419,
+            39,
+            25
+        ]
+    },
+    {
+        "value": "54",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            601,
+            415,
+            42,
+            25
+        ]
+    },
+    {
+        "value": "TOTAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            594,
+            443,
+            41,
+            14
+        ]
+    },
+    {
+        "value": "ILLUMINATED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            429,
+            443,
+            87,
+            15
+        ]
+    },
+    {
+        "value": "REGULAR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            291,
+            444,
+            56,
+            17
+        ]
+    },
+    {
+        "value": "D.E.C",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            67,
+            489,
+            43,
+            17
+        ]
+    },
+    {
+        "value": "S.P.V.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            66,
+            536,
+            46,
+            14
+        ]
+    },
+    {
+        "value": "534.1",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            122,
+            478,
+            77,
+            25
+        ]
+    },
+    {
+        "value": "SIGNATURE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            355,
+            853,
+            71,
+            14
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            356,
+            895,
+            35,
+            15
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            423,
+            799,
+            272,
+            67
+        ]
+    },
+    {
+        "value": "ATT.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            67,
+            911,
+            31,
+            14
+        ]
+    },
+    {
+        "value": "527.6",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            542,
+            476,
+            74,
+            22
+        ]
+    },
+    {
+        "value": "LAURENCE, CHARLES, FREE & LAWSON, INC.",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            146,
+            43,
+            443,
+            26
+        ]
+    },
+    {
+        "value": "260 MADISON AVENUE, NEW YORK, NY 10016 (212) 213- 4646",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            176,
+            73,
+            382,
+            19
+        ]
+    },
+    {
+        "value": "30- SHEET POSTING COMPLETION REPORT FORM",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            208,
+            133,
+            290,
+            18
+        ]
+    },
+    {
+        "value": "PLEASE RETURN TWO (2) COPIES OF THE LOCATION LIST ALONG WITH TWO (2) COPIES OF THIS COMPLETION REPORT FORM TO THE ATTENTION OF MR. JOSEPH VAZQUEZ AT THE ABOVE ADDRESS",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            64,
+            162,
+            566,
+            48
+        ]
+    },
+    {
+        "value": "A- 530- 1059",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            158,
+            239,
+            78,
+            17
+        ]
+    },
+    {
+        "value": "THE AMERICAN TOBACCO COMPANY",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            130,
+            267,
+            211,
+            19
+        ]
+    },
+    {
+        "value": "PALL MALL RED LIGHTS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            158,
+            295,
+            150,
+            18
+        ]
+    },
+    {
+        "value": "BRAND NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            67,
+            299,
+            81,
+            15
+        ]
+    },
+    {
+        "value": "Akron OH.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            147,
+            331,
+            71,
+            16
+        ]
+    },
+    {
+        "value": "Patrick Media Group, Inc",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            205,
+            358,
+            175,
+            18
+        ]
+    },
+    {
+        "value": "F 75 GRP",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            170,
+            380,
+            114,
+            33
+        ]
+    },
+    {
+        "value": "PLANT OPERATOR:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            64,
+            356,
+            113,
+            18
+        ]
+    },
+    {
+        "value": "SIZE SHOWING:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            64,
+            387,
+            97,
+            17
+        ]
+    },
+    {
+        "value": "NUMBER OF PANELS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            66,
+            430,
+            125,
+            20
+        ]
+    },
+    {
+        "value": "PLANT AVERAGE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            531,
+            500,
+            99,
+            15
+        ]
+    },
+    {
+        "value": "PLANT AVERAGE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            531,
+            545,
+            103,
+            19
+        ]
+    },
+    {
+        "value": "DATE POSTERS RECEIVED FROM LITHOGRAPHER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            67,
+            591,
+            299,
+            19
+        ]
+    },
+    {
+        "value": "6/ 27/ 89",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            385,
+            567,
+            86,
+            41
+        ]
+    },
+    {
+        "value": "POSTER DESIGN:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            64,
+            620,
+            105,
+            17
+        ]
+    },
+    {
+        "value": "THE TASTE BREAKS THROUGH",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            187,
+            616,
+            298,
+            23
+        ]
+    },
+    {
+        "value": "SCHEDULED POSTING DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            67,
+            649,
+            171,
+            16
+        ]
+    },
+    {
+        "value": "7/ 16/ 89",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            272,
+            645,
+            55,
+            20
+        ]
+    },
+    {
+        "value": "7/ 21/ 89",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            263,
+            665,
+            84,
+            32
+        ]
+    },
+    {
+        "value": "DATE POSTING COMPLETED:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            66,
+            677,
+            173,
+            18
+        ]
+    },
+    {
+        "value": "THIS WILL CERTIFY THAT I HAVE EXAMINED THE RECORDS OF OUR BILLPOSTERS, AND VERIFY THAT ALL LOCATIONS LISTED ON THE ATTACHED LOCATION LIST WERE PROPERLY POSTED WITH THE CORRECT DESIGN WITHIN FIVE WORKING DAYS OF THE POSTING DATE ACCEPTED ON THE CONTRACT",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            221,
+            718,
+            448,
+            77
+        ]
+    },
+    {
+        "value": "Plant Manager/ Posting Supt",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            434,
+            865,
+            199,
+            19
+        ]
+    },
+    {
+        "value": "2/ 25/ 89",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            411,
+            880,
+            98,
+            42
+        ]
+    }
+]

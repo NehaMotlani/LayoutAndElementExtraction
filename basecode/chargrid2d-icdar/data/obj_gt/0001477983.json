@@ -1,0 +1,652 @@
+﻿[
+    {
+        "text": "Retainer",
+        "box": [
+            459,
+            391,
+            47,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No.",
+        "box": [
+            300,
+            366,
+            38,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$",
+        "box": [
+            316,
+            380,
+            8,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$",
+        "box": [
+            314,
+            397,
+            10,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$",
+        "box": [
+            297,
+            415,
+            11,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$",
+        "box": [
+            507,
+            390,
+            13,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$",
+        "box": [
+            598,
+            408,
+            10,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Other",
+        "box": [
+            122,
+            461,
+            29,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(please",
+        "box": [
+            155,
+            465,
+            39,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "explain):",
+        "box": [
+            194,
+            462,
+            47,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Note:",
+        "box": [
+            120,
+            479,
+            28,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "RIGL",
+        "box": [
+            148,
+            480,
+            31,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "22-10-2",
+        "box": [
+            179,
+            479,
+            38,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "(d)",
+        "box": [
+            216,
+            482,
+            14,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "requires",
+        "box": [
+            230,
+            482,
+            42,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "disclosure",
+        "box": [
+            272,
+            480,
+            52,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "in",
+        "box": [
+            325,
+            483,
+            11,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "a",
+        "box": [
+            338,
+            485,
+            8,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "dollar",
+        "box": [
+            346,
+            482,
+            32,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "amount",
+        "box": [
+            377,
+            483,
+            36,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "of",
+        "box": [
+            415,
+            480,
+            15,
+            20
+        ],
+        "class": "other"
+    },
+    {
+        "text": "the",
+        "box": [
+            429,
+            482,
+            14,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "compensation",
+        "box": [
+            446,
+            483,
+            66,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "for",
+        "box": [
+            510,
+            483,
+            17,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "lobbying",
+        "box": [
+            529,
+            483,
+            43,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "activity.",
+        "box": [
+            571,
+            483,
+            41,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "(from)",
+        "box": [
+            119,
+            665,
+            36,
+            20
+        ],
+        "class": "other"
+    },
+    {
+        "text": "(to)",
+        "box": [
+            119,
+            682,
+            20,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            142,
+            697,
+            68,
+            25
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            214,
+            691,
+            66,
+            35
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "REVIEWED:",
+        "box": [
+            197,
+            904,
+            49,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ACCEPTED:",
+        "box": [
+            122,
+            904,
+            47,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "STATE OF RHODE ISLAND AND PROVIDENCE PLANTATIONS",
+        "box": [
+            113,
+            80,
+            450,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Office of the Secretary of State",
+        "box": [
+            112,
+            95,
+            169,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "James R. Langevin Secretary of State",
+        "box": [
+            113,
+            140,
+            214,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Monthly Organization/ Employer Report",
+        "box": [
+            218,
+            182,
+            346,
+            25
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Room 43 State House Providence, Rhode Island 02903- 1105",
+        "box": [
+            482,
+            152,
+            178,
+            30
+        ],
+        "class": "other"
+    },
+    {
+        "text": "401- 277- 2390",
+        "box": [
+            588,
+            180,
+            70,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Due the 1st Monday of the month during the legislative session to report the previous months' activity.",
+        "box": [
+            126,
+            207,
+            529,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Reporting Period:",
+        "box": [
+            122,
+            230,
+            94,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Month of May",
+        "box": [
+            218,
+            232,
+            91,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Organization/ Employer Name:",
+        "box": [
+            120,
+            253,
+            165,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "R. J. Reynolds Tobacco",
+        "box": [
+            306,
+            254,
+            151,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Lobbyist Name:",
+        "box": [
+            119,
+            271,
+            86,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Peter J. McGinn",
+        "box": [
+            249,
+            271,
+            105,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "If any addresses or telephone numbers have changed since the last reporting period please check here and note the change in the space provided at the end of this form.",
+        "box": [
+            122,
+            286,
+            506,
+            37
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Compensation/ Expenditure Information:",
+        "box": [
+            123,
+            327,
+            269,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "(indicate if attached pages)",
+        "box": [
+            485,
+            624,
+            156,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Please print name of Employer or Designee",
+        "box": [
+            433,
+            725,
+            220,
+            20
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            679,
+            730,
+            22,
+            120
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            612,
+            911,
+            39,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "FOR OFFICIAL USE",
+        "box": [
+            200,
+            786,
+            96,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Please indicate the capacity in which you are executing this document:",
+        "box": [
+            119,
+            757,
+            364,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Signature Employer or Designee",
+        "box": [
+            119,
+            723,
+            187,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "List any changes of address telephone numbers:",
+        "box": [
+            116,
+            647,
+            272,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "During this reporting period, have you made any expenditure or incurred any obligation of $ 25.00 or more per occurence to promote or oppose any legislation, including but not limited mailings, meals, print or broadcast advertisements, or gifts (yes or no)",
+        "box": [
+            119,
+            503,
+            535,
+            55
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "yes, please detail. including the names of the persons receiving and in whose behalf such expenditures have been made, the amount, date, place, and reason for the expenditure.",
+        "box": [
+            119,
+            554,
+            473,
+            37
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "If yes, please complete the following.",
+        "box": [
+            341,
+            365,
+            195,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Compensation received lobbying:",
+        "box": [
+            123,
+            380,
+            193,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Part of salary received for lobbying:",
+        "box": [
+            120,
+            397,
+            191,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Amount earned but not received:",
+        "box": [
+            122,
+            413,
+            173,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Reimbursements for expenses (please itemize):",
+        "box": [
+            120,
+            429,
+            250,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Contractual or agreed fee:",
+        "box": [
+            459,
+            405,
+            138,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Have you paid any type of compensation or incurred any obligation for payment to the above named",
+        "box": [
+            122,
+            346,
+            529,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "lobbyist for lobbying? (yes or no)",
+        "box": [
+            122,
+            362,
+            177,
+            20
+        ],
+        "class": "value_question"
+    }
+]

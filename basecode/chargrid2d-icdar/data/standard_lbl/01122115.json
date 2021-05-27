@@ -1,0 +1,1047 @@
+﻿[
+    {
+        "value": "RE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            603,
+            38,
+            21,
+            21
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            568,
+            89,
+            39,
+            21
+        ]
+    },
+    {
+        "value": "Remarks",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            43,
+            504,
+            71,
+            22
+        ]
+    },
+    {
+        "value": "Color",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            45,
+            166,
+            49,
+            22
+        ]
+    },
+    {
+        "value": "Supplier",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            49,
+            119,
+            70,
+            17
+        ]
+    },
+    {
+        "value": "Weight",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            223,
+            792,
+            60,
+            18
+        ]
+    },
+    {
+        "value": "Draw",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            330,
+            793,
+            45,
+            15
+        ]
+    },
+    {
+        "value": "Tars",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            469,
+            793,
+            43,
+            18
+        ]
+    },
+    {
+        "value": "Nicotine",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            602,
+            792,
+            77,
+            22
+        ]
+    },
+    {
+        "value": "-339",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            628,
+            39,
+            36,
+            18
+        ]
+    },
+    {
+        "value": ".0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            640,
+            117,
+            17,
+            17
+        ]
+    },
+    {
+        "value": "6",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            623,
+            117,
+            15,
+            17
+        ]
+    },
+    {
+        "value": "Good",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            624,
+            142,
+            41,
+            17
+        ]
+    },
+    {
+        "value": "Good",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            623,
+            168,
+            47,
+            20
+        ]
+    },
+    {
+        "value": "Good",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            626,
+            194,
+            41,
+            17
+        ]
+    },
+    {
+        "value": "#450",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            624,
+            219,
+            41,
+            20
+        ]
+    },
+    {
+        "value": "3",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            635,
+            250,
+            14,
+            14
+        ]
+    },
+    {
+        "value": "1067",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            626,
+            270,
+            39,
+            21
+        ]
+    },
+    {
+        "value": "White",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            257,
+            163,
+            50,
+            20
+        ]
+    },
+    {
+        "value": "\"D\"",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            268,
+            297,
+            31,
+            18
+        ]
+    },
+    {
+        "value": "24",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            249,
+            349,
+            18,
+            18
+        ]
+    },
+    {
+        "value": ".7",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            268,
+            348,
+            22,
+            20
+        ]
+    },
+    {
+        "value": ".844",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            652,
+            402,
+            38,
+            18
+        ]
+    },
+    {
+        "value": "SPRING",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            346,
+            709,
+            57,
+            24
+        ]
+    },
+    {
+        "value": "AMF",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            226,
+            767,
+            35,
+            14
+        ]
+    },
+    {
+        "value": "85",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            649,
+            714,
+            28,
+            22
+        ]
+    },
+    {
+        "value": "Hauni",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            588,
+            767,
+            47,
+            20
+        ]
+    },
+    {
+        "value": "011221115",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            719,
+            872,
+            20,
+            95
+        ]
+    },
+    {
+        "value": "P. LORILLARD CO.",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            43,
+            63,
+            146,
+            20
+        ]
+    },
+    {
+        "value": "(Revised 5/ 9/ 61)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            109,
+            87,
+            147,
+            22
+        ]
+    },
+    {
+        "value": "SQC -21",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            47,
+            88,
+            55,
+            21
+        ]
+    },
+    {
+        "value": "Bale No.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            46,
+            141,
+            74,
+            22
+        ]
+    },
+    {
+        "value": "Total Denier as Marked",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            45,
+            194,
+            201,
+            20
+        ]
+    },
+    {
+        "value": "Total Denier as Tested",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            46,
+            221,
+            201,
+            18
+        ]
+    },
+    {
+        "value": "% Moisture in Tow",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            244,
+            162,
+            22
+        ]
+    },
+    {
+        "value": "Maker No.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            42,
+            270,
+            86,
+            20
+        ]
+    },
+    {
+        "value": "T. E.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            256,
+            116,
+            39,
+            18
+        ]
+    },
+    {
+        "value": "58 ,000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            254,
+            191,
+            59,
+            20
+        ]
+    },
+    {
+        "value": "Research Division",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            204,
+            272,
+            159,
+            17
+        ]
+    },
+    {
+        "value": "Type of Rod",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            42,
+            297,
+            105,
+            20
+        ]
+    },
+    {
+        "value": "Length of Rod",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            43,
+            323,
+            124,
+            20
+        ]
+    },
+    {
+        "value": "120 mm.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            237,
+            323,
+            68,
+            21
+        ]
+    },
+    {
+        "value": "Circ of Rod",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            43,
+            348,
+            112,
+            19
+        ]
+    },
+    {
+        "value": "Mean Draw of Rod",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            373,
+            153,
+            23
+        ]
+    },
+    {
+        "value": "0 .12 (new scale)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            251,
+            370,
+            141,
+            24
+        ]
+    },
+    {
+        "value": "86 .9 gms",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            236,
+            397,
+            85,
+            23
+        ]
+    },
+    {
+        "value": "93 .3 gms.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            240,
+            426,
+            83,
+            20
+        ]
+    },
+    {
+        "value": "99 .2 gms.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            239,
+            451,
+            81,
+            24
+        ]
+    },
+    {
+        "value": "99 .2 gms.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            237,
+            479,
+            85,
+            20
+        ]
+    },
+    {
+        "value": "Complete Weight",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            43,
+            479,
+            140,
+            20
+        ]
+    },
+    {
+        "value": "Dry Wt. With Adhesive",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            45,
+            426,
+            189,
+            20
+        ]
+    },
+    {
+        "value": "Dry Weight",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            45,
+            399,
+            94,
+            22
+        ]
+    },
+    {
+        "value": "* Special Plasticizer - 1 part LG- 168 - 15 parts Estrobond \"B\" Union Carbide LG- 168 additive .38%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            140,
+            510,
+            560,
+            36
+        ]
+    },
+    {
+        "value": "Sample repeated as RE- 341 because 2. 1/ 58 ,000 tow was used instead of 2. 1/ 42 ,000 tow.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            158,
+            563,
+            515,
+            34
+        ]
+    },
+    {
+        "value": "RESEARCH DIVISION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            566,
+            64,
+            160,
+            24
+        ]
+    },
+    {
+        "value": "11 /2 /61",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            617,
+            91,
+            67,
+            21
+        ]
+    },
+    {
+        "value": "% Plasticizer",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            404,
+            112,
+            121,
+            24
+        ]
+    },
+    {
+        "value": "Firmness of Rod",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            406,
+            141,
+            140,
+            21
+        ]
+    },
+    {
+        "value": "Quality of Bloom",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            405,
+            166,
+            146,
+            23
+        ]
+    },
+    {
+        "value": "Width of Band",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            405,
+            194,
+            120,
+            21
+        ]
+    },
+    {
+        "value": "Ref. Paper",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            405,
+            219,
+            94,
+            22
+        ]
+    },
+    {
+        "value": "Quan of Trays Produced",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            401,
+            247,
+            214,
+            21
+        ]
+    },
+    {
+        "value": "Rods per Min.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            404,
+            272,
+            118,
+            20
+        ]
+    },
+    {
+        "value": "Tape Speed",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            406,
+            299,
+            93,
+            18
+        ]
+    },
+    {
+        "value": "F. P. M. Delivery Roller",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            406,
+            323,
+            199,
+            22
+        ]
+    },
+    {
+        "value": "F. P. M. No. 1 Roller",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            404,
+            351,
+            175,
+            22
+        ]
+    },
+    {
+        "value": "F. P. M. No. 2 Roller",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            405,
+            376,
+            173,
+            22
+        ]
+    },
+    {
+        "value": "Delivery Roller over Tape",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            405,
+            402,
+            230,
+            22
+        ]
+    },
+    {
+        "value": "400 F. P. M.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            626,
+            299,
+            89,
+            21
+        ]
+    },
+    {
+        "value": "337 .5",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            624,
+            324,
+            49,
+            21
+        ]
+    },
+    {
+        "value": "477 .5",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            626,
+            351,
+            50,
+            18
+        ]
+    },
+    {
+        "value": "362 .5",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            628,
+            373,
+            46,
+            20
+        ]
+    },
+    {
+        "value": "1 .194",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            642,
+            429,
+            51,
+            15
+        ]
+    },
+    {
+        "value": "120 psig",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            626,
+            454,
+            75,
+            21
+        ]
+    },
+    {
+        "value": "16 psig",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            634,
+            482,
+            68,
+            20
+        ]
+    },
+    {
+        "value": "Pressure on Air Jet",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            404,
+            479,
+            178,
+            22
+        ]
+    },
+    {
+        "value": "Pump Press. Card Roller",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            406,
+            454,
+            209,
+            23
+        ]
+    },
+    {
+        "value": "No. 1 Roller over Tape",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            404,
+            427,
+            203,
+            24
+        ]
+    },
+    {
+        "value": "Date Made",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            45,
+            712,
+            84,
+            22
+        ]
+    },
+    {
+        "value": "11 /3 /61",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            131,
+            712,
+            64,
+            23
+        ]
+    },
+    {
+        "value": "Tobacco Used",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            226,
+            714,
+            112,
+            20
+        ]
+    },
+    {
+        "value": "Length of Cigarettes",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            439,
+            712,
+            184,
+            25
+        ]
+    },
+    {
+        "value": "% Moisture in Tobacco",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            736,
+            196,
+            24
+        ]
+    },
+    {
+        "value": "Wt. of Cigarettes /4 oz.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            394,
+            737,
+            211,
+            25
+        ]
+    },
+    {
+        "value": "Type of Maker",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            42,
+            764,
+            120,
+            22
+        ]
+    },
+    {
+        "value": "Type of Tipper",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            394,
+            767,
+            131,
+            22
+        ]
+    },
+    {
+        "value": "Smoking Results",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            42,
+            825,
+            144,
+            20
+        ]
+    },
+    {
+        "value": ".922 1 .059 .54 .20 20 .2 7 .6 62 .4 1 .07 .41 61 .7",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            194,
+            824,
+            532,
+            25
+        ]
+    },
+    {
+        "value": "Production Supervised by:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            128,
+            859,
+            231,
+            23
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            370,
+            849,
+            341,
+            38
+        ]
+    },
+    {
+        "value": "Benner",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            404,
+            887,
+            184,
+            45
+        ]
+    },
+    {
+        "value": "Recearch Engineer",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            459,
+            913,
+            155,
+            21
+        ]
+    },
+    {
+        "value": "Dr. C. O. Jensen Mr. R. A. Wagner Mr. J. Berner Dr. A. W. Spears",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            137,
+            899,
+            163,
+            69
+        ]
+    },
+    {
+        "value": "Copies to:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            42,
+            898,
+            92,
+            21
+        ]
+    },
+    {
+        "value": "Wet Weight",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            451,
+            97,
+            21
+        ]
+    }
+]

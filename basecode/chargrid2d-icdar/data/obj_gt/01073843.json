@@ -1,0 +1,1042 @@
+﻿[
+    {
+        "text": "COMPOUND",
+        "box": [
+            82,
+            119,
+            49,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SOURCE",
+        "box": [
+            82,
+            151,
+            36,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "INVESTIGATOR(S)",
+        "box": [
+            81,
+            214,
+            71,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SIGNATURE(S):",
+        "box": [
+            81,
+            243,
+            61,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "50",
+        "box": [
+            285,
+            303,
+            11,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "80",
+        "box": [
+            351,
+            304,
+            11,
+            7
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "100",
+        "box": [
+            416,
+            306,
+            17,
+            7
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SOLVENT",
+        "box": [
+            483,
+            304,
+            41,
+            10
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "OMSO",
+        "box": [
+            553,
+            306,
+            28,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REPORTED",
+        "box": [
+            501,
+            186,
+            49,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TA1535",
+        "box": [
+            279,
+            372,
+            29,
+            10
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "TA100",
+        "box": [
+            401,
+            374,
+            27,
+            8
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "TA98",
+        "box": [
+            527,
+            376,
+            22,
+            8
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Streptozotocin",
+        "box": [
+            80,
+            677,
+            128,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CONCLUSION",
+        "box": [
+            77,
+            795,
+            54,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OR67-13",
+        "box": [
+            649,
+            144,
+            67,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "A123",
+        "box": [
+            486,
+            144,
+            39,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4/14/81",
+        "box": [
+            582,
+            176,
+            64,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BC19-25",
+        "box": [
+            616,
+            209,
+            67,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3/18/81-4/8/81",
+        "box": [
+            353,
+            175,
+            130,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "unknown",
+        "box": [
+            183,
+            175,
+            64,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "TESTED",
+        "box": [
+            321,
+            183,
+            34,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☑",
+        "box": [
+            535,
+            304,
+            13,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".025",
+        "box": [
+            338,
+            330,
+            35,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "25",
+        "box": [
+            81,
+            475,
+            21,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "12.5",
+        "box": [
+            81,
+            497,
+            38,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "6.25",
+        "box": [
+            81,
+            521,
+            38,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "9.67",
+        "box": [
+            244,
+            419,
+            36,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "14.00",
+        "box": [
+            300,
+            420,
+            46,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1.10",
+        "box": [
+            243,
+            499,
+            39,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".76",
+        "box": [
+            318,
+            476,
+            25,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1.12",
+        "box": [
+            309,
+            499,
+            35,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".52",
+        "box": [
+            318,
+            522,
+            25,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1.07",
+        "box": [
+            372,
+            500,
+            36,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "118.00",
+        "box": [
+            355,
+            420,
+            53,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4.0",
+        "box": [
+            81,
+            630,
+            27,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2.0",
+        "box": [
+            80,
+            652,
+            29,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1.0",
+        "box": [
+            80,
+            696,
+            28,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0.5",
+        "box": [
+            80,
+            716,
+            29,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".72",
+        "box": [
+            253,
+            631,
+            27,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1.24",
+        "box": [
+            244,
+            654,
+            36,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "6.41",
+        "box": [
+            243,
+            696,
+            38,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2.28",
+        "box": [
+            242,
+            718,
+            38,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.07",
+        "box": [
+            307,
+            633,
+            36,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2.86",
+        "box": [
+            306,
+            654,
+            36,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "31.14",
+        "box": [
+            299,
+            696,
+            43,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "12.29",
+        "box": [
+            297,
+            718,
+            45,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".98",
+        "box": [
+            381,
+            633,
+            24,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".76",
+        "box": [
+            381,
+            655,
+            25,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1.60",
+        "box": [
+            372,
+            697,
+            35,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1.08",
+        "box": [
+            370,
+            721,
+            36,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4.26",
+        "box": [
+            433,
+            633,
+            38,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.63",
+        "box": [
+            433,
+            655,
+            36,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.11",
+        "box": [
+            433,
+            698,
+            35,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1.99",
+        "box": [
+            433,
+            719,
+            35,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".22",
+        "box": [
+            497,
+            634,
+            27,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".67",
+        "box": [
+            499,
+            655,
+            27,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "20.10",
+        "box": [
+            542,
+            635,
+            47,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "18.81",
+        "box": [
+            543,
+            656,
+            45,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".82",
+        "box": [
+            446,
+            500,
+            25,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".88",
+        "box": [
+            446,
+            524,
+            25,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".87",
+        "box": [
+            446,
+            478,
+            25,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".78",
+        "box": [
+            500,
+            500,
+            25,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".65",
+        "box": [
+            563,
+            478,
+            27,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".71",
+        "box": [
+            564,
+            501,
+            24,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".86",
+        "box": [
+            563,
+            524,
+            27,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "01073843",
+        "box": [
+            732,
+            824,
+            21,
+            94
+        ],
+        "class": "other"
+    },
+    {
+        "text": "127.00",
+        "box": [
+            418,
+            420,
+            54,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "21.00",
+        "box": [
+            543,
+            422,
+            49,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "9.00",
+        "box": [
+            487,
+            422,
+            39,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "AMES ASSAY FOR MUTAGENICITY",
+        "box": [
+            263,
+            71,
+            283,
+            19
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Diethyl 3, 3-Dimethyl-2-oxo-1, 4-cyclopentanedicarboxylate",
+        "box": [
+            141,
+            110,
+            513,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Lorillard - Organic Chemistry",
+        "box": [
+            123,
+            142,
+            265,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LORILLARD NO:",
+        "box": [
+            405,
+            156,
+            66,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LOT NO:",
+        "box": [
+            609,
+            158,
+            36,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE RECEIVED",
+        "box": [
+            81,
+            182,
+            69,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "H. S. Tong & A. A. Poole",
+        "box": [
+            163,
+            204,
+            221,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "NOTEBOOK PAGE",
+        "box": [
+            535,
+            218,
+            72,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            172,
+            226,
+            164,
+            44
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            426,
+            229,
+            145,
+            25
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "TOXICITY (%) (SURVIVAL)",
+        "box": [
+            81,
+            299,
+            96,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "CONCENTRATION mg/ml",
+        "box": [
+            81,
+            328,
+            100,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ WATER",
+        "box": [
+            585,
+            306,
+            48,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ OTHER",
+        "box": [
+            538,
+            332,
+            46,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "S TYPHIMURIUM",
+        "box": [
+            81,
+            370,
+            69,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(-) ",
+        "box": [
+            249,
+            388,
+            29,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(+) 5-9",
+        "box": [
+            309,
+            388,
+            27,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(-) 5-9",
+        "box": [
+            372,
+            388,
+            26,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(+) 5-9",
+        "box": [
+            430,
+            390,
+            28,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(-) 5-9",
+        "box": [
+            493,
+            390,
+            29,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(+) 5-9",
+        "box": [
+            553,
+            391,
+            28,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(-) 5-9",
+        "box": [
+            619,
+            391,
+            28,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(+) 5-9",
+        "box": [
+            679,
+            392,
+            27,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CONTROL REVERTANTS PER PLATE TOON MI SOLVENTI",
+        "box": [
+            80,
+            405,
+            115,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMPOUND plates",
+        "box": [
+            80,
+            454,
+            84,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REVERSION RATE TEST REVERTANTS-CONTROL REVERTANTS PER PLATE)",
+        "box": [
+            313,
+            457,
+            314,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "POSTIVE CONTROL (ug plate)",
+        "box": [
+            78,
+            581,
+            80,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2. AMINOANTHRACENE",
+        "box": [
+            78,
+            610,
+            90,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "This compound is judged non - mutagenic in this test system.",
+        "box": [
+            142,
+            788,
+            526,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Copies to the following:",
+        "box": [
+            78,
+            834,
+            218,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "H. J. Minnemeyer",
+        "box": [
+            313,
+            835,
+            147,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "L. B. Gray",
+        "box": [
+            314,
+            853,
+            92,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LORILLARD RESEARCH CENTER",
+        "box": [
+            75,
+            943,
+            129,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "FORM 580",
+        "box": [
+            662,
+            950,
+            58,
+            10
+        ],
+        "class": "other"
+    }
+]

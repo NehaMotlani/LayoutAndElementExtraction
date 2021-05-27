@@ -1,0 +1,202 @@
+﻿[
+    {
+        "text": "KOOL",
+        "box": [
+            54,
+            41,
+            46,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DESCRIPTION:",
+        "box": [
+            54,
+            107,
+            101,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SUPPLIER:",
+        "box": [
+            54,
+            224,
+            78,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CUMULATIVE",
+        "box": [
+            553,
+            527,
+            84,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "JAN",
+        "box": [
+            195,
+            568,
+            32,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "466024372",
+        "box": [
+            678,
+            950,
+            66,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "466024372",
+        "box": [
+            548,
+            884,
+            123,
+            22
+        ],
+        "class": "other"
+    },
+    {
+        "text": "PROJECT NO.",
+        "box": [
+            430,
+            35,
+            97,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1987- 144- K",
+        "box": [
+            558,
+            31,
+            95,
+            20
+        ],
+        "class": "other"
+    },
+    {
+        "text": "0595- 529- 1510 -0",
+        "box": [
+            58,
+            55,
+            135,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "KMDP ANALYSIS UTILIZING BLACK SWITCHING STUDY DATA",
+        "box": [
+            197,
+            100,
+            428,
+            25
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "C. B. Pugh",
+        "box": [
+            200,
+            177,
+            78,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Market Facts",
+        "box": [
+            200,
+            218,
+            108,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "12, 500 (10- 15- 87)",
+        "box": [
+            198,
+            258,
+            174,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CARRYOVER TO 1988 -- 0",
+        "box": [
+            460,
+            275,
+            199,
+            21
+        ],
+        "class": "other"
+    },
+    {
+        "text": "MR PERSONNEL:",
+        "box": [
+            55,
+            179,
+            110,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "AUTHORIZED COST:",
+        "box": [
+            55,
+            262,
+            139,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "RELEASED TO ACCTG",
+        "box": [
+            75,
+            517,
+            76,
+            34
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PAID OUT OF 1987 BUDGET",
+        "box": [
+            292,
+            509,
+            97,
+            39
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PRODUCED FROM B&W WEB SITE",
+        "box": [
+            5,
+            950,
+            223,
+            20
+        ],
+        "class": "other"
+    }
+]

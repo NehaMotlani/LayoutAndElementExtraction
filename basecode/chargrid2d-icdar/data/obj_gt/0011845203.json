@@ -1,0 +1,532 @@
+﻿[
+    {
+        "text": "TO:",
+        "box": [
+            113,
+            233,
+            22,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "INSTRUCTIONS",
+        "box": [
+            115,
+            274,
+            84,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "WELCOMED.",
+        "box": [
+            520,
+            534,
+            61,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "ARE",
+        "box": [
+            490,
+            535,
+            24,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "AGENCY",
+        "box": [
+            443,
+            534,
+            46,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "THE",
+        "box": [
+            418,
+            535,
+            22,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "FROM",
+        "box": [
+            384,
+            536,
+            31,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "DESIGNS",
+        "box": [
+            331,
+            536,
+            49,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "ALTERNATE",
+        "box": [
+            265,
+            538,
+            63,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "FOR",
+        "box": [
+            239,
+            536,
+            24,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "SUGGESTIONS",
+        "box": [
+            158,
+            539,
+            78,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "THESE",
+        "box": [
+            158,
+            552,
+            36,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "SHOULD",
+        "box": [
+            200,
+            550,
+            42,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "BE",
+        "box": [
+            246,
+            553,
+            15,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "SUBMITTED",
+        "box": [
+            267,
+            549,
+            64,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "AS",
+        "box": [
+            331,
+            550,
+            17,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "SEPARATE",
+        "box": [
+            353,
+            549,
+            57,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "DOCUMENTS",
+        "box": [
+            413,
+            549,
+            60,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "APPENDED",
+        "box": [
+            475,
+            547,
+            60,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "TO",
+        "box": [
+            539,
+            546,
+            14,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "THIS",
+        "box": [
+            559,
+            546,
+            28,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "BID",
+        "box": [
+            592,
+            546,
+            22,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "HOWEVER,",
+        "box": [
+            587,
+            532,
+            57,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "3.",
+        "box": [
+            117,
+            592,
+            15,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "FAX",
+        "box": [
+            159,
+            656,
+            24,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NUMBER:",
+        "box": [
+            186,
+            656,
+            49,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "464565018",
+        "box": [
+            506,
+            837,
+            110,
+            21
+        ],
+        "class": "other"
+    },
+    {
+        "text": "BROWN & WILLIAMSON BID REQUEST FORM",
+        "box": [
+            260,
+            81,
+            236,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "(QUANTITATIVE RESEARCH)",
+        "box": [
+            299,
+            108,
+            155,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "PROJECT NUMBER:",
+        "box": [
+            110,
+            179,
+            105,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1991- 18",
+        "box": [
+            275,
+            179,
+            47,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "B&W ORIGINATOR:",
+        "box": [
+            112,
+            205,
+            103,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Mary D. Davis",
+        "box": [
+            233,
+            205,
+            90,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. Johnny Pedersen - Gallup",
+        "box": [
+            152,
+            230,
+            194,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1. THE FOLLOWING DOCUMENT IS DIVIDED INTO TWO SECTIONS.",
+        "box": [
+            113,
+            295,
+            388,
+            22
+        ],
+        "class": "other"
+    },
+    {
+        "text": "OTHER INFORMATION",
+        "box": [
+            117,
+            696,
+            121,
+            16
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "DATE REQUESTED:",
+        "box": [
+            119,
+            723,
+            103,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DEADLINE FOR BID RECEIPT:",
+        "box": [
+            120,
+            739,
+            170,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2/ 22 by courier",
+        "box": [
+            328,
+            719,
+            103,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3/1/91",
+        "box": [
+            325,
+            740,
+            45,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mary D. Davis",
+        "box": [
+            170,
+            628,
+            92,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1- 502- 568- 8092",
+        "box": [
+            249,
+            656,
+            96,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "IF YOU HAVE ANY QUESTIONS, PLEASE CONTACT THE FOLLOWING PERSON:",
+        "box": [
+            159,
+            584,
+            422,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2. IN ORDER TO ALLOW US TO COMPARE BIDS, WE REQUEST THAT YOU SUBMIT A BID FOR THE RESEARCH AS SPECIFIED IN SECTION ONE.",
+        "box": [
+            115,
+            492,
+            512,
+            34
+        ],
+        "class": "other"
+    },
+    {
+        "text": "1- 502- 568 8092",
+        "box": [
+            450,
+            466,
+            96,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "FAX MUMBER:",
+        "box": [
+            365,
+            468,
+            75,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MS. JACKIE KEY B&W LOUISVILLE, KENTUCKY U. S. A.",
+        "box": [
+            362,
+            402,
+            136,
+            55
+        ],
+        "class": "other"
+    },
+    {
+        "text": "SECTION ONE",
+        "box": [
+            155,
+            325,
+            75,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SECTION TWO",
+        "box": [
+            155,
+            365,
+            76,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SHOULD BE COMPLETED BY THE RESEARCH AGENCY AND RETURNED BY",
+        "box": [
+            236,
+            358,
+            386,
+            21
+        ],
+        "class": "other"
+    },
+    {
+        "text": "FAX TO THE FOLLOWING PERSON:",
+        "box": [
+            156,
+            378,
+            187,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "CONTAINS THE PROJECT DESCRIPTIONS AND SPECIFICATIONS FROM",
+        "box": [
+            235,
+            320,
+            382,
+            19
+        ],
+        "class": "other"
+    },
+    {
+        "text": "B&W. ALL BIDS SHOULD BE BASED ON THE SPECIFICATIONS IN THIS DOCUMENT.",
+        "box": [
+            155,
+            334,
+            466,
+            18
+        ],
+        "class": "other"
+    }
+]

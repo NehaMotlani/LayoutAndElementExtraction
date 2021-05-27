@@ -1,0 +1,541 @@
+﻿[
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            112,
+            209,
+            11,
+            8
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            123,
+            209,
+            17,
+            8
+        ]
+    },
+    {
+        "value": "SUBJECT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            108,
+            283,
+            48,
+            9
+        ]
+    },
+    {
+        "value": "SAMPLE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            108,
+            305,
+            43,
+            13
+        ]
+    },
+    {
+        "value": "CIGARETTES",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            107,
+            328,
+            68,
+            13
+        ]
+    },
+    {
+        "value": "PROJECT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            436,
+            235,
+            46,
+            14
+        ]
+    },
+    {
+        "value": "REFERENCE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            113,
+            455,
+            61,
+            13
+        ]
+    },
+    {
+        "value": "ATTRIBUTES",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            109,
+            501,
+            66,
+            11
+        ]
+    },
+    {
+        "value": "VICEROY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            348,
+            457,
+            46,
+            11
+        ]
+    },
+    {
+        "value": "Competitive",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            480,
+            455,
+            68,
+            13
+        ]
+    },
+    {
+        "value": "54%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            515,
+            468,
+            28,
+            11
+        ]
+    },
+    {
+        "value": "46%46%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            515,
+            478,
+            29,
+            11
+        ]
+    },
+    {
+        "value": "47%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            377,
+            468,
+            22,
+            10
+        ]
+    },
+    {
+        "value": "53%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            377,
+            479,
+            22,
+            10
+        ]
+    },
+    {
+        "value": "VICEROY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            229,
+            500,
+            46,
+            13
+        ]
+    },
+    {
+        "value": "Competitive",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            469,
+            501,
+            67,
+            10
+        ]
+    },
+    {
+        "value": "-13",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            451,
+            557,
+            21,
+            10
+        ]
+    },
+    {
+        "value": "-4",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            536,
+            559,
+            22,
+            10
+        ]
+    },
+    {
+        "value": "-7",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            450,
+            571,
+            21,
+            8
+        ]
+    },
+    {
+        "value": "+7*",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            534,
+            570,
+            27,
+            13
+        ]
+    },
+    {
+        "value": "+14",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            450,
+            582,
+            25,
+            10
+        ]
+    },
+    {
+        "value": "+26*",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            532,
+            581,
+            29,
+            11
+        ]
+    },
+    {
+        "value": "-15*",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            293,
+            557,
+            27,
+            14
+        ]
+    },
+    {
+        "value": "+22",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            211,
+            582,
+            20,
+            10
+        ]
+    },
+    {
+        "value": "+1",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            208,
+            557,
+            20,
+            13
+        ]
+    },
+    {
+        "value": "+5",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            208,
+            571,
+            22,
+            10
+        ]
+    },
+    {
+        "value": "-5",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            293,
+            570,
+            24,
+            8
+        ]
+    },
+    {
+        "value": "+21",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            292,
+            581,
+            22,
+            11
+        ]
+    },
+    {
+        "value": "STRENGTH",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            106,
+            557,
+            53,
+            13
+        ]
+    },
+    {
+        "value": "HARSHNESS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            108,
+            571,
+            59,
+            10
+        ]
+    },
+    {
+        "value": "AFTERTASTE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            108,
+            581,
+            63,
+            14
+        ]
+    },
+    {
+        "value": "TOP- LINES NON- MENTHOL PRODUCT TEST",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            107,
+            235,
+            149,
+            25
+        ]
+    },
+    {
+        "value": "# 19 4- 26A",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            486,
+            233,
+            61,
+            17
+        ]
+    },
+    {
+        "value": "25% Replacement of Propylene Glycol With SORBITOL",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            203,
+            281,
+            296,
+            15
+        ]
+    },
+    {
+        "value": "250 VICEROY/ 125 Marlboro/ 125 Winston",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            203,
+            303,
+            219,
+            16
+        ]
+    },
+    {
+        "value": "#627/ 647 -",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            203,
+            339,
+            67,
+            13
+        ]
+    },
+    {
+        "value": "#647/ #627 -",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            203,
+            363,
+            68,
+            13
+        ]
+    },
+    {
+        "value": "Current VICEROY B4",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            275,
+            338,
+            111,
+            14
+        ]
+    },
+    {
+        "value": "Current VICEROY 84 except with 25% of the propylene glycol replaced with SORBITOL.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            275,
+            362,
+            182,
+            36
+        ]
+    },
+    {
+        "value": "NOTICE IF THE FILM IMAGE IS LESS CLEAR THAN THIS NOTICE. IT IS DUE TO THE QUALITY OF THE DOCUMENT BEING FILMED",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            13,
+            908,
+            193,
+            35
+        ]
+    },
+    {
+        "value": "77905 6433",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            214,
+            908,
+            205,
+            32
+        ]
+    },
+    {
+        "value": "*Statistically Significant",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            295,
+            598,
+            156,
+            14
+        ]
+    },
+    {
+        "value": "(#627/ 647",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            109,
+            468,
+            63,
+            11
+        ]
+    },
+    {
+        "value": "(#647/ 627)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            108,
+            479,
+            63,
+            13
+        ]
+    },
+    {
+        "value": "Current VICEROY 84 25% PG with SORBITOL",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            184,
+            468,
+            126,
+            22
+        ]
+    },
+    {
+        "value": "Current VICEROY 84 (#647/ 647",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            425,
+            514,
+            69,
+            33
+        ]
+    },
+    {
+        "value": "25% PG w/ SORBITOL (#647/ 627)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            508,
+            513,
+            71,
+            33
+        ]
+    },
+    {
+        "value": "Current VICEROY 84 (#627/ 647)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            184,
+            513,
+            70,
+            34
+        ]
+    },
+    {
+        "value": "25% PG w/ SORBITOL #647/ 627",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            268,
+            511,
+            71,
+            37
+        ]
+    }
+]

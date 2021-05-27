@@ -1,0 +1,562 @@
+﻿[
+    {
+        "text": "17,000",
+        "box": [
+            68,
+            206,
+            51,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "8.000",
+        "box": [
+            73,
+            234,
+            45,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "16.000",
+        "box": [
+            70,
+            264,
+            51,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "19.000",
+        "box": [
+            68,
+            294,
+            50,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "25,500",
+        "box": [
+            203,
+            206,
+            47,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "18,000",
+        "box": [
+            203,
+            238,
+            47,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "20,000",
+        "box": [
+            201,
+            264,
+            50,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "29,000",
+        "box": [
+            199,
+            294,
+            51,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4,000",
+        "box": [
+            140,
+            266,
+            48,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10,000",
+        "box": [
+            135,
+            234,
+            50,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "8,500",
+        "box": [
+            138,
+            209,
+            47,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10.000",
+        "box": [
+            136,
+            294,
+            45,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "6450",
+        "box": [
+            272,
+            206,
+            37,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "6460",
+        "box": [
+            274,
+            234,
+            35,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "6470",
+        "box": [
+            272,
+            262,
+            33,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "6560",
+        "box": [
+            272,
+            292,
+            37,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Consumer",
+        "box": [
+            324,
+            204,
+            61,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Consumer",
+        "box": [
+            326,
+            238,
+            60,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Consumer",
+        "box": [
+            326,
+            261,
+            63,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Special",
+        "box": [
+            324,
+            297,
+            55,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "30,000",
+        "box": [
+            576,
+            204,
+            48,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "28,000",
+        "box": [
+            578,
+            236,
+            48,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "20,000",
+        "box": [
+            578,
+            264,
+            48,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "42,000",
+        "box": [
+            576,
+            294,
+            50,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "4,500)",
+        "box": [
+            636,
+            206,
+            60,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(10,000)",
+        "box": [
+            636,
+            238,
+            60,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(13,000)",
+        "box": [
+            638,
+            292,
+            58,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Sales",
+        "box": [
+            135,
+            93,
+            38,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ITEM",
+        "box": [
+            422,
+            146,
+            37,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Division",
+        "box": [
+            53,
+            98,
+            68,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Department",
+        "box": [
+            282,
+            100,
+            73,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LT-1.71",
+        "box": [
+            664,
+            65,
+            35,
+            12
+        ],
+        "class": "other"
+    },
+    {
+        "text": "60,000",
+        "box": [
+            70,
+            899,
+            47,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "32,500",
+        "box": [
+            133,
+            899,
+            45,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "92,500",
+        "box": [
+            193,
+            900,
+            55,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "120,000",
+        "box": [
+            576,
+            900,
+            50,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "27,500",
+        "box": [
+            638,
+            904,
+            50,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            317,
+            939,
+            111,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            570,
+            930,
+            123,
+            27
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "APPROVAL",
+        "box": [
+            316,
+            927,
+            63,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "APPROVAL",
+        "box": [
+            570,
+            925,
+            61,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            316,
+            897,
+            37,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "91104867",
+        "box": [
+            684,
+            771,
+            23,
+            75
+        ],
+        "class": "other"
+    },
+    {
+        "text": "DEPARTMENT EXPENSE BUDGET SUMMARY",
+        "box": [
+            241,
+            51,
+            248,
+            10
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "LORILLARD DIVISION DE LOEW'S CORP.",
+        "box": [
+            58,
+            58,
+            178,
+            28
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Domestic Tax Free",
+        "box": [
+            359,
+            93,
+            131,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Dept. Code No.",
+        "box": [
+            520,
+            81,
+            65,
+            30
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ACTUAL 8 MONTHS",
+        "box": [
+            58,
+            159,
+            63,
+            32
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PROJECTED 4 MONTHS",
+        "box": [
+            125,
+            158,
+            64,
+            29
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TOTAL YEAR",
+        "box": [
+            198,
+            159,
+            42,
+            28
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ACCOUNT NO.",
+        "box": [
+            257,
+            145,
+            51,
+            29
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PROJECTED CURRENT YEAR EXPENSES 19",
+        "box": [
+            73,
+            121,
+            165,
+            34
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "BUDGET YEAR 19",
+        "box": [
+            580,
+            148,
+            47,
+            38
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "VS. CURRENT YEAR (INCR.) DECR.",
+        "box": [
+            641,
+            126,
+            58,
+            68
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Form P.O. 1049-A 788",
+        "box": [
+            576,
+            50,
+            155,
+            21
+        ],
+        "class": "other"
+    },
+    {
+        "text": "DATE SUBMITTED AND DEPT. MANAGER",
+        "box": [
+            65,
+            925,
+            234,
+            13
+        ],
+        "class": "value_question"
+    }
+]

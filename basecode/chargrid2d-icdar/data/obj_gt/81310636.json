@@ -1,0 +1,282 @@
+﻿[
+    {
+        "text": "6692",
+        "box": [
+            623,
+            145,
+            35,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "B83",
+        "box": [
+            225,
+            145,
+            25,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "test",
+        "box": [
+            250,
+            341,
+            39,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Misc",
+        "box": [
+            103,
+            683,
+            27,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "81310636",
+        "box": [
+            662,
+            786,
+            22,
+            103
+        ],
+        "class": "other"
+    },
+    {
+        "text": "COMPOUND STRUCTURE",
+        "box": [
+            314,
+            78,
+            185,
+            23
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Litton Bionetics",
+        "box": [
+            514,
+            127,
+            145,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Genetic Assay No.",
+        "box": [
+            517,
+            147,
+            96,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMPOUND CODE",
+        "box": [
+            110,
+            144,
+            107,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Chem Abstr#",
+        "box": [
+            110,
+            176,
+            73,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "N/ A",
+        "box": [
+            187,
+            175,
+            26,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Proprietary Mixture",
+        "box": [
+            226,
+            200,
+            173,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Compound Name",
+        "box": [
+            110,
+            204,
+            99,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ASSAY RESULT",
+        "box": [
+            110,
+            271,
+            80,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "M. Lymph: negative with S9 activation, positive without S9 activation; Rerun: negative without S9 activation, border- line positive with S9 activation -Technical problems with the",
+        "box": [
+            186,
+            263,
+            555,
+            78
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "COMPOUND STRUCTURE",
+        "box": [
+            109,
+            330,
+            142,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Unknown Mixture",
+        "box": [
+            117,
+            411,
+            139,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "PH (CALCULATED 50%)",
+        "box": [
+            105,
+            490,
+            127,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "5. 26",
+        "box": [
+            249,
+            485,
+            35,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Yellow liquid",
+        "box": [
+            247,
+            546,
+            118,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PHYSICAL APPEARANCE",
+        "box": [
+            103,
+            547,
+            138,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "bp/mp ",
+        "box": [
+            123,
+            578,
+            36,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "N/ A",
+        "box": [
+            182,
+            574,
+            31,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "C @",
+        "box": [
+            254,
+            577,
+            27,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "mm Hg",
+        "box": [
+            320,
+            577,
+            43,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REGULATORY STATUS",
+        "box": [
+            102,
+            620,
+            123,
+            24
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "N/ A",
+        "box": [
+            246,
+            619,
+            33,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            637,
+            948,
+            59,
+            19
+        ],
+        "class": "other"
+    }
+]

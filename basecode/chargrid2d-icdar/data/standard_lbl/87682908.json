@@ -1,0 +1,343 @@
+﻿[
+    {
+        "value": "Name:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            331,
+            41,
+            15
+        ]
+    },
+    {
+        "value": "Institution:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            102,
+            376,
+            68,
+            13
+        ]
+    },
+    {
+        "value": "Address:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            103,
+            406,
+            54,
+            14
+        ]
+    },
+    {
+        "value": "Street",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            184,
+            420,
+            31,
+            14
+        ]
+    },
+    {
+        "value": "City",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            186,
+            468,
+            24,
+            11
+        ]
+    },
+    {
+        "value": "State",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            304,
+            465,
+            27,
+            13
+        ]
+    },
+    {
+        "value": "First",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            184,
+            344,
+            22,
+            15
+        ]
+    },
+    {
+        "value": "Middle",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            302,
+            344,
+            36,
+            14
+        ]
+    },
+    {
+        "value": "Last",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            420,
+            344,
+            24,
+            11
+        ]
+    },
+    {
+        "value": "Country",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            503,
+            464,
+            43,
+            10
+        ]
+    },
+    {
+        "value": "Telephone:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            109,
+            497,
+            66,
+            14
+        ]
+    },
+    {
+        "value": "TOTAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            506,
+            661,
+            47,
+            14
+        ]
+    },
+    {
+        "value": "10)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            324,
+            617,
+            21,
+            14
+        ]
+    },
+    {
+        "value": "87682908",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            645,
+            791,
+            18,
+            78
+        ]
+    },
+    {
+        "value": "46th Tobacco Chemists' Research Conference",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            203,
+            135,
+            194,
+            39
+        ]
+    },
+    {
+        "value": "TH 46 TCRC REGISTRATION FORM",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            201,
+            251,
+            323,
+            29
+        ]
+    },
+    {
+        "value": "Please type or print",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            105,
+            299,
+            113,
+            18
+        ]
+    },
+    {
+        "value": "P. O. Box #",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            304,
+            420,
+            50,
+            15
+        ]
+    },
+    {
+        "value": "ZIP Code",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            384,
+            464,
+            51,
+            13
+        ]
+    },
+    {
+        "value": "Area Code:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            299,
+            496,
+            66,
+            13
+        ]
+    },
+    {
+        "value": "Name of spouse participating in the guest programs",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            109,
+            524,
+            301,
+            20
+        ]
+    },
+    {
+        "value": "Monday (Y/ N)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            320,
+            554,
+            72,
+            17
+        ]
+    },
+    {
+        "value": "Tuesday (Y/ N)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            441,
+            554,
+            71,
+            13
+        ]
+    },
+    {
+        "value": "$ 170.00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            504,
+            599,
+            53,
+            15
+        ]
+    },
+    {
+        "value": "$ $185.00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            506,
+            616,
+            52,
+            14
+        ]
+    },
+    {
+        "value": "Send this registration form, along with payment to address noted below in attached envelope. Enclose a cheque or international money order payable in Canadian funds to the 46th Tobacco Chemists Research Conference.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            110,
+            721,
+            519,
+            50
+        ]
+    },
+    {
+        "value": "Ms. Susan Mathison Canadian Tobacco Manufacturers Council 701- 99 Bank Street Ottawa, Ontario, Canada K1P 6B9 (613) 238- 2799",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            310,
+            784,
+            253,
+            78
+        ]
+    },
+    {
+        "value": "Mail to:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            232,
+            785,
+            49,
+            15
+        ]
+    },
+    {
+        "value": "Advance Registration Fee: (prior to August 10)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            109,
+            602,
+            282,
+            17
+        ]
+    },
+    {
+        "value": "Late Registration Fee: (after August",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            110,
+            619,
+            213,
+            16
+        ]
+    },
+    {
+        "value": "Extra banquet tickets @ $ 40.00",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            176,
+            634,
+            188,
+            17
+        ]
+    }
+]

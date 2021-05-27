@@ -1,0 +1,1102 @@
+﻿[
+    {
+        "value": "Brand:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            76,
+            129,
+            42,
+            10
+        ]
+    },
+    {
+        "value": "Style:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            141,
+            46,
+            12
+        ]
+    },
+    {
+        "value": "PHOENIX",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            145,
+            127,
+            52,
+            10
+        ]
+    },
+    {
+        "value": "Company:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            349,
+            130,
+            60,
+            9
+        ]
+    },
+    {
+        "value": "Country:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            350,
+            142,
+            57,
+            13
+        ]
+    },
+    {
+        "value": "Macket:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            350,
+            157,
+            52,
+            10
+        ]
+    },
+    {
+        "value": "CYPRUS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            419,
+            144,
+            48,
+            10
+        ]
+    },
+    {
+        "value": "NICOSIA",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            512,
+            171,
+            55,
+            12
+        ]
+    },
+    {
+        "value": "Weights",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            404,
+            240,
+            57,
+            15
+        ]
+    },
+    {
+        "value": "Adhesive:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            377,
+            475,
+            64,
+            12
+        ]
+    },
+    {
+        "value": "Supplier(s)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            488,
+            81,
+            10
+        ]
+    },
+    {
+        "value": "Color",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            72,
+            513,
+            37,
+            12
+        ]
+    },
+    {
+        "value": "Porosity",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            72,
+            557,
+            63,
+            12
+        ]
+    },
+    {
+        "value": "substance",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            609,
+            67,
+            12
+        ]
+    },
+    {
+        "value": "Ecusta",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            234,
+            488,
+            51,
+            12
+        ]
+    },
+    {
+        "value": "E.30639",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            235,
+            501,
+            52,
+            13
+        ]
+    },
+    {
+        "value": "None",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            228,
+            543,
+            31,
+            12
+        ]
+    },
+    {
+        "value": "(coresta)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            293,
+            558,
+            63,
+            9
+        ]
+    },
+    {
+        "value": "Type",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            377,
+            515,
+            30,
+            12
+        ]
+    },
+    {
+        "value": "Overall",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            377,
+            558,
+            51,
+            10
+        ]
+    },
+    {
+        "value": "skip",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            475,
+            558,
+            33,
+            12
+        ]
+    },
+    {
+        "value": "Dimension",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            377,
+            599,
+            66,
+            10
+        ]
+    },
+    {
+        "value": "Positioning",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            377,
+            614,
+            81,
+            10
+        ]
+    },
+    {
+        "value": "Swift",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            476,
+            488,
+            39,
+            12
+        ]
+    },
+    {
+        "value": "Other",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            554,
+            558,
+            37,
+            9
+        ]
+    },
+    {
+        "value": "N/A",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            494,
+            587,
+            28,
+            9
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            448,
+            558,
+            9,
+            9
+        ]
+    },
+    {
+        "value": "Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            299,
+            683,
+            37,
+            10
+        ]
+    },
+    {
+        "value": "Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            299,
+            778,
+            34,
+            10
+        ]
+    },
+    {
+        "value": "620419245",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            533,
+            829,
+            120,
+            24
+        ]
+    },
+    {
+        "value": "Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            72,
+            750,
+            36,
+            12
+        ]
+    },
+    {
+        "value": "Replaces:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            777,
+            64,
+            12
+        ]
+    },
+    {
+        "value": "05045",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            72,
+            804,
+            39,
+            12
+        ]
+    },
+    {
+        "value": "New",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            165,
+            777,
+            27,
+            12
+        ]
+    },
+    {
+        "value": "Page 1 of 10",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            527,
+            33,
+            91,
+            15
+        ]
+    },
+    {
+        "value": "RESTRICTED BROWN & WILLIAMSON INTERNATIONAL TOBACCO PRODUCT SPECIFICATION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            210,
+            45,
+            287,
+            68
+        ]
+    },
+    {
+        "value": "HLB- KS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            145,
+            141,
+            63,
+            13
+        ]
+    },
+    {
+        "value": "B. A. T. CYPRUS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            419,
+            129,
+            99,
+            15
+        ]
+    },
+    {
+        "value": "Place of Manufacture:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            349,
+            169,
+            151,
+            13
+        ]
+    },
+    {
+        "value": "Licensee Ref. NO.:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            156,
+            127,
+            12
+        ]
+    },
+    {
+        "value": "CIGARETTE MAKING",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            73,
+            211,
+            118,
+            14
+        ]
+    },
+    {
+        "value": "Physical Characteristics",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            73,
+            240,
+            174,
+            13
+        ]
+    },
+    {
+        "value": "Overall Cigarette Length",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            266,
+            176,
+            14
+        ]
+    },
+    {
+        "value": "Tobacco Rod Length",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            72,
+            280,
+            131,
+            11
+        ]
+    },
+    {
+        "value": "Filter Plug Length",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            72,
+            295,
+            131,
+            10
+        ]
+    },
+    {
+        "value": "Filter Plug Pressure Drop (unencap.)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            305,
+            256,
+            15
+        ]
+    },
+    {
+        "value": "Filter Plug Pressure Drop encap.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            72,
+            320,
+            245,
+            12
+        ]
+    },
+    {
+        "value": "Cigarette Circumference",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            334,
+            170,
+            12
+        ]
+    },
+    {
+        "value": "Total Pressure Drop (unencap.)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            72,
+            347,
+            215,
+            14
+        ]
+    },
+    {
+        "value": "Total Pressure Drop (encap.)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            362,
+            201,
+            12
+        ]
+    },
+    {
+        "value": "Tipping Length",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            67,
+            377,
+            108,
+            10
+        ]
+    },
+    {
+        "value": "Print Position (from filter end)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            72,
+            391,
+            228,
+            11
+        ]
+    },
+    {
+        "value": "Moisture content (ex-catcher)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            404,
+            205,
+            13
+        ]
+    },
+    {
+        "value": "Filter ventilation Rate",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            419,
+            165,
+            12
+        ]
+    },
+    {
+        "value": "84 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            350,
+            268,
+            45,
+            12
+        ]
+    },
+    {
+        "value": "64 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            347,
+            280,
+            48,
+            13
+        ]
+    },
+    {
+        "value": "20 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            349,
+            296,
+            47,
+            11
+        ]
+    },
+    {
+        "value": "56 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            347,
+            308,
+            50,
+            12
+        ]
+    },
+    {
+        "value": "56 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            346,
+            322,
+            51,
+            12
+        ]
+    },
+    {
+        "value": "24.75 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            343,
+            337,
+            50,
+            10
+        ]
+    },
+    {
+        "value": "90 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            349,
+            349,
+            46,
+            12
+        ]
+    },
+    {
+        "value": "110 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            343,
+            362,
+            51,
+            12
+        ]
+    },
+    {
+        "value": "25 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            350,
+            377,
+            46,
+            14
+        ]
+    },
+    {
+        "value": "27 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            349,
+            392,
+            46,
+            10
+        ]
+    },
+    {
+        "value": "13.5 %",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            343,
+            404,
+            43,
+            12
+        ]
+    },
+    {
+        "value": "Nil %",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            347,
+            416,
+            39,
+            14
+        ]
+    },
+    {
+        "value": "Total Cigt. Wt.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            407,
+            265,
+            106,
+            15
+        ]
+    },
+    {
+        "value": "974 mg",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            551,
+            266,
+            89,
+            15
+        ]
+    },
+    {
+        "value": "749 mg",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            557,
+            295,
+            79,
+            13
+        ]
+    },
+    {
+        "value": "245 mg/cc",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            555,
+            320,
+            81,
+            15
+        ]
+    },
+    {
+        "value": "Net Tob. Rod Density",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            404,
+            320,
+            148,
+            14
+        ]
+    },
+    {
+        "value": "Net Net Tobacco",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            404,
+            295,
+            111,
+            13
+        ]
+    },
+    {
+        "value": "Tipping and Tipping Application",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            445,
+            218,
+            15
+        ]
+    },
+    {
+        "value": "Tipping Paper:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            73,
+            473,
+            99,
+            13
+        ]
+    },
+    {
+        "value": "Supplier Code No(s).",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            72,
+            501,
+            144,
+            12
+        ]
+    },
+    {
+        "value": "Imitation Cork",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            222,
+            516,
+            101,
+            9
+        ]
+    },
+    {
+        "value": "Perforation Type and No. of lines",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            72,
+            528,
+            132,
+            26
+        ]
+    },
+    {
+        "value": "Print Description",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            570,
+            121,
+            12
+        ]
+    },
+    {
+        "value": "Brown on yellow",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            213,
+            572,
+            111,
+            12
+        ]
+    },
+    {
+        "value": "Bobbin Width",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            585,
+            90,
+            10
+        ]
+    },
+    {
+        "value": "Robbin Length",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            596,
+            96,
+            12
+        ]
+    },
+    {
+        "value": "36 gm/ m2",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            234,
+            612,
+            125,
+            13
+        ]
+    },
+    {
+        "value": "50 mm mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            229,
+            584,
+            137,
+            13
+        ]
+    },
+    {
+        "value": "2700 m",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            229,
+            599,
+            129,
+            13
+        ]
+    },
+    {
+        "value": "(Indicate N/A If Not Applicable)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            73,
+            638,
+            228,
+            13
+        ]
+    },
+    {
+        "value": "Supplier (s)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            377,
+            488,
+            79,
+            14
+        ]
+    },
+    {
+        "value": "Supplier Code No (s)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            376,
+            501,
+            145,
+            13
+        ]
+    },
+    {
+        "value": "T.K. 9220",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            527,
+            501,
+            58,
+            13
+        ]
+    },
+    {
+        "value": "Printed Imitation cork",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            418,
+            515,
+            162,
+            10
+        ]
+    },
+    {
+        "value": "Application Pattern:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            374,
+            543,
+            147,
+            13
+        ]
+    },
+    {
+        "value": "Glue Pree Area",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            377,
+            585,
+            105,
+            12
+        ]
+    },
+    {
+        "value": "mm from mouth end",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            510,
+            614,
+            126,
+            10
+        ]
+    },
+    {
+        "value": "mm x mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            510,
+            599,
+            120,
+            12
+        ]
+    },
+    {
+        "value": "Prepared by:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            299,
+            656,
+            89,
+            10
+        ]
+    },
+    {
+        "value": "M. HAMERTON / enm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            419,
+            656,
+            125,
+            12
+        ]
+    },
+    {
+        "value": "May 1, 1985",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            419,
+            680,
+            79,
+            13
+        ]
+    },
+    {
+        "value": "Approved by:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            299,
+            710,
+            89,
+            11
+        ]
+    },
+    {
+        "value": "Director of Technical Operations, Brown & Williamson International Tobacco",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            391,
+            723,
+            236,
+            39
+        ]
+    },
+    {
+        "value": "May 1, 1985",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            139,
+            747,
+            87,
+            17
+        ]
+    },
+    {
+        "value": "May 1, 1985",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            410,
+            778,
+            83,
+            14
+        ]
+    }
+]

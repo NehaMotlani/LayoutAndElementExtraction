@@ -1,0 +1,310 @@
+﻿[
+    {
+        "value": "6692",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            623,
+            145,
+            35,
+            13
+        ]
+    },
+    {
+        "value": "B83",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            225,
+            145,
+            25,
+            11
+        ]
+    },
+    {
+        "value": "test",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            250,
+            341,
+            39,
+            13
+        ]
+    },
+    {
+        "value": "Misc",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            103,
+            683,
+            27,
+            14
+        ]
+    },
+    {
+        "value": "81310636",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            662,
+            786,
+            22,
+            103
+        ]
+    },
+    {
+        "value": "COMPOUND STRUCTURE",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            314,
+            78,
+            185,
+            23
+        ]
+    },
+    {
+        "value": "Litton Bionetics",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            514,
+            127,
+            145,
+            17
+        ]
+    },
+    {
+        "value": "Genetic Assay No.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            517,
+            147,
+            96,
+            14
+        ]
+    },
+    {
+        "value": "COMPOUND CODE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            110,
+            144,
+            107,
+            15
+        ]
+    },
+    {
+        "value": "Chem Abstr#",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            110,
+            176,
+            73,
+            14
+        ]
+    },
+    {
+        "value": "N/ A",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            187,
+            175,
+            26,
+            13
+        ]
+    },
+    {
+        "value": "Proprietary Mixture",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            226,
+            200,
+            173,
+            17
+        ]
+    },
+    {
+        "value": "Compound Name",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            110,
+            204,
+            99,
+            17
+        ]
+    },
+    {
+        "value": "ASSAY RESULT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            110,
+            271,
+            80,
+            14
+        ]
+    },
+    {
+        "value": "M. Lymph: negative with S9 activation, positive without S9 activation; Rerun: negative without S9 activation, border- line positive with S9 activation -Technical problems with the",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            186,
+            263,
+            555,
+            78
+        ]
+    },
+    {
+        "value": "COMPOUND STRUCTURE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            109,
+            330,
+            142,
+            15
+        ]
+    },
+    {
+        "value": "Unknown Mixture",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            117,
+            411,
+            139,
+            15
+        ]
+    },
+    {
+        "value": "PH (CALCULATED 50%)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            490,
+            127,
+            17
+        ]
+    },
+    {
+        "value": "5. 26",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            249,
+            485,
+            35,
+            18
+        ]
+    },
+    {
+        "value": "Yellow liquid",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            247,
+            546,
+            118,
+            15
+        ]
+    },
+    {
+        "value": "PHYSICAL APPEARANCE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            103,
+            547,
+            138,
+            17
+        ]
+    },
+    {
+        "value": "bp/mp ",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            123,
+            578,
+            36,
+            16
+        ]
+    },
+    {
+        "value": "N/ A",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            182,
+            574,
+            31,
+            17
+        ]
+    },
+    {
+        "value": "C @",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            254,
+            577,
+            27,
+            17
+        ]
+    },
+    {
+        "value": "mm Hg",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            320,
+            577,
+            43,
+            15
+        ]
+    },
+    {
+        "value": "REGULATORY STATUS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            102,
+            620,
+            123,
+            24
+        ]
+    },
+    {
+        "value": "N/ A",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            246,
+            619,
+            33,
+            20
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            637,
+            948,
+            59,
+            19
+        ]
+    }
+]

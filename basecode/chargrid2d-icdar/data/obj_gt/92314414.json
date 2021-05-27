@@ -1,0 +1,312 @@
+﻿[
+    {
+        "text": "530:",
+        "box": [
+            492,
+            56,
+            38,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PAYROLL:",
+        "box": [
+            490,
+            71,
+            87,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "700",
+        "box": [
+            589,
+            71,
+            31,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "OTHER",
+        "box": [
+            465,
+            318,
+            53,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(Date)",
+        "box": [
+            580,
+            837,
+            56,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(Signature)",
+        "box": [
+            176,
+            841,
+            105,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            87,
+            806,
+            198,
+            43
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "92314414",
+        "box": [
+            788,
+            802,
+            21,
+            84
+        ],
+        "class": "other"
+    },
+    {
+        "text": "LOEWS/ LORILLARD PUBLIC AFFAIRS COMMITTEE CONTRIBUTION IDENTITY CARD",
+        "box": [
+            260,
+            112,
+            392,
+            29
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "274- 38- 3042",
+        "box": [
+            538,
+            54,
+            113,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ANDREW TISCH",
+        "box": [
+            490,
+            41,
+            168,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "COMPLETE EITHER A OR B BELOW:",
+        "box": [
+            63,
+            187,
+            284,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "A. I hereby authorize, until further notice, a voluntary contribution by salary deduction to the Loews/ Lorillard Public Affairs Committee (LOPAC) of the following amount per pay period:",
+        "box": [
+            64,
+            228,
+            688,
+            51
+        ],
+        "class": "other"
+    },
+    {
+        "text": "$ 1.00",
+        "box": [
+            212,
+            292,
+            47,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "$ 4.00",
+        "box": [
+            212,
+            320,
+            48,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "$ 2.00",
+        "box": [
+            462,
+            288,
+            53,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "$20.00",
+        "box": [
+            521,
+            311,
+            60,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(please specify)",
+        "box": [
+            466,
+            332,
+            157,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "B. Enclosed is a check or money order in the amount of $ as a contribution to LOPAC.",
+        "box": [
+            64,
+            359,
+            561,
+            38
+        ],
+        "class": "other"
+    },
+    {
+        "text": "My contribution is voluntary. I am aware of my right to refuse to contribute without reprisal of any kind.  I am aware of the politicial purpose of LOPAC. I am aware that a copy of the report of LOPAC is filed with the Federal Election Commission and is available for purchase. I am aware that the guidelines above as to the amount of my contribution are only suggestions. I am aware that my contribution counts against my individual contribution limit. I am an American citizen or I have been admitted to permanent U. S. residence.",
+        "box": [
+            63,
+            420,
+            692,
+            127
+        ],
+        "class": "other"
+    },
+    {
+        "text": "THE FOLLOWING INFORMATION MUST BE FURNISHED:",
+        "box": [
+            63,
+            602,
+            433,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "1. Full Name",
+        "box": [
+            64,
+            631,
+            129,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2. Residence Address",
+        "box": [
+            66,
+            676,
+            207,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "3. Business Address",
+        "box": [
+            64,
+            721,
+            198,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "4. Occupation",
+        "box": [
+            66,
+            753,
+            140,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Andrew H. Tisch (Print or type)",
+        "box": [
+            291,
+            628,
+            224,
+            34
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "26 East 63rd Street, New York, N. Y. 10021 (Include state and zip code)",
+        "box": [
+            293,
+            669,
+            409,
+            39
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "One Park Avenue, New York, N. Y. 10016",
+        "box": [
+            292,
+            716,
+            375,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Chairman/ CEO - Lorillard Tobacco Company (Job title or position)",
+        "box": [
+            289,
+            747,
+            395,
+            38
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1 November 1991",
+        "box": [
+            492,
+            820,
+            126,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Return this form in the envelope provided.",
+        "box": [
+            203,
+            897,
+            410,
+            19
+        ],
+        "class": "other"
+    }
+]

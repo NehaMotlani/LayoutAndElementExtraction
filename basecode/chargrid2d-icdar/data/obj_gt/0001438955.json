@@ -1,0 +1,742 @@
+﻿[
+    {
+        "text": "Title",
+        "box": [
+            45,
+            209,
+            46,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OVERALL:",
+        "box": [
+            46,
+            501,
+            71,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SEX:",
+        "box": [
+            45,
+            557,
+            36,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "AGE:",
+        "box": [
+            45,
+            644,
+            39,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "BRAND SMOKER",
+        "box": [
+            45,
+            814,
+            116,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Male",
+        "box": [
+            46,
+            574,
+            41,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "465508326",
+        "box": [
+            487,
+            883,
+            116,
+            25
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Female",
+        "box": [
+            46,
+            587,
+            53,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "6",
+        "box": [
+            366,
+            823,
+            15,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "7",
+        "box": [
+            370,
+            837,
+            8,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(17)",
+        "box": [
+            411,
+            823,
+            43,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(205)",
+        "box": [
+            412,
+            839,
+            45,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.1",
+        "box": [
+            208,
+            742,
+            28,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4.2",
+        "box": [
+            211,
+            754,
+            25,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(129)",
+        "box": [
+            263,
+            740,
+            39,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(95)",
+        "box": [
+            261,
+            753,
+            39,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "5",
+        "box": [
+            366,
+            739,
+            13,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "9",
+        "box": [
+            367,
+            753,
+            14,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(117)",
+        "box": [
+            412,
+            737,
+            39,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(105)",
+        "box": [
+            415,
+            753,
+            38,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(63)",
+        "box": [
+            261,
+            655,
+            41,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(66)",
+        "box": [
+            263,
+            669,
+            39,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(46)",
+        "box": [
+            263,
+            684,
+            39,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(49)",
+        "box": [
+            263,
+            697,
+            38,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.2",
+        "box": [
+            208,
+            655,
+            27,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.0",
+        "box": [
+            208,
+            670,
+            29,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4.4",
+        "box": [
+            209,
+            683,
+            28,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4.0",
+        "box": [
+            209,
+            698,
+            27,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1.9",
+        "box": [
+            209,
+            568,
+            25,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "5.0",
+        "box": [
+            208,
+            585,
+            29,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(104)",
+        "box": [
+            261,
+            568,
+            39,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(120)",
+        "box": [
+            263,
+            585,
+            38,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "7",
+        "box": [
+            365,
+            567,
+            14,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "7",
+        "box": [
+            367,
+            584,
+            14,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(101)",
+        "box": [
+            415,
+            568,
+            36,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(121)",
+        "box": [
+            413,
+            582,
+            36,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.4%",
+        "box": [
+            208,
+            496,
+            34,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(224)",
+        "box": [
+            261,
+            500,
+            39,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "7%",
+        "box": [
+            369,
+            497,
+            17,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(222)",
+        "box": [
+            412,
+            496,
+            36,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BELAIR",
+        "box": [
+            144,
+            180,
+            59,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "285",
+        "box": [
+            609,
+            203,
+            29,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "%",
+        "box": [
+            209,
+            457,
+            17,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "%",
+        "box": [
+            365,
+            457,
+            15,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "SCORE",
+        "box": [
+            196,
+            443,
+            45,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BASE",
+        "box": [
+            263,
+            443,
+            39,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SCORE",
+        "box": [
+            349,
+            443,
+            45,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BASE",
+        "box": [
+            416,
+            443,
+            36,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PM6",
+        "box": [
+            237,
+            427,
+            31,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "COMMENTS",
+        "box": [
+            553,
+            426,
+            71,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Brand",
+        "box": [
+            45,
+            182,
+            47,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NEWSPAPER SCORES AUDIENCE STUDIES",
+        "box": [
+            281,
+            84,
+            138,
+            43
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "\" KALEIDOSCOPE - - GONE WITH THE WIND \" *",
+        "box": [
+            145,
+            205,
+            298,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Project #",
+        "box": [
+            483,
+            176,
+            81,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Total Sample",
+        "box": [
+            483,
+            205,
+            103,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "72- 31",
+        "box": [
+            609,
+            173,
+            46,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Code #",
+        "box": [
+            43,
+            239,
+            57,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Type of Ad",
+        "box": [
+            47,
+            264,
+            89,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Newspaper (Date)",
+        "box": [
+            47,
+            292,
+            137,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "R/ BSS- 71- 19",
+        "box": [
+            147,
+            235,
+            96,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PARADE, 1 Page, 4- Color",
+        "box": [
+            149,
+            263,
+            194,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PROVED RECALL",
+        "box": [
+            341,
+            426,
+            114,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "*This was a combination ad with RALEIGH.",
+        "box": [
+            480,
+            499,
+            198,
+            30
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Under 25",
+        "box": [
+            43,
+            655,
+            76,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "25- 34",
+        "box": [
+            46,
+            670,
+            45,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "35- 44",
+        "box": [
+            49,
+            684,
+            45,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "45 & Over",
+        "box": [
+            49,
+            700,
+            81,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Under 35 35 & Over",
+        "box": [
+            46,
+            742,
+            80,
+            30
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Test Brand Smokers",
+        "box": [
+            46,
+            828,
+            159,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "All Other Smokers",
+        "box": [
+            46,
+            841,
+            151,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Pittsburgh Pittsburgh PUTSBURGH PRESS (4 /23 /72",
+        "box": [
+            215,
+            289,
+            401,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "San Diego SAN DIEGO UNION (4 /23 /72",
+        "box": [
+            216,
+            317,
+            400,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Dayton DAYTON NEWS (4 /23 /72)",
+        "box": [
+            216,
+            345,
+            401,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Birmingham BIRMINGHAM NEWS (4 /23 /72)",
+        "box": [
+            212,
+            372,
+            404,
+            21
+        ],
+        "class": "value_answer"
+    }
+]

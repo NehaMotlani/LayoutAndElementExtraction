@@ -1,0 +1,672 @@
+﻿[
+    {
+        "text": "Division",
+        "box": [
+            404,
+            144,
+            56,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Location",
+        "box": [
+            75,
+            151,
+            60,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Mugs",
+        "box": [
+            81,
+            279,
+            38,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Invitations:",
+        "box": [
+            413,
+            244,
+            77,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Posters",
+        "box": [
+            81,
+            324,
+            50,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Counter",
+        "box": [
+            82,
+            416,
+            53,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Floor",
+        "box": [
+            82,
+            432,
+            36,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Posters",
+        "box": [
+            82,
+            450,
+            52,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Fair",
+        "box": [
+            321,
+            719,
+            35,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Average",
+        "box": [
+            454,
+            714,
+            53,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Excellent",
+        "box": [
+            594,
+            709,
+            61,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Food",
+        "box": [
+            161,
+            677,
+            36,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cleanliness",
+        "box": [
+            161,
+            693,
+            77,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Service",
+        "box": [
+            161,
+            705,
+            50,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Attendees:",
+        "box": [
+            363,
+            384,
+            74,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "10",
+        "box": [
+            535,
+            264,
+            22,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "8",
+        "box": [
+            541,
+            408,
+            17,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "8",
+        "box": [
+            539,
+            418,
+            15,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2",
+        "box": [
+            541,
+            437,
+            20,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0",
+        "box": [
+            186,
+            415,
+            17,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0",
+        "box": [
+            189,
+            429,
+            14,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0",
+        "box": [
+            189,
+            446,
+            14,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0",
+        "box": [
+            186,
+            275,
+            13,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0",
+        "box": [
+            186,
+            292,
+            13,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0",
+        "box": [
+            187,
+            306,
+            14,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0",
+        "box": [
+            187,
+            320,
+            13,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10",
+        "box": [
+            351,
+            624,
+            20,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "X",
+        "box": [
+            464,
+            670,
+            15,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "X",
+        "box": [
+            615,
+            680,
+            11,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "X",
+        "box": [
+            610,
+            694,
+            15,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10",
+        "box": [
+            605,
+            617,
+            20,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "93213298",
+        "box": [
+            683,
+            785,
+            15,
+            68
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            291,
+            253,
+            80,
+            47
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            338,
+            331,
+            29,
+            29
+        ],
+        "class": "other"
+    },
+    {
+        "text": "NEWPORT RACING EVENT SURVEY",
+        "box": [
+            219,
+            113,
+            283,
+            23
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Detroit - MCA",
+        "box": [
+            504,
+            137,
+            109,
+            23
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R. L. Lavoie",
+        "box": [
+            504,
+            169,
+            103,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Division Mgr",
+        "box": [
+            406,
+            172,
+            79,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date (s)",
+        "box": [
+            80,
+            183,
+            51,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DETROIT GRAND PRIX",
+        "box": [
+            159,
+            147,
+            152,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "June 11, 1995",
+        "box": [
+            161,
+            175,
+            112,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Date Submitted",
+        "box": [
+            264,
+            205,
+            100,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "July 6, 1995",
+        "box": [
+            377,
+            200,
+            99,
+            23
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(submit by 30 days after event)",
+        "box": [
+            295,
+            223,
+            160,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Promotion Quantity:",
+        "box": [
+            80,
+            251,
+            131,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Displays (8)",
+        "box": [
+            81,
+            295,
+            80,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Floor (40)",
+        "box": [
+            80,
+            306,
+            69,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date Rec'd",
+        "box": [
+            82,
+            351,
+            74,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "# Requested",
+        "box": [
+            412,
+            264,
+            91,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date Notified",
+        "box": [
+            411,
+            282,
+            89,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date Ordered",
+        "box": [
+            415,
+            297,
+            89,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date Rec'd",
+        "box": [
+            415,
+            345,
+            76,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "05/ 01/ 95",
+        "box": [
+            508,
+            341,
+            69,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "# Displays Placed:",
+        "box": [
+            80,
+            390,
+            128,
+            19
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "# Customers Invited",
+        "box": [
+            369,
+            406,
+            135,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "# Customers Attended",
+        "box": [
+            367,
+            423,
+            149,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "# Lorillard Personnel",
+        "box": [
+            367,
+            437,
+            143,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Invitees Comments:",
+        "box": [
+            82,
+            479,
+            134,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Invitees stated the Newport hospitality tent was very",
+        "box": [
+            233,
+            469,
+            436,
+            24
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "difficult to locate. Also, the Indy Lights Paddock area was not clearly identified Most Invitees were looking for the hospitality tent in a separate identified area away from the Paddock Brea and the Newport car transporter.",
+        "box": [
+            84,
+            490,
+            569,
+            70
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Race Day Info:",
+        "box": [
+            84,
+            630,
+            102,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Event Attendance",
+        "box": [
+            214,
+            630,
+            117,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Hospitality Tent Attendance",
+        "box": [
+            406,
+            623,
+            179,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Quality of Hospitality Tent:",
+        "box": [
+            88,
+            661,
+            173,
+            22
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Suggestions/ Recommendations:",
+        "box": [
+            89,
+            747,
+            224,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "In the future, please specify where the",
+        "box": [
+            321,
+            742,
+            325,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Newport hospitality area will be located - at the Newport car trans- porter site or in a separate area . Specific directions will be needed.",
+        "box": [
+            92,
+            756,
+            560,
+            56
+        ],
+        "class": "value_answer"
+    }
+]

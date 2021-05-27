@@ -1,0 +1,827 @@
+﻿[
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            263,
+            117,
+            10,
+            10
+        ]
+    },
+    {
+        "value": "ORIGINAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            275,
+            117,
+            47,
+            8
+        ]
+    },
+    {
+        "value": "Subject",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            46,
+            162,
+            32,
+            8
+        ]
+    },
+    {
+        "value": "State:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            71,
+            205,
+            27,
+            8
+        ]
+    },
+    {
+        "value": "Local:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            73,
+            297,
+            27,
+            8
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            339,
+            8,
+            10
+        ]
+    },
+    {
+        "value": "1.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            316,
+            10,
+            10
+        ]
+    },
+    {
+        "value": "3.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            249,
+            311,
+            10,
+            8
+        ]
+    },
+    {
+        "value": "4.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            250,
+            335,
+            8,
+            10
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            443,
+            221,
+            11,
+            13
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            568,
+            229,
+            11,
+            11
+        ]
+    },
+    {
+        "value": "Yes",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            582,
+            232,
+            17,
+            8
+        ]
+    },
+    {
+        "value": "☐",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            448,
+            316,
+            10,
+            10
+        ]
+    },
+    {
+        "value": "☐",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            448,
+            328,
+            11,
+            10
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            60,
+            388,
+            11,
+            11
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            170,
+            385,
+            13,
+            10
+        ]
+    },
+    {
+        "value": "GPR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            390,
+            21,
+            10
+        ]
+    },
+    {
+        "value": "PRO",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            184,
+            387,
+            21,
+            8
+        ]
+    },
+    {
+        "value": "Agency",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            67,
+            858,
+            34,
+            11
+        ]
+    },
+    {
+        "value": "262-6423",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            513,
+            860,
+            56,
+            14
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            581,
+            845,
+            21,
+            8
+        ]
+    },
+    {
+        "value": "2-2-83",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            588,
+            860,
+            43,
+            11
+        ]
+    },
+    {
+        "value": "680534113",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            662,
+            722,
+            21,
+            116
+        ]
+    },
+    {
+        "value": "1981 Session",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            564,
+            70,
+            71,
+            19
+        ]
+    },
+    {
+        "value": "Amendment No. if Applicable",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            507,
+            117,
+            122,
+            13
+        ]
+    },
+    {
+        "value": "LRB 1946",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            529,
+            103,
+            58,
+            14
+        ]
+    },
+    {
+        "value": "LRB Or Bill No. han Au No",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            506,
+            89,
+            131,
+            16
+        ]
+    },
+    {
+        "value": "☐ UPDATED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            358,
+            115,
+            60,
+            10
+        ]
+    },
+    {
+        "value": "☐ SUPPLEMENTAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            359,
+            127,
+            88,
+            10
+        ]
+    },
+    {
+        "value": "☐ CORRECTED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            261,
+            130,
+            74,
+            10
+        ]
+    },
+    {
+        "value": "FISCAL ESTIMATE AD MBA 23 (Rev 11/80",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            45,
+            88,
+            107,
+            25
+        ]
+    },
+    {
+        "value": "Regulation of Smoking Public Places",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            81,
+            163,
+            264,
+            20
+        ]
+    },
+    {
+        "value": "Fiscal Effect",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            47,
+            189,
+            60,
+            12
+        ]
+    },
+    {
+        "value": "Asumptions Used in Arriving at Fiscal Estimate",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            53,
+            399,
+            197,
+            15
+        ]
+    },
+    {
+        "value": "This bill regulates smoking in university buildings which house educational programs and in inpatient health care facilities. Smoking within these or rooms, provided buildings would be allowed only specified facilities designate these \"smoking permitted\" areas. that signs are posted to",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            89,
+            405,
+            520,
+            68
+        ]
+    },
+    {
+        "value": "university buildings would each It is estimated that, on the average, The per \"smoking signs. sign cost is require about three permitted\" This estimate is based on the estimated at $4 50 in 1982-83 dollars. 1981 increased to reflect Inflation from 1981 to 1983. per sign cost, and Thus, the expected one-time cost for the University Systet to implement no be about There are significant the provisions of the bill would $8,000. with the bill's provisions. continuing annual costs associated",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            91,
+            475,
+            523,
+            109
+        ]
+    },
+    {
+        "value": "Long Range Fiscal Implications",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            66,
+            775,
+            130,
+            12
+        ]
+    },
+    {
+        "value": "University of Wisconsin System",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            103,
+            870,
+            213,
+            17
+        ]
+    },
+    {
+        "value": "Authorized Signature Telephone No. ",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            348,
+            839,
+            156,
+            54
+        ]
+    },
+    {
+        "value": "680534113 RODUCED FROM B&W WEB SITE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            0,
+            951,
+            231,
+            32
+        ]
+    },
+    {
+        "value": "☐ No State Fiscal Effect",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            109,
+            201,
+            105,
+            13
+        ]
+    },
+    {
+        "value": "Check columns below only if bill makes a rect appropriation or affect a sum sufficient appropriation.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            122,
+            214,
+            252,
+            28
+        ]
+    },
+    {
+        "value": "☐ Increase Existing Appropriation",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            110,
+            247,
+            144,
+            12
+        ]
+    },
+    {
+        "value": "☐ Decrease Existing Appropriation",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            110,
+            260,
+            147,
+            13
+        ]
+    },
+    {
+        "value": "☐ Create New Appropriation",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            110,
+            274,
+            123,
+            11
+        ]
+    },
+    {
+        "value": "☐ Increase Existing Revenues",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            271,
+            242,
+            123,
+            12
+        ]
+    },
+    {
+        "value": "☐ Decrease Existing Revenues",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            271,
+            256,
+            126,
+            11
+        ]
+    },
+    {
+        "value": "☐ Decrease Costs",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            444,
+            250,
+            75,
+            11
+        ]
+    },
+    {
+        "value": "☐ No",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            610,
+            229,
+            27,
+            11
+        ]
+    },
+    {
+        "value": "Increase Costs - May Be Possible to Absorb",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            457,
+            216,
+            182,
+            15
+        ]
+    },
+    {
+        "value": "Within Agency's Budget",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            455,
+            233,
+            101,
+            11
+        ]
+    },
+    {
+        "value": "☐ No oca government cost",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            110,
+            295,
+            122,
+            11
+        ]
+    },
+    {
+        "value": "5. Types of Local Governmental Unit Aflected:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            433,
+            300,
+            200,
+            14
+        ]
+    },
+    {
+        "value": "☐ Villages",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            518,
+            313,
+            47,
+            11
+        ]
+    },
+    {
+        "value": "☐ Others",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            518,
+            325,
+            40,
+            10
+        ]
+    },
+    {
+        "value": "☐ Cities",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            602,
+            311,
+            36,
+            10
+        ]
+    },
+    {
+        "value": "☐ Mandatory",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            360,
+            342,
+            58,
+            11
+        ]
+    },
+    {
+        "value": "☐ SEG-S",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            323,
+            380,
+            41,
+            11
+        ]
+    },
+    {
+        "value": "☐ SEG",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            271,
+            383,
+            32,
+            10
+        ]
+    },
+    {
+        "value": "☐ PRS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            228,
+            384,
+            32,
+            10
+        ]
+    },
+    {
+        "value": "☐ FED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            115,
+            387,
+            35,
+            10
+        ]
+    },
+    {
+        "value": "Fund Source Affected",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            54,
+            374,
+            94,
+            12
+        ]
+    },
+    {
+        "value": "Affected Ch. 20 Appropriations",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            383,
+            365,
+            131,
+            10
+        ]
+    },
+    {
+        "value": "20. 285 1 (a), 1 (b), 1 (im)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            408,
+            374,
+            163,
+            17
+        ]
+    },
+    {
+        "value": "☐ Increase Revenues",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            260,
+            309,
+            88,
+            11
+        ]
+    },
+    {
+        "value": "☐ Permissive",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            292,
+            320,
+            54,
+            10
+        ]
+    },
+    {
+        "value": "☐ Mandatory",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            358,
+            318,
+            60,
+            10
+        ]
+    },
+    {
+        "value": "☐ Decrease Revenues",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            261,
+            334,
+            88,
+            10
+        ]
+    },
+    {
+        "value": "☐ Permissive",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            293,
+            345,
+            53,
+            11
+        ]
+    },
+    {
+        "value": "Mandatory",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            177,
+            346,
+            59,
+            12
+        ]
+    },
+    {
+        "value": "☐ Mandatory",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            177,
+            321,
+            59,
+            12
+        ]
+    },
+    {
+        "value": "☐ Permissive",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            112,
+            324,
+            55,
+            11
+        ]
+    },
+    {
+        "value": "Permane",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            113,
+            349,
+            56,
+            12
+        ]
+    },
+    {
+        "value": "Decreas Corts",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            81,
+            338,
+            74,
+            10
+        ]
+    },
+    {
+        "value": "☐ Increase Costs",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            80,
+            313,
+            72,
+            11
+        ]
+    }
+]

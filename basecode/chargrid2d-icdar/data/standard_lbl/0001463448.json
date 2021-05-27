@@ -1,0 +1,464 @@
+﻿[
+    {
+        "value": "(",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            96,
+            282,
+            8,
+            13
+        ]
+    },
+    {
+        "value": ")",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            130,
+            281,
+            8,
+            16
+        ]
+    },
+    {
+        "value": "(",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            96,
+            350,
+            8,
+            17
+        ]
+    },
+    {
+        "value": ")",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            128,
+            352,
+            9,
+            15
+        ]
+    },
+    {
+        "value": "(",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            96,
+            420,
+            9,
+            15
+        ]
+    },
+    {
+        "value": "(",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            95,
+            475,
+            9,
+            17
+        ]
+    },
+    {
+        "value": ")",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            130,
+            476,
+            7,
+            16
+        ]
+    },
+    {
+        "value": "B(",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            95,
+            544,
+            9,
+            17
+        ]
+    },
+    {
+        "value": ")",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            128,
+            545,
+            9,
+            15
+        ]
+    },
+    {
+        "value": "(",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            227,
+            574,
+            9,
+            15
+        ]
+    },
+    {
+        "value": ")",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            261,
+            572,
+            8,
+            15
+        ]
+    },
+    {
+        "value": "(",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            227,
+            599,
+            9,
+            19
+        ]
+    },
+    {
+        "value": ")",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            262,
+            600,
+            5,
+            16
+        ]
+    },
+    {
+        "value": "(",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            229,
+            630,
+            7,
+            13
+        ]
+    },
+    {
+        "value": ")",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            261,
+            628,
+            8,
+            15
+        ]
+    },
+    {
+        "value": "(",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            227,
+            655,
+            9,
+            16
+        ]
+    },
+    {
+        "value": ")",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            261,
+            655,
+            8,
+            16
+        ]
+    },
+    {
+        "value": "(",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            227,
+            683,
+            8,
+            17
+        ]
+    },
+    {
+        "value": ")",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            261,
+            682,
+            7,
+            17
+        ]
+    },
+    {
+        "value": "(",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            96,
+            741,
+            9,
+            15
+        ]
+    },
+    {
+        "value": ")",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            130,
+            739,
+            8,
+            19
+        ]
+    },
+    {
+        "value": "(",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            95,
+            807,
+            8,
+            17
+        ]
+    },
+    {
+        "value": ")",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            130,
+            807,
+            7,
+            17
+        ]
+    },
+    {
+        "value": "(",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            95,
+            862,
+            9,
+            16
+        ]
+    },
+    {
+        "value": ")",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            128,
+            862,
+            8,
+            15
+        ]
+    },
+    {
+        "value": "BROWN & WILLAMSON 1994 COLLECTION PROTOCOPYING VARIANCE FORM",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            263,
+            100,
+            226,
+            57
+        ]
+    },
+    {
+        "value": "This form was placed before Bates ID",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            94,
+            195,
+            311,
+            20
+        ]
+    },
+    {
+        "value": "6708105266",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            428,
+            186,
+            174,
+            25
+        ]
+    },
+    {
+        "value": "AT THE TIME OF REPRODUCTION, THE FOLLOWING NOTATTONS WERE MADE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            238,
+            223,
+            275,
+            31
+        ]
+    },
+    {
+        "value": "DOCUMENT COPIES ARE IN THE SAME SEQUENCE AS THEY APPEARED IN THE ORIGINAL.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            182,
+            278,
+            483,
+            32
+        ]
+    },
+    {
+        "value": "PAGE NUMBER(S) WERE MISSING IN THE ORIGINAL.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            182,
+            350,
+            485,
+            30
+        ]
+    },
+    {
+        "value": "☑ ) POOR QUALITY ORIGINAL. faded",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            108,
+            408,
+            359,
+            36
+        ]
+    },
+    {
+        "value": "OVERLAY ITEM COULD NOT BE REMOVED WITHOUT DAMAGE TO THE ORIGINAL.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            180,
+            473,
+            487,
+            30
+        ]
+    },
+    {
+        "value": "NG DOCUMENTS WERE FOUND WITHIN THE ORIGINAL:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            180,
+            541,
+            379,
+            19
+        ]
+    },
+    {
+        "value": "FILE FOLDER",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            311,
+            571,
+            95,
+            17
+        ]
+    },
+    {
+        "value": "REDROPE EXPANDABLE FILE",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            310,
+            598,
+            199,
+            17
+        ]
+    },
+    {
+        "value": "HANGING FILE",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            310,
+            626,
+            106,
+            17
+        ]
+    },
+    {
+        "value": "ENVELOPE",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            313,
+            654,
+            70,
+            17
+        ]
+    },
+    {
+        "value": "OTHER (SPECIFY)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            310,
+            682,
+            122,
+            18
+        ]
+    },
+    {
+        "value": "DOCUMENT COPIES WERE REPRODUCED IN COLOR PERMIT CORRECTION INTERPRETATION",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            180,
+            737,
+            486,
+            32
+        ]
+    },
+    {
+        "value": "BATES NUMBER NOT USED.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            182,
+            806,
+            412,
+            16
+        ]
+    },
+    {
+        "value": "OTHER VARIANCE (EXPLAIN).",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            180,
+            861,
+            214,
+            16
+        ]
+    }
+]

@@ -1,0 +1,772 @@
+﻿[
+    {
+        "value": "FAXED",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            43,
+            79,
+            145,
+            51
+        ]
+    },
+    {
+        "value": "FROM:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            151,
+            45,
+            15
+        ]
+    },
+    {
+        "value": "TO:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            97,
+            178,
+            31,
+            15
+        ]
+    },
+    {
+        "value": "CC:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            210,
+            31,
+            15
+        ]
+    },
+    {
+        "value": "TRUE",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            335,
+            277,
+            37,
+            15
+        ]
+    },
+    {
+        "value": "560,000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            329,
+            496,
+            52,
+            13
+        ]
+    },
+    {
+        "value": "PROVIDENCE",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            207,
+            792,
+            58,
+            10
+        ]
+    },
+    {
+        "value": "CAMDEN",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            204,
+            807,
+            45,
+            10
+        ]
+    },
+    {
+        "value": "CONCORD",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            208,
+            825,
+            46,
+            9
+        ]
+    },
+    {
+        "value": "SPRINGFIELD",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            204,
+            837,
+            61,
+            13
+        ]
+    },
+    {
+        "value": "BALTIMORE",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            205,
+            855,
+            54,
+            10
+        ]
+    },
+    {
+        "value": "HARTFORD",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            90,
+            822,
+            49,
+            12
+        ]
+    },
+    {
+        "value": "SYRACUSE",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            88,
+            853,
+            51,
+            10
+        ]
+    },
+    {
+        "value": "ROCHESTER",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            88,
+            870,
+            57,
+            10
+        ]
+    },
+    {
+        "value": "BUFFALO",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            88,
+            916,
+            42,
+            10
+        ]
+    },
+    {
+        "value": "DC",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            295,
+            901,
+            13,
+            10
+        ]
+    },
+    {
+        "value": "WILMINGTON",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            204,
+            918,
+            61,
+            9
+        ]
+    },
+    {
+        "value": "ALBANY",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            88,
+            931,
+            39,
+            12
+        ]
+    },
+    {
+        "value": "57288",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            445,
+            825,
+            69,
+            25
+        ]
+    },
+    {
+        "value": "1143",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            457,
+            852,
+            37,
+            13
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            593,
+            804,
+            28,
+            72
+        ]
+    },
+    {
+        "value": "COUPON CODE REGISTRATION FORM",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            199,
+            118,
+            220,
+            18
+        ]
+    },
+    {
+        "value": "-95 92",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            457,
+            93,
+            98,
+            66
+        ]
+    },
+    {
+        "value": "EXHIBIT ",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            560,
+            85,
+            67,
+            16
+        ]
+    },
+    {
+        "value": "MICHELLE LEPRE",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            201,
+            148,
+            103,
+            21
+        ]
+    },
+    {
+        "value": "V. M. LOSITO",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            204,
+            180,
+            74,
+            18
+        ]
+    },
+    {
+        "value": "S. A. RAPISARLDI",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            202,
+            211,
+            104,
+            15
+        ]
+    },
+    {
+        "value": "J BAYLIES",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            202,
+            226,
+            69,
+            18
+        ]
+    },
+    {
+        "value": "K. P. AUGUSTYN",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            201,
+            243,
+            100,
+            19
+        ]
+    },
+    {
+        "value": "M. McGLYNN",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            328,
+            225,
+            83,
+            21
+        ]
+    },
+    {
+        "value": "- BRAND(S) APPLICABLE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            275,
+            154,
+            15
+        ]
+    },
+    {
+        "value": "- MEDIA TYPE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            97,
+            307,
+            91,
+            15
+        ]
+    },
+    {
+        "value": "- MEDIA NAME",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            97,
+            337,
+            95,
+            13
+        ]
+    },
+    {
+        "value": "- ISSUE FREQUENCY/YEAR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            97,
+            368,
+            168,
+            15
+        ]
+    },
+    {
+        "value": "- SPACE/COLOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            97,
+            398,
+            105,
+            18
+        ]
+    },
+    {
+        "value": "- COUPON ISSUE DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            94,
+            430,
+            148,
+            16
+        ]
+    },
+    {
+        "value": "- COUPON EXPIRATION DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            461,
+            177,
+            18
+        ]
+    },
+    {
+        "value": "- CIRCULATION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            94,
+            494,
+            103,
+            13
+        ]
+    },
+    {
+        "value": "- GEOGRAPHICAL AREA(S)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            94,
+            525,
+            162,
+            15
+        ]
+    },
+    {
+        "value": "- COUPON VALUE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            94,
+            555,
+            110,
+            16
+        ]
+    },
+    {
+        "value": "- PACK AND/OR CARTON",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            584,
+            156,
+            18
+        ]
+    },
+    {
+        "value": "- ADVERTISING CREATIVE TITLE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            617,
+            203,
+            16
+        ]
+    },
+    {
+        "value": "- SIGNATURE OF INITIATOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            93,
+            663,
+            167,
+            17
+        ]
+    },
+    {
+        "value": "- -DATE INITIATED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            93,
+            695,
+            109,
+            13
+        ]
+    },
+    {
+        "value": "ANALYTICAL REQUIREMENTS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            722,
+            183,
+            19
+        ]
+    },
+    {
+        "value": "TRUE CORE AREAS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            102,
+            757,
+            114,
+            15
+        ]
+    },
+    {
+        "value": "SALES FORCE APPLIED - IRC",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            334,
+            308,
+            175,
+            15
+        ]
+    },
+    {
+        "value": "MAY 1992",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            332,
+            433,
+            60,
+            13
+        ]
+    },
+    {
+        "value": "8 /31 /92",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            332,
+            464,
+            46,
+            15
+        ]
+    },
+    {
+        "value": "TRUE CORE MARKETS *",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            332,
+            525,
+            142,
+            17
+        ]
+    },
+    {
+        "value": "50c",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            331,
+            555,
+            25,
+            16
+        ]
+    },
+    {
+        "value": "PACK",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            331,
+            587,
+            40,
+            15
+        ]
+    },
+    {
+        "value": "Michell ",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            329,
+            654,
+            213,
+            36
+        ]
+    },
+    {
+        "value": "JANUARY 8, 1992",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            328,
+            695,
+            102,
+            16
+        ]
+    },
+    {
+        "value": "FOA CONTROL USE ONLY:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            328,
+            805,
+            154,
+            17
+        ]
+    },
+    {
+        "value": "CODE ASSIGNED:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            326,
+            837,
+            103,
+            15
+        ]
+    },
+    {
+        "value": "JOE NUMBER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            326,
+            855,
+            84,
+            12
+        ]
+    },
+    {
+        "value": "EST. REDEMPTION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            325,
+            868,
+            114,
+            13
+        ]
+    },
+    {
+        "value": "80 %",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            464,
+            864,
+            63,
+            24
+        ]
+    },
+    {
+        "value": "TOTAL NEW YORK",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            91,
+            775,
+            78,
+            12
+        ]
+    },
+    {
+        "value": "TOTAL NEW JERSEY",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            205,
+            777,
+            90,
+            10
+        ]
+    },
+    {
+        "value": "NEW HAVEN",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            88,
+            792,
+            57,
+            10
+        ]
+    },
+    {
+        "value": "TOTAL BOSTON",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            91,
+            805,
+            69,
+            13
+        ]
+    },
+    {
+        "value": "TOTAL SAN FRANCISCO",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            88,
+            837,
+            103,
+            13
+        ]
+    },
+    {
+        "value": "TOTAL PHILADELPHIA",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            88,
+            883,
+            93,
+            11
+        ]
+    },
+    {
+        "value": "TOTAL CHICAGO",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            88,
+            900,
+            74,
+            12
+        ]
+    },
+    {
+        "value": "REGION 15 x SAN BERNADINO",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            202,
+            931,
+            134,
+            12
+        ]
+    },
+    {
+        "value": "TOTAL WASHINGTON",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            201,
+            900,
+            93,
+            13
+        ]
+    },
+    {
+        "value": "TOTAL DETROIT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            202,
+            883,
+            72,
+            13
+        ]
+    },
+    {
+        "value": "PORTLAND, ME",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            207,
+            870,
+            65,
+            12
+        ]
+    }
+]

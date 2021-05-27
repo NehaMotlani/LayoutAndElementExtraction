@@ -1,0 +1,816 @@
+﻿[
+    {
+        "value": "SECRET",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            76,
+            67,
+            42,
+            15
+        ]
+    },
+    {
+        "value": "Weights",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            69,
+            517,
+            52,
+            15
+        ]
+    },
+    {
+        "value": "Supplier(s)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            69,
+            676,
+            76,
+            14
+        ]
+    },
+    {
+        "value": "Color",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            729,
+            37,
+            12
+        ]
+    },
+    {
+        "value": "Porosity",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            783,
+            56,
+            11
+        ]
+    },
+    {
+        "value": "Substance",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            69,
+            872,
+            62,
+            11
+        ]
+    },
+    {
+        "value": "mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            446,
+            281,
+            17,
+            11
+        ]
+    },
+    {
+        "value": "mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            552,
+            362,
+            17,
+            9
+        ]
+    },
+    {
+        "value": "mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            446,
+            359,
+            19,
+            9
+        ]
+    },
+    {
+        "value": "13%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            520,
+            464,
+            24,
+            16
+        ]
+    },
+    {
+        "value": "mg",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            446,
+            544,
+            17,
+            17
+        ]
+    },
+    {
+        "value": "mg",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            554,
+            545,
+            14,
+            14
+        ]
+    },
+    {
+        "value": "N/A",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            473,
+            754,
+            22,
+            16
+        ]
+    },
+    {
+        "value": "N/A",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            352,
+            756,
+            26,
+            15
+        ]
+    },
+    {
+        "value": "N/A",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            473,
+            808,
+            22,
+            12
+        ]
+    },
+    {
+        "value": "N/A",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            353,
+            809,
+            22,
+            12
+        ]
+    },
+    {
+        "value": "620753790",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            520,
+            894,
+            110,
+            19
+        ]
+    },
+    {
+        "value": "CHAMP S/ L TRIAL SPECIFICATION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            244,
+            106,
+            126,
+            30
+        ]
+    },
+    {
+        "value": "BWIT Suggestion",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            397,
+            162,
+            64,
+            25
+        ]
+    },
+    {
+        "value": "HK Trial",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            512,
+            173,
+            52,
+            15
+        ]
+    },
+    {
+        "value": "CIGARETTE MAKING",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            75,
+            147,
+            109,
+            15
+        ]
+    },
+    {
+        "value": "Physical Characteristics",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            74,
+            172,
+            159,
+            15
+        ]
+    },
+    {
+        "value": "Overall Cigarette Length",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            198,
+            161,
+            14
+        ]
+    },
+    {
+        "value": "Tobacco Rod Length",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            224,
+            119,
+            16
+        ]
+    },
+    {
+        "value": "Filter Plug Length",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            251,
+            121,
+            15
+        ]
+    },
+    {
+        "value": "Filter Plug Pressure Drop (unencap.)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            277,
+            236,
+            17
+        ]
+    },
+    {
+        "value": "Filter Plug Pressure Drop (encap.)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            303,
+            226,
+            16
+        ]
+    },
+    {
+        "value": "Cigarette Circumference",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            330,
+            152,
+            14
+        ]
+    },
+    {
+        "value": "Total Pressure Drop (unencap.)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            72,
+            358,
+            199,
+            14
+        ]
+    },
+    {
+        "value": "Total Pressure Drop (encap.)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            384,
+            189,
+            15
+        ]
+    },
+    {
+        "value": "Tipping Length",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            411,
+            97,
+            14
+        ]
+    },
+    {
+        "value": "Print Position (from filter end)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            436,
+            213,
+            15
+        ]
+    },
+    {
+        "value": "Moisture content (Packing)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            463,
+            172,
+            16
+        ]
+    },
+    {
+        "value": "Filter Ventilation Rate",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            490,
+            156,
+            14
+        ]
+    },
+    {
+        "value": "Total Cigarette Weight",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            542,
+            147,
+            17
+        ]
+    },
+    {
+        "value": "Net Net Tobacco",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            570,
+            105,
+            13
+        ]
+    },
+    {
+        "value": "Tobacco Rod Density",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            596,
+            127,
+            12
+        ]
+    },
+    {
+        "value": "Tipping and Tipping Application",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            72,
+            622,
+            207,
+            15
+        ]
+    },
+    {
+        "value": "Tipping Paper:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            71,
+            647,
+            96,
+            16
+        ]
+    },
+    {
+        "value": "Supplier Code No(s).",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            69,
+            700,
+            133,
+            15
+        ]
+    },
+    {
+        "value": "Perforation Type & No. of lines",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            753,
+            208,
+            15
+        ]
+    },
+    {
+        "value": "Print Description",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            69,
+            808,
+            115,
+            14
+        ]
+    },
+    {
+        "value": "Bobbin Width",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            69,
+            829,
+            84,
+            12
+        ]
+    },
+    {
+        "value": "Dobbin Length",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            69,
+            849,
+            92,
+            17
+        ]
+    },
+    {
+        "value": "ECUSTA/ B&W",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            354,
+            673,
+            69,
+            15
+        ]
+    },
+    {
+        "value": "ECUSTA/ B & W",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            473,
+            672,
+            78,
+            17
+        ]
+    },
+    {
+        "value": "Non Porous",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            353,
+            783,
+            70,
+            12
+        ]
+    },
+    {
+        "value": "64 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            352,
+            825,
+            38,
+            18
+        ]
+    },
+    {
+        "value": "2500 M",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            354,
+            847,
+            45,
+            15
+        ]
+    },
+    {
+        "value": "36 nm/ M2",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            353,
+            873,
+            55,
+            17
+        ]
+    },
+    {
+        "value": "Non Porous",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            475,
+            783,
+            66,
+            13
+        ]
+    },
+    {
+        "value": "64 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            470,
+            828,
+            39,
+            15
+        ]
+    },
+    {
+        "value": "2500 M",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            473,
+            848,
+            41,
+            15
+        ]
+    },
+    {
+        "value": "36 nm /47M2",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            475,
+            873,
+            51,
+            17
+        ]
+    },
+    {
+        "value": "243.6 mg/ cc",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            519,
+            594,
+            69,
+            15
+        ]
+    },
+    {
+        "value": "243.6 mg/ ",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            400,
+            592,
+            82,
+            17
+        ]
+    },
+    {
+        "value": "858 mg",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            400,
+            567,
+            63,
+            19
+        ]
+    },
+    {
+        "value": "858 mg",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            517,
+            569,
+            51,
+            17
+        ]
+    },
+    {
+        "value": "35 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            519,
+            438,
+            49,
+            14
+        ]
+    },
+    {
+        "value": "32 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            517,
+            410,
+            52,
+            14
+        ]
+    },
+    {
+        "value": "32 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            406,
+            413,
+            56,
+            11
+        ]
+    },
+    {
+        "value": "35 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            408,
+            436,
+            56,
+            15
+        ]
+    },
+    {
+        "value": "13 %",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            405,
+            461,
+            56,
+            17
+        ]
+    },
+    {
+        "value": "24.8 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            408,
+            323,
+            55,
+            21
+        ]
+    },
+    {
+        "value": "58.5 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            408,
+            305,
+            56,
+            14
+        ]
+    },
+    {
+        "value": "24.8 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            514,
+            327,
+            55,
+            17
+        ]
+    },
+    {
+        "value": "58.5 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            515,
+            305,
+            52,
+            14
+        ]
+    },
+    {
+        "value": "62 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            520,
+            281,
+            49,
+            11
+        ]
+    },
+    {
+        "value": "27 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            520,
+            253,
+            50,
+            15
+        ]
+    },
+    {
+        "value": "72 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            519,
+            227,
+            47,
+            11
+        ]
+    },
+    {
+        "value": "99 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            520,
+            202,
+            50,
+            12
+        ]
+    },
+    {
+        "value": "99 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            414,
+            200,
+            51,
+            14
+        ]
+    },
+    {
+        "value": "72 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            415,
+            224,
+            48,
+            15
+        ]
+    },
+    {
+        "value": "27 mm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            413,
+            251,
+            51,
+            14
+        ]
+    }
+]

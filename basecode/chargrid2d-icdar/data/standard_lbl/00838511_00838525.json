@@ -1,0 +1,200 @@
+﻿[
+    {
+        "value": "NAME",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            105,
+            24,
+            8
+        ]
+    },
+    {
+        "value": "STRUCTURE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            187,
+            47,
+            10
+        ]
+    },
+    {
+        "value": "II",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            205,
+            330,
+            17,
+            11
+        ]
+    },
+    {
+        "value": "COMMENTS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            351,
+            46,
+            11
+        ]
+    },
+    {
+        "value": "A41",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            461,
+            337,
+            25,
+            11
+        ]
+    },
+    {
+        "value": "00838511",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            677,
+            799,
+            20,
+            91
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            513,
+            103,
+            24,
+            10
+        ]
+    },
+    {
+        "value": "DECISION TREE ESTIMATION OF TOXIC RISK",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            209,
+            78,
+            370,
+            18
+        ]
+    },
+    {
+        "value": "Paul Schickedantz, Jack Reid",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            106,
+            109,
+            213,
+            15
+        ]
+    },
+    {
+        "value": "12- 4- 80",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            560,
+            108,
+            53,
+            14
+        ]
+    },
+    {
+        "value": "COMPOUND NAME",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            131,
+            74,
+            10
+        ]
+    },
+    {
+        "value": "2-Hydroxycyclododecanone",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            104,
+            154,
+            184,
+            15
+        ]
+    },
+    {
+        "value": "OH O",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            123,
+            225,
+            86,
+            64
+        ]
+    },
+    {
+        "value": "ESTIMATED TOXICITY CLASS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            324,
+            111,
+            11
+        ]
+    },
+    {
+        "value": "LORILLARD COMPOUND CODE NUMBER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            398,
+            324,
+            158,
+            12
+        ]
+    },
+    {
+        "value": "This carbocyclic keto alcohol was placed in estimated toxicity class II due to the direct attachment of the ketone to the cyclic nucleus.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            108,
+            377,
+            534,
+            30
+        ]
+    },
+    {
+        "value": "LORILLARD RESEARCH CENTER",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            74,
+            901,
+            126,
+            11
+        ]
+    },
+    {
+        "value": "FORM 1 (580)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            663,
+            899,
+            58,
+            10
+        ]
+    }
+]

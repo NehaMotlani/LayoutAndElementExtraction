@@ -1,0 +1,321 @@
+﻿[
+    {
+        "value": "TO",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            61,
+            101,
+            27,
+            15
+        ]
+    },
+    {
+        "value": "FROM:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            63,
+            131,
+            48,
+            17
+        ]
+    },
+    {
+        "value": "SUBJECT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            65,
+            163,
+            70,
+            15
+        ]
+    },
+    {
+        "value": "DISTRIBUTION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            63,
+            221,
+            103,
+            13
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            525,
+            140,
+            20,
+            15
+        ]
+    },
+    {
+        "value": "89817999",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            656,
+            846,
+            18,
+            88
+        ]
+    },
+    {
+        "value": "R. H. ORCUTT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            115,
+            96,
+            99,
+            19
+        ]
+    },
+    {
+        "value": "J. J. BUXTON",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            115,
+            128,
+            96,
+            18
+        ]
+    },
+    {
+        "value": "SUBMISSION DATE:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            462,
+            90,
+            138,
+            17
+        ]
+    },
+    {
+        "value": "FEB 17",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            462,
+            123,
+            52,
+            17
+        ]
+    },
+    {
+        "value": "MAR 16",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            463,
+            138,
+            52,
+            18
+        ]
+    },
+    {
+        "value": "MAY 11",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            561,
+            123,
+            50,
+            15
+        ]
+    },
+    {
+        "value": "JULY 6",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            561,
+            138,
+            51,
+            15
+        ]
+    },
+    {
+        "value": "STYLE LIGHTS PROGRESS REPORT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            141,
+            159,
+            249,
+            17
+        ]
+    },
+    {
+        "value": "EFFECTIVENESS OF PRE- SELL (REPORT ON FEB. 17 ONLY).",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            174,
+            213,
+            410,
+            19
+        ]
+    },
+    {
+        "value": "% OF DISTRIBUTION ACHIEVED IN RETAIL OUTLETS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            65,
+            322,
+            357,
+            22
+        ]
+    },
+    {
+        "value": "62% CLASSIFIED CALLS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            284,
+            350,
+            163,
+            17
+        ]
+    },
+    {
+        "value": "10% ANNUAL CALLS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            284,
+            377,
+            140,
+            17
+        ]
+    },
+    {
+        "value": "PROMOTIONAL IMPACT:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            68,
+            410,
+            164,
+            13
+        ]
+    },
+    {
+        "value": "HAS PROVEN TO BE AN EXCELLENT TOOL IN GENERATING PACK TRIAL IN BOTH HIGH AND LOW DEVELOPMENT PRICE VALUE MARKETS. MANY DISPLAYS SELLING OUT BEFORE RECONTACT.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            204,
+            472,
+            444,
+            60
+        ]
+    },
+    {
+        "value": "20 CENTS OFF PACK COUPON/STICKER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            63,
+            482,
+            131,
+            33
+        ]
+    },
+    {
+        "value": "SALES FORCE 20'S",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            555,
+            114,
+            11
+        ]
+    },
+    {
+        "value": "ADDITIONAL SUPPLY WOULD BE HELPFUL. INITIAL QUANTITIES WERE QUICKLY DEPLETED",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            206,
+            545,
+            385,
+            38
+        ]
+    },
+    {
+        "value": "$1.50 OFF CARTON COUPON:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            663,
+            117,
+            34
+        ]
+    },
+    {
+        "value": "CARTON MOVEMENT SPOTTY AT THIS POINT. SUPPLIES ARE MORE THAN ADEQUATE AND THE NEED IS MOSTLY PACKAGE SUPPORT AT THIS TIME.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            206,
+            656,
+            443,
+            40
+        ]
+    },
+    {
+        "value": "EFFECTIVENESS OF ADVERTISING:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            746,
+            245,
+            15
+        ]
+    },
+    {
+        "value": "OUTDOOR AND PRINT ADS HAVE BEEN EFFECTIVE IN",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            321,
+            739,
+            317,
+            18
+        ]
+    },
+    {
+        "value": "CREATING CONSUMER AWARENESS IN THOSE ARE EYE CATCHING AND CONSUMERS ARE MORE AWARE OF THE PRODUCT IN THOSE MARKETS WITH ADVERTISING.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            71,
+            764,
+            580,
+            56
+        ]
+    },
+    {
+        "value": "PAGE 1 of 4",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            68,
+            900,
+            72,
+            15
+        ]
+    }
+]

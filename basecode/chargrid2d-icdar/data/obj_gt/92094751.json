@@ -1,0 +1,712 @@
+﻿[
+    {
+        "text": "LORILLARD",
+        "box": [
+            341,
+            110,
+            59,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            473,
+            204,
+            34,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SCOPE:",
+        "box": [
+            115,
+            286,
+            46,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "*EXPLAIN:",
+        "box": [
+            115,
+            309,
+            70,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "AREA",
+        "box": [
+            233,
+            285,
+            32,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REGION",
+        "box": [
+            318,
+            285,
+            50,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DIVISION",
+        "box": [
+            420,
+            282,
+            67,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OTHER*",
+        "box": [
+            549,
+            279,
+            49,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EXCELLENT",
+        "box": [
+            550,
+            374,
+            73,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EXCELLENT",
+        "box": [
+            552,
+            413,
+            71,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EXCELLENT",
+        "box": [
+            552,
+            453,
+            71,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EXCELLENT",
+        "box": [
+            552,
+            492,
+            74,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "GOOD",
+        "box": [
+            476,
+            374,
+            35,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "GOOD",
+        "box": [
+            478,
+            415,
+            34,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "GOOD",
+        "box": [
+            479,
+            454,
+            32,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "GOOD",
+        "box": [
+            479,
+            493,
+            35,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "POOR",
+        "box": [
+            337,
+            377,
+            31,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FAIR",
+        "box": [
+            408,
+            415,
+            32,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FAIR",
+        "box": [
+            408,
+            376,
+            31,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "POOR",
+        "box": [
+            337,
+            416,
+            32,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "POOR",
+        "box": [
+            338,
+            457,
+            32,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FAIR",
+        "box": [
+            406,
+            455,
+            34,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FAIR",
+        "box": [
+            409,
+            494,
+            31,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "POOR",
+        "box": [
+            338,
+            494,
+            32,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMMENTS:",
+        "box": [
+            117,
+            535,
+            71,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "*EXPLAIN:",
+        "box": [
+            123,
+            708,
+            70,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "YES",
+        "box": [
+            412,
+            679,
+            22,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NO*",
+        "box": [
+            499,
+            679,
+            24,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NO",
+        "box": [
+            508,
+            758,
+            15,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "YES",
+        "box": [
+            420,
+            758,
+            24,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "92094751",
+        "box": [
+            648,
+            784,
+            14,
+            60
+        ],
+        "class": "other"
+    },
+    {
+        "text": "28",
+        "box": [
+            180,
+            236,
+            15,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            518,
+            284,
+            14,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            318,
+            416,
+            11,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            321,
+            457,
+            8,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            321,
+            494,
+            10,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "X",
+        "box": [
+            387,
+            680,
+            11,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            487,
+            758,
+            10,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "09 /07 /35 15 15:48:48",
+        "box": [
+            66,
+            109,
+            98,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "317 8450971",
+        "box": [
+            187,
+            109,
+            81,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "001 /002",
+        "box": [
+            587,
+            108,
+            55,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "SPECIAL PROMOTION EVALUATION",
+        "box": [
+            258,
+            151,
+            221,
+            16
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "03/ 07/ 415415 & 418418",
+        "box": [
+            120,
+            193,
+            108,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "AREA REGION DIVISION",
+        "box": [
+            112,
+            208,
+            162,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "9/ 8 /95",
+        "box": [
+            434,
+            190,
+            39,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PROMO #",
+        "box": [
+            112,
+            233,
+            60,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PROMOTIONAL PERIOD:",
+        "box": [
+            327,
+            229,
+            146,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "June /July 1995",
+        "box": [
+            494,
+            229,
+            94,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ITEM/ BRAND",
+        "box": [
+            115,
+            261,
+            86,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Newport Sunglasses",
+        "box": [
+            211,
+            258,
+            123,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Newport Special Emphasis",
+        "box": [
+            194,
+            311,
+            159,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CHAIN ACCEPTANCE:",
+        "box": [
+            116,
+            377,
+            134,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "N/ A",
+        "box": [
+            260,
+            376,
+            21,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "INDEPENDENT ACCEPTANCE:",
+        "box": [
+            117,
+            416,
+            182,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "CONSUMER ACCEPTANCE:",
+        "box": [
+            117,
+            457,
+            157,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "EFFICIENCY RATING:",
+        "box": [
+            119,
+            496,
+            139,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Premiums packaged to large to store on a van. Could not get",
+        "box": [
+            203,
+            531,
+            396,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "enough on a van to sell all day. Retailers only accepted small quantities of deals. Consumers perceived value and not meet expectations.",
+        "box": [
+            120,
+            560,
+            486,
+            41
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "22, 320 (Indy East & West) NO SHOW SAMPLES",
+        "box": [
+            303,
+            651,
+            273,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "#ITEMS/ DEALS RECEIVED:",
+        "box": [
+            122,
+            654,
+            171,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "WERE QUANTITIES APPROPRIATE?",
+        "box": [
+            120,
+            680,
+            223,
+            16
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Chain stores will not accept multiple Newport Promotions",
+        "box": [
+            214,
+            704,
+            367,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(Tier system) at the same time.",
+        "box": [
+            123,
+            735,
+            199,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SHOULD PROMOTION BE REPEATED?",
+        "box": [
+            122,
+            758,
+            227,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "IF NO, EXPLAIN:",
+        "box": [
+            123,
+            788,
+            115,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "This model/ type of sunglass was not received well at",
+        "box": [
+            247,
+            784,
+            340,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "consumer/ retail level.",
+        "box": [
+            123,
+            813,
+            142,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "IF YES, CAN IT BE IMPROVED?",
+        "box": [
+            123,
+            838,
+            213,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Velcro on strap did not hold. Two right",
+        "box": [
+            345,
+            835,
+            267,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "sides of velcro on same glass did not adhere.",
+        "box": [
+            126,
+            860,
+            292,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R 9 95",
+        "box": [
+            591,
+            881,
+            57,
+            80
+        ],
+        "class": "other"
+    }
+]

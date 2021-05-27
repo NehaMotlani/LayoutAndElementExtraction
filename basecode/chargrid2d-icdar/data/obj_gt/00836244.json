@@ -1,0 +1,932 @@
+﻿[
+    {
+        "text": "COMPOUND",
+        "box": [
+            74,
+            119,
+            50,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SOURCE:",
+        "box": [
+            74,
+            154,
+            41,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "INVESTIGATOR(S)",
+        "box": [
+            74,
+            214,
+            74,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SIGNATURE(S)",
+        "box": [
+            75,
+            243,
+            63,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LORILLARD",
+        "box": [
+            404,
+            154,
+            46,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NO",
+        "box": [
+            451,
+            155,
+            17,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REPORTED:",
+        "box": [
+            501,
+            186,
+            50,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LOT",
+        "box": [
+            612,
+            154,
+            17,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NO.",
+        "box": [
+            630,
+            155,
+            21,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CONCLUSION",
+        "box": [
+            77,
+            796,
+            54,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TA98",
+        "box": [
+            531,
+            374,
+            21,
+            10
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "TA100",
+        "box": [
+            405,
+            374,
+            24,
+            10
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "TA1535",
+        "box": [
+            278,
+            373,
+            31,
+            11
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "TESTED",
+        "box": [
+            320,
+            182,
+            32,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SOLVENT",
+        "box": [
+            485,
+            300,
+            41,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "DMSC",
+        "box": [
+            554,
+            302,
+            25,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☑",
+        "box": [
+            538,
+            303,
+            14,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "50",
+        "box": [
+            284,
+            303,
+            11,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "80",
+        "box": [
+            349,
+            304,
+            11,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "100",
+        "box": [
+            415,
+            303,
+            18,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".5",
+        "box": [
+            352,
+            332,
+            17,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".90",
+        "box": [
+            507,
+            497,
+            27,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".96",
+        "box": [
+            563,
+            478,
+            27,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".92",
+        "box": [
+            563,
+            500,
+            27,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".85",
+        "box": [
+            563,
+            521,
+            28,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".88",
+        "box": [
+            451,
+            475,
+            28,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".97",
+        "box": [
+            454,
+            500,
+            24,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".92",
+        "box": [
+            453,
+            521,
+            27,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".92",
+        "box": [
+            313,
+            473,
+            29,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".79",
+        "box": [
+            316,
+            499,
+            25,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".83",
+        "box": [
+            316,
+            521,
+            25,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".97",
+        "box": [
+            388,
+            496,
+            28,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "500",
+        "box": [
+            137,
+            475,
+            31,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "250",
+        "box": [
+            140,
+            500,
+            25,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "125",
+        "box": [
+            138,
+            521,
+            31,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4",
+        "box": [
+            138,
+            634,
+            14,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2",
+        "box": [
+            137,
+            656,
+            15,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".86",
+        "box": [
+            260,
+            658,
+            29,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": ".30",
+        "box": [
+            508,
+            654,
+            27,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "00836244",
+        "box": [
+            728,
+            806,
+            18,
+            96
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            668,
+            13,
+            44,
+            20
+        ],
+        "class": "other"
+    },
+    {
+        "text": "AMES ASSAY FOR MUTAGENICITY",
+        "box": [
+            260,
+            71,
+            284,
+            26
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "2, 4- Dihydroxypyridine",
+        "box": [
+            145,
+            112,
+            198,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Lorillard - Organic Chemistry",
+        "box": [
+            137,
+            144,
+            267,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "OR61 -2",
+        "box": [
+            483,
+            141,
+            59,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DATE RECEIVED",
+        "box": [
+            74,
+            183,
+            70,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "9 /3 /80",
+        "box": [
+            175,
+            176,
+            56,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "9 /10 /80 -10 /10 /80",
+        "box": [
+            363,
+            172,
+            152,
+            23
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10 /10 /80",
+        "box": [
+            616,
+            173,
+            74,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "H. S. Tong & A. A. Poole",
+        "box": [
+            175,
+            203,
+            222,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "NOTEBOOK PAGE",
+        "box": [
+            535,
+            214,
+            75,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BIO7 -24",
+        "box": [
+            633,
+            205,
+            65,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            186,
+            229,
+            420,
+            39
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "TOXICITY (% SURVIVAL)",
+        "box": [
+            77,
+            300,
+            96,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CONCENTRATION 1mgimit",
+        "box": [
+            75,
+            327,
+            102,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ OTHER",
+        "box": [
+            538,
+            328,
+            47,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ WATER",
+        "box": [
+            588,
+            303,
+            49,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "S. TYPHIMURIUM",
+        "box": [
+            75,
+            370,
+            71,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CONTROL AFVERTANTS PER PLATE (0.05 ml SOLVENT)",
+        "box": [
+            74,
+            406,
+            120,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(-) 9",
+        "box": [
+            249,
+            388,
+            27,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(+) ",
+        "box": [
+            310,
+            388,
+            25,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            373,
+            388,
+            25,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(+) ",
+        "box": [
+            433,
+            390,
+            26,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(-) ",
+        "box": [
+            496,
+            390,
+            26,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(+) ",
+        "box": [
+            557,
+            390,
+            26,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(-) ",
+        "box": [
+            624,
+            390,
+            26,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(+) ",
+        "box": [
+            684,
+            390,
+            27,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "4 .67",
+        "box": [
+            239,
+            419,
+            40,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "8 .00",
+        "box": [
+            300,
+            418,
+            43,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "123 .00",
+        "box": [
+            359,
+            419,
+            55,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "135 .33",
+        "box": [
+            423,
+            419,
+            57,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3 .33.33",
+        "box": [
+            496,
+            422,
+            38,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "16 .00",
+        "box": [
+            543,
+            420,
+            47,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1. 00",
+        "box": [
+            250,
+            497,
+            35,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "COMPOUND (US plate)",
+        "box": [
+            77,
+            454,
+            86,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REVERSION RATE (TEST REVERSANTS/CONTROL REVERTANTS PER PLATE",
+        "box": [
+            314,
+            455,
+            317,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "POSTIVE CONTROL (ug plate)",
+        "box": [
+            77,
+            585,
+            77,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2- AMINOANTHHACENE",
+        "box": [
+            77,
+            615,
+            89,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1. 20",
+        "box": [
+            250,
+            631,
+            35,
+            20
+        ],
+        "class": "other"
+    },
+    {
+        "text": "8 .63",
+        "box": [
+            303,
+            631,
+            41,
+            19
+        ],
+        "class": "other"
+    },
+    {
+        "text": "1 .39",
+        "box": [
+            366,
+            633,
+            44,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "7 .26",
+        "box": [
+            434,
+            634,
+            38,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "1 .80",
+        "box": [
+            499,
+            631,
+            36,
+            19
+        ],
+        "class": "other"
+    },
+    {
+        "text": "27 .69",
+        "box": [
+            553,
+            634,
+            46,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "24 .13",
+        "box": [
+            554,
+            655,
+            45,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "6 .07",
+        "box": [
+            433,
+            656,
+            39,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "1 .24",
+        "box": [
+            369,
+            656,
+            39,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "4 .75",
+        "box": [
+            304,
+            656,
+            43,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "This compound is judged non mutagenic in this test system.",
+        "box": [
+            166,
+            785,
+            545,
+            24
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Copies to the following:",
+        "box": [
+            138,
+            832,
+            223,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Dr. H. J. Minnemeyer Ms. L. B. Gray",
+        "box": [
+            377,
+            832,
+            187,
+            39
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "FORM (5/80)",
+        "box": [
+            670,
+            947,
+            60,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "LORILLARD RESEARCH CENTER",
+        "box": [
+            75,
+            946,
+            132,
+            14
+        ],
+        "class": "other"
+    }
+]

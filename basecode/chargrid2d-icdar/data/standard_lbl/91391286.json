@@ -1,0 +1,486 @@
+﻿[
+    {
+        "value": "FROM:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            108,
+            117,
+            46,
+            17
+        ]
+    },
+    {
+        "value": "TO:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            108,
+            152,
+            25,
+            13
+        ]
+    },
+    {
+        "value": "CC:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            108,
+            184,
+            25,
+            13
+        ]
+    },
+    {
+        "value": "MEDIA",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            108,
+            282,
+            42,
+            14
+        ]
+    },
+    {
+        "value": "CIRCULATION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            108,
+            459,
+            89,
+            17
+        ]
+    },
+    {
+        "value": "1",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            337,
+            311,
+            11,
+            13
+        ]
+    },
+    {
+        "value": "5/19/93",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            335,
+            381,
+            57,
+            15
+        ]
+    },
+    {
+        "value": "11/30/93",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            337,
+            409,
+            64,
+            17
+        ]
+    },
+    {
+        "value": "25,461",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            334,
+            473,
+            49,
+            15
+        ]
+    },
+    {
+        "value": "PACK",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            337,
+            571,
+            36,
+            13
+        ]
+    },
+    {
+        "value": "2/3/93",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            366,
+            655,
+            78,
+            39
+        ]
+    },
+    {
+        "value": "8482",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            554,
+            761,
+            50,
+            20
+        ]
+    },
+    {
+        "value": "1.54",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            581,
+            797,
+            45,
+            17
+        ]
+    },
+    {
+        "value": "9076",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            568,
+            781,
+            52,
+            15
+        ]
+    },
+    {
+        "value": "91391286",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            742,
+            774,
+            18,
+            73
+        ]
+    },
+    {
+        "value": "COUPON CODE REGISTRATION FORM",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            328,
+            82,
+            243,
+            17
+        ]
+    },
+    {
+        "value": "THOM SMITH",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            161,
+            117,
+            84,
+            15
+        ]
+    },
+    {
+        "value": "VINCE LOSITO",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            148,
+            149,
+            94,
+            15
+        ]
+    },
+    {
+        "value": "T. BAYLIES, L GIORDANO, V. LINDSLEY, M. MCGLYNN, S RAPISARLDI,",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            145,
+            180,
+            446,
+            18
+        ]
+    },
+    {
+        "value": "B. maj ",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            589,
+            165,
+            70,
+            29
+        ]
+    },
+    {
+        "value": "HARLEY- DAVIDSON",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            338,
+            250,
+            116,
+            14
+        ]
+    },
+    {
+        "value": "MAGAZINE- HOT ROD",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            337,
+            281,
+            141,
+            14
+        ]
+    },
+    {
+        "value": "BRANDS(S) APPLICABLE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            106,
+            247,
+            156,
+            19
+        ]
+    },
+    {
+        "value": "ISSUE FREQUENCY/ YEAR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            313,
+            166,
+            15
+        ]
+    },
+    {
+        "value": "SPACE/ COLOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            346,
+            97,
+            17
+        ]
+    },
+    {
+        "value": "FULL PAGE",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            334,
+            339,
+            75,
+            15
+        ]
+    },
+    {
+        "value": "COUPON ISSUE DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            106,
+            378,
+            141,
+            16
+        ]
+    },
+    {
+        "value": "COUPON EXPIRATION DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            108,
+            411,
+            180,
+            15
+        ]
+    },
+    {
+        "value": "GEOGRAPHICAL AREA(S)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            106,
+            507,
+            160,
+            17
+        ]
+    },
+    {
+        "value": "TOTAL HOUSTON, GALVESTON, MINNEAPOLIS, ST. PAUL, DULUTH",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            335,
+            503,
+            417,
+            18
+        ]
+    },
+    {
+        "value": "COUPON VALUE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            539,
+            108,
+            16
+        ]
+    },
+    {
+        "value": "$ .75 OFF 1 PACK",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            334,
+            541,
+            121,
+            15
+        ]
+    },
+    {
+        "value": "PACK AND OR/ CARTOCARTON",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            106,
+            573,
+            150,
+            15
+        ]
+    },
+    {
+        "value": "ADVERTISING CREATIVE THEME",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            603,
+            210,
+            18
+        ]
+    },
+    {
+        "value": "BLUE SKY",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            338,
+            606,
+            63,
+            15
+        ]
+    },
+    {
+        "value": "SIGNATURE OF INITIATOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            637,
+            167,
+            18
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            429,
+            599,
+            205,
+            77
+        ]
+    },
+    {
+        "value": "DATE INITIATED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            108,
+            670,
+            103,
+            16
+        ]
+    },
+    {
+        "value": "ANALYTICAL REQUIREMENTS:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            108,
+            700,
+            191,
+            21
+        ]
+    },
+    {
+        "value": "FOR CONTROL USE ONLY:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            325,
+            732,
+            173,
+            18
+        ]
+    },
+    {
+        "value": "93- 056",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            554,
+            729,
+            73,
+            18
+        ]
+    },
+    {
+        "value": "CODE ASSIGNED:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            327,
+            765,
+            113,
+            18
+        ]
+    },
+    {
+        "value": "JOB NUMBER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            325,
+            784,
+            97,
+            14
+        ]
+    },
+    {
+        "value": "EST. REDEMPTION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            325,
+            799,
+            129,
+            15
+        ]
+    }
+]

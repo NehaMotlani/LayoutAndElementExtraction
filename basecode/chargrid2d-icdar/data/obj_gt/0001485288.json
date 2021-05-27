@@ -1,0 +1,302 @@
+﻿[
+    {
+        "text": "☑",
+        "box": [
+            482,
+            102,
+            15,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "20",
+        "box": [
+            345,
+            454,
+            17,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "620745255",
+        "box": [
+            506,
+            848,
+            117,
+            21
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Signed",
+        "box": [
+            420,
+            899,
+            54,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Free",
+        "box": [
+            584,
+            458,
+            32,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DC B38 (8 78)",
+        "box": [
+            39,
+            29,
+            66,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "BROWN & WILLIAMSON TOBACCO CORPORATION LOUISVILLE, KENTUCKY 40201",
+        "box": [
+            200,
+            59,
+            325,
+            28
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "SPECIAL SAMPLE MANUFACTURE",
+        "box": [
+            250,
+            101,
+            223,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SHIPMENT ☐",
+        "box": [
+            405,
+            123,
+            94,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TRANSFER ☐",
+        "box": [
+            406,
+            142,
+            90,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REDUCED TO MATERIAL ☐",
+        "box": [
+            311,
+            162,
+            186,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date of Request",
+        "box": [
+            436,
+            186,
+            129,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Account Number",
+        "box": [
+            436,
+            201,
+            121,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "6/ 25/ 81",
+        "box": [
+            610,
+            182,
+            52,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "22 244 00",
+        "box": [
+            596,
+            204,
+            66,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Copies to:",
+        "box": [
+            43,
+            168,
+            87,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Factory Cost Dept. Writer Development Center Sue Livesay",
+        "box": [
+            128,
+            198,
+            156,
+            58
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Sample Disposition",
+        "box": [
+            42,
+            338,
+            158,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Quantity, Cartons of 200 each",
+        "box": [
+            296,
+            383,
+            149,
+            29
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Tax Status Paid or Free",
+        "box": [
+            553,
+            383,
+            106,
+            31
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "To Sample Stock",
+        "box": [
+            59,
+            422,
+            130,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "R & D",
+        "box": [
+            99,
+            451,
+            28,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "M. R.",
+        "box": [
+            101,
+            482,
+            30,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Method of Shipment",
+        "box": [
+            54,
+            549,
+            158,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cigarette Description",
+        "box": [
+            36,
+            592,
+            184,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "KS 1 mg grooved product using 4. 3/ 37 filter material. Cigarette code 244131",
+        "box": [
+            127,
+            634,
+            377,
+            44
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Special Instructions & Comments",
+        "box": [
+            36,
+            718,
+            269,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Completion Date",
+        "box": [
+            34,
+            895,
+            130,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "6/ 25/ 81",
+        "box": [
+            221,
+            895,
+            51,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "B. D. WINGLER",
+        "box": [
+            511,
+            899,
+            94,
+            14
+        ],
+        "class": "value_answer"
+    }
+]

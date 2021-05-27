@@ -1,0 +1,1012 @@
+﻿[
+    {
+        "text": "Date:",
+        "box": [
+            78,
+            70,
+            36,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Description:",
+        "box": [
+            78,
+            96,
+            88,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Budgeted:",
+        "box": [
+            313,
+            138,
+            61,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Yes",
+        "box": [
+            507,
+            126,
+            22,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Yes",
+        "box": [
+            508,
+            138,
+            22,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No",
+        "box": [
+            570,
+            137,
+            15,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No",
+        "box": [
+            570,
+            123,
+            15,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "x",
+        "box": [
+            538,
+            127,
+            15,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            539,
+            140,
+            14,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "23.3",
+        "box": [
+            534,
+            152,
+            34,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Supplier",
+        "box": [
+            99,
+            193,
+            61,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cost",
+        "box": [
+            274,
+            194,
+            34,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "($)",
+        "box": [
+            313,
+            191,
+            18,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Est.",
+        "box": [
+            376,
+            177,
+            25,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Travel",
+        "box": [
+            366,
+            194,
+            42,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Kapuler",
+        "box": [
+            78,
+            219,
+            54,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PROJECTED:",
+        "box": [
+            75,
+            278,
+            75,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Date",
+        "box": [
+            427,
+            669,
+            34,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            429,
+            696,
+            32,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            430,
+            722,
+            31,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            427,
+            749,
+            32,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            427,
+            777,
+            32,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "cc:",
+        "box": [
+            78,
+            821,
+            28,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1990",
+        "box": [
+            534,
+            277,
+            39,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "370,000.00",
+        "box": [
+            510,
+            292,
+            87,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "199,900.00",
+        "box": [
+            510,
+            318,
+            85,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "-35,675,00",
+        "box": [
+            504,
+            345,
+            92,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "-O-",
+        "box": [
+            434,
+            388,
+            31,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "164,225.00",
+        "box": [
+            510,
+            440,
+            87,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "205,775.00",
+        "box": [
+            507,
+            483,
+            89,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Product",
+        "box": [
+            494,
+            527,
+            61,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Test",
+        "box": [
+            563,
+            528,
+            34,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "400",
+        "box": [
+            233,
+            570,
+            27,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Kapuler",
+        "box": [
+            242,
+            598,
+            50,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            237,
+            764,
+            71,
+            54
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Howard",
+        "box": [
+            285,
+            789,
+            54,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            260,
+            791,
+            21,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            243,
+            792,
+            17,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "BARCLAY",
+        "box": [
+            486,
+            832,
+            50,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "670801704",
+        "box": [
+            532,
+            862,
+            119,
+            27
+        ],
+        "class": "other"
+    },
+    {
+        "text": "6",
+        "box": [
+            538,
+            67,
+            15,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "No.",
+        "box": [
+            478,
+            70,
+            22,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MARKETING RESEARCH AUTHORIZATION",
+        "box": [
+            237,
+            42,
+            222,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "(Recommended Proposal Attached)",
+        "box": [
+            242,
+            54,
+            216,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Y- 1 Ultra 100' s vs. Winston Ultra 100' s",
+        "box": [
+            170,
+            95,
+            277,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "W. T. Carpenter",
+        "box": [
+            176,
+            124,
+            108,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Requested By:",
+        "box": [
+            80,
+            124,
+            93,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Research Request Attached:",
+        "box": [
+            311,
+            124,
+            185,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Original Budgeted Amount",
+        "box": [
+            310,
+            149,
+            173,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Competitive Proposals Obtained:",
+        "box": [
+            80,
+            165,
+            219,
+            16
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Market Facts",
+        "box": [
+            80,
+            247,
+            86,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$ 33,675 + 10% Est.",
+        "box": [
+            236,
+            221,
+            111,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$ 35,000 + 10 % Est.",
+        "box": [
+            235,
+            247,
+            113,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Total Cost",
+        "box": [
+            448,
+            191,
+            76,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cost Per Interview",
+        "box": [
+            553,
+            180,
+            71,
+            28
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "$ 35,675",
+        "box": [
+            437,
+            219,
+            54,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$ 37000",
+        "box": [
+            437,
+            246,
+            52,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$ 2000",
+        "box": [
+            353,
+            219,
+            41,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$ 2000",
+        "box": [
+            355,
+            247,
+            35,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$ 84.2",
+        "box": [
+            550,
+            221,
+            40,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$ 87.5",
+        "box": [
+            552,
+            247,
+            36,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Internal Init. Date",
+        "box": [
+            77,
+            289,
+            139,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "4/ ",
+        "box": [
+            232,
+            288,
+            54,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "12/ 90",
+        "box": [
+            233,
+            314,
+            52,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Ext. Auth. Date Wave (s)",
+        "box": [
+            77,
+            317,
+            113,
+            32
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Field Complete Wave (s)",
+        "box": [
+            81,
+            401,
+            104,
+            33
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "6/ 10/ 90",
+        "box": [
+            232,
+            399,
+            53,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Final Report Due (Supplier Rpt.) Wave (s)",
+        "box": [
+            77,
+            471,
+            119,
+            44
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "7/ 9/ 90",
+        "box": [
+            233,
+            468,
+            48,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Summary of MRD Budget",
+        "box": [
+            318,
+            275,
+            149,
+            19
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Total Area Budget:",
+        "box": [
+            317,
+            289,
+            131,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Current Bal. Available:",
+        "box": [
+            317,
+            317,
+            164,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "This Change: (From Current Budget",
+        "box": [
+            316,
+            345,
+            147,
+            32
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "This Amount",
+        "box": [
+            318,
+            388,
+            79,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(From Next Year's Budget",
+        "box": [
+            317,
+            402,
+            175,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "New Balance",
+        "box": [
+            318,
+            444,
+            84,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Commited to Date: (Current Year)",
+        "box": [
+            317,
+            485,
+            128,
+            31
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Project Type",
+        "box": [
+            387,
+            524,
+            85,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(Product Test, A&U, etc.)",
+        "box": [
+            446,
+            541,
+            175,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Sample Size",
+        "box": [
+            78,
+            568,
+            85,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Recommended Supplier",
+        "box": [
+            80,
+            596,
+            149,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Reason (s) for Recommendation",
+        "box": [
+            80,
+            623,
+            203,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Lowest project costs",
+        "box": [
+            297,
+            623,
+            141,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Submitted by:",
+        "box": [
+            78,
+            662,
+            92,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            77,
+            694,
+            88,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            77,
+            721,
+            88,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            78,
+            747,
+            88,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Budget Check:",
+        "box": [
+            80,
+            777,
+            92,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Original -",
+        "box": [
+            80,
+            806,
+            73,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MRD00005 (revised 3/ 20) PPs 0425",
+        "box": [
+            77,
+            848,
+            118,
+            30
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            230,
+            658,
+            146,
+            32
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "L. E. Gravely",
+        "box": [
+            242,
+            689,
+            102,
+            42
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "5/ 2/ 90",
+        "box": [
+            478,
+            656,
+            77,
+            33
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "5/3 90",
+        "box": [
+            472,
+            684,
+            76,
+            33
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "5/ 3/ 90",
+        "box": [
+            478,
+            758,
+            63,
+            42
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1990- 488",
+        "box": [
+            487,
+            820,
+            59,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Project No.",
+        "box": [
+            387,
+            820,
+            77,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Account Name",
+        "box": [
+            387,
+            835,
+            85,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Project File",
+        "box": [
+            159,
+            804,
+            84,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "S. Willinger (3)",
+        "box": [
+            155,
+            820,
+            117,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "K. A. Hutchison S. A. Howard",
+        "box": [
+            154,
+            834,
+            200,
+            18
+        ],
+        "class": "value_answer"
+    }
+]

@@ -1,0 +1,862 @@
+﻿[
+    {
+        "text": "0465E",
+        "box": [
+            627,
+            51,
+            39,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "($000)",
+        "box": [
+            338,
+            126,
+            41,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Title",
+        "box": [
+            49,
+            147,
+            34,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Purpose",
+        "box": [
+            46,
+            176,
+            50,
+            12
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "1",
+        "box": [
+            75,
+            193,
+            10,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2",
+        "box": [
+            74,
+            207,
+            10,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "3",
+        "box": [
+            74,
+            221,
+            10,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "4",
+        "box": [
+            74,
+            236,
+            11,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "7",
+        "box": [
+            365,
+            237,
+            12,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "5",
+        "box": [
+            364,
+            197,
+            11,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "6",
+        "box": [
+            365,
+            212,
+            15,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Status",
+        "box": [
+            46,
+            259,
+            45,
+            12
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Proposed",
+        "box": [
+            202,
+            277,
+            60,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved;",
+        "box": [
+            206,
+            292,
+            62,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TOTAL",
+        "box": [
+            468,
+            281,
+            40,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CAPITAL",
+        "box": [
+            539,
+            282,
+            51,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EXPENSE",
+        "box": [
+            612,
+            283,
+            51,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Completion",
+        "box": [
+            481,
+            335,
+            75,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Mo.",
+        "box": [
+            569,
+            352,
+            24,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Yr.",
+        "box": [
+            625,
+            352,
+            25,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Submission",
+        "box": [
+            162,
+            333,
+            69,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Yr.",
+        "box": [
+            248,
+            347,
+            24,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Start",
+        "box": [
+            312,
+            333,
+            34,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Mo.",
+        "box": [
+            365,
+            349,
+            22,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Yr.",
+        "box": [
+            423,
+            350,
+            20,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "88",
+        "box": [
+            251,
+            330,
+            15,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            183,
+            276,
+            12,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "80",
+        "box": [
+            490,
+            296,
+            17,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "80",
+        "box": [
+            565,
+            296,
+            17,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0",
+        "box": [
+            636,
+            297,
+            15,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "88",
+        "box": [
+            627,
+            337,
+            16,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "11",
+        "box": [
+            574,
+            335,
+            14,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "88",
+        "box": [
+            420,
+            333,
+            16,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "7",
+        "box": [
+            372,
+            334,
+            14,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CAPITAL",
+        "box": [
+            431,
+            617,
+            50,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EXPENSE",
+        "box": [
+            433,
+            630,
+            49,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CAPITAL",
+        "box": [
+            65,
+            616,
+            50,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EXPENSE",
+        "box": [
+            65,
+            630,
+            47,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1989",
+        "box": [
+            147,
+            600,
+            29,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "80",
+        "box": [
+            146,
+            617,
+            16,
+            9
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0",
+        "box": [
+            153,
+            631,
+            9,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "JAN.",
+        "box": [
+            105,
+            709,
+            27,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "-MAR.",
+        "box": [
+            132,
+            709,
+            35,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "APR.",
+        "box": [
+            178,
+            709,
+            30,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "-JUN.",
+        "box": [
+            208,
+            709,
+            32,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "JUL.",
+        "box": [
+            252,
+            712,
+            30,
+            9
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "-DEC",
+        "box": [
+            357,
+            712,
+            34,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TOTAL",
+        "box": [
+            419,
+            714,
+            34,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EXPENSE",
+        "box": [
+            42,
+            763,
+            50,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CAPITAL",
+        "box": [
+            42,
+            737,
+            50,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "-SEP",
+        "box": [
+            282,
+            712,
+            35,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OCT.",
+        "box": [
+            329,
+            712,
+            27,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "YEAR",
+        "box": [
+            495,
+            673,
+            26,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EXPENSE",
+        "box": [
+            616,
+            673,
+            50,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CAPITAL",
+        "box": [
+            549,
+            673,
+            47,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1990",
+        "box": [
+            495,
+            711,
+            27,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1991",
+        "box": [
+            494,
+            739,
+            27,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1992",
+        "box": [
+            493,
+            767,
+            29,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1993",
+        "box": [
+            493,
+            794,
+            30,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "621099940J",
+        "box": [
+            525,
+            897,
+            105,
+            20
+        ],
+        "class": "other"
+    },
+    {
+        "text": "FA 956 (5- 85) g1 0081. (d)",
+        "box": [
+            41,
+            36,
+            84,
+            31
+        ],
+        "class": "other"
+    },
+    {
+        "text": "BROWN & WILLIAMSON TOBACCO CORPORATION CAPITAL BUDGET PROJECT R&D",
+        "box": [
+            231,
+            57,
+            266,
+            57
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Date Submitted",
+        "box": [
+            560,
+            128,
+            96,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Capital Budget",
+        "box": [
+            61,
+            122,
+            100,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CICARETTE TEST STATION (CT5400)",
+        "box": [
+            76,
+            165,
+            212,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Maintenance of Existing Business",
+        "box": [
+            113,
+            192,
+            223,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Expansion of Existing Business",
+        "box": [
+            116,
+            206,
+            206,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "New Products",
+        "box": [
+            115,
+            221,
+            85,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cost Reduction",
+        "box": [
+            117,
+            234,
+            101,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Compliance with Outside Requirements",
+        "box": [
+            406,
+            198,
+            252,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Company Improvements & Administrative Requirements",
+        "box": [
+            408,
+            212,
+            255,
+            29
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Quality Improvement",
+        "box": [
+            408,
+            238,
+            132,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "This Project is",
+        "box": [
+            66,
+            276,
+            107,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Proposal No.",
+        "box": [
+            272,
+            291,
+            82,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Estimate Cost",
+        "box": [
+            456,
+            264,
+            90,
+            11
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Project Dates",
+        "box": [
+            41,
+            315,
+            91,
+            12
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "PROJECT DESCRIPTION",
+        "box": [
+            45,
+            369,
+            136,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "The Cigarette Test Station (CTS400) combines many of the stand- alone instruments that R&D currently uses to measure cigarette weight, pressure drop, ventilation, and hardness into one compact module. The CTS400 has the additional measurement of cigarette hardness in comparison with the CTS300. With this added, measurement R&D will be able to replace the Firmness Integrator that measures cigarette firmness in addition to other measurements that are mentioned above. The Firmness Integrator is no longer manufactured and parts are becoming difficult to obtain. Lastly, purchase of this instrument would provide similar capability as the Macon Plant and help facilitate comparisions between laboratories.",
+        "box": [
+            65,
+            399,
+            596,
+            124
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ESTIMATED SPENDING SCHEDULE",
+        "box": [
+            268,
+            577,
+            187,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Balance to Spend",
+        "box": [
+            403,
+            602,
+            112,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Spent Prior to",
+        "box": [
+            44,
+            600,
+            97,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1989 SPENDING BY QUARTER",
+        "box": [
+            193,
+            668,
+            166,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Approved by",
+        "box": [
+            394,
+            844,
+            81,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Submitted by",
+        "box": [
+            42,
+            840,
+            83,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "W. O. Crain",
+        "box": [
+            61,
+            858,
+            79,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Beyond 1993",
+        "box": [
+            485,
+            808,
+            42,
+            22
+        ],
+        "class": "value_answer"
+    }
+]

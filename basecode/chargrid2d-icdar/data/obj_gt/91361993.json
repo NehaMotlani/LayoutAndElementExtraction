@@ -1,0 +1,402 @@
+﻿[
+    {
+        "text": "DATE:",
+        "box": [
+            115,
+            172,
+            46,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TIME:",
+        "box": [
+            244,
+            173,
+            39,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MANUFACTURER:",
+        "box": [
+            64,
+            225,
+            122,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "91361993",
+        "box": [
+            733,
+            824,
+            17,
+            71
+        ],
+        "class": "other"
+    },
+    {
+        "text": "cc:",
+        "box": [
+            66,
+            751,
+            24,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NEW COMPETITIVE PRODUCTS",
+        "box": [
+            295,
+            59,
+            218,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "C. M. WIECHMANN, D. M. , LUBBOCK, TX",
+        "box": [
+            184,
+            117,
+            308,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "REPORTED BY",
+        "box": [
+            63,
+            119,
+            101,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "10 /5 /92",
+        "box": [
+            170,
+            172,
+            63,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R. J. REYNOLDS",
+        "box": [
+            229,
+            222,
+            129,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CARDINAL CIGARETTES (11 PACKINGS)",
+        "box": [
+            194,
+            278,
+            305,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BRAND NAME:",
+        "box": [
+            63,
+            278,
+            99,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TYPE OF PRODUCT:",
+        "box": [
+            64,
+            332,
+            76,
+            36
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SIZE OR SIZES:",
+        "box": [
+            63,
+            398,
+            110,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LIST PRICE:",
+        "box": [
+            64,
+            454,
+            86,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EXTENT OF DISTRIBUTION:",
+        "box": [
+            64,
+            507,
+            108,
+            33
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OTHER INFORMATION:",
+        "box": [
+            64,
+            608,
+            111,
+            37
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SEE ATTACHMENT",
+        "box": [
+            235,
+            624,
+            129,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "K. P. Augustyn",
+        "box": [
+            534,
+            763,
+            97,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "V. D. Lindsley",
+        "box": [
+            532,
+            779,
+            93,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "R. D. Hammer",
+        "box": [
+            532,
+            797,
+            97,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "J. J. Tatulli",
+        "box": [
+            355,
+            764,
+            75,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "L. H. Kersh",
+        "box": [
+            355,
+            781,
+            77,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "J. R. Slater",
+        "box": [
+            355,
+            799,
+            74,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "A. Pasheluk",
+        "box": [
+            356,
+            818,
+            78,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "R. R. S. Goldbrenner",
+        "box": [
+            353,
+            834,
+            121,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "N. Simeonidis",
+        "box": [
+            356,
+            852,
+            92,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "S. F. Smith",
+        "box": [
+            356,
+            867,
+            74,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "F. J. Schultz",
+        "box": [
+            222,
+            767,
+            85,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "A. W. Spears",
+        "box": [
+            222,
+            781,
+            88,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "N. P. Ruffalo",
+        "box": [
+            222,
+            799,
+            85,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "T. L. Achey",
+        "box": [
+            225,
+            818,
+            75,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "P. J. McCann",
+        "box": [
+            222,
+            835,
+            92,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "A. J. Giacoio",
+        "box": [
+            223,
+            852,
+            87,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "A. H. Tisch",
+        "box": [
+            66,
+            767,
+            71,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "R. H. Orcutt",
+        "box": [
+            67,
+            785,
+            79,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "M. A. Peterson",
+        "box": [
+            66,
+            802,
+            98,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "M. L. Orlowsky",
+        "box": [
+            66,
+            818,
+            99,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "L. Gordon",
+        "box": [
+            66,
+            838,
+            65,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "G. Telford",
+        "box": [
+            66,
+            855,
+            71,
+            15
+        ],
+        "class": "other"
+    }
+]

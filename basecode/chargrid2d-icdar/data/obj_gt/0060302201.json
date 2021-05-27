@@ -1,0 +1,342 @@
+﻿[
+    {
+        "text": "NAME:",
+        "box": [
+            54,
+            119,
+            39,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMMENTS:",
+        "box": [
+            53,
+            545,
+            67,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "none",
+        "box": [
+            126,
+            548,
+            41,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DIVISION",
+        "box": [
+            382,
+            119,
+            65,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMMENTS",
+        "box": [
+            54,
+            742,
+            57,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "yes",
+        "box": [
+            351,
+            285,
+            34,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RESEARCH COMPLETED OR IN PROGRESS WHICH HAS POSSIBILITIES FOR PRESENTATION OR PUBLICATION",
+        "box": [
+            164,
+            58,
+            394,
+            35
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Ronald. W Davis",
+        "box": [
+            107,
+            120,
+            113,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Analytical- Radiochemistry",
+        "box": [
+            452,
+            118,
+            184,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "NATURE OF WORK:",
+        "box": [
+            53,
+            145,
+            108,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Total aldehyde analysis in cigarette mainstream ",
+        "box": [
+            171,
+            143,
+            385,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PRESENT STATUS OF WORK (Cite progress reports where appropriate)",
+        "box": [
+            54,
+            198,
+            453,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Techniques worked out",
+        "box": [
+            512,
+            202,
+            153,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "and reported for pure aldehyde samples; must be adapted for cigarette mainstream smoke by further laboratory work",
+        "box": [
+            55,
+            228,
+            612,
+            47
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "HAS WORK BEEN REPORTED IN MANUSCRIPT ",
+        "box": [
+            54,
+            284,
+            297,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "IF SO, GIVE DATE AND TITLE:",
+        "box": [
+            397,
+            284,
+            198,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MBTH- reagent for analysis of aliphatic aldehydes 7 / 5 / 67",
+        "box": [
+            53,
+            314,
+            445,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "NAMES OF OTHER PERSONS COLLABORATING IN WORK:",
+        "box": [
+            54,
+            343,
+            320,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "L. W. McDowell",
+        "box": [
+            382,
+            343,
+            106,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ESTIMATE OF TIME NEEDED TO COMPLETE WORK:",
+        "box": [
+            55,
+            400,
+            291,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "approximately one month",
+        "box": [
+            354,
+            402,
+            169,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ESTIMATE OF TIME NEEDED TO PREPARE MANUSCRIPT FOR PRESENTATION:",
+        "box": [
+            54,
+            429,
+            446,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "several weeks after completion",
+        "box": [
+            500,
+            426,
+            217,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ESTIMATE OF TIME NEEDED TO PREPARE MANUSCRIPT FOR PUBLICATION:",
+        "box": [
+            55,
+            458,
+            440,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "several weeks after completion of work",
+        "box": [
+            500,
+            456,
+            218,
+            29
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SCIENTIFIC METING OF CHOICE:",
+        "box": [
+            51,
+            487,
+            209,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "none as yet",
+        "box": [
+            259,
+            489,
+            85,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SCIENTIFIC JOURNAL OF CHOICE:",
+        "box": [
+            53,
+            513,
+            209,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Tobacco Science",
+        "box": [
+            262,
+            515,
+            109,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "COMMENTS BY MANAGER OR DIRECTOR",
+        "box": [
+            54,
+            656,
+            222,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DOES WORK MERIT PUBLICATION?",
+        "box": [
+            52,
+            683,
+            202,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CAN TIME BE SPARED FOR COMPLETION?",
+        "box": [
+            53,
+            711,
+            241,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "been with applicability",
+        "box": [
+            134,
+            735,
+            560,
+            30
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "may provide a technique.",
+        "box": [
+            75,
+            761,
+            524,
+            53
+        ],
+        "class": "value_answer"
+    }
+]

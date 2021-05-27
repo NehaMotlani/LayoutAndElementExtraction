@@ -1,0 +1,402 @@
+﻿[
+    {
+        "text": "B164",
+        "box": [
+            166,
+            182,
+            36,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "pH",
+        "box": [
+            99,
+            225,
+            13,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Reference:",
+        "box": [
+            135,
+            408,
+            83,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ORAL",
+        "box": [
+            120,
+            390,
+            20,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SOLUBILITY",
+        "box": [
+            103,
+            370,
+            39,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ACUTE CADCOVASCULAR",
+        "box": [
+            119,
+            508,
+            91,
+            9
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Reference:",
+        "box": [
+            135,
+            559,
+            84,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "00865872",
+        "box": [
+            634,
+            702,
+            19,
+            90
+        ],
+        "class": "other"
+    },
+    {
+        "text": "COMPOUND",
+        "box": [
+            96,
+            770,
+            43,
+            9
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TO",
+        "box": [
+            179,
+            770,
+            8,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SENSITIVE",
+        "box": [
+            140,
+            771,
+            36,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SIGNATURE:",
+        "box": [
+            96,
+            920,
+            41,
+            9
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "[] OTHER",
+        "box": [
+            259,
+            793,
+            37,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "[MOISTURE]",
+        "box": [
+            198,
+            795,
+            48,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "[] HEAT",
+        "box": [
+            158,
+            793,
+            27,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "[] Air",
+        "box": [
+            118,
+            793,
+            25,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SAFETY",
+        "box": [
+            96,
+            822,
+            28,
+            9
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            211,
+            824,
+            39,
+            8
+        ],
+        "class": "other"
+    },
+    {
+        "text": "PROCEDURE",
+        "box": [
+            251,
+            824,
+            49,
+            7
+        ],
+        "class": "other"
+    },
+    {
+        "text": "(SUGGESTED",
+        "box": [
+            164,
+            824,
+            48,
+            8
+        ],
+        "class": "other"
+    },
+    {
+        "text": "COMMENT:",
+        "box": [
+            126,
+            822,
+            36,
+            9
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            135,
+            921,
+            180,
+            23
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            499,
+            922,
+            19,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "8/22/83",
+        "box": [
+            531,
+            924,
+            88,
+            24
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "COMPOUND PHYSICAL PARAMETERS",
+        "box": [
+            246,
+            141,
+            291,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "LRC FILE NUMBER",
+        "box": [
+            98,
+            172,
+            66,
+            9
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LOT NUMBER",
+        "box": [
+            501,
+            172,
+            52,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PHYSICAL STATE",
+        "box": [
+            98,
+            198,
+            59,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Brownish- gray powder",
+        "box": [
+            169,
+            211,
+            168,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "The pH of a 50% concentration of B164 in water was calculated to be 4.82 at 25°C according to the extrapolation procedures by Dr. P. D. Schickedantz, Lorillard Research Center Accession Number 1662.",
+        "box": [
+            131,
+            267,
+            522,
+            56
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(See SOP FOX Biological Solutions)",
+        "box": [
+            152,
+            377,
+            283,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BC20- 48",
+        "box": [
+            226,
+            405,
+            60,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "B164 forms a suspension in corn oil at 0.5g/ 1.5 ml Triple dosing is required",
+        "box": [
+            130,
+            430,
+            433,
+            45
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(See SOP for Determination of Solubility of Materials for Acute Cardiovascular and Respiratory Effects Study Beagle Dogs)",
+        "box": [
+            130,
+            516,
+            553,
+            30
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BC20- 48",
+        "box": [
+            222,
+            559,
+            64,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "B164 is insoluble according to this procedure",
+        "box": [
+            131,
+            584,
+            378,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "STORAGE RECOMMENDATIONS",
+        "box": [
+            98,
+            663,
+            109,
+            9
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Refrigerate in amber glass bottle at no more than 8°C",
+        "box": [
+            134,
+            679,
+            454,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LORILLARD RESEARCH CENTER",
+        "box": [
+            94,
+            945,
+            109,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "FORM 1921",
+        "box": [
+            644,
+            949,
+            52,
+            12
+        ],
+        "class": "other"
+    }
+]

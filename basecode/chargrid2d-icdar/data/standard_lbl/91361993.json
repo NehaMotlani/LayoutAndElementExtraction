@@ -1,0 +1,442 @@
+﻿[
+    {
+        "value": "DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            115,
+            172,
+            46,
+            20
+        ]
+    },
+    {
+        "value": "TIME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            244,
+            173,
+            39,
+            18
+        ]
+    },
+    {
+        "value": "MANUFACTURER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            64,
+            225,
+            122,
+            20
+        ]
+    },
+    {
+        "value": "91361993",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            733,
+            824,
+            17,
+            71
+        ]
+    },
+    {
+        "value": "cc:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            66,
+            751,
+            24,
+            13
+        ]
+    },
+    {
+        "value": "NEW COMPETITIVE PRODUCTS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            295,
+            59,
+            218,
+            18
+        ]
+    },
+    {
+        "value": "C. M. WIECHMANN, D. M. , LUBBOCK, TX",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            184,
+            117,
+            308,
+            22
+        ]
+    },
+    {
+        "value": "REPORTED BY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            63,
+            119,
+            101,
+            19
+        ]
+    },
+    {
+        "value": "10 /5 /92",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            170,
+            172,
+            63,
+            18
+        ]
+    },
+    {
+        "value": "R. J. REYNOLDS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            229,
+            222,
+            129,
+            20
+        ]
+    },
+    {
+        "value": "CARDINAL CIGARETTES (11 PACKINGS)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            194,
+            278,
+            305,
+            20
+        ]
+    },
+    {
+        "value": "BRAND NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            63,
+            278,
+            99,
+            19
+        ]
+    },
+    {
+        "value": "TYPE OF PRODUCT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            64,
+            332,
+            76,
+            36
+        ]
+    },
+    {
+        "value": "SIZE OR SIZES:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            63,
+            398,
+            110,
+            19
+        ]
+    },
+    {
+        "value": "LIST PRICE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            64,
+            454,
+            86,
+            18
+        ]
+    },
+    {
+        "value": "EXTENT OF DISTRIBUTION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            64,
+            507,
+            108,
+            33
+        ]
+    },
+    {
+        "value": "OTHER INFORMATION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            64,
+            608,
+            111,
+            37
+        ]
+    },
+    {
+        "value": "SEE ATTACHMENT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            235,
+            624,
+            129,
+            20
+        ]
+    },
+    {
+        "value": "K. P. Augustyn",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            534,
+            763,
+            97,
+            16
+        ]
+    },
+    {
+        "value": "V. D. Lindsley",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            532,
+            779,
+            93,
+            18
+        ]
+    },
+    {
+        "value": "R. D. Hammer",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            532,
+            797,
+            97,
+            16
+        ]
+    },
+    {
+        "value": "J. J. Tatulli",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            355,
+            764,
+            75,
+            16
+        ]
+    },
+    {
+        "value": "L. H. Kersh",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            355,
+            781,
+            77,
+            17
+        ]
+    },
+    {
+        "value": "J. R. Slater",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            355,
+            799,
+            74,
+            18
+        ]
+    },
+    {
+        "value": "A. Pasheluk",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            356,
+            818,
+            78,
+            15
+        ]
+    },
+    {
+        "value": "R. R. S. Goldbrenner",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            353,
+            834,
+            121,
+            17
+        ]
+    },
+    {
+        "value": "N. Simeonidis",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            356,
+            852,
+            92,
+            17
+        ]
+    },
+    {
+        "value": "S. F. Smith",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            356,
+            867,
+            74,
+            18
+        ]
+    },
+    {
+        "value": "F. J. Schultz",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            222,
+            767,
+            85,
+            14
+        ]
+    },
+    {
+        "value": "A. W. Spears",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            222,
+            781,
+            88,
+            18
+        ]
+    },
+    {
+        "value": "N. P. Ruffalo",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            222,
+            799,
+            85,
+            16
+        ]
+    },
+    {
+        "value": "T. L. Achey",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            225,
+            818,
+            75,
+            16
+        ]
+    },
+    {
+        "value": "P. J. McCann",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            222,
+            835,
+            92,
+            16
+        ]
+    },
+    {
+        "value": "A. J. Giacoio",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            223,
+            852,
+            87,
+            17
+        ]
+    },
+    {
+        "value": "A. H. Tisch",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            66,
+            767,
+            71,
+            14
+        ]
+    },
+    {
+        "value": "R. H. Orcutt",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            67,
+            785,
+            79,
+            15
+        ]
+    },
+    {
+        "value": "M. A. Peterson",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            66,
+            802,
+            98,
+            15
+        ]
+    },
+    {
+        "value": "M. L. Orlowsky",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            66,
+            818,
+            99,
+            17
+        ]
+    },
+    {
+        "value": "L. Gordon",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            66,
+            838,
+            65,
+            14
+        ]
+    },
+    {
+        "value": "G. Telford",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            66,
+            855,
+            71,
+            15
+        ]
+    }
+]

@@ -1,0 +1,822 @@
+﻿[
+    {
+        "text": "COMPOUND",
+        "box": [
+            100,
+            115,
+            45,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SOURCE",
+        "box": [
+            100,
+            147,
+            33,
+            7
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Mapleine",
+        "box": [
+            154,
+            108,
+            72,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Crescent",
+        "box": [
+            142,
+            139,
+            67,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "TESTED:",
+        "box": [
+            328,
+            177,
+            33,
+            9
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REPORTED",
+        "box": [
+            497,
+            178,
+            43,
+            7
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "B75",
+        "box": [
+            481,
+            138,
+            31,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MALE",
+        "box": [
+            337,
+            293,
+            24,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FEMALE",
+        "box": [
+            400,
+            295,
+            33,
+            9
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SOURCE",
+        "box": [
+            401,
+            323,
+            31,
+            9
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "X",
+        "box": [
+            368,
+            289,
+            15,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "T",
+        "box": [
+            370,
+            358,
+            7,
+            7
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "P.",
+        "box": [
+            377,
+            356,
+            7,
+            7
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☑",
+        "box": [
+            359,
+            355,
+            12,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "OTHER",
+        "box": [
+            548,
+            382,
+            27,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☑",
+        "box": [
+            536,
+            382,
+            12,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1",
+        "box": [
+            133,
+            467,
+            10,
+            9
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2",
+        "box": [
+            135,
+            494,
+            9,
+            9
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3",
+        "box": [
+            135,
+            522,
+            9,
+            7
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4",
+        "box": [
+            133,
+            551,
+            9,
+            7
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "5",
+        "box": [
+            133,
+            576,
+            9,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "100",
+        "box": [
+            222,
+            470,
+            30,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "100",
+        "box": [
+            223,
+            494,
+            30,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "100",
+        "box": [
+            222,
+            552,
+            28,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "100",
+        "box": [
+            222,
+            525,
+            28,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "100",
+        "box": [
+            223,
+            579,
+            27,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "5000",
+        "box": [
+            386,
+            470,
+            34,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "6000",
+        "box": [
+            386,
+            497,
+            36,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "7200",
+        "box": [
+            386,
+            525,
+            34,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "8640",
+        "box": [
+            385,
+            554,
+            37,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10368",
+        "box": [
+            377,
+            578,
+            45,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CONCLUSION:",
+        "box": [
+            94,
+            705,
+            52,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "87672097",
+        "box": [
+            713,
+            741,
+            18,
+            90
+        ],
+        "class": "other"
+    },
+    {
+        "text": "3/5/81",
+        "box": [
+            566,
+            289,
+            56,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ACUTE TOXICITY IN MICE",
+        "box": [
+            298,
+            72,
+            200,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "LORILLARD NO",
+        "box": [
+            410,
+            147,
+            56,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LOT NO",
+        "box": [
+            600,
+            150,
+            31,
+            9
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE RECEIVED",
+        "box": [
+            100,
+            175,
+            58,
+            9
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "12 /4 /80",
+        "box": [
+            175,
+            166,
+            60,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3 /12 /81 -3 /24 /81",
+        "box": [
+            364,
+            168,
+            126,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3 /30 /81",
+        "box": [
+            558,
+            168,
+            63,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BC19 -15",
+        "box": [
+            603,
+            198,
+            60,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "NOTEBOOK PAGE:",
+        "box": [
+            533,
+            207,
+            67,
+            9
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "H. S. Tong & A. A. Poole",
+        "box": [
+            181,
+            196,
+            208,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "INVESTIGATOR (S)",
+        "box": [
+            99,
+            204,
+            65,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SIGNATURE (S)",
+        "box": [
+            99,
+            232,
+            55,
+            9
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            187,
+            214,
+            340,
+            42
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "STRAIN OF MICE",
+        "box": [
+            99,
+            292,
+            59,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Swiss- Webster",
+        "box": [
+            163,
+            287,
+            115,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DATE RECEIVED",
+        "box": [
+            484,
+            295,
+            60,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "AVERAGE WEIGHT RANGE (GM)",
+        "box": [
+            99,
+            322,
+            116,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "16- 30",
+        "box": [
+            243,
+            311,
+            41,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Camm Research",
+        "box": [
+            448,
+            314,
+            112,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ROUTE OF COMPOUND ADMINISTRATION",
+        "box": [
+            97,
+            352,
+            153,
+            11
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "☐ P. O.",
+        "box": [
+            290,
+            355,
+            30,
+            9
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ I. V.",
+        "box": [
+            424,
+            356,
+            23,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ INHALATION",
+        "box": [
+            485,
+            355,
+            63,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMPOUND VEHICLE",
+        "box": [
+            99,
+            379,
+            79,
+            9
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "☐ % METHYL CELLULOSE",
+        "box": [
+            213,
+            380,
+            114,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ CORN OIL",
+        "box": [
+            368,
+            380,
+            47,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ SALINE",
+        "box": [
+            458,
+            382,
+            39,
+            9
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "pure solution",
+        "box": [
+            582,
+            373,
+            117,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "GROUP NO.",
+        "box": [
+            118,
+            433,
+            43,
+            9
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "% SOLUTION",
+        "box": [
+            225,
+            434,
+            48,
+            9
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DOSAGE (mg/kg) BODY WEIGHT",
+        "box": [
+            365,
+            434,
+            81,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "RESULTS (NO DEAD/NO TESTED",
+        "box": [
+            570,
+            434,
+            85,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "0 /6",
+        "box": [
+            573,
+            470,
+            28,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0 /6",
+        "box": [
+            573,
+            499,
+            27,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0 /6",
+        "box": [
+            573,
+            525,
+            27,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0 /6",
+        "box": [
+            573,
+            554,
+            28,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0 /6",
+        "box": [
+            573,
+            582,
+            30,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "REFERENCE FOR CALCULATION",
+        "box": [
+            97,
+            623,
+            111,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Weil, Carrol S., Biometrics, Vol. 8, No. 3., Sept. 1952,",
+        "box": [
+            213,
+            612,
+            483,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "p. 249.",
+        "box": [
+            93,
+            642,
+            61,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LD0 = 10, 368 mg /kg",
+        "box": [
+            214,
+            669,
+            157,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LD50 95% CONFIDENCE ",
+        "box": [
+            96,
+            678,
+            114,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Higher doses were impractical. The recommended safe dose for",
+        "box": [
+            151,
+            696,
+            527,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "trial inhalation in man is 80. 6, 40. 3, or 26. 8 mg per cigarette . when smoked 1, 2 or 3 cigarettes per hour, respectively.",
+        "box": [
+            93,
+            720,
+            564,
+            50
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Copies to the following:",
+        "box": [
+            93,
+            798,
+            207,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "H. J. Minnemeyer L. B. Gray",
+        "box": [
+            314,
+            798,
+            140,
+            38
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LORILLARD RESEARCH CENTER",
+        "box": [
+            93,
+            897,
+            110,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "FORM ",
+        "box": [
+            653,
+            900,
+            52,
+            12
+        ],
+        "class": "other"
+    }
+]

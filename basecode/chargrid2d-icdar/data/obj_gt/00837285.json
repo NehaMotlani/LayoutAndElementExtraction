@@ -1,0 +1,792 @@
+﻿[
+    {
+        "text": "CLASS",
+        "box": [
+            66,
+            138,
+            25,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "A32",
+        "box": [
+            174,
+            91,
+            30,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SOLUBILITY",
+        "box": [
+            261,
+            111,
+            47,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "WATER",
+        "box": [
+            274,
+            125,
+            32,
+            7
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "OTHER",
+        "box": [
+            349,
+            123,
+            32,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MEASURED",
+        "box": [
+            394,
+            111,
+            45,
+            7
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SALT",
+        "box": [
+            405,
+            148,
+            20,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BASE",
+        "box": [
+            289,
+            148,
+            22,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ACID",
+        "box": [
+            154,
+            148,
+            22,
+            7
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "REACTIVITY",
+        "box": [
+            66,
+            174,
+            47,
+            10
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "UNCHANGED",
+        "box": [
+            248,
+            219,
+            51,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "UNCHANGED",
+        "box": [
+            244,
+            244,
+            55,
+            7
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "UNCHANGED",
+        "box": [
+            246,
+            274,
+            53,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "UNCHANCED",
+        "box": [
+            248,
+            302,
+            51,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "UNCHANGED",
+        "box": [
+            248,
+            331,
+            53,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "UNCHANGED",
+        "box": [
+            248,
+            357,
+            51,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DECOMPOSITION",
+        "box": [
+            352,
+            219,
+            66,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DECOMPOSITION",
+        "box": [
+            352,
+            244,
+            66,
+            7
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DECOMPOSITION",
+        "box": [
+            352,
+            274,
+            66,
+            7
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DECOMPOSITION",
+        "box": [
+            354,
+            302,
+            63,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DECOMPOSITION",
+        "box": [
+            354,
+            331,
+            66,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DECOMPOSITION",
+        "box": [
+            354,
+            357,
+            66,
+            7
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "UNCHANGED",
+        "box": [
+            505,
+            218,
+            50,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "UNCHANGED",
+        "box": [
+            505,
+            243,
+            50,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "UNCHANGED",
+        "box": [
+            502,
+            274,
+            53,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "UNCHANGED",
+        "box": [
+            503,
+            302,
+            51,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "UNCHANGED",
+        "box": [
+            503,
+            331,
+            51,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "UNCHANGED",
+        "box": [
+            503,
+            355,
+            53,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DECOMPOSITION",
+        "box": [
+            613,
+            218,
+            66,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DECOMPOSITION",
+        "box": [
+            611,
+            244,
+            68,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DECOMPOSITION",
+        "box": [
+            610,
+            272,
+            70,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DECOMPOSITION",
+        "box": [
+            611,
+            302,
+            66,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DECOMPOSITION",
+        "box": [
+            611,
+            329,
+            66,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DECOMPOSITION",
+        "box": [
+            610,
+            357,
+            70,
+            7
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "00837285",
+        "box": [
+            653,
+            384,
+            17,
+            86
+        ],
+        "class": "other"
+    },
+    {
+        "text": "AIR",
+        "box": [
+            81,
+            553,
+            13,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "HEAT",
+        "box": [
+            128,
+            551,
+            20,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LIGHT",
+        "box": [
+            186,
+            553,
+            22,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MOISTURE",
+        "box": [
+            243,
+            553,
+            43,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "OTHER",
+        "box": [
+            321,
+            551,
+            27,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "COMMENTS",
+        "box": [
+            68,
+            585,
+            48,
+            7
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SIGNATURE",
+        "box": [
+            71,
+            855,
+            45,
+            7
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            510,
+            854,
+            25,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            563,
+            849,
+            103,
+            43
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "11/1381",
+        "box": [
+            543,
+            90,
+            75,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "g100ml",
+        "box": [
+            676,
+            120,
+            32,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "AMOUNT",
+        "box": [
+            523,
+            121,
+            35,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OTHER",
+        "box": [
+            515,
+            146,
+            28,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ESTIMATED",
+        "box": [
+            513,
+            110,
+            48,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "24",
+        "box": [
+            713,
+            17,
+            17,
+            12
+        ],
+        "class": "other"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            508,
+            80,
+            25,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ADDENDUM II",
+        "box": [
+            367,
+            18,
+            87,
+            12
+        ],
+        "class": "other"
+    },
+    {
+        "text": "COMPOUND PHYSICAL PARAMETERS",
+        "box": [
+            224,
+            48,
+            325,
+            21
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "LRC COMPOUND CODE",
+        "box": [
+            65,
+            81,
+            89,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MOLECULAR WEIGHT",
+        "box": [
+            66,
+            110,
+            84,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "200. 29",
+        "box": [
+            159,
+            121,
+            54,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "WITHOUT HEATING",
+        "box": [
+            277,
+            199,
+            74,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DESCRIPTION OF REACTIVITY",
+        "box": [
+            394,
+            174,
+            113,
+            9
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "WITH HEATING (80C)",
+        "box": [
+            532,
+            199,
+            86,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1) WATER or BRINE:",
+        "box": [
+            85,
+            218,
+            78,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2) 5% HCL",
+        "box": [
+            88,
+            244,
+            40,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "3) 5% NaOH:",
+        "box": [
+            88,
+            272,
+            50,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "4) ALCOHOLS:",
+        "box": [
+            88,
+            302,
+            55,
+            9
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "5) OXYGEN:",
+        "box": [
+            88,
+            331,
+            46,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "6) LIGHT:",
+        "box": [
+            88,
+            357,
+            37,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SAFETY COMMENTS (SUGGESTED HANDLING PROCEDURE)",
+        "box": [
+            68,
+            377,
+            224,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "CHEMICAL PURITY",
+        "box": [
+            68,
+            472,
+            72,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ANALYTICAL METHOD(S)",
+        "box": [
+            394,
+            472,
+            95,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "STORAGE RECOMMENDATIONS",
+        "box": [
+            68,
+            510,
+            120,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NORMAL STORAGE",
+        "box": [
+            307,
+            510,
+            75,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "COMPOUND SENSITIVE TO",
+        "box": [
+            70,
+            538,
+            102,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "X SPECIAL STORAGE Refrigerate in amber bottle at no more than * C",
+        "box": [
+            487,
+            507,
+            208,
+            42
+        ],
+        "class": "other"
+    },
+    {
+        "text": "pH- The pH of a 50% concentration of A32 in a 52.6% dioxane/water solution was calculated to be 2.92 at 22°C according to the extra- polation procedures by Dr. P. D. Schickedantz, Lorillard Research Center Accession No. 1662, Reference OR 83- 125.",
+        "box": [
+            93,
+            610,
+            615,
+            61
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Solubility (See SOP for Biological Solutions)",
+        "box": [
+            93,
+            683,
+            415,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Oral- 5g A32 forms a suspension with stirring in 10 ml 1% Tween 80 at room temperature. Reference OR 72- 151.",
+        "box": [
+            93,
+            709,
+            621,
+            31
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Acute Cardiovascular- Mix 2 mg A32 with 0.2 ml 80% propylene glycol and grind lightly. Add 0.8 ml saline solution. A32 is a suspension in this mixture at room temperature. Reference OR 72- 152.",
+        "box": [
+            96,
+            754,
+            628,
+            44
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LORILLARD RESEARCH CENTER",
+        "box": [
+            71,
+            882,
+            124,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Johnson",
+        "box": [
+            95,
+            850,
+            281,
+            29
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "FORM ",
+        "box": [
+            666,
+            880,
+            59,
+            12
+        ],
+        "class": "other"
+    }
+]

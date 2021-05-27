@@ -1,0 +1,948 @@
+﻿[
+    {
+        "value": "0465E",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            627,
+            51,
+            39,
+            14
+        ]
+    },
+    {
+        "value": "($000)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            338,
+            126,
+            41,
+            16
+        ]
+    },
+    {
+        "value": "Title",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            49,
+            147,
+            34,
+            10
+        ]
+    },
+    {
+        "value": "Purpose",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            46,
+            176,
+            50,
+            12
+        ]
+    },
+    {
+        "value": "1",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            193,
+            10,
+            11
+        ]
+    },
+    {
+        "value": "2",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            207,
+            10,
+            12
+        ]
+    },
+    {
+        "value": "3",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            221,
+            10,
+            14
+        ]
+    },
+    {
+        "value": "4",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            236,
+            11,
+            11
+        ]
+    },
+    {
+        "value": "7",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            365,
+            237,
+            12,
+            15
+        ]
+    },
+    {
+        "value": "5",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            364,
+            197,
+            11,
+            14
+        ]
+    },
+    {
+        "value": "6",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            365,
+            212,
+            15,
+            10
+        ]
+    },
+    {
+        "value": "Status",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            46,
+            259,
+            45,
+            12
+        ]
+    },
+    {
+        "value": "Proposed",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            202,
+            277,
+            60,
+            14
+        ]
+    },
+    {
+        "value": "Approved;",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            206,
+            292,
+            62,
+            14
+        ]
+    },
+    {
+        "value": "TOTAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            468,
+            281,
+            40,
+            12
+        ]
+    },
+    {
+        "value": "CAPITAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            539,
+            282,
+            51,
+            14
+        ]
+    },
+    {
+        "value": "EXPENSE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            612,
+            283,
+            51,
+            12
+        ]
+    },
+    {
+        "value": "Completion",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            481,
+            335,
+            75,
+            12
+        ]
+    },
+    {
+        "value": "Mo.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            569,
+            352,
+            24,
+            12
+        ]
+    },
+    {
+        "value": "Yr.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            625,
+            352,
+            25,
+            12
+        ]
+    },
+    {
+        "value": "Submission",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            162,
+            333,
+            69,
+            12
+        ]
+    },
+    {
+        "value": "Yr.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            248,
+            347,
+            24,
+            14
+        ]
+    },
+    {
+        "value": "Start",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            312,
+            333,
+            34,
+            15
+        ]
+    },
+    {
+        "value": "Mo.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            365,
+            349,
+            22,
+            12
+        ]
+    },
+    {
+        "value": "Yr.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            423,
+            350,
+            20,
+            14
+        ]
+    },
+    {
+        "value": "88",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            251,
+            330,
+            15,
+            15
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            183,
+            276,
+            12,
+            11
+        ]
+    },
+    {
+        "value": "80",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            490,
+            296,
+            17,
+            14
+        ]
+    },
+    {
+        "value": "80",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            565,
+            296,
+            17,
+            15
+        ]
+    },
+    {
+        "value": "0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            636,
+            297,
+            15,
+            12
+        ]
+    },
+    {
+        "value": "88",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            627,
+            337,
+            16,
+            10
+        ]
+    },
+    {
+        "value": "11",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            574,
+            335,
+            14,
+            12
+        ]
+    },
+    {
+        "value": "88",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            420,
+            333,
+            16,
+            15
+        ]
+    },
+    {
+        "value": "7",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            372,
+            334,
+            14,
+            12
+        ]
+    },
+    {
+        "value": "CAPITAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            431,
+            617,
+            50,
+            14
+        ]
+    },
+    {
+        "value": "EXPENSE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            433,
+            630,
+            49,
+            12
+        ]
+    },
+    {
+        "value": "CAPITAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            65,
+            616,
+            50,
+            10
+        ]
+    },
+    {
+        "value": "EXPENSE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            65,
+            630,
+            47,
+            11
+        ]
+    },
+    {
+        "value": "1989",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            147,
+            600,
+            29,
+            12
+        ]
+    },
+    {
+        "value": "80",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            146,
+            617,
+            16,
+            9
+        ]
+    },
+    {
+        "value": "0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            153,
+            631,
+            9,
+            10
+        ]
+    },
+    {
+        "value": "JAN.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            709,
+            27,
+            12
+        ]
+    },
+    {
+        "value": "-MAR.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            132,
+            709,
+            35,
+            12
+        ]
+    },
+    {
+        "value": "APR.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            178,
+            709,
+            30,
+            12
+        ]
+    },
+    {
+        "value": "-JUN.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            208,
+            709,
+            32,
+            12
+        ]
+    },
+    {
+        "value": "JUL.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            252,
+            712,
+            30,
+            9
+        ]
+    },
+    {
+        "value": "-DEC",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            357,
+            712,
+            34,
+            11
+        ]
+    },
+    {
+        "value": "TOTAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            419,
+            714,
+            34,
+            10
+        ]
+    },
+    {
+        "value": "EXPENSE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            42,
+            763,
+            50,
+            15
+        ]
+    },
+    {
+        "value": "CAPITAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            42,
+            737,
+            50,
+            15
+        ]
+    },
+    {
+        "value": "-SEP",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            282,
+            712,
+            35,
+            10
+        ]
+    },
+    {
+        "value": "OCT.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            329,
+            712,
+            27,
+            10
+        ]
+    },
+    {
+        "value": "YEAR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            495,
+            673,
+            26,
+            12
+        ]
+    },
+    {
+        "value": "EXPENSE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            616,
+            673,
+            50,
+            12
+        ]
+    },
+    {
+        "value": "CAPITAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            549,
+            673,
+            47,
+            10
+        ]
+    },
+    {
+        "value": "1990",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            495,
+            711,
+            27,
+            17
+        ]
+    },
+    {
+        "value": "1991",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            494,
+            739,
+            27,
+            11
+        ]
+    },
+    {
+        "value": "1992",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            493,
+            767,
+            29,
+            11
+        ]
+    },
+    {
+        "value": "1993",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            493,
+            794,
+            30,
+            11
+        ]
+    },
+    {
+        "value": "621099940J",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            525,
+            897,
+            105,
+            20
+        ]
+    },
+    {
+        "value": "FA 956 (5- 85) g1 0081. (d)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            41,
+            36,
+            84,
+            31
+        ]
+    },
+    {
+        "value": "BROWN & WILLIAMSON TOBACCO CORPORATION CAPITAL BUDGET PROJECT R&D",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            231,
+            57,
+            266,
+            57
+        ]
+    },
+    {
+        "value": "Date Submitted",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            560,
+            128,
+            96,
+            17
+        ]
+    },
+    {
+        "value": "Capital Budget",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            61,
+            122,
+            100,
+            14
+        ]
+    },
+    {
+        "value": "CICARETTE TEST STATION (CT5400)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            76,
+            165,
+            212,
+            15
+        ]
+    },
+    {
+        "value": "Maintenance of Existing Business",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            113,
+            192,
+            223,
+            17
+        ]
+    },
+    {
+        "value": "Expansion of Existing Business",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            116,
+            206,
+            206,
+            18
+        ]
+    },
+    {
+        "value": "New Products",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            115,
+            221,
+            85,
+            12
+        ]
+    },
+    {
+        "value": "Cost Reduction",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            117,
+            234,
+            101,
+            17
+        ]
+    },
+    {
+        "value": "Compliance with Outside Requirements",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            406,
+            198,
+            252,
+            17
+        ]
+    },
+    {
+        "value": "Company Improvements & Administrative Requirements",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            408,
+            212,
+            255,
+            29
+        ]
+    },
+    {
+        "value": "Quality Improvement",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            408,
+            238,
+            132,
+            16
+        ]
+    },
+    {
+        "value": "This Project is",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            66,
+            276,
+            107,
+            16
+        ]
+    },
+    {
+        "value": "Proposal No.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            272,
+            291,
+            82,
+            15
+        ]
+    },
+    {
+        "value": "Estimate Cost",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            456,
+            264,
+            90,
+            11
+        ]
+    },
+    {
+        "value": "Project Dates",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            41,
+            315,
+            91,
+            12
+        ]
+    },
+    {
+        "value": "PROJECT DESCRIPTION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            45,
+            369,
+            136,
+            16
+        ]
+    },
+    {
+        "value": "The Cigarette Test Station (CTS400) combines many of the stand- alone instruments that R&D currently uses to measure cigarette weight, pressure drop, ventilation, and hardness into one compact module. The CTS400 has the additional measurement of cigarette hardness in comparison with the CTS300. With this added, measurement R&D will be able to replace the Firmness Integrator that measures cigarette firmness in addition to other measurements that are mentioned above. The Firmness Integrator is no longer manufactured and parts are becoming difficult to obtain. Lastly, purchase of this instrument would provide similar capability as the Macon Plant and help facilitate comparisions between laboratories.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            65,
+            399,
+            596,
+            124
+        ]
+    },
+    {
+        "value": "ESTIMATED SPENDING SCHEDULE",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            268,
+            577,
+            187,
+            14
+        ]
+    },
+    {
+        "value": "Balance to Spend",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            403,
+            602,
+            112,
+            15
+        ]
+    },
+    {
+        "value": "Spent Prior to",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            44,
+            600,
+            97,
+            11
+        ]
+    },
+    {
+        "value": "1989 SPENDING BY QUARTER",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            193,
+            668,
+            166,
+            16
+        ]
+    },
+    {
+        "value": "Approved by",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            394,
+            844,
+            81,
+            15
+        ]
+    },
+    {
+        "value": "Submitted by",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            42,
+            840,
+            83,
+            14
+        ]
+    },
+    {
+        "value": "W. O. Crain",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            61,
+            858,
+            79,
+            14
+        ]
+    },
+    {
+        "value": "Beyond 1993",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            485,
+            808,
+            42,
+            22
+        ]
+    }
+]

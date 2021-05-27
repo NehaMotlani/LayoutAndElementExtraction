@@ -1,0 +1,262 @@
+﻿[
+    {
+        "text": "PROJECT",
+        "box": [
+            56,
+            455,
+            65,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OBJECTIVE:",
+        "box": [
+            126,
+            455,
+            83,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE:",
+        "box": [
+            475,
+            281,
+            47,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BTF",
+        "box": [
+            248,
+            271,
+            32,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "-",
+        "box": [
+            249,
+            321,
+            15,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "To:",
+        "box": [
+            53,
+            86,
+            28,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Files",
+        "box": [
+            100,
+            86,
+            45,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CONFIDENTIAL",
+        "box": [
+            555,
+            90,
+            103,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "EPB:",
+        "box": [
+            53,
+            826,
+            38,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "cc:",
+        "box": [
+            55,
+            855,
+            27,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ODL",
+        "box": [
+            88,
+            826,
+            32,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PROJECT INITIATION FORM",
+        "box": [
+            259,
+            166,
+            201,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "September 16, 1980",
+        "box": [
+            527,
+            269,
+            158,
+            23
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PROJECT CODE:",
+        "box": [
+            53,
+            281,
+            113,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PROJECT NAME:",
+        "box": [
+            53,
+            324,
+            113,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PROJECT LEADER:",
+        "box": [
+            56,
+            367,
+            127,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "WORK REQUESTED BY:",
+        "box": [
+            55,
+            410,
+            157,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "E. P. Barbee",
+        "box": [
+            249,
+            355,
+            104,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R. S. Sprinkle, III",
+        "box": [
+            248,
+            402,
+            162,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "To develop cigarette Cigarette to utilize a filter tip with longitudinal grooves from the mouth end to the tobacco end in con- junction with perforated tipping paper.",
+        "box": [
+            249,
+            444,
+            394,
+            133
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "OTHER PERSONNEL ASSIGNED:",
+        "box": [
+            55,
+            606,
+            133,
+            30
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "J. E. Mann, Jr.",
+        "box": [
+            251,
+            613,
+            126,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "D. E. Cawthon",
+        "box": [
+            249,
+            643,
+            116,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Approved by:",
+        "box": [
+            402,
+            757,
+            108,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "R. S. Sprinkle, III",
+        "box": [
+            405,
+            771,
+            233,
+            73
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BMC/RMI/EPB JEM/DEC PRC/DRB",
+        "box": [
+            98,
+            855,
+            98,
+            47
+        ],
+        "class": "value_answer"
+    }
+]

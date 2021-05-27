@@ -1,0 +1,343 @@
+﻿[
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            439,
+            273,
+            35,
+            13
+        ]
+    },
+    {
+        "value": "PMRM",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            275,
+            270,
+            33,
+            15
+        ]
+    },
+    {
+        "value": "Cigarette",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            275,
+            500,
+            71,
+            16
+        ]
+    },
+    {
+        "value": "dimensions:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            353,
+            499,
+            86,
+            16
+        ]
+    },
+    {
+        "value": "ference.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            274,
+            525,
+            66,
+            11
+        ]
+    },
+    {
+        "value": "cc:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            114,
+            725,
+            23,
+            11
+        ]
+    },
+    {
+        "value": "RSS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            151,
+            722,
+            25,
+            13
+        ]
+    },
+    {
+        "value": "RDC",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            152,
+            735,
+            25,
+            12
+        ]
+    },
+    {
+        "value": "PHL",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            154,
+            747,
+            23,
+            13
+        ]
+    },
+    {
+        "value": "PRC",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            152,
+            761,
+            24,
+            12
+        ]
+    },
+    {
+        "value": "BMC",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            152,
+            773,
+            24,
+            11
+        ]
+    },
+    {
+        "value": "Records",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            154,
+            785,
+            53,
+            12
+        ]
+    },
+    {
+        "value": "PROJECT INITIATION FORM",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            286,
+            183,
+            181,
+            15
+        ]
+    },
+    {
+        "value": "PROJECT CODE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            116,
+            270,
+            95,
+            16
+        ]
+    },
+    {
+        "value": "PROJECT NAME",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            116,
+            309,
+            93,
+            14
+        ]
+    },
+    {
+        "value": "PROJECT LEADER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            116,
+            348,
+            111,
+            16
+        ]
+    },
+    {
+        "value": "WORK REQUESTED BY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            116,
+            385,
+            131,
+            15
+        ]
+    },
+    {
+        "value": "PROJECT OBJECTIVE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            116,
+            424,
+            134,
+            16
+        ]
+    },
+    {
+        "value": "OTHER PERSONNEL ASSIGNED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            115,
+            551,
+            116,
+            28
+        ]
+    },
+    {
+        "value": "April 30, 1985",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            483,
+            270,
+            111,
+            16
+        ]
+    },
+    {
+        "value": "PALL MALL Regular Menthol",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            275,
+            307,
+            192,
+            17
+        ]
+    },
+    {
+        "value": "J. F. Anders",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            273,
+            346,
+            96,
+            17
+        ]
+    },
+    {
+        "value": "R. S. Sprinkle, III",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            275,
+            384,
+            147,
+            16
+        ]
+    },
+    {
+        "value": "To develop a nonfilter menthol cigarette delivering 21- 24 mg \"tar\" as a menthol companion to PALL MALL Famous Cigarettes.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            275,
+            422,
+            318,
+            67
+        ]
+    },
+    {
+        "value": "84 x 24.9 mm circum-",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            455,
+            499,
+            155,
+            13
+        ]
+    },
+    {
+        "value": "E. P. Barbee",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            275,
+            563,
+            93,
+            15
+        ]
+    },
+    {
+        "value": "Approved by",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            390,
+            684,
+            88,
+            14
+        ]
+    },
+    {
+        "value": "Other Personnel Assigned",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            152,
+            810,
+            190,
+            16
+        ]
+    },
+    {
+        "value": "Project Leader",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            152,
+            797,
+            110,
+            13
+        ]
+    },
+    {
+        "value": "ATX02 0226607",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            504,
+            869,
+            115,
+            18
+        ]
+    },
+    {
+        "value": "R. S. Sprinkle III",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            392,
+            701,
+            178,
+            48
+        ]
+    }
+]

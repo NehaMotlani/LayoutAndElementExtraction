@@ -1,0 +1,192 @@
+﻿[
+    {
+        "text": "TO:",
+        "box": [
+            151,
+            319,
+            30,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FROM:",
+        "box": [
+            153,
+            349,
+            45,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE:",
+        "box": [
+            151,
+            379,
+            47,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "P.1/8",
+        "box": [
+            663,
+            8,
+            42,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "8",
+        "box": [
+            513,
+            414,
+            13,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "92327794",
+        "box": [
+            696,
+            761,
+            22,
+            68
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Jul 22 93 02:42PM LORILLARD TOBACCO 919 373 6917",
+        "box": [
+            145,
+            12,
+            337,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Lorillard TOBACCO COMPANY",
+        "box": [
+            100,
+            63,
+            211,
+            73
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "2525E Market Street, P.O. Box 21688, Greensboro, North Carolina 27420 1688",
+        "box": [
+            306,
+            120,
+            340,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "VIA FACSIMILE",
+        "box": [
+            369,
+            224,
+            113,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "(919) 378- 001 Ron Goldbrenner",
+        "box": [
+            239,
+            296,
+            108,
+            36
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Becky Hayden",
+        "box": [
+            234,
+            346,
+            95,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "July 22, 1993",
+        "box": [
+            239,
+            372,
+            95,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "NUMBER OF PAGES (INCLUDING COVER SHEET):",
+        "box": [
+            153,
+            417,
+            340,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OUR FAX NUMBER IS:",
+        "box": [
+            151,
+            445,
+            153,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(919) 373- 6917",
+        "box": [
+            321,
+            444,
+            117,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "IF YOU DO NOT RECEIVE ANY OF THE PAGES, PLEASE CALL",
+        "box": [
+            150,
+            566,
+            329,
+            32
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "AT (919) AT THE GREENSBORO BRANCH AS SOON AS POSSIBLE.",
+        "box": [
+            153,
+            593,
+            488,
+            32
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "THANK YOU.",
+        "box": [
+            150,
+            640,
+            87,
+            15
+        ],
+        "class": "other"
+    }
+]

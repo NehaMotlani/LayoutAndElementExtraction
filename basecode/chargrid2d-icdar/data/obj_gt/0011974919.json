@@ -1,0 +1,422 @@
+﻿[
+    {
+        "text": "To",
+        "box": [
+            172,
+            205,
+            18,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "From:",
+        "box": [
+            172,
+            236,
+            32,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date:",
+        "box": [
+            173,
+            265,
+            28,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Brand:",
+        "box": [
+            70,
+            309,
+            35,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Title:",
+        "box": [
+            68,
+            339,
+            28,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Eclipse",
+        "box": [
+            110,
+            304,
+            39,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Description:",
+        "box": [
+            70,
+            359,
+            64,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "APAC",
+        "box": [
+            211,
+            459,
+            36,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "300",
+        "box": [
+            226,
+            490,
+            24,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "300",
+        "box": [
+            226,
+            549,
+            22,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "W25",
+        "box": [
+            425,
+            628,
+            39,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "APAC",
+        "box": [
+            362,
+            751,
+            35,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "C:",
+        "box": [
+            68,
+            845,
+            15,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "602399",
+        "box": [
+            376,
+            304,
+            42,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RESPONSE CODE REQUEST CONFIRMATION",
+        "box": [
+            127,
+            130,
+            468,
+            27
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Joe Leinster",
+        "box": [
+            219,
+            201,
+            70,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Joyce Bagby",
+        "box": [
+            219,
+            230,
+            70,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "September 10, 1996",
+        "box": [
+            221,
+            258,
+            108,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PPS Program #",
+        "box": [
+            282,
+            309,
+            85,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Requested By:",
+        "box": [
+            440,
+            307,
+            79,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Sneak Preview Confirmation Call- Charlotte Tests",
+        "box": [
+            109,
+            334,
+            257,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Record of confirmation calls for sneak preview appointments",
+        "box": [
+            134,
+            363,
+            315,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Fullfillment Data Entry at",
+        "box": [
+            68,
+            465,
+            135,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Circulation Quantity:",
+        "box": [
+            68,
+            494,
+            111,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Estimated Response:",
+        "box": [
+            70,
+            525,
+            115,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Estimated Responders:",
+        "box": [
+            70,
+            554,
+            122,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Distribution Drop Date:",
+        "box": [
+            68,
+            582,
+            122,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "10/ 03/ 96",
+        "box": [
+            207,
+            580,
+            45,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "100.00 %",
+        "box": [
+            219,
+            520,
+            53,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Expiration Date:",
+        "box": [
+            358,
+            582,
+            82,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Response Code Assigned:",
+        "box": [
+            228,
+            630,
+            177,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Address, postal requirements, barcodes, document storage, and batch numbers to be supplied by:",
+        "box": [
+            66,
+            705,
+            344,
+            32
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DE Fullfillment Vendor",
+        "box": [
+            358,
+            767,
+            117,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Suzi Hicks RJR- IR",
+        "box": [
+            91,
+            844,
+            104,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Karen Giddens",
+        "box": [
+            91,
+            862,
+            83,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Drew Huyett",
+        "box": [
+            94,
+            884,
+            67,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Jackson Roper",
+        "box": [
+            89,
+            908,
+            84,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Debbie Lockery",
+        "box": [
+            418,
+            839,
+            81,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Vanessa Oakley",
+        "box": [
+            418,
+            862,
+            89,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Melissa Andrews - TBM",
+        "box": [
+            418,
+            884,
+            126,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Tammi LaManna - M/ B",
+        "box": [
+            416,
+            906,
+            122,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "52251 2963",
+        "box": [
+            694,
+            867,
+            16,
+            94
+        ],
+        "class": "other"
+    }
+]

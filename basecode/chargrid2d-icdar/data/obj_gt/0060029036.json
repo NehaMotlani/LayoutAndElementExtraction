@@ -1,0 +1,482 @@
+﻿[
+    {
+        "text": "Brand(s)",
+        "box": [
+            448,
+            216,
+            56,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Company",
+        "box": [
+            84,
+            214,
+            59,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            601,
+            397,
+            39,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SIGNATURE",
+        "box": [
+            412,
+            395,
+            81,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NAME",
+        "box": [
+            223,
+            395,
+            42,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Originator",
+        "box": [
+            84,
+            429,
+            60,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Manager",
+        "box": [
+            82,
+            468,
+            56,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            601,
+            522,
+            39,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SECTION(S)",
+        "box": [
+            602,
+            662,
+            78,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SIGNATURE",
+        "box": [
+            412,
+            522,
+            81,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PAGE(S)",
+        "box": [
+            411,
+            662,
+            56,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Insurance",
+        "box": [
+            84,
+            556,
+            59,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Law",
+        "box": [
+            82,
+            589,
+            28,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1-11-94",
+        "box": [
+            620,
+            464,
+            87,
+            24
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SME",
+        "box": [
+            409,
+            842,
+            34,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SPORTS MARKETING ENTERPRISES DOCUMENT CLEARANCE SHEET",
+        "box": [
+            226,
+            63,
+            355,
+            36
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "January 11, 1994",
+        "box": [
+            225,
+            135,
+            108,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Date Routed:",
+        "box": [
+            81,
+            133,
+            84,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Contract No.",
+        "box": [
+            412,
+            133,
+            75,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "4011 00 00",
+        "box": [
+            554,
+            135,
+            71,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Joe's Place Exhibits",
+        "box": [
+            226,
+            180,
+            124,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Contract Subject:",
+        "box": [
+            85,
+            180,
+            102,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SPEVCO, INC.",
+        "box": [
+            173,
+            211,
+            93,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Camel/ Winston",
+        "box": [
+            522,
+            215,
+            97,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Current Year Cost",
+        "box": [
+            418,
+            249,
+            108,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Total Contract Cost",
+        "box": [
+            81,
+            250,
+            119,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "$ 1,340,000.00",
+        "box": [
+            243,
+            249,
+            94,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1994-1995",
+        "box": [
+            582,
+            250,
+            66,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Brief Description",
+        "box": [
+            82,
+            286,
+            101,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2 Joe's Place Exhibits for use at Winston Cup, Winston Drag and Camel Super Bike Events.",
+        "box": [
+            247,
+            284,
+            454,
+            31
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "G/ L Code:",
+        "box": [
+            82,
+            355,
+            65,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Program Budget Code",
+        "box": [
+            404,
+            353,
+            133,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Michael Wright",
+        "box": [
+            226,
+            426,
+            96,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "John Powell",
+        "box": [
+            225,
+            468,
+            78,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "B J. Powell",
+        "box": [
+            432,
+            450,
+            141,
+            43
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "REVIEW ROUTING",
+        "box": [
+            82,
+            501,
+            121,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FS - Marketing",
+        "box": [
+            82,
+            624,
+            90,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "* UP TO AND INCLUDING $ 25,000 ** OVER $ 25,000",
+        "box": [
+            81,
+            887,
+            214,
+            30
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Revised 10/26/92",
+        "box": [
+            601,
+            902,
+            103,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "13 Plaza",
+        "box": [
+            599,
+            842,
+            53,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "51669 8130",
+        "box": [
+            737,
+            774,
+            15,
+            95
+        ],
+        "class": "other"
+    },
+    {
+        "text": "REVISIONS TO SHELL (Other than Term Compensation or Job",
+        "box": [
+            80,
+            659,
+            147,
+            52
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "APPROVAL ROUTING",
+        "box": [
+            81,
+            733,
+            141,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "* Sr. Manager (B. J. Powell)",
+        "box": [
+            81,
+            749,
+            189,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "* Director - (G. L. Littell)",
+        "box": [
+            84,
+            767,
+            161,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "** Sr. VP T. W. Robertson",
+        "box": [
+            81,
+            802,
+            199,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Return To:",
+        "box": [
+            78,
+            839,
+            70,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MARY SEAGRAVES Ext 1485",
+        "box": [
+            222,
+            841,
+            126,
+            32
+        ],
+        "class": "value_answer"
+    }
+]

@@ -1,0 +1,272 @@
+﻿[
+    {
+        "text": "Customer",
+        "box": [
+            165,
+            140,
+            60,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "B&W",
+        "box": [
+            275,
+            142,
+            22,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RECEIVED",
+        "box": [
+            557,
+            130,
+            155,
+            31
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Technician",
+        "box": [
+            147,
+            912,
+            74,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "605110969",
+        "box": [
+            570,
+            964,
+            122,
+            28
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Toluene",
+        "box": [
+            295,
+            615,
+            54,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "AARBERG -STRAHAN INKS & COATINGS CORP.",
+        "box": [
+            254,
+            68,
+            273,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Formula Composit Form",
+        "box": [
+            316,
+            99,
+            157,
+            19
+        ],
+        "class": "other"
+    },
+    {
+        "text": "DEC 1 1 1989",
+        "box": [
+            585,
+            173,
+            93,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "A. C. D.",
+        "box": [
+            589,
+            207,
+            82,
+            23
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Falcon Green",
+        "box": [
+            274,
+            173,
+            87,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "SKGC-4518 ",
+        "box": [
+            272,
+            201,
+            69,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Formula No.",
+        "box": [
+            163,
+            196,
+            81,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Solids Composit",
+        "box": [
+            250,
+            244,
+            112,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Lecithin (Food Grade)",
+        "box": [
+            302,
+            277,
+            153,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Epoxidized Soy Bean Oil",
+        "box": [
+            302,
+            299,
+            169,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Cellulose Nitrate Wet w /2 Propanol",
+        "box": [
+            300,
+            321,
+            252,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Pigment, Yellow 34",
+        "box": [
+            299,
+            344,
+            134,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Pigment, Blue 15: 4",
+        "box": [
+            299,
+            365,
+            132,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Ester of Modified Tricyclic Carboxylic Acid Jonrez IM824",
+        "box": [
+            300,
+            385,
+            412,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Total Solids",
+        "box": [
+            155,
+            543,
+            89,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Solvent Composit to % V. O. C. s",
+        "box": [
+            243,
+            582,
+            217,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Isopropyl Acetate",
+        "box": [
+            296,
+            637,
+            127,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "N- Propyl Acetate",
+        "box": [
+            295,
+            659,
+            117,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Total V. O. C. s",
+        "box": [
+            140,
+            835,
+            97,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "100. 00%",
+        "box": [
+            251,
+            860,
+            55,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DLR 12/ 5/ 89",
+        "box": [
+            228,
+            911,
+            55,
+            40
+        ],
+        "class": "value_answer"
+    }
+]

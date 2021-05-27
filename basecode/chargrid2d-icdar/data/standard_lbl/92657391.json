@@ -1,0 +1,409 @@
+﻿[
+    {
+        "value": "Lorillard",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            47,
+            39,
+            226,
+            75
+        ]
+    },
+    {
+        "value": "DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            204,
+            50,
+            17
+        ]
+    },
+    {
+        "value": "TIME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            392,
+            205,
+            45,
+            17
+        ]
+    },
+    {
+        "value": "3",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            514,
+            261,
+            11,
+            15
+        ]
+    },
+    {
+        "value": "NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            78,
+            342,
+            53,
+            20
+        ]
+    },
+    {
+        "value": "OFFICE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            377,
+            66,
+            18
+        ]
+    },
+    {
+        "value": "NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            515,
+            53,
+            17
+        ]
+    },
+    {
+        "value": "OFFICE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            554,
+            68,
+            17
+        ]
+    },
+    {
+        "value": "COMMENTS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            654,
+            99,
+            21
+        ]
+    },
+    {
+        "value": "cc:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            274,
+            729,
+            24,
+            13
+        ]
+    },
+    {
+        "value": "92657391",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            689,
+            797,
+            14,
+            73
+        ]
+    },
+    {
+        "value": "12/ 29/ 94 10: 14",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            74,
+            25,
+            113,
+            15
+        ]
+    },
+    {
+        "value": "713 591 0204",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            214,
+            25,
+            97,
+            15
+        ]
+    },
+    {
+        "value": "LORILLARD HOUS. NEW YORK SALES",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            380,
+            27,
+            245,
+            15
+        ]
+    },
+    {
+        "value": "001/ 003",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            651,
+            29,
+            64,
+            14
+        ]
+    },
+    {
+        "value": "FACSIMILE COVER PAGE",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            258,
+            151,
+            238,
+            24
+        ]
+    },
+    {
+        "value": "12/ 28/ 94",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            228,
+            207,
+            60,
+            17
+        ]
+    },
+    {
+        "value": "10: 15",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            508,
+            208,
+            39,
+            17
+        ]
+    },
+    {
+        "value": "The following document, including cover page is",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            80,
+            256,
+            395,
+            26
+        ]
+    },
+    {
+        "value": "pages long.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            577,
+            260,
+            95,
+            24
+        ]
+    },
+    {
+        "value": "PLEASE TRANSMIT THIS DOCUMENT TO:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            218,
+            309,
+            317,
+            22
+        ]
+    },
+    {
+        "value": "FAX PHONE NUMBER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            411,
+            170,
+            20
+        ]
+    },
+    {
+        "value": "R. H. Orcutt",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            278,
+            348,
+            86,
+            15
+        ]
+    },
+    {
+        "value": "Lorillard- New York",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            277,
+            381,
+            146,
+            18
+        ]
+    },
+    {
+        "value": "(212) 545- 3299",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            278,
+            415,
+            104,
+            15
+        ]
+    },
+    {
+        "value": "THIS DOCUMENT IS FROM:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            271,
+            483,
+            208,
+            19
+        ]
+    },
+    {
+        "value": "J. L. McGinnis - Region 9",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            274,
+            521,
+            184,
+            18
+        ]
+    },
+    {
+        "value": "Lorillard Tobacco Company Houston N., Texas",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            263,
+            553,
+            399,
+            24
+        ]
+    },
+    {
+        "value": "(713) 591 0204",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            261,
+            587,
+            112,
+            22
+        ]
+    },
+    {
+        "value": "FAX PHONE NUMBER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            587,
+            173,
+            21
+        ]
+    },
+    {
+        "value": "Harley Davidson 100's Progress Report.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            275,
+            658,
+            274,
+            19
+        ]
+    },
+    {
+        "value": "R. B. Spell",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            309,
+            726,
+            81,
+            17
+        ]
+    },
+    {
+        "value": "A. J. Giacoio",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            309,
+            746,
+            96,
+            15
+        ]
+    },
+    {
+        "value": "P. J. McCann",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            306,
+            763,
+            92,
+            14
+        ]
+    },
+    {
+        "value": "S. L. Enloe",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            309,
+            779,
+            83,
+            15
+        ]
+    },
+    {
+        "value": "T. L. Achey",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            307,
+            796,
+            84,
+            15
+        ]
+    },
+    {
+        "value": "In the event that any of these pages are not legible, or you do not receive all pages, please call this office soon as possible at (713) 591- 6733",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            70,
+            865,
+            599,
+            47
+        ]
+    }
+]

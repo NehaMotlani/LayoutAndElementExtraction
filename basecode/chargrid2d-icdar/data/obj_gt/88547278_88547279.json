@@ -1,0 +1,402 @@
+﻿[
+    {
+        "text": "Sizes:",
+        "box": [
+            78,
+            357,
+            37,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Binding",
+        "box": [
+            75,
+            627,
+            41,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "88547278",
+        "box": [
+            666,
+            787,
+            25,
+            97
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Date:",
+        "box": [
+            493,
+            175,
+            26,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Qty:",
+        "box": [
+            189,
+            324,
+            35,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TEL:",
+        "box": [
+            468,
+            923,
+            28,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FAX:",
+        "box": [
+            579,
+            927,
+            28,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "19",
+        "box": [
+            300,
+            926,
+            17,
+            12
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Quotation Request",
+        "box": [
+            68,
+            61,
+            137,
+            71
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "APPLIED GRAPHICS",
+        "box": [
+            496,
+            93,
+            178,
+            27
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Lorillard One Park Avenue New York, NY 10016 Attn: Neil Toumey",
+        "box": [
+            190,
+            171,
+            142,
+            67
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Quotation To:",
+        "box": [
+            80,
+            175,
+            68,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "July 7, 1993",
+        "box": [
+            533,
+            171,
+            87,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Estimate No:",
+        "box": [
+            493,
+            195,
+            59,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "4854- 5",
+        "box": [
+            535,
+            205,
+            49,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Account Executive:",
+        "box": [
+            493,
+            224,
+            85,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Peter Faucetta Jr.",
+        "box": [
+            532,
+            238,
+            123,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Quantities and Description:",
+        "box": [
+            78,
+            272,
+            132,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "H/D 8 Pk. Wide Header 4 C/P + 2 Hits Day- Glo + Spot Varnish",
+        "box": [
+            189,
+            285,
+            273,
+            39
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "89,725",
+        "box": [
+            236,
+            321,
+            48,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "19.750 X 11",
+        "box": [
+            193,
+            373,
+            80,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Paper and Materials:",
+        "box": [
+            75,
+            409,
+            104,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "24 pt. Carolina C/1/S",
+        "box": [
+            190,
+            425,
+            156,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Preparation and Composition:",
+        "box": [
+            78,
+            467,
+            145,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Final Film Supplied Combined Blue",
+        "box": [
+            190,
+            494,
+            141,
+            37
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Process and Colors:",
+        "box": [
+            77,
+            565,
+            99,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "6/1 1/1",
+        "box": [
+            190,
+            566,
+            27,
+            34
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Leave in Full Sheets",
+        "box": [
+            192,
+            634,
+            137,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Packing and Distribution:",
+        "box": [
+            78,
+            691,
+            118,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Bulk in cartons, FOB Oceanside Please allow 14 working days for delivery",
+        "box": [
+            189,
+            700,
+            286,
+            38
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Delivery Date:",
+        "box": [
+            75,
+            726,
+            70,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Prices and Schedule:",
+        "box": [
+            78,
+            755,
+            99,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "$16, 158",
+        "box": [
+            190,
+            767,
+            57,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Other Specifications:",
+        "box": [
+            75,
+            838,
+            101,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Authorized Signature:",
+        "box": [
+            494,
+            840,
+            102,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Accepted by:",
+        "box": [
+            77,
+            897,
+            63,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "we wted with line Whortly how Motion ",
+        "box": [
+            74,
+            945,
+            596,
+            38
+        ],
+        "class": "other"
+    },
+    {
+        "text": "(212) 627 4111",
+        "box": [
+            498,
+            926,
+            74,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(212) 627- 8602",
+        "box": [
+            608,
+            925,
+            76,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Applied Graphics Technologies 50 West 23rd Street, N.Y.C. 10010",
+        "box": [
+            467,
+            855,
+            174,
+            72
+        ],
+        "class": "value_answer"
+    }
+]

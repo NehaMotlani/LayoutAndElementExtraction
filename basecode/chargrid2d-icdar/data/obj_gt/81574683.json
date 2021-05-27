@@ -1,0 +1,1052 @@
+﻿[
+    {
+        "text": "Date:",
+        "box": [
+            485,
+            32,
+            41,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "3/27/84",
+        "box": [
+            531,
+            32,
+            54,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "84-C-7",
+        "box": [
+            634,
+            34,
+            49,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Cicarettes",
+        "box": [
+            31,
+            218,
+            80,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Filters",
+        "box": [
+            320,
+            221,
+            57,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "BLEND",
+        "box": [
+            34,
+            173,
+            39,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CASING",
+        "box": [
+            144,
+            173,
+            52,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "RECASING",
+        "box": [
+            267,
+            173,
+            61,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1077-84",
+        "box": [
+            34,
+            189,
+            53,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "7773",
+        "box": [
+            144,
+            187,
+            35,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "7774",
+        "box": [
+            268,
+            190,
+            32,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "attached",
+        "box": [
+            392,
+            191,
+            64,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Maker",
+        "box": [
+            52,
+            250,
+            43,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Length",
+        "box": [
+            52,
+            274,
+            52,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Filter",
+        "box": [
+            54,
+            295,
+            46,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Length",
+        "box": [
+            106,
+            295,
+            47,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Circumference",
+        "box": [
+            50,
+            317,
+            105,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Weight",
+        "box": [
+            50,
+            341,
+            52,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Paper",
+        "box": [
+            52,
+            363,
+            45,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MENTHOL",
+        "box": [
+            556,
+            177,
+            57,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "8098",
+        "box": [
+            556,
+            193,
+            39,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "mm",
+        "box": [
+            585,
+            281,
+            20,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "370mm",
+        "box": [
+            480,
+            366,
+            43,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "24.7mm",
+        "box": [
+            482,
+            390,
+            49,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "E-",
+        "box": [
+            479,
+            457,
+            17,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "626",
+        "box": [
+            494,
+            458,
+            25,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1509C",
+        "box": [
+            480,
+            482,
+            39,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "81574683",
+        "box": [
+            689,
+            730,
+            17,
+            92
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Wrapping",
+        "box": [
+            27,
+            552,
+            66,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Labels",
+        "box": [
+            47,
+            575,
+            57,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Closures",
+        "box": [
+            50,
+            595,
+            63,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cartons",
+        "box": [
+            46,
+            641,
+            57,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Markings",
+        "box": [
+            49,
+            665,
+            63,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "white",
+        "box": [
+            198,
+            571,
+            45,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "blue",
+        "box": [
+            197,
+            595,
+            34,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "white",
+        "box": [
+            197,
+            623,
+            45,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "white",
+        "box": [
+            198,
+            644,
+            38,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Responsibility",
+        "box": [
+            313,
+            553,
+            108,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Shipping",
+        "box": [
+            331,
+            645,
+            67,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Other",
+        "box": [
+            45,
+            754,
+            42,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            503,
+            891,
+            22,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Newan",
+        "box": [
+            528,
+            895,
+            49,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Stein,",
+        "box": [
+            577,
+            894,
+            45,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "production",
+        "box": [
+            479,
+            599,
+            78,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4260",
+        "box": [
+            201,
+            433,
+            32,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "NA",
+        "box": [
+            198,
+            476,
+            22,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Kind",
+        "box": [
+            338,
+            295,
+            35,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Rod",
+        "box": [
+            339,
+            344,
+            24,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Length",
+        "box": [
+            369,
+            342,
+            47,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Circunference",
+        "box": [
+            335,
+            387,
+            101,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Weight",
+        "box": [
+            334,
+            412,
+            47,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Plast.",
+        "box": [
+            335,
+            433,
+            46,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Sample No. 1078-84 Type of Cigarette NP Control 85 Batch Size As needed",
+        "box": [
+            277,
+            45,
+            230,
+            46
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "ginal Request Made By",
+        "box": [
+            49,
+            96,
+            166,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "T. Jessup on 2/13/84",
+        "box": [
+            221,
+            98,
+            154,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Purpose of Sample",
+        "box": [
+            31,
+            116,
+            132,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Mkt. Research Newport",
+        "box": [
+            165,
+            119,
+            167,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "W. Barnes",
+        "box": [
+            281,
+            144,
+            72,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Sample Specifications Written By",
+        "box": [
+            32,
+            141,
+            245,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FINAL FLAVOR",
+        "box": [
+            394,
+            176,
+            94,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MK 9",
+        "box": [
+            203,
+            246,
+            36,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "84.0 cm",
+        "box": [
+            203,
+            271,
+            49,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "21.0 mm",
+        "box": [
+            204,
+            295,
+            51,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "24.8 mm",
+        "box": [
+            204,
+            320,
+            46,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "96.0 g/100",
+        "box": [
+            204,
+            341,
+            76,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "E- 554",
+        "box": [
+            203,
+            363,
+            40,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "51mm cork- Ecusta",
+        "box": [
+            173,
+            385,
+            132,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "TOD 01042-4 lines perf.",
+        "box": [
+            133,
+            409,
+            173,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Tip. Paper",
+        "box": [
+            50,
+            385,
+            77,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Tip. Paper Por.",
+        "box": [
+            50,
+            430,
+            115,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Glue Roller",
+        "box": [
+            49,
+            454,
+            87,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Air Dilution",
+        "box": [
+            47,
+            475,
+            99,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Mk II 85",
+        "box": [
+            197,
+            453,
+            65,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Section A",
+        "box": [
+            478,
+            253,
+            76,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Section B",
+        "box": [
+            585,
+            251,
+            74,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "21mm",
+        "box": [
+            482,
+            275,
+            38,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.3 35,000y",
+        "box": [
+            480,
+            299,
+            85,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RE- 2218",
+        "box": [
+            475,
+            323,
+            54,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "126 mm",
+        "box": [
+            482,
+            344,
+            47,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "81.0 g/100",
+        "box": [
+            480,
+            412,
+            78,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "7% Kent",
+        "box": [
+            480,
+            433,
+            57,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Pressure Drop",
+        "box": [
+            335,
+            366,
+            104,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Plug Wrap",
+        "box": [
+            337,
+            455,
+            71,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Plug Wrap Por.",
+        "box": [
+            334,
+            478,
+            109,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Comb. Wrap",
+        "box": [
+            337,
+            500,
+            78,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Comb. Wrap Por.",
+        "box": [
+            337,
+            524,
+            110,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Tobacco Blend",
+        "box": [
+            335,
+            575,
+            104,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Filter Production",
+        "box": [
+            334,
+            601,
+            131,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Making & Packing",
+        "box": [
+            331,
+            623,
+            127,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Sample Requistion",
+        "box": [
+            332,
+            666,
+            133,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "production, Barnes",
+        "box": [
+            473,
+            577,
+            146,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Barnes, Fernald",
+        "box": [
+            476,
+            623,
+            117,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "- -",
+        "box": [
+            472,
+            648,
+            17,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "T. Skinner",
+        "box": [
+            475,
+            668,
+            80,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "code #1746",
+        "box": [
+            198,
+            662,
+            71,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Tear Tape",
+        "box": [
+            50,
+            619,
+            70,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Requirements Laboratory",
+        "box": [
+            28,
+            718,
+            99,
+            30
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "30 ctns.",
+        "box": [
+            198,
+            732,
+            59,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1100 pks.",
+        "box": [
+            179,
+            753,
+            69,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Laboratory Analysis:",
+        "box": [
+            310,
+            716,
+            150,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Moisture analysis Menthol analysis Tar & nicotine analysis",
+        "box": [
+            328,
+            735,
+            181,
+            59
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Special Requirements",
+        "box": [
+            303,
+            799,
+            152,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1. Cigts. to be packed in white labels printed with \"20 Class A. ATF Auth. #47 sample not for sale, all applicable state taxes paid, and code No. 746.\"",
+        "box": [
+            22,
+            817,
+            544,
+            64
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2. Cigts. to be inspected, placed in pk. mailers and shipped Inc., for Mkt. Rsh. Study.",
+        "box": [
+            21,
+            885,
+            479,
+            43
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Director, Product Development",
+        "box": [
+            459,
+            880,
+            270,
+            79
+        ],
+        "class": "other"
+    }
+]

@@ -1,0 +1,412 @@
+﻿[
+    {
+        "text": "FROM:",
+        "box": [
+            98,
+            140,
+            46,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TO:",
+        "box": [
+            101,
+            169,
+            21,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CC:",
+        "box": [
+            99,
+            201,
+            22,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MEDIA",
+        "box": [
+            101,
+            302,
+            41,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SPACE/COLOR",
+        "box": [
+            99,
+            365,
+            96,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CIRCULATION",
+        "box": [
+            102,
+            478,
+            91,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "M. BORSINI",
+        "box": [
+            149,
+            137,
+            78,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "COUPON",
+        "box": [
+            316,
+            297,
+            60,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "OCR-DEC",
+        "box": [
+            316,
+            325,
+            71,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10/11/93",
+        "box": [
+            317,
+            395,
+            56,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "6/30/94",
+        "box": [
+            317,
+            427,
+            47,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "NATIONAL",
+        "box": [
+            317,
+            522,
+            67,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$.50",
+        "box": [
+            318,
+            554,
+            31,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PACK",
+        "box": [
+            320,
+            589,
+            38,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "8/06/93",
+        "box": [
+            320,
+            684,
+            46,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "8470",
+        "box": [
+            561,
+            770,
+            61,
+            25
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "916",
+        "box": [
+            581,
+            795,
+            35,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "80%",
+        "box": [
+            567,
+            811,
+            47,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "91391310",
+        "box": [
+            735,
+            782,
+            18,
+            78
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Marine B",
+        "box": [
+            304,
+            640,
+            205,
+            43
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "COUPON CODE REGISTRATION FORM",
+        "box": [
+            316,
+            99,
+            237,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "VINCE LOSITO",
+        "box": [
+            137,
+            169,
+            95,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "T. BAYLIES, L. GIORDANO V. LINDSLEY, J. SCHNEFF, S. RAPISARLDI, N, DISCENZA E LUNDBERG",
+        "box": [
+            137,
+            191,
+            644,
+            33
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "HARLEY -DAVIDSON DTS CPNS",
+        "box": [
+            313,
+            229,
+            199,
+            19
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "BRANDS(S) APPLICABLE",
+        "box": [
+            99,
+            268,
+            157,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "HARLEY- DAVIDSON",
+        "box": [
+            317,
+            265,
+            127,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ISSUE FREQUENCY/YEAR",
+        "box": [
+            99,
+            332,
+            165,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COUPON ISSUE DATE",
+        "box": [
+            101,
+            395,
+            138,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COUPON EXPIRATION DATE",
+        "box": [
+            101,
+            427,
+            175,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2,852,100 - 47.200",
+        "box": [
+            327,
+            469,
+            160,
+            25
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "GEOGRAPHICAL AREA(S)",
+        "box": [
+            101,
+            525,
+            161,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COUPON VALUE",
+        "box": [
+            103,
+            559,
+            107,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PACK AND OR/CARTON",
+        "box": [
+            105,
+            589,
+            148,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ADVERTISING CREATIVE THEME",
+        "box": [
+            105,
+            620,
+            203,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SIGNATURE OF INITIATOR",
+        "box": [
+            105,
+            654,
+            165,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE INITIATED",
+        "box": [
+            105,
+            687,
+            105,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ANALYTICAL REQUIREMENTS:",
+        "box": [
+            103,
+            718,
+            192,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "FOR CONTROL USE ONLY:",
+        "box": [
+            321,
+            749,
+            174,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CODE ASSIGNED:",
+        "box": [
+            321,
+            781,
+            118,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "JOB NUMBER:",
+        "box": [
+            320,
+            797,
+            97,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EST, REDEMPTION:",
+        "box": [
+            321,
+            814,
+            128,
+            19
+        ],
+        "class": "value_question"
+    }
+]

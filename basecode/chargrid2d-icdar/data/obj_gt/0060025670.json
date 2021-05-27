@@ -1,0 +1,142 @@
+﻿[
+    {
+        "text": "Supplier:",
+        "box": [
+            149,
+            170,
+            68,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "APPROVED",
+        "box": [
+            196,
+            352,
+            63,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Tester",
+        "box": [
+            149,
+            596,
+            47,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Manager",
+        "box": [
+            149,
+            655,
+            57,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TEST ADHESIVE EVALUATION",
+        "box": [
+            288,
+            92,
+            191,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Adhesive Code:",
+        "box": [
+            149,
+            208,
+            111,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Application: tipping, carton end flaps, etc.)",
+        "box": [
+            148,
+            249,
+            256,
+            27
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Test Period:",
+        "box": [
+            148,
+            299,
+            95,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NOT APPROVED",
+        "box": [
+            405,
+            353,
+            95,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "If not approved state reasons.",
+        "box": [
+            149,
+            402,
+            232,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Quality Control",
+        "box": [
+            148,
+            616,
+            120,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Local Purchasing",
+        "box": [
+            147,
+            634,
+            128,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Complete and return to D. R. Brickey, Department of Research and Development, as soon as possible.",
+        "box": [
+            147,
+            689,
+            470,
+            31
+        ],
+        "class": "other"
+    },
+    {
+        "text": "ATXO2 0083035",
+        "box": [
+            520,
+            883,
+            114,
+            14
+        ],
+        "class": "other"
+    }
+]

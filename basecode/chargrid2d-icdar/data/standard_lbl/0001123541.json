@@ -1,0 +1,442 @@
+﻿[
+    {
+        "value": "DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            10,
+            166,
+            38,
+            13
+        ]
+    },
+    {
+        "value": "DEPARTMENT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            144,
+            165,
+            80,
+            14
+        ]
+    },
+    {
+        "value": "Type",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            455,
+            208,
+            31,
+            13
+        ]
+    },
+    {
+        "value": "EQPR",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            503,
+            205,
+            57,
+            17
+        ]
+    },
+    {
+        "value": "B&W",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            24,
+            32,
+            67,
+            70
+        ]
+    },
+    {
+        "value": "QUALITY",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            589,
+            32,
+            75,
+            70
+        ]
+    },
+    {
+        "value": "Implement:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            216,
+            648,
+            73,
+            13
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            493,
+            647,
+            31,
+            14
+        ]
+    },
+    {
+        "value": "632120763",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            633,
+            771,
+            22,
+            122
+        ]
+    },
+    {
+        "value": "QUALITY IMPROVEMENT SUGGESTION OUR MISSION IS SUPERIOR CONSUMER SATISFACTION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            120,
+            45,
+            447,
+            49
+        ]
+    },
+    {
+        "value": "Highest Quality. Teamwork, Do Right Things Right The First Time",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            124,
+            94,
+            439,
+            15
+        ]
+    },
+    {
+        "value": "RESEARCH & DEVELOPMENT",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            228,
+            119,
+            230,
+            18
+        ]
+    },
+    {
+        "value": "Quality Coord Only",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            497,
+            149,
+            131,
+            14
+        ]
+    },
+    {
+        "value": "June 21, 1993",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            53,
+            165,
+            93,
+            14
+        ]
+    },
+    {
+        "value": "R&D Library",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            250,
+            163,
+            79,
+            17
+        ]
+    },
+    {
+        "value": "Carol S. Lincoln",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            144,
+            191,
+            116,
+            16
+        ]
+    },
+    {
+        "value": "407- 64- 3484",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            147,
+            219,
+            78,
+            16
+        ]
+    },
+    {
+        "value": "SUBMITTED BY:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            11,
+            194,
+            91,
+            13
+        ]
+    },
+    {
+        "value": "SUBMITTER'S SS#:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            11,
+            223,
+            112,
+            11
+        ]
+    },
+    {
+        "value": "Date Rec'd",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            455,
+            179,
+            73,
+            13
+        ]
+    },
+    {
+        "value": "QIP Log #1",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            454,
+            193,
+            75,
+            13
+        ]
+    },
+    {
+        "value": "Status (1993)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            454,
+            221,
+            94,
+            14
+        ]
+    },
+    {
+        "value": "Keywords (1993)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            455,
+            236,
+            107,
+            14
+        ]
+    },
+    {
+        "value": "6/ 21/ 93",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            546,
+            168,
+            70,
+            29
+        ]
+    },
+    {
+        "value": "93- 0301",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            541,
+            190,
+            86,
+            20
+        ]
+    },
+    {
+        "value": "SUGGESTION: (Describe Current Situation and Idea)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            11,
+            278,
+            347,
+            17
+        ]
+    },
+    {
+        "value": "The current system of managing records is too complex. The trend seems to be increasingly specific, when we should be getting more general. Right now, people must work to understand the system. We must spend too much time adninistering the system, labeling and cleaning our files. Complying is a real burden, both for the individual and for the records coordinators.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            32,
+            306,
+            652,
+            124
+        ]
+    },
+    {
+        "value": "Describe Possible Solutions And Benefits",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            11,
+            476,
+            290,
+            15
+        ]
+    },
+    {
+        "value": "1. Drop the category specifications altogether.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            32,
+            500,
+            330,
+            19
+        ]
+    },
+    {
+        "value": "2. Use moregeneral categories.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            31,
+            528,
+            228,
+            18
+        ]
+    },
+    {
+        "value": "hote: I have passed this to Scott Appleton for the task force to use in streamlining the records management program.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            32,
+            549,
+            622,
+            52
+        ]
+    },
+    {
+        "value": "PROFIT IMPROVEMENT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            11,
+            591,
+            134,
+            14
+        ]
+    },
+    {
+        "value": "(If Applicable)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            152,
+            591,
+            109,
+            15
+        ]
+    },
+    {
+        "value": "RESPOND HERE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            11,
+            647,
+            88,
+            15
+        ]
+    },
+    {
+        "value": "☐ Yes",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            304,
+            644,
+            42,
+            20
+        ]
+    },
+    {
+        "value": "☐ No",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            362,
+            644,
+            35,
+            20
+        ]
+    },
+    {
+        "value": "☐ Pending",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            409,
+            642,
+            71,
+            21
+        ]
+    },
+    {
+        "value": "Approval Signature/ Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            874,
+            168,
+            17
+        ]
+    },
+    {
+        "value": "Responder/ Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            420,
+            874,
+            106,
+            14
+        ]
+    },
+    {
+        "value": "Sign & Print Names) (See Instructions On Back)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            263,
+            876,
+            153,
+            27
+        ]
+    }
+]

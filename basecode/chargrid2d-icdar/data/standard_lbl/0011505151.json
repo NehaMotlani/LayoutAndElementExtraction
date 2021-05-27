@@ -1,0 +1,442 @@
+﻿[
+    {
+        "value": "CAPRI",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            53,
+            31,
+            47,
+            15
+        ]
+    },
+    {
+        "value": "DESCRIPTION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            50,
+            102,
+            108,
+            18
+        ]
+    },
+    {
+        "value": "SUPPLIER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            145,
+            77,
+            18
+        ]
+    },
+    {
+        "value": "466009457",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            545,
+            901,
+            130,
+            31
+        ]
+    },
+    {
+        "value": "47,218",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            448,
+            381,
+            49,
+            15
+        ]
+    },
+    {
+        "value": "9,442",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            454,
+            397,
+            45,
+            13
+        ]
+    },
+    {
+        "value": "14,165",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            447,
+            409,
+            52,
+            15
+        ]
+    },
+    {
+        "value": "-Pd.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            503,
+            398,
+            25,
+            14
+        ]
+    },
+    {
+        "value": "CUMULATIVE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            567,
+            497,
+            92,
+            15
+        ]
+    },
+    {
+        "value": "DEC",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            205,
+            556,
+            29,
+            13
+        ]
+    },
+    {
+        "value": "FEB",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            207,
+            573,
+            28,
+            11
+        ]
+    },
+    {
+        "value": "9.442",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            349,
+            547,
+            35,
+            13
+        ]
+    },
+    {
+        "value": "21.240",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            342,
+            559,
+            47,
+            11
+        ]
+    },
+    {
+        "value": "3068230.682",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            342,
+            570,
+            47,
+            11
+        ]
+    },
+    {
+        "value": "77.900",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            587,
+            560,
+            59,
+            21
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            54,
+            43,
+            136,
+            17
+        ]
+    },
+    {
+        "value": "PROJECT NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            447,
+            21,
+            93,
+            17
+        ]
+    },
+    {
+        "value": "1987- 115- CA",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            581,
+            17,
+            99,
+            16
+        ]
+    },
+    {
+        "value": "CAPRI EXPANSION A&U - CALIFORNIA - WAVE 4.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            254,
+            91,
+            360,
+            21
+        ]
+    },
+    {
+        "value": "Kapuler Marketing Research",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            257,
+            140,
+            222,
+            16
+        ]
+    },
+    {
+        "value": "MR PERSONNEL:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            175,
+            115,
+            18
+        ]
+    },
+    {
+        "value": "B. R. Pellett",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            257,
+            169,
+            100,
+            16
+        ]
+    },
+    {
+        "value": "AUTHORIZED COST:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            216,
+            141,
+            18
+        ]
+    },
+    {
+        "value": "70,825 + +10 % (TOTAL 1987) +7.075 (2 -23 -88 77,900 TOTAL",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            256,
+            211,
+            205,
+            47
+        ]
+    },
+    {
+        "value": "Int. Init. Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            57,
+            311,
+            94,
+            15
+        ]
+    },
+    {
+        "value": "Ext. Autho. Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            56,
+            324,
+            103,
+            14
+        ]
+    },
+    {
+        "value": "Field Complete",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            57,
+            338,
+            103,
+            15
+        ]
+    },
+    {
+        "value": "Final Rpt. Due",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            57,
+            353,
+            93,
+            14
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            173,
+            307,
+            63,
+            15
+        ]
+    },
+    {
+        "value": "11- 16- 87",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            166,
+            323,
+            69,
+            13
+        ]
+    },
+    {
+        "value": "12- -7 -87",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            165,
+            337,
+            72,
+            15
+        ]
+    },
+    {
+        "value": "1- 11- 88",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            173,
+            351,
+            63,
+            16
+        ]
+    },
+    {
+        "value": "RELEASED TO ACCTG",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            492,
+            73,
+            28
+        ]
+    },
+    {
+        "value": "PAID OUT OF 1989 BUDGET",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            299,
+            487,
+            99,
+            30
+        ]
+    },
+    {
+        "value": "PAID 1987",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            208,
+            385,
+            77,
+            13
+        ]
+    },
+    {
+        "value": "DEC 1987 ACCRUAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            207,
+            398,
+            138,
+            14
+        ]
+    },
+    {
+        "value": "CARRYOVER TO 1988",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            208,
+            412,
+            148,
+            14
+        ]
+    },
+    {
+        "value": "2- 25- 88",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            88,
+            568,
+            72,
+            18
+        ]
+    },
+    {
+        "value": "YEA -",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            297,
+            547,
+            44,
+            13
+        ]
+    },
+    {
+        "value": "CAPRI -",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            299,
+            559,
+            41,
+            11
+        ]
+    }
+]

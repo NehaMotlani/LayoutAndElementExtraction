@@ -1,0 +1,376 @@
+﻿[
+    {
+        "value": "DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            190,
+            201,
+            35,
+            17
+        ]
+    },
+    {
+        "value": "MANUFACTURER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            102,
+            271,
+            102,
+            15
+        ]
+    },
+    {
+        "value": "CC:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            753,
+            22,
+            14
+        ]
+    },
+    {
+        "value": "91355841",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            709,
+            718,
+            15,
+            80
+        ]
+    },
+    {
+        "value": "COMPETITIVE ACTIVITIES AND PROMOTIONS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            263,
+            71,
+            304,
+            18
+        ]
+    },
+    {
+        "value": "A. L. EVERETT, MANAGER, CHAIN ACCOUNTS - ATLANTA, GA",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            253,
+            131,
+            449,
+            15
+        ]
+    },
+    {
+        "value": "REPORTED BY:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            103,
+            137,
+            88,
+            14
+        ]
+    },
+    {
+        "value": "SEPT. 27, 1991",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            270,
+            203,
+            120,
+            15
+        ]
+    },
+    {
+        "value": "BROWN & WILLIAMSON",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            278,
+            268,
+            156,
+            15
+        ]
+    },
+    {
+        "value": "BRAND (S) PROMOTED:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            101,
+            339,
+            132,
+            16
+        ]
+    },
+    {
+        "value": "KOOL CIGARETTES",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            295,
+            338,
+            128,
+            17
+        ]
+    },
+    {
+        "value": "TYPE OF PROMOTION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            101,
+            406,
+            130,
+            17
+        ]
+    },
+    {
+        "value": "SEE ATTACHMENTS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            278,
+            402,
+            128,
+            17
+        ]
+    },
+    {
+        "value": "HOW WIDESPREAD?",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            528,
+            121,
+            13
+        ]
+    },
+    {
+        "value": "OTHER COMMENTS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            101,
+            595,
+            120,
+            16
+        ]
+    },
+    {
+        "value": "A. H. TISCH",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            124,
+            768,
+            72,
+            15
+        ]
+    },
+    {
+        "value": "R. H. ORCUTT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            124,
+            785,
+            84,
+            17
+        ]
+    },
+    {
+        "value": "M. A. PETERSON",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            124,
+            803,
+            101,
+            17
+        ]
+    },
+    {
+        "value": "M. L. ORLOWSKY",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            124,
+            820,
+            101,
+            15
+        ]
+    },
+    {
+        "value": "L. GORDON",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            126,
+            838,
+            68,
+            14
+        ]
+    },
+    {
+        "value": "J. P. MASTANDREA",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            123,
+            855,
+            115,
+            17
+        ]
+    },
+    {
+        "value": "G. R. TELFORD",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            285,
+            767,
+            88,
+            17
+        ]
+    },
+    {
+        "value": "R. G. RYAN",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            284,
+            785,
+            69,
+            15
+        ]
+    },
+    {
+        "value": "N. P. RUFFALO",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            285,
+            802,
+            88,
+            15
+        ]
+    },
+    {
+        "value": "T. L. ACHEY",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            284,
+            820,
+            72,
+            15
+        ]
+    },
+    {
+        "value": "P. J. McCANN",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            284,
+            838,
+            83,
+            15
+        ]
+    },
+    {
+        "value": "A. J. GIACOIO",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            282,
+            856,
+            88,
+            13
+        ]
+    },
+    {
+        "value": "J. J. TATULLI",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            284,
+            872,
+            77,
+            14
+        ]
+    },
+    {
+        "value": "L. H. KERSH",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            406,
+            770,
+            76,
+            14
+        ]
+    },
+    {
+        "value": "J. R. SLATER",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            408,
+            785,
+            76,
+            17
+        ]
+    },
+    {
+        "value": "S. T. JONES",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            406,
+            803,
+            76,
+            15
+        ]
+    },
+    {
+        "value": "R. S. GOLDBRENNER",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            406,
+            820,
+            128,
+            14
+        ]
+    },
+    {
+        "value": "N. SIMEONIDIS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            406,
+            838,
+            92,
+            15
+        ]
+    },
+    {
+        "value": "S. F. SMITH",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            408,
+            855,
+            70,
+            14
+        ]
+    }
+]

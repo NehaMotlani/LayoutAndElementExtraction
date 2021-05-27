@@ -1,0 +1,312 @@
+﻿[
+    {
+        "text": "B&W",
+        "box": [
+            221,
+            71,
+            43,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "",
+        "box": [
+            221,
+            41,
+            42,
+            29
+        ],
+        "class": "other"
+    },
+    {
+        "text": "WCC",
+        "box": [
+            377,
+            366,
+            39,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "621800455",
+        "box": [
+            697,
+            796,
+            24,
+            131
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Reconstituted Tobacco Leaf Substitutions Export Formulas",
+        "box": [
+            511,
+            50,
+            219,
+            32
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Revision Date:",
+        "box": [
+            601,
+            84,
+            77,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Allowable Grade Substitutions for Export CPCL",
+        "box": [
+            254,
+            154,
+            256,
+            40
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Standard Grade Mark",
+        "box": [
+            148,
+            253,
+            183,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Allowable Substitutions",
+        "box": [
+            412,
+            257,
+            197,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PCFS Flue cured fines",
+        "box": [
+            108,
+            282,
+            178,
+            23
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PCBS Burley fines",
+        "box": [
+            108,
+            328,
+            148,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MC- 4 Manufacturing fines",
+        "box": [
+            105,
+            406,
+            201,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MC -6 Stem Meal",
+        "box": [
+            102,
+            542,
+            141,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MC -7 Winnowers",
+        "box": [
+            101,
+            588,
+            143,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RXF Fine flue cured stem",
+        "box": [
+            99,
+            634,
+            209,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RBF Fine Burely stem",
+        "box": [
+            98,
+            742,
+            182,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RPCFS or RPCFS-O ",
+        "box": [
+            378,
+            291,
+            144,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RPCBS OT RPCBS- O",
+        "box": [
+            378,
+            337,
+            145,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MC -4 -S",
+        "box": [
+            377,
+            411,
+            53,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MC -4 -PH",
+        "box": [
+            378,
+            439,
+            63,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MC -4 -RC",
+        "box": [
+            376,
+            471,
+            64,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MC -4 -W",
+        "box": [
+            376,
+            500,
+            58,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MC -1",
+        "box": [
+            374,
+            547,
+            37,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "C Stem",
+        "box": [
+            374,
+            594,
+            51,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RRXF or RRXF -O",
+        "box": [
+            374,
+            638,
+            120,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RRXM -B",
+        "box": [
+            372,
+            670,
+            61,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RRXM -T",
+        "box": [
+            372,
+            700,
+            59,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RRBF or RRBF -O",
+        "box": [
+            370,
+            747,
+            121,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RRB -B",
+        "box": [
+            370,
+            778,
+            47,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RRB -L",
+        "box": [
+            369,
+            809,
+            46,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RRB -T",
+        "box": [
+            369,
+            838,
+            46,
+            14
+        ],
+        "class": "value_answer"
+    }
+]

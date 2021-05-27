@@ -3,7 +3,7 @@ import os
 import numpy as np
 import torch
 import sys
-sys.path.insert(1, '/Users/nehamotlani/Desktop/College_Courses/Research/Code/basecode/chargrid2d-icdar/')
+sys.path.insert(1, '/Users/nehamotlani/Desktop/College_Courses/Research/Repo/LayoutAndElementExtraction/basecode/chargrid2d-icdar/')
 
 from chargrid2d.dataloader import ChargridDataloader
 from chargrid2d.loss import ChargridLoss
@@ -13,11 +13,11 @@ from chargrid2d.model import Chargrid2D
 
 device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 
-def train(weights_folder='/Users/nehamotlani/Desktop/College_Courses/Research/Code/basecode/chargrid2d-icdar/data/weights'):
-    N_EPOCHS = 1
+def train(weights_folder='/Users/nehamotlani/Desktop/College_Courses/Research/Repo/LayoutAndElementExtraction/basecode/chargrid2d-icdar/data/weights'):
+    N_EPOCHS = 100
     best_loss = np.infty
 
-    dataloader = ChargridDataloader(root='/Users/nehamotlani/Desktop/College_Courses/Research/Code/basecode/chargrid2d-icdar/data', list_file_name_path='train_files.txt',
+    dataloader = ChargridDataloader(root='/Users/nehamotlani/Desktop/College_Courses/Research/Repo/LayoutAndElementExtraction/basecode/chargrid2d-icdar/data', list_file_name_path='train_files.txt',
                                     image_size=512, batch_size=1, validation_split=0.1)
     val_dataloader = dataloader.split_validation()
 

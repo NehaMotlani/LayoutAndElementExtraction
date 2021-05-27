@@ -1,0 +1,574 @@
+﻿[
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            531,
+            108,
+            40,
+            16
+        ]
+    },
+    {
+        "value": "A.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            59,
+            180,
+            16,
+            13
+        ]
+    },
+    {
+        "value": "N-",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            513,
+            183,
+            19,
+            15
+        ]
+    },
+    {
+        "value": "306",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            529,
+            183,
+            33,
+            15
+        ]
+    },
+    {
+        "value": "B.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            51,
+            500,
+            16,
+            15
+        ]
+    },
+    {
+        "value": "MARKETING",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            95,
+            500,
+            86,
+            15
+        ]
+    },
+    {
+        "value": "SIZE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            519,
+            37,
+            11
+        ]
+    },
+    {
+        "value": "OF",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            143,
+            519,
+            17,
+            12
+        ]
+    },
+    {
+        "value": "TARGET",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            168,
+            517,
+            56,
+            16
+        ]
+    },
+    {
+        "value": "MARKET",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            231,
+            519,
+            59,
+            15
+        ]
+    },
+    {
+        "value": "(BY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            531,
+            25,
+            17
+        ]
+    },
+    {
+        "value": "BRAND",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            132,
+            533,
+            48,
+            13
+        ]
+    },
+    {
+        "value": "OR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            186,
+            536,
+            19,
+            12
+        ]
+    },
+    {
+        "value": "COMPANY)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            215,
+            536,
+            72,
+            15
+        ]
+    },
+    {
+        "value": "UNITS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            686,
+            560,
+            51,
+            13
+        ]
+    },
+    {
+        "value": "UNITS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            689,
+            572,
+            49,
+            16
+        ]
+    },
+    {
+        "value": "UNITS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            689,
+            591,
+            49,
+            13
+        ]
+    },
+    {
+        "value": "UNITS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            687,
+            606,
+            52,
+            13
+        ]
+    },
+    {
+        "value": "COMMENTS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            94,
+            623,
+            76,
+            15
+        ]
+    },
+    {
+        "value": "1st",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            376,
+            705,
+            29,
+            17
+        ]
+    },
+    {
+        "value": "Qtr.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            412,
+            707,
+            35,
+            16
+        ]
+    },
+    {
+        "value": "79",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            469,
+            707,
+            19,
+            15
+        ]
+    },
+    {
+        "value": "01408099",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            674,
+            841,
+            20,
+            95
+        ]
+    },
+    {
+        "value": "PROJECT STATUS REPORT CONFIDENTIAL",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            270,
+            72,
+            218,
+            68
+        ]
+    },
+    {
+        "value": "March 1, 1978",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            587,
+            104,
+            120,
+            19
+        ]
+    },
+    {
+        "value": "REVISION #",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            529,
+            139,
+            93,
+            17
+        ]
+    },
+    {
+        "value": "SECTIONS REVISED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            529,
+            171,
+            149,
+            17
+        ]
+    },
+    {
+        "value": "PROJECT NAME",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            183,
+            110,
+            17
+        ]
+    },
+    {
+        "value": "True 100's (R&M)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            214,
+            178,
+            144,
+            20
+        ]
+    },
+    {
+        "value": "PROJECT #",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            401,
+            187,
+            83,
+            20
+        ]
+    },
+    {
+        "value": "TOTAL BUDGET",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            397,
+            203,
+            117,
+            16
+        ]
+    },
+    {
+        "value": "PROJECT LEADER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            199,
+            129,
+            17
+        ]
+    },
+    {
+        "value": "GENERAL PROJECT DESCRIPTION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            214,
+            249,
+            19
+        ]
+    },
+    {
+        "value": "Williams/ Giordano",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            225,
+            199,
+            158,
+            19
+        ]
+    },
+    {
+        "value": "True 100's, Regular and Menthol tar",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            341,
+            217,
+            321,
+            24
+        ]
+    },
+    {
+        "value": "reduction to the range of 8- 10mg tar. Variations to be: 1) Same taste",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            88,
+            233,
+            636,
+            21
+        ]
+    },
+    {
+        "value": "characteristics as current True 100's product and, 2) Taste characterist-",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            95,
+            249,
+            657,
+            20
+        ]
+    },
+    {
+        "value": "ics similar to True King Size, 5mg. tar product.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            96,
+            262,
+            436,
+            20
+        ]
+    },
+    {
+        "value": "REVISED TARGET DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            445,
+            372,
+            102,
+            32
+        ]
+    },
+    {
+        "value": "ESTIMATED TARGET DATE- ORIGINAL COMMENTS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            365,
+            148,
+            46
+        ]
+    },
+    {
+        "value": "YEAR ONE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            324,
+            520,
+            40,
+            31
+        ]
+    },
+    {
+        "value": "YEAR ",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            405,
+            521,
+            38,
+            31
+        ]
+    },
+    {
+        "value": "YEAR THREE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            467,
+            521,
+            51,
+            35
+        ]
+    },
+    {
+        "value": "YEAR FOUR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            552,
+            525,
+            40,
+            33
+        ]
+    },
+    {
+        "value": "YEAR FIVE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            623,
+            528,
+            44,
+            30
+        ]
+    },
+    {
+        "value": "SALES OBJECTIVE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            94,
+            594,
+            139,
+            16
+        ]
+    },
+    {
+        "value": "ESTIMATED PAYBACK PERIOD",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            608,
+            220,
+            20
+        ]
+    },
+    {
+        "value": "In- home placement",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            94,
+            702,
+            157,
+            20
+        ]
+    },
+    {
+        "value": "ORIGINAL COMPLETION DATE",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            376,
+            674,
+            142,
+            34
+        ]
+    },
+    {
+        "value": "MAJOR MKT. AND MKT. RESEARCH STEPS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            91,
+            667,
+            176,
+            34
+        ]
+    },
+    {
+        "value": "* REVISED COMPLETION DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            603,
+            680,
+            138,
+            37
+        ]
+    },
+    {
+        "value": "* EXPLANATION OF CHANGE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            92,
+            805,
+            143,
+            32
+        ]
+    }
+]

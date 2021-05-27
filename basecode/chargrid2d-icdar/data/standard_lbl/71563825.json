@@ -1,0 +1,596 @@
+﻿[
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            117,
+            92,
+            60,
+            49
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            575,
+            99,
+            57,
+            45
+        ]
+    },
+    {
+        "value": "Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            524,
+            205,
+            32,
+            14
+        ]
+    },
+    {
+        "value": "Market(s):",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            119,
+            388,
+            61,
+            15
+        ]
+    },
+    {
+        "value": "Male:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            120,
+            543,
+            31,
+            14
+        ]
+    },
+    {
+        "value": "Female:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            119,
+            560,
+            45,
+            13
+        ]
+    },
+    {
+        "value": "Bogotá:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            187,
+            606,
+            45,
+            14
+        ]
+    },
+    {
+        "value": "Medellin:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            189,
+            635,
+            53,
+            15
+        ]
+    },
+    {
+        "value": "Note:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            120,
+            670,
+            31,
+            13
+        ]
+    },
+    {
+        "value": "#",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            218,
+            205,
+            11,
+            14
+        ]
+    },
+    {
+        "value": "Other",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            219,
+            270,
+            32,
+            14
+        ]
+    },
+    {
+        "value": "COLOMBIA",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            313,
+            239,
+            70,
+            11
+        ]
+    },
+    {
+        "value": "KOOL",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            311,
+            254,
+            41,
+            13
+        ]
+    },
+    {
+        "value": "60%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            190,
+            541,
+            25,
+            18
+        ]
+    },
+    {
+        "value": "40%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            190,
+            559,
+            25,
+            11
+        ]
+    },
+    {
+        "value": "1)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            120,
+            444,
+            11,
+            11
+        ]
+    },
+    {
+        "value": "2)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            120,
+            459,
+            11,
+            13
+        ]
+    },
+    {
+        "value": "3)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            122,
+            475,
+            10,
+            13
+        ]
+    },
+    {
+        "value": "4)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            122,
+            492,
+            11,
+            13
+        ]
+    },
+    {
+        "value": "Market Research - Initiating Project Brief",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            233,
+            155,
+            306,
+            22
+        ]
+    },
+    {
+        "value": "Brief Number",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            124,
+            204,
+            84,
+            14
+        ]
+    },
+    {
+        "value": "Client Group:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            120,
+            239,
+            81,
+            14
+        ]
+    },
+    {
+        "value": "02/ 12/ 98",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            573,
+            205,
+            51,
+            13
+        ]
+    },
+    {
+        "value": "R. B. U.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            216,
+            237,
+            40,
+            13
+        ]
+    },
+    {
+        "value": "Brand Group",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            221,
+            254,
+            72,
+            13
+        ]
+    },
+    {
+        "value": "Client Contact:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            117,
+            303,
+            88,
+            15
+        ]
+    },
+    {
+        "value": "Maria Helena Argüelles/ Edwin Garcia",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            219,
+            303,
+            135,
+            31
+        ]
+    },
+    {
+        "value": "Research Liaison:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            394,
+            303,
+            105,
+            15
+        ]
+    },
+    {
+        "value": "Camilo Concha/ Andrea Suarez",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            504,
+            302,
+            130,
+            32
+        ]
+    },
+    {
+        "value": "Project Name/ Description",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            120,
+            353,
+            151,
+            16
+        ]
+    },
+    {
+        "value": "K001 vs. Marlboro Menthol Lights",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            274,
+            352,
+            198,
+            17
+        ]
+    },
+    {
+        "value": "Bogotá, Medellin and Barranquilla",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            183,
+            388,
+            190,
+            15
+        ]
+    },
+    {
+        "value": "Referent Brand(s):",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            120,
+            426,
+            106,
+            15
+        ]
+    },
+    {
+        "value": "Current Kool Filter King Colombia 1 1 mg tar @ 0. 51% menthol white tipping.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            134,
+            441,
+            436,
+            17
+        ]
+    },
+    {
+        "value": "Kool Milds KS Japan 9mg tar @ 0. 56% menthol white tipping",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            135,
+            458,
+            348,
+            14
+        ]
+    },
+    {
+        "value": "Kool KS. 9 mg tar, @ 0. 51% menthol white tipping",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            135,
+            473,
+            283,
+            15
+        ]
+    },
+    {
+        "value": "Current Marlboro Lights Menthol King US 9mg tar @ 0. 66% menthol, white tipping.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            135,
+            490,
+            467,
+            17
+        ]
+    },
+    {
+        "value": "Consumer Segment(s):",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            120,
+            524,
+            129,
+            15
+        ]
+    },
+    {
+        "value": "18 -29 (100%)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            190,
+            574,
+            75,
+            15
+        ]
+    },
+    {
+        "value": "By age:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            122,
+            575,
+            40,
+            14
+        ]
+    },
+    {
+        "value": "BY SEL:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            122,
+            591,
+            45,
+            14
+        ]
+    },
+    {
+        "value": "AB1 (100%)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            190,
+            591,
+            69,
+            13
+        ]
+    },
+    {
+        "value": "By City:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            122,
+            606,
+            46,
+            15
+        ]
+    },
+    {
+        "value": "KOOL Parent regular smokers 50% -alternate smokers 50%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            249,
+            605,
+            323,
+            17
+        ]
+    },
+    {
+        "value": "KOOL Parent regular smokers 50% -alternate smokers 50%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            249,
+            622,
+            323,
+            14
+        ]
+    },
+    {
+        "value": "KOOL Parent regular smokers 50% -alternate smokers 50%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            250,
+            638,
+            324,
+            14
+        ]
+    },
+    {
+        "value": "In order to establish a quantitative basis for determining the winning product, results will be",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            154,
+            668,
+            497,
+            18
+        ]
+    },
+    {
+        "value": "Alternate 60%, Regular 40%.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            233,
+            686,
+            158,
+            14
+        ]
+    },
+    {
+        "value": "Background Problem Definition:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            119,
+            722,
+            191,
+            14
+        ]
+    },
+    {
+        "value": "On September 1 97, PMI simultaneously launched Marlboro Menthol KS Box (16mg tar and Menthol Lights KS Box (9mg tar) in Colombia. These two products became KOOL's direct competitors (Premium Menthol Brands).",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            122,
+            736,
+            531,
+            48
+        ]
+    },
+    {
+        "value": "At the same time KOOL replaced its product with a milder 11mg cigarette (the same KOOL Milds but with a 27mm cork tipping).",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            122,
+            785,
+            527,
+            32
+        ]
+    },
+    {
+        "value": "440026083 PRODUCED FROM B &W WEB SITE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            0,
+            953,
+            231,
+            30
+        ]
+    },
+    {
+        "value": "weighted as follows:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            120,
+            686,
+            110,
+            14
+        ]
+    },
+    {
+        "value": "B/ quilla:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            190,
+            622,
+            48,
+            14
+        ]
+    }
+]

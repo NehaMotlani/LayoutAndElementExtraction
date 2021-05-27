@@ -1,0 +1,200 @@
+﻿[
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            501,
+            141,
+            34,
+            15
+        ]
+    },
+    {
+        "value": "Marketing",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            197,
+            295,
+            70,
+            17
+        ]
+    },
+    {
+        "value": "Mann",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            168,
+            270,
+            35,
+            13
+        ]
+    },
+    {
+        "value": "Project Initiation Form",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            299,
+            81,
+            174,
+            17
+        ]
+    },
+    {
+        "value": "November 15, 1968",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            547,
+            141,
+            127,
+            18
+        ]
+    },
+    {
+        "value": "CST- N- 68",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            168,
+            141,
+            61,
+            15
+        ]
+    },
+    {
+        "value": "Project Code",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            141,
+            90,
+            18
+        ]
+    },
+    {
+        "value": "Project Name",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            53,
+            209,
+            91,
+            17
+        ]
+    },
+    {
+        "value": "Charcoal Smoking Tobacco",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            170,
+            207,
+            179,
+            19
+        ]
+    },
+    {
+        "value": "Project Leader",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            267,
+            105,
+            17
+        ]
+    },
+    {
+        "value": "Work Requested by",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            53,
+            299,
+            127,
+            17
+        ]
+    },
+    {
+        "value": "Project Objective",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            355,
+            127,
+            18
+        ]
+    },
+    {
+        "value": "A pipe tobacco containing activated charcoal - must show vapor phase reduction.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            200,
+            353,
+            455,
+            49
+        ]
+    },
+    {
+        "value": "Smoking Deval Tobacco ",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            106,
+            432,
+            443,
+            68
+        ]
+    },
+    {
+        "value": "Other personnel assigned",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            57,
+            744,
+            180,
+            18
+        ]
+    },
+    {
+        "value": "Analytical Section is doing most of the work on vapor phase.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            254,
+            742,
+            436,
+            18
+        ]
+    },
+    {
+        "value": "PDL and John Brooks preparing charocal impregnated RC.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            74,
+            771,
+            394,
+            19
+        ]
+    },
+    {
+        "value": "Estimated Man Hours for Completion",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            61,
+            848,
+            249,
+            18
+        ]
+    }
+]

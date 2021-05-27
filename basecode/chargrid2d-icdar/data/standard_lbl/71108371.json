@@ -1,0 +1,904 @@
+﻿[
+    {
+        "value": "Department:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            110,
+            109,
+            75,
+            15
+        ]
+    },
+    {
+        "value": "System:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            109,
+            147,
+            49,
+            14
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            112,
+            205,
+            15,
+            15
+        ]
+    },
+    {
+        "value": "7970",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            207,
+            127,
+            29,
+            11
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            271,
+            176,
+            18,
+            14
+        ]
+    },
+    {
+        "value": "X",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            462,
+            189,
+            14,
+            13
+        ]
+    },
+    {
+        "value": "4/20/98",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            480,
+            122,
+            43,
+            15
+        ]
+    },
+    {
+        "value": "4/17/98",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            482,
+            102,
+            46,
+            15
+        ]
+    },
+    {
+        "value": "Immediate",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            480,
+            175,
+            56,
+            13
+        ]
+    },
+    {
+        "value": "High",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            483,
+            189,
+            27,
+            11
+        ]
+    },
+    {
+        "value": "Medium",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            480,
+            201,
+            43,
+            13
+        ]
+    },
+    {
+        "value": "Low",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            482,
+            216,
+            24,
+            11
+        ]
+    },
+    {
+        "value": "Defer",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            482,
+            229,
+            29,
+            11
+        ]
+    },
+    {
+        "value": "PRIORITY",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            511,
+            155,
+            70,
+            14
+        ]
+    },
+    {
+        "value": "designed",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            408,
+            712,
+            43,
+            14
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            99,
+            848,
+            198,
+            7
+        ]
+    },
+    {
+        "value": "MIS PROJECT REQUEST PART I - CLIENT REQUEST",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            257,
+            13,
+            210,
+            36
+        ]
+    },
+    {
+        "value": "Requested by:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            109,
+            74,
+            84,
+            16
+        ]
+    },
+    {
+        "value": "Karl Hutchison",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            200,
+            73,
+            94,
+            15
+        ]
+    },
+    {
+        "value": "Project Number:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            384,
+            71,
+            98,
+            14
+        ]
+    },
+    {
+        "value": "(assigned by MIS)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            485,
+            70,
+            88,
+            15
+        ]
+    },
+    {
+        "value": "BD & SS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            196,
+            108,
+            55,
+            14
+        ]
+    },
+    {
+        "value": "Phone Number:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            109,
+            127,
+            94,
+            14
+        ]
+    },
+    {
+        "value": "Date Submitted:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            384,
+            103,
+            97,
+            16
+        ]
+    },
+    {
+        "value": "Date Required:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            384,
+            123,
+            90,
+            14
+        ]
+    },
+    {
+        "value": "REQUEST TYPE",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            130,
+            162,
+            108,
+            16
+        ]
+    },
+    {
+        "value": "REASON CODE",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            307,
+            159,
+            105,
+            14
+        ]
+    },
+    {
+        "value": "1. Enhancement",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            131,
+            180,
+            86,
+            12
+        ]
+    },
+    {
+        "value": "2. Maintenance",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            133,
+            194,
+            82,
+            12
+        ]
+    },
+    {
+        "value": "3. Special Processing",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            135,
+            207,
+            108,
+            14
+        ]
+    },
+    {
+        "value": "4. Ad Hoc",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            133,
+            221,
+            54,
+            13
+        ]
+    },
+    {
+        "value": "5. Emergency",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            131,
+            235,
+            74,
+            14
+        ]
+    },
+    {
+        "value": "1. Productivity Improvement",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            296,
+            177,
+            147,
+            13
+        ]
+    },
+    {
+        "value": "2. Return On Investment",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            295,
+            190,
+            125,
+            14
+        ]
+    },
+    {
+        "value": "3. Customer Impact",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            293,
+            204,
+            105,
+            14
+        ]
+    },
+    {
+        "value": "4. Government Requirement",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            293,
+            216,
+            147,
+            15
+        ]
+    },
+    {
+        "value": "5. Business Change",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            295,
+            232,
+            99,
+            13
+        ]
+    },
+    {
+        "value": "6. System Error",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            295,
+            244,
+            82,
+            15
+        ]
+    },
+    {
+        "value": "7. Procedural Error",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            296,
+            258,
+            103,
+            15
+        ]
+    },
+    {
+        "value": "PROBLEM DEFINITION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            110,
+            292,
+            157,
+            15
+        ]
+    },
+    {
+        "value": "Description of Request:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            109,
+            310,
+            117,
+            14
+        ]
+    },
+    {
+        "value": "Please run job FRMRXUM2 for GPC, Misty, and Kool against file b:\\common\\khutchi\\r892unm.lst. Please place output in the same directory.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            109,
+            318,
+            497,
+            34
+        ]
+    },
+    {
+        "value": "Reason for Request:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            110,
+            406,
+            101,
+            15
+        ]
+    },
+    {
+        "value": "Calculation of 1997 STR volumes for these brands for allocation of Period 2A budgets.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            109,
+            430,
+            427,
+            17
+        ]
+    },
+    {
+        "value": "Request Authorized By:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            110,
+            506,
+            144,
+            17
+        ]
+    },
+    {
+        "value": "Karl Hutchison",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            309,
+            520,
+            84,
+            17
+        ]
+    },
+    {
+        "value": "REQUEST TYPE:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            98,
+            588,
+            93,
+            15
+        ]
+    },
+    {
+        "value": "REASON CODE:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            387,
+            584,
+            89,
+            15
+        ]
+    },
+    {
+        "value": "REQUEST AUTHORIZED BY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            101,
+            782,
+            166,
+            15
+        ]
+    },
+    {
+        "value": "1. Enhancement",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            98,
+            603,
+            98,
+            13
+        ]
+    },
+    {
+        "value": "productivity improvement, new",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            198,
+            602,
+            149,
+            13
+        ]
+    },
+    {
+        "value": "functionality, nice to have feature",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            119,
+            615,
+            160,
+            15
+        ]
+    },
+    {
+        "value": "2. Maintenance-",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            98,
+            630,
+            95,
+            14
+        ]
+    },
+    {
+        "value": "fix program error new business need",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            194,
+            628,
+            177,
+            14
+        ]
+    },
+    {
+        "value": "3. Special Processing",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            98,
+            645,
+            123,
+            13
+        ]
+    },
+    {
+        "value": "high volume file maintenance or",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            222,
+            642,
+            154,
+            14
+        ]
+    },
+    {
+        "value": "data correction which is not part of normal processing",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            120,
+            656,
+            256,
+            16
+        ]
+    },
+    {
+        "value": "4. Ad Hoc-",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            672,
+            68,
+            14
+        ]
+    },
+    {
+        "value": "reporting requirement which is not part of",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            169,
+            672,
+            200,
+            14
+        ]
+    },
+    {
+        "value": "normal processing",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            120,
+            687,
+            88,
+            13
+        ]
+    },
+    {
+        "value": "5. Emergency-",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            701,
+            87,
+            13
+        ]
+    },
+    {
+        "value": "application or technology failure",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            187,
+            700,
+            157,
+            14
+        ]
+    },
+    {
+        "value": "1. Productivity Improvement",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            388,
+            599,
+            158,
+            14
+        ]
+    },
+    {
+        "value": "2. Return on Investment-",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            387,
+            612,
+            135,
+            15
+        ]
+    },
+    {
+        "value": "3. Customer Impact",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            388,
+            627,
+            114,
+            14
+        ]
+    },
+    {
+        "value": "dollar savings",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            524,
+            612,
+            68,
+            13
+        ]
+    },
+    {
+        "value": "time savings",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            547,
+            596,
+            64,
+            14
+        ]
+    },
+    {
+        "value": "requested change affects",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            503,
+            624,
+            118,
+            14
+        ]
+    },
+    {
+        "value": "B&W's external customers",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            408,
+            640,
+            127,
+            14
+        ]
+    },
+    {
+        "value": "4. Government Requirement",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            388,
+            655,
+            158,
+            14
+        ]
+    },
+    {
+        "value": "required by law",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            547,
+            652,
+            75,
+            15
+        ]
+    },
+    {
+        "value": "5. Business Change",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            388,
+            668,
+            112,
+            15
+        ]
+    },
+    {
+        "value": "change in a business",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            501,
+            668,
+            99,
+            14
+        ]
+    },
+    {
+        "value": "process, or implement strategic direction",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            409,
+            682,
+            195,
+            16
+        ]
+    },
+    {
+        "value": "6. System Error-",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            388,
+            697,
+            95,
+            14
+        ]
+    },
+    {
+        "value": "System is not functioning as",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            486,
+            696,
+            131,
+            15
+        ]
+    },
+    {
+        "value": "7. Procedural Error",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            388,
+            725,
+            114,
+            14
+        ]
+    },
+    {
+        "value": "caused by user, scheduling,",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            506,
+            722,
+            128,
+            16
+        ]
+    },
+    {
+        "value": "operations, etc.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            409,
+            740,
+            72,
+            13
+        ]
+    },
+    {
+        "value": "MUST BE AUTHORIZED BY THE DEPARTMENT DIRECTOR OR THE",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            270,
+            777,
+            357,
+            20
+        ]
+    },
+    {
+        "value": "DESIGNATED SYSTEM OWNER BEFORE SUBMISSION TO THE MIS CLIENT SYSTEMS MANAGER.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            101,
+            793,
+            520,
+            17
+        ]
+    },
+    {
+        "value": "12009596 PRODUCED FROM B&W WEB SITE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            0,
+            954,
+            232,
+            28
+        ]
+    }
+]

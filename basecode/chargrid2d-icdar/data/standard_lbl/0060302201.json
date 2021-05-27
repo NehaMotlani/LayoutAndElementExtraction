@@ -1,0 +1,376 @@
+﻿[
+    {
+        "value": "NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            119,
+            39,
+            14
+        ]
+    },
+    {
+        "value": "COMMENTS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            53,
+            545,
+            67,
+            13
+        ]
+    },
+    {
+        "value": "none",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            126,
+            548,
+            41,
+            12
+        ]
+    },
+    {
+        "value": "DIVISION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            382,
+            119,
+            65,
+            11
+        ]
+    },
+    {
+        "value": "COMMENTS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            742,
+            57,
+            17
+        ]
+    },
+    {
+        "value": "yes",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            351,
+            285,
+            34,
+            17
+        ]
+    },
+    {
+        "value": "RESEARCH COMPLETED OR IN PROGRESS WHICH HAS POSSIBILITIES FOR PRESENTATION OR PUBLICATION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            164,
+            58,
+            394,
+            35
+        ]
+    },
+    {
+        "value": "Ronald. W Davis",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            107,
+            120,
+            113,
+            14
+        ]
+    },
+    {
+        "value": "Analytical- Radiochemistry",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            452,
+            118,
+            184,
+            15
+        ]
+    },
+    {
+        "value": "NATURE OF WORK:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            53,
+            145,
+            108,
+            16
+        ]
+    },
+    {
+        "value": "Total aldehyde analysis in cigarette mainstream ",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            171,
+            143,
+            385,
+            19
+        ]
+    },
+    {
+        "value": "PRESENT STATUS OF WORK (Cite progress reports where appropriate)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            198,
+            453,
+            21
+        ]
+    },
+    {
+        "value": "Techniques worked out",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            512,
+            202,
+            153,
+            14
+        ]
+    },
+    {
+        "value": "and reported for pure aldehyde samples; must be adapted for cigarette mainstream smoke by further laboratory work",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            55,
+            228,
+            612,
+            47
+        ]
+    },
+    {
+        "value": "HAS WORK BEEN REPORTED IN MANUSCRIPT ",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            284,
+            297,
+            19
+        ]
+    },
+    {
+        "value": "IF SO, GIVE DATE AND TITLE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            397,
+            284,
+            198,
+            19
+        ]
+    },
+    {
+        "value": "MBTH- reagent for analysis of aliphatic aldehydes 7 / 5 / 67",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            53,
+            314,
+            445,
+            20
+        ]
+    },
+    {
+        "value": "NAMES OF OTHER PERSONS COLLABORATING IN WORK:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            343,
+            320,
+            17
+        ]
+    },
+    {
+        "value": "L. W. McDowell",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            382,
+            343,
+            106,
+            17
+        ]
+    },
+    {
+        "value": "ESTIMATE OF TIME NEEDED TO COMPLETE WORK:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            55,
+            400,
+            291,
+            19
+        ]
+    },
+    {
+        "value": "approximately one month",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            354,
+            402,
+            169,
+            13
+        ]
+    },
+    {
+        "value": "ESTIMATE OF TIME NEEDED TO PREPARE MANUSCRIPT FOR PRESENTATION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            429,
+            446,
+            19
+        ]
+    },
+    {
+        "value": "several weeks after completion",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            500,
+            426,
+            217,
+            20
+        ]
+    },
+    {
+        "value": "ESTIMATE OF TIME NEEDED TO PREPARE MANUSCRIPT FOR PUBLICATION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            55,
+            458,
+            440,
+            17
+        ]
+    },
+    {
+        "value": "several weeks after completion of work",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            500,
+            456,
+            218,
+            29
+        ]
+    },
+    {
+        "value": "SCIENTIFIC METING OF CHOICE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            51,
+            487,
+            209,
+            14
+        ]
+    },
+    {
+        "value": "none as yet",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            259,
+            489,
+            85,
+            12
+        ]
+    },
+    {
+        "value": "SCIENTIFIC JOURNAL OF CHOICE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            53,
+            513,
+            209,
+            17
+        ]
+    },
+    {
+        "value": "Tobacco Science",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            262,
+            515,
+            109,
+            15
+        ]
+    },
+    {
+        "value": "COMMENTS BY MANAGER OR DIRECTOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            656,
+            222,
+            18
+        ]
+    },
+    {
+        "value": "DOES WORK MERIT PUBLICATION?",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            52,
+            683,
+            202,
+            18
+        ]
+    },
+    {
+        "value": "CAN TIME BE SPARED FOR COMPLETION?",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            53,
+            711,
+            241,
+            19
+        ]
+    },
+    {
+        "value": "been with applicability",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            134,
+            735,
+            560,
+            30
+        ]
+    },
+    {
+        "value": "may provide a technique.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            75,
+            761,
+            524,
+            53
+        ]
+    }
+]

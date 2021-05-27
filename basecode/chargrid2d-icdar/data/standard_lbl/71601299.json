@@ -1,0 +1,409 @@
+﻿[
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            154,
+            29,
+            15
+        ]
+    },
+    {
+        "value": "Number",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            130,
+            267,
+            47,
+            13
+        ]
+    },
+    {
+        "value": "Project",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            267,
+            41,
+            15
+        ]
+    },
+    {
+        "value": "(s)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            176,
+            401,
+            10,
+            15
+        ]
+    },
+    {
+        "value": "in",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            561,
+            560,
+            14,
+            13
+        ]
+    },
+    {
+        "value": "(s)",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            196,
+            497,
+            11,
+            13
+        ]
+    },
+    {
+        "value": "Marketing Research - CPT Initiating Brief",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            201,
+            84,
+            308,
+            20
+        ]
+    },
+    {
+        "value": "15. 03. 2000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            140,
+            152,
+            60,
+            19
+        ]
+    },
+    {
+        "value": "BAT Korea",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            184,
+            186,
+            69,
+            15
+        ]
+    },
+    {
+        "value": "Client Group",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            89,
+            184,
+            75,
+            17
+        ]
+    },
+    {
+        "value": "Client Contact",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            89,
+            216,
+            83,
+            16
+        ]
+    },
+    {
+        "value": "Alberto Marcheggiano Kyu Yeon Hwang",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            196,
+            219,
+            126,
+            31
+        ]
+    },
+    {
+        "value": "Research Liaison",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            408,
+            219,
+            95,
+            11
+        ]
+    },
+    {
+        "value": "Subi. Jeong",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            527,
+            218,
+            64,
+            15
+        ]
+    },
+    {
+        "value": "to be assigned by Brown & Williamson USA",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            180,
+            265,
+            245,
+            17
+        ]
+    },
+    {
+        "value": "Dunhill Lights, CPT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            243,
+            300,
+            112,
+            15
+        ]
+    },
+    {
+        "value": "Project Name/ Description:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            299,
+            156,
+            18
+        ]
+    },
+    {
+        "value": "Market (s) / Zone (s)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            332,
+            108,
+            20
+        ]
+    },
+    {
+        "value": "South Korea",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            85,
+            366,
+            66,
+            16
+        ]
+    },
+    {
+        "value": "Referent Brand",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            401,
+            89,
+            15
+        ]
+    },
+    {
+        "value": "Dunhill Lights Kent Super Lights Mild 7 This",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            82,
+            432,
+            179,
+            46
+        ]
+    },
+    {
+        "value": "Consumer Segment",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            84,
+            496,
+            112,
+            16
+        ]
+    },
+    {
+        "value": "Own Brand - Dunhill Smokers:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            527,
+            162,
+            16
+        ]
+    },
+    {
+        "value": "150 Males, 25 ~ 39 years old, ABC+ who live Seoul/ Pusan",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            250,
+            528,
+            319,
+            17
+        ]
+    },
+    {
+        "value": "Competitors Brands - Mild7 Lights Smokers",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            559,
+            236,
+            17
+        ]
+    },
+    {
+        "value": "150 Males, 25 ~ 39 years old, ABC+ who live",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            323,
+            559,
+            238,
+            16
+        ]
+    },
+    {
+        "value": "Source of Business - This:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            603,
+            138,
+            18
+        ]
+    },
+    {
+        "value": "250 Males, (100 smokers 25 ~ 29 years old, 150 smokers, 30 ~ 39 years old)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            223,
+            605,
+            404,
+            17
+        ]
+    },
+    {
+        "value": "ABC+ who are not rejectors of imported cigarette and live in Seoul/ Pusan",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            85,
+            620,
+            386,
+            16
+        ]
+    },
+    {
+        "value": "Source of Business - Local Premium KS Smokers",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            651,
+            264,
+            15
+        ]
+    },
+    {
+        "value": "250 Males (100 smokers, 25 ~ 29 years old, 150",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            348,
+            649,
+            256,
+            17
+        ]
+    },
+    {
+        "value": "smokers, 30 ~ 39 years old ABC+ who are not rejectors of imported cigarette and live in Seoul/ Pusan",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            84,
+            666,
+            533,
+            16
+        ]
+    },
+    {
+        "value": "Background / Problem Definition",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            700,
+            186,
+            14
+        ]
+    },
+    {
+        "value": "1999 showed that imported cigarettes are recovering from the 1997 / 1998 economic crisis and we forecasted continuos growth over the company's plan period.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            105,
+            732,
+            484,
+            30
+        ]
+    },
+    {
+        "value": "BAT objective is to substantially increase its market share with growth coming primarily from its first priority brand: Dunhill Lights",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            103,
+            761,
+            513,
+            30
+        ]
+    },
+    {
+        "value": "To achieve growth we consider fundamental to have a superior product in terms of acceptability among potential source of business as well as for our current franchise",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            105,
+            791,
+            517,
+            30
+        ]
+    },
+    {
+        "value": "597133637 PRODUCED FROM B&W WEB SITE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            0,
+            950,
+            230,
+            33
+        ]
+    }
+]

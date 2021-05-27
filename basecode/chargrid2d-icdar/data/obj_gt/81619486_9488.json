@@ -1,0 +1,622 @@
+﻿[
+    {
+        "text": "TO:",
+        "box": [
+            67,
+            108,
+            22,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FROM:",
+        "box": [
+            68,
+            138,
+            40,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "x",
+        "box": [
+            450,
+            171,
+            14,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "GEOGRAPHY",
+        "box": [
+            166,
+            237,
+            77,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REGION:",
+        "box": [
+            67,
+            263,
+            58,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "FULL",
+        "box": [
+            298,
+            262,
+            32,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PARTIAL",
+        "box": [
+            508,
+            263,
+            45,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PARTIAL",
+        "box": [
+            508,
+            312,
+            47,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FULL",
+        "box": [
+            298,
+            311,
+            34,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DIVISION:",
+        "box": [
+            69,
+            311,
+            59,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SUBJECT:",
+        "box": [
+            68,
+            203,
+            58,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "12",
+        "box": [
+            584,
+            336,
+            15,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "13",
+        "box": [
+            583,
+            356,
+            14,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "7",
+        "box": [
+            585,
+            380,
+            12,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "X",
+        "box": [
+            365,
+            311,
+            11,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DISTRIBUTION",
+        "box": [
+            156,
+            416,
+            97,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "70",
+        "box": [
+            297,
+            509,
+            14,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "121",
+        "box": [
+            294,
+            528,
+            19,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "81619486",
+        "box": [
+            660,
+            809,
+            22,
+            102
+        ],
+        "class": "other"
+    },
+    {
+        "text": "S. P. ZOLOT",
+        "box": [
+            140,
+            108,
+            65,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SUBMISSION DATE",
+        "box": [
+            447,
+            109,
+            112,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "R. W. Richardson",
+        "box": [
+            141,
+            138,
+            88,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "JUNE 29",
+        "box": [
+            376,
+            139,
+            46,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "AUG 10",
+        "box": [
+            379,
+            169,
+            40,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SEPT 21",
+        "box": [
+            525,
+            140,
+            46,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NOV 9",
+        "box": [
+            529,
+            169,
+            38,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MAVERICK SPECIALS EXPANSION MARKETS PROGRESS REPORT",
+        "box": [
+            137,
+            199,
+            388,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(ONLY IF PARTIAL REGION, CONTINUE WITH DIVISION (S) SCOPE)",
+        "box": [
+            67,
+            284,
+            363,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "DIVISION NAME:",
+        "box": [
+            91,
+            336,
+            95,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Detroit North",
+        "box": [
+            186,
+            338,
+            69,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Detroit South",
+        "box": [
+            189,
+            358,
+            69,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Detroit Central",
+        "box": [
+            192,
+            380,
+            69,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DIVISION NAME:",
+        "box": [
+            91,
+            358,
+            96,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DIVISION NAME:",
+        "box": [
+            91,
+            380,
+            97,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DIVISION NAME:",
+        "box": [
+            298,
+            338,
+            93,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DIVISION NAME:",
+        "box": [
+            296,
+            358,
+            95,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DIVISION NAME:",
+        "box": [
+            297,
+            379,
+            96,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Detroit East",
+        "box": [
+            393,
+            361,
+            63,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Detroit West",
+        "box": [
+            398,
+            337,
+            62,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "# REPS:",
+        "box": [
+            503,
+            336,
+            42,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "# REPS:",
+        "box": [
+            503,
+            359,
+            41,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "# REPS:",
+        "box": [
+            501,
+            382,
+            43,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Direct Accounts and Chains Headquartered within the Region (15+ Stores) Stocking No Maverick Specials",
+        "box": [
+            67,
+            443,
+            313,
+            26
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Name of Account",
+        "box": [
+            80,
+            482,
+            93,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Ind/ Lor Volume",
+        "box": [
+            206,
+            478,
+            43,
+            27
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Number of Stores",
+        "box": [
+            272,
+            475,
+            59,
+            30
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Name of Account",
+        "box": [
+            369,
+            481,
+            90,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Ind/ Lor Volume",
+        "box": [
+            494,
+            472,
+            43,
+            31
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Number of Stores",
+        "box": [
+            563,
+            477,
+            56,
+            28
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Meijer Gas",
+        "box": [
+            68,
+            510,
+            55,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Ultra Diamond",
+        "box": [
+            69,
+            531,
+            72,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "245/ 19",
+        "box": [
+            208,
+            509,
+            37,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "223/ 25",
+        "box": [
+            207,
+            532,
+            37,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Direct Accounts and Chains Headquartered Outside the Region (15+ Stores Stocking No Maverick Specials",
+        "box": [
+            68,
+            698,
+            321,
+            26
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Name of Account",
+        "box": [
+            84,
+            739,
+            89,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Ind/ Lor Volume",
+        "box": [
+            205,
+            732,
+            43,
+            25
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Number of Stores",
+        "box": [
+            273,
+            731,
+            58,
+            29
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Name of Account",
+        "box": [
+            373,
+            738,
+            87,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Ind/ Lor Volume",
+        "box": [
+            497,
+            730,
+            42,
+            25
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Number of Stores",
+        "box": [
+            563,
+            731,
+            57,
+            25
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            68,
+            952,
+            78,
+            8
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Page 1 of 3",
+        "box": [
+            621,
+            949,
+            41,
+            10
+        ],
+        "class": "other"
+    }
+]

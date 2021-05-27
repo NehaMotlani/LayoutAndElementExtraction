@@ -1,0 +1,242 @@
+﻿[
+    {
+        "text": "OPTION",
+        "box": [
+            241,
+            128,
+            47,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PAGE",
+        "box": [
+            548,
+            126,
+            32,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SHB",
+        "box": [
+            392,
+            146,
+            23,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "03",
+        "box": [
+            547,
+            148,
+            18,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(AUTO)",
+        "box": [
+            596,
+            110,
+            40,
+            12
+        ],
+        "class": "other"
+    },
+    {
+        "text": "207422272",
+        "box": [
+            663,
+            821,
+            18,
+            93
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Date:",
+        "box": [
+            213,
+            822,
+            43,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Attention:",
+        "box": [
+            176,
+            849,
+            81,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Company:",
+        "box": [
+            178,
+            875,
+            80,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Subject:",
+        "box": [
+            188,
+            927,
+            68,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "11/12/96",
+        "box": [
+            292,
+            822,
+            65,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MEMORY STORAGE REPORT",
+        "box": [
+            287,
+            68,
+            145,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "(NOV 12 96 05:49PM",
+        "box": [
+            518,
+            71,
+            139,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "FILE FILE TYPE",
+        "box": [
+            68,
+            126,
+            106,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "083 MEMORY TX",
+        "box": [
+            70,
+            145,
+            111,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "TEL NO.",
+        "box": [
+            389,
+            130,
+            46,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REMAINING CALL CAPACITY 299",
+        "box": [
+            452,
+            502,
+            184,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Facsimile Transmission Legal Department 120 Park Avenue New York, NY 10017- 5592",
+        "box": [
+            243,
+            718,
+            232,
+            90
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "PM PHILIP MORRIS",
+        "box": [
+            314,
+            613,
+            88,
+            58
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "John J. Mulderig C/O Mike Baker",
+        "box": [
+            292,
+            847,
+            223,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Philip Morris Management Corp.",
+        "box": [
+            289,
+            872,
+            229,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "816/545-7473",
+        "box": [
+            294,
+            900,
+            96,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Fax Received",
+        "box": [
+            292,
+            925,
+            94,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Fax #:",
+        "box": [
+            203,
+            900,
+            53,
+            17
+        ],
+        "class": "value_question"
+    }
+]

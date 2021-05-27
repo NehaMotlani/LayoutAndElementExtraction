@@ -1,0 +1,1112 @@
+﻿[
+    {
+        "text": "Date:",
+        "box": [
+            77,
+            80,
+            31,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Description:",
+        "box": [
+            78,
+            94,
+            66,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No.",
+        "box": [
+            525,
+            78,
+            21,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Budgeted:",
+        "box": [
+            302,
+            141,
+            56,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Yes",
+        "box": [
+            476,
+            126,
+            21,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Yes",
+        "box": [
+            476,
+            141,
+            21,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No",
+        "box": [
+            560,
+            126,
+            17,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No",
+        "box": [
+            560,
+            141,
+            15,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "X",
+        "box": [
+            525,
+            124,
+            14,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "X",
+        "box": [
+            608,
+            141,
+            13,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$",
+        "box": [
+            476,
+            158,
+            8,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            483,
+            158,
+            7,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "contract.",
+        "box": [
+            78,
+            190,
+            46,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Supplier",
+        "box": [
+            161,
+            218,
+            49,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "29,500",
+        "box": [
+            500,
+            235,
+            39,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "31,716",
+        "box": [
+            501,
+            251,
+            36,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2,500",
+        "box": [
+            413,
+            235,
+            31,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2,500",
+        "box": [
+            415,
+            251,
+            29,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "27,000",
+        "box": [
+            317,
+            233,
+            39,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "29,216",
+        "box": [
+            316,
+            250,
+            42,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Projected:",
+        "box": [
+            77,
+            282,
+            57,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Wave(s)",
+        "box": [
+            77,
+            346,
+            46,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Waves(s)",
+        "box": [
+            78,
+            411,
+            47,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Wave(s)",
+        "box": [
+            80,
+            489,
+            45,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Project",
+        "box": [
+            391,
+            536,
+            42,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Type:",
+        "box": [
+            432,
+            538,
+            34,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1995",
+        "box": [
+            538,
+            282,
+            29,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "500,000",
+        "box": [
+            543,
+            297,
+            45,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "382,575",
+        "box": [
+            542,
+            330,
+            42,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "29,500",
+        "box": [
+            546,
+            359,
+            41,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0",
+        "box": [
+            578,
+            411,
+            8,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "353,075",
+        "box": [
+            542,
+            457,
+            45,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "146,925",
+        "box": [
+            542,
+            486,
+            46,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Analyst",
+        "box": [
+            198,
+            645,
+            46,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Asst",
+        "box": [
+            203,
+            679,
+            28,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Mgr.",
+        "box": [
+            232,
+            677,
+            25,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Con",
+        "box": [
+            258,
+            676,
+            24,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Res",
+        "box": [
+            286,
+            677,
+            24,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(to",
+        "box": [
+            311,
+            676,
+            17,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "$",
+        "box": [
+            330,
+            675,
+            7,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "100,000)",
+        "box": [
+            338,
+            676,
+            47,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Musiclask",
+        "box": [
+            211,
+            749,
+            56,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            267,
+            753,
+            54,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            225,
+            709,
+            145,
+            25
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            189,
+            644,
+            172,
+            47
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Lumea",
+        "box": [
+            191,
+            615,
+            96,
+            35
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            293,
+            615,
+            89,
+            49
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Date:",
+        "box": [
+            461,
+            631,
+            29,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date:",
+        "box": [
+            459,
+            661,
+            29,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date:",
+        "box": [
+            458,
+            693,
+            32,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date:",
+        "box": [
+            461,
+            721,
+            29,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date:",
+        "box": [
+            461,
+            753,
+            31,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "466840246",
+        "box": [
+            529,
+            856,
+            116,
+            25
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Original:",
+        "box": [
+            77,
+            827,
+            46,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "cc:",
+        "box": [
+            78,
+            844,
+            17,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MRADOM",
+        "box": [
+            78,
+            862,
+            38,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "MARKETING RESEARCH AUTHORI TION",
+        "box": [
+            216,
+            28,
+            292,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "DOMESTIC (Recommended Proposal Attached)",
+        "box": [
+            261,
+            45,
+            206,
+            32
+        ],
+        "class": "other"
+    },
+    {
+        "text": "March3, 1995",
+        "box": [
+            177,
+            78,
+            77,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1995- 48D",
+        "box": [
+            567,
+            80,
+            53,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LUCKY STRIKE QUALITATIVE ADVERTISING RESEARCH - GATEWAY CITIES",
+        "box": [
+            179,
+            92,
+            409,
+            31
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Requested by:",
+        "box": [
+            77,
+            124,
+            78,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "A. A. Strobel",
+        "box": [
+            177,
+            124,
+            70,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Research Req Attached:",
+        "box": [
+            302,
+            126,
+            134,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Original Budgeted Amount:",
+        "box": [
+            282,
+            156,
+            148,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Competitive Proposals Obtained:",
+        "box": [
+            77,
+            170,
+            178,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Only two bidders because third supplier has not yet signed B & W",
+        "box": [
+            258,
+            172,
+            338,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Analytic Insight, Inc.",
+        "box": [
+            77,
+            232,
+            106,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Goldfarb Consultants",
+        "box": [
+            78,
+            251,
+            109,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Cost per Interview",
+        "box": [
+            575,
+            204,
+            53,
+            28
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Total Cost",
+        "box": [
+            487,
+            216,
+            60,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Est. Travel",
+        "box": [
+            402,
+            218,
+            60,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cost ($)",
+        "box": [
+            324,
+            218,
+            44,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Internal Init Date",
+        "box": [
+            78,
+            299,
+            98,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Summary of MRD Budget",
+        "box": [
+            323,
+            282,
+            143,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Total Area Authorized",
+        "box": [
+            339,
+            299,
+            123,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Field Start",
+        "box": [
+            78,
+            330,
+            62,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Current Balance Available",
+        "box": [
+            321,
+            330,
+            145,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "This Change:",
+        "box": [
+            392,
+            360,
+            72,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(From Current Budget)",
+        "box": [
+            338,
+            377,
+            128,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Field Complete",
+        "box": [
+            75,
+            392,
+            84,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "3/ 25/ 95",
+        "box": [
+            226,
+            408,
+            41,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3/ 20/ 95",
+        "box": [
+            225,
+            346,
+            42,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3/ 1/ 95",
+        "box": [
+            230,
+            299,
+            35,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "New Balance:",
+        "box": [
+            390,
+            455,
+            76,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Committed to Date: (Current Year)",
+        "box": [
+            356,
+            487,
+            109,
+            36
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "This amount: (From Next Year's Budget)",
+        "box": [
+            300,
+            408,
+            148,
+            34
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Final Report Due (Supplier Rpt.)",
+        "box": [
+            75,
+            455,
+            98,
+            32
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "3/ 31/ 95",
+        "box": [
+            228,
+            489,
+            41,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Qualitative Research (Product Test, A & U etc.)",
+        "box": [
+            487,
+            536,
+            138,
+            31
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Sample Size:",
+        "box": [
+            78,
+            552,
+            70,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Recommended Supplier:",
+        "box": [
+            78,
+            568,
+            131,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Reason(s) for Recommendation:",
+        "box": [
+            77,
+            585,
+            175,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Lowest Bid",
+        "box": [
+            302,
+            584,
+            62,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Analytic Insight, Inc.",
+        "box": [
+            302,
+            567,
+            107,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Submitted By:",
+        "box": [
+            78,
+            631,
+            81,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            80,
+            661,
+            79,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            77,
+            693,
+            82,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            78,
+            722,
+            80,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Budget Check:",
+        "box": [
+            80,
+            753,
+            80,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "3433/ 3/ 95",
+        "box": [
+            497,
+            620,
+            82,
+            31
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3/ 3/ 95",
+        "box": [
+            510,
+            640,
+            74,
+            42
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3/ 3/ 95",
+        "box": [
+            511,
+            714,
+            68,
+            29
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Project No:",
+        "box": [
+            461,
+            782,
+            67,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Acct. Name:",
+        "box": [
+            461,
+            796,
+            70,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "H. Williams",
+        "box": [
+            131,
+            841,
+            59,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Project File",
+        "box": [
+            130,
+            827,
+            58,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "466840246 PRODUCED FROM B & W WEB SITE",
+        "box": [
+            0,
+            953,
+            232,
+            30
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Senior VP Marketing (to $ 1,000,000)",
+        "box": [
+            203,
+            736,
+            194,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Director Forecasting Mkt (to $ 250,000)",
+        "box": [
+            201,
+            704,
+            244,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Vicki Clark",
+        "box": [
+            201,
+            767,
+            65,
+            14
+        ],
+        "class": "value_question"
+    }
+]

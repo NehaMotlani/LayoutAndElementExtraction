@@ -1,0 +1,742 @@
+﻿[
+    {
+        "text": "SECRET",
+        "box": [
+            76,
+            67,
+            42,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Weights",
+        "box": [
+            69,
+            517,
+            52,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Supplier(s)",
+        "box": [
+            69,
+            676,
+            76,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Color",
+        "box": [
+            71,
+            729,
+            37,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Porosity",
+        "box": [
+            71,
+            783,
+            56,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Substance",
+        "box": [
+            69,
+            872,
+            62,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "mm",
+        "box": [
+            446,
+            281,
+            17,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "mm",
+        "box": [
+            552,
+            362,
+            17,
+            9
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "mm",
+        "box": [
+            446,
+            359,
+            19,
+            9
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "13%",
+        "box": [
+            520,
+            464,
+            24,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "mg",
+        "box": [
+            446,
+            544,
+            17,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "mg",
+        "box": [
+            554,
+            545,
+            14,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "N/A",
+        "box": [
+            473,
+            754,
+            22,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "N/A",
+        "box": [
+            352,
+            756,
+            26,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "N/A",
+        "box": [
+            473,
+            808,
+            22,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "N/A",
+        "box": [
+            353,
+            809,
+            22,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "620753790",
+        "box": [
+            520,
+            894,
+            110,
+            19
+        ],
+        "class": "other"
+    },
+    {
+        "text": "CHAMP S/ L TRIAL SPECIFICATION",
+        "box": [
+            244,
+            106,
+            126,
+            30
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "BWIT Suggestion",
+        "box": [
+            397,
+            162,
+            64,
+            25
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "HK Trial",
+        "box": [
+            512,
+            173,
+            52,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CIGARETTE MAKING",
+        "box": [
+            75,
+            147,
+            109,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Physical Characteristics",
+        "box": [
+            74,
+            172,
+            159,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Overall Cigarette Length",
+        "box": [
+            74,
+            198,
+            161,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Tobacco Rod Length",
+        "box": [
+            74,
+            224,
+            119,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Filter Plug Length",
+        "box": [
+            74,
+            251,
+            121,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Filter Plug Pressure Drop (unencap.)",
+        "box": [
+            74,
+            277,
+            236,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Filter Plug Pressure Drop (encap.)",
+        "box": [
+            74,
+            303,
+            226,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cigarette Circumference",
+        "box": [
+            75,
+            330,
+            152,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Total Pressure Drop (unencap.)",
+        "box": [
+            72,
+            358,
+            199,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Total Pressure Drop (encap.)",
+        "box": [
+            71,
+            384,
+            189,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Tipping Length",
+        "box": [
+            71,
+            411,
+            97,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Print Position (from filter end)",
+        "box": [
+            74,
+            436,
+            213,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Moisture content (Packing)",
+        "box": [
+            71,
+            463,
+            172,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Filter Ventilation Rate",
+        "box": [
+            71,
+            490,
+            156,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Total Cigarette Weight",
+        "box": [
+            71,
+            542,
+            147,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Net Net Tobacco",
+        "box": [
+            71,
+            570,
+            105,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Tobacco Rod Density",
+        "box": [
+            70,
+            596,
+            127,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Tipping and Tipping Application",
+        "box": [
+            72,
+            622,
+            207,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Tipping Paper:",
+        "box": [
+            71,
+            647,
+            96,
+            16
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Supplier Code No(s).",
+        "box": [
+            69,
+            700,
+            133,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Perforation Type & No. of lines",
+        "box": [
+            70,
+            753,
+            208,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Print Description",
+        "box": [
+            69,
+            808,
+            115,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Bobbin Width",
+        "box": [
+            69,
+            829,
+            84,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Dobbin Length",
+        "box": [
+            69,
+            849,
+            92,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ECUSTA/ B&W",
+        "box": [
+            354,
+            673,
+            69,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ECUSTA/ B & W",
+        "box": [
+            473,
+            672,
+            78,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Non Porous",
+        "box": [
+            353,
+            783,
+            70,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "64 mm",
+        "box": [
+            352,
+            825,
+            38,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2500 M",
+        "box": [
+            354,
+            847,
+            45,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "36 nm/ M2",
+        "box": [
+            353,
+            873,
+            55,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Non Porous",
+        "box": [
+            475,
+            783,
+            66,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "64 mm",
+        "box": [
+            470,
+            828,
+            39,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2500 M",
+        "box": [
+            473,
+            848,
+            41,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "36 nm /47M2",
+        "box": [
+            475,
+            873,
+            51,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "243.6 mg/ cc",
+        "box": [
+            519,
+            594,
+            69,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "243.6 mg/ ",
+        "box": [
+            400,
+            592,
+            82,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "858 mg",
+        "box": [
+            400,
+            567,
+            63,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "858 mg",
+        "box": [
+            517,
+            569,
+            51,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "35 mm",
+        "box": [
+            519,
+            438,
+            49,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "32 mm",
+        "box": [
+            517,
+            410,
+            52,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "32 mm",
+        "box": [
+            406,
+            413,
+            56,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "35 mm",
+        "box": [
+            408,
+            436,
+            56,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "13 %",
+        "box": [
+            405,
+            461,
+            56,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "24.8 mm",
+        "box": [
+            408,
+            323,
+            55,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "58.5 mm",
+        "box": [
+            408,
+            305,
+            56,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "24.8 mm",
+        "box": [
+            514,
+            327,
+            55,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "58.5 mm",
+        "box": [
+            515,
+            305,
+            52,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "62 mm",
+        "box": [
+            520,
+            281,
+            49,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "27 mm",
+        "box": [
+            520,
+            253,
+            50,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "72 mm",
+        "box": [
+            519,
+            227,
+            47,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "99 mm",
+        "box": [
+            520,
+            202,
+            50,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "99 mm",
+        "box": [
+            414,
+            200,
+            51,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "72 mm",
+        "box": [
+            415,
+            224,
+            48,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "27 mm",
+        "box": [
+            413,
+            251,
+            51,
+            14
+        ],
+        "class": "value_answer"
+    }
+]

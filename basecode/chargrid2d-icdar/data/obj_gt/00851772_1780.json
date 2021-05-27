@@ -1,0 +1,332 @@
+﻿[
+    {
+        "text": "TYPE",
+        "box": [
+            94,
+            158,
+            20,
+            8
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "COMBINED",
+        "box": [
+            527,
+            168,
+            39,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☑",
+        "box": [
+            568,
+            168,
+            10,
+            10
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "NAME",
+        "box": [
+            94,
+            186,
+            21,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NAME",
+        "box": [
+            137,
+            212,
+            21,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMPOUND",
+        "box": [
+            94,
+            212,
+            42,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "B73",
+        "box": [
+            116,
+            278,
+            22,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            501,
+            186,
+            18,
+            7
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "N/A",
+        "box": [
+            520,
+            277,
+            22,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DATES",
+        "box": [
+            634,
+            299,
+            27,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REVIEWED",
+        "box": [
+            628,
+            306,
+            38,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "00851772",
+        "box": [
+            619,
+            778,
+            18,
+            85
+        ],
+        "class": "other"
+    },
+    {
+        "text": "II.",
+        "box": [
+            145,
+            311,
+            20,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(cont'd)",
+        "box": [
+            180,
+            310,
+            53,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Toxline",
+        "box": [
+            179,
+            339,
+            49,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1929-1966",
+        "box": [
+            626,
+            546,
+            63,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "INFORMATION SEARCH SUMMARY",
+        "box": [
+            249,
+            130,
+            276,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "CHEMICAL ☐",
+        "box": [
+            193,
+            168,
+            47,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BIOLOGICAL ☐",
+        "box": [
+            356,
+            168,
+            54,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "May 27, 1982",
+        "box": [
+            520,
+            186,
+            85,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Valerian Fluid Extract",
+        "box": [
+            116,
+            228,
+            153,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Jimmy Bell",
+        "box": [
+            117,
+            186,
+            70,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LORILLARD COMPOUND CODE",
+        "box": [
+            95,
+            270,
+            104,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REGISTRY NUMBER (IF applicable)",
+        "box": [
+            499,
+            270,
+            116,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LITERATURE SURVEYED",
+        "box": [
+            95,
+            295,
+            84,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Registry of the Toxic Effects of Chemicals",
+        "box": [
+            179,
+            380,
+            293,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1974- Jan. 1982 to Dec. 1981",
+        "box": [
+            624,
+            339,
+            63,
+            67
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1957- Dec. 1981",
+        "box": [
+            624,
+            658,
+            64,
+            25
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LORILLARD RESEARCH CENTER",
+        "box": [
+            95,
+            943,
+            113,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "FORM ",
+        "box": [
+            642,
+            944,
+            54,
+            8
+        ],
+        "class": "other"
+    },
+    {
+        "text": "III. SUPPLEMENTAL LITERATURE SEARCH Chemical Abstracts Vol. 23 - Vol. 65 Arctander' s Perfume and Flavor Materials of Natural Origin (1960) Guenther' s Monographs on Fragrance Raw Materials (1979) Tobacco Abstracts U. S. Dispensatory 23rd edition (1943)",
+        "box": [
+            138,
+            520,
+            326,
+            192
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Jimmy H. Bell B. Sc. Scientist",
+        "box": [
+            115,
+            739,
+            215,
+            61
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Ann C. Stringfield Literature M.L.S. Chemist",
+        "box": [
+            116,
+            420,
+            190,
+            71
+        ],
+        "class": "other"
+    }
+]

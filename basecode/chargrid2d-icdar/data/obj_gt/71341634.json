@@ -1,0 +1,1042 @@
+﻿[
+    {
+        "text": "Home",
+        "box": [
+            309,
+            74,
+            63,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Office",
+        "box": [
+            378,
+            70,
+            64,
+            21
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Check",
+        "box": [
+            450,
+            67,
+            70,
+            22
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "20182",
+        "box": [
+            134,
+            122,
+            31,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Request",
+        "box": [
+            166,
+            77,
+            94,
+            24
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Attention:",
+        "box": [
+            67,
+            198,
+            42,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Address:",
+        "box": [
+            66,
+            212,
+            42,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No",
+        "box": [
+            584,
+            180,
+            17,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "City",
+        "box": [
+            137,
+            239,
+            17,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "State",
+        "box": [
+            302,
+            232,
+            21,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CA",
+        "box": [
+            309,
+            216,
+            18,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "94080",
+        "box": [
+            419,
+            214,
+            29,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "OR",
+        "box": [
+            346,
+            289,
+            20,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Quantity",
+        "box": [
+            372,
+            377,
+            38,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Units",
+        "box": [
+            439,
+            373,
+            27,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Amount",
+        "box": [
+            574,
+            369,
+            36,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "288",
+        "box": [
+            254,
+            395,
+            18,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "296",
+        "box": [
+            258,
+            468,
+            17,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "725",
+        "box": [
+            318,
+            392,
+            18,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "725",
+        "box": [
+            318,
+            465,
+            21,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CTNS",
+        "box": [
+            441,
+            461,
+            27,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CTNS",
+        "box": [
+            440,
+            390,
+            28,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Date",
+        "box": [
+            366,
+            552,
+            18,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "39A00A",
+        "box": [
+            441,
+            566,
+            38,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0607",
+        "box": [
+            511,
+            563,
+            24,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "ID#",
+        "box": [
+            554,
+            543,
+            24,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Verification",
+        "box": [
+            80,
+            613,
+            49,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Ref",
+        "box": [
+            80,
+            628,
+            20,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            302,
+            603,
+            24,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Vendor#",
+        "box": [
+            366,
+            602,
+            39,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Check#",
+        "box": [
+            303,
+            620,
+            38,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Description",
+        "box": [
+            246,
+            651,
+            52,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Account#",
+        "box": [
+            313,
+            648,
+            45,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Department",
+        "box": [
+            373,
+            645,
+            52,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Product",
+        "box": [
+            443,
+            644,
+            39,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Amount",
+        "box": [
+            580,
+            637,
+            36,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date:",
+        "box": [
+            244,
+            795,
+            24,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "00000",
+        "box": [
+            489,
+            784,
+            32,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Check",
+        "box": [
+            493,
+            802,
+            29,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Y",
+        "box": [
+            503,
+            816,
+            14,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "N",
+        "box": [
+            570,
+            811,
+            11,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Distribution:",
+        "box": [
+            85,
+            844,
+            53,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "For",
+        "box": [
+            265,
+            74,
+            38,
+            22
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "425 481 31 46 PAGE 02",
+        "box": [
+            468,
+            897,
+            177,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "210180429 PRODUCED FROM B & W WEB SITE",
+        "box": [
+            0,
+            954,
+            231,
+            32
+        ],
+        "class": "other"
+    },
+    {
+        "text": "MAR 24 1999 16: 16",
+        "box": [
+            66,
+            906,
+            115,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Fax to Field Payments at (502) 588- 7826",
+        "box": [
+            142,
+            837,
+            175,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Pay Terms",
+        "box": [
+            433,
+            788,
+            56,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Pay Method",
+        "box": [
+            433,
+            800,
+            61,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Separate Pay-",
+        "box": [
+            433,
+            817,
+            67,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Prepared By:",
+        "box": [
+            307,
+            793,
+            56,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Voucher Approval:",
+        "box": [
+            84,
+            799,
+            82,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Account Name",
+        "box": [
+            127,
+            654,
+            64,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Business Unit",
+        "box": [
+            496,
+            640,
+            60,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Pay Handling",
+        "box": [
+            430,
+            613,
+            56,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Check Date",
+        "box": [
+            366,
+            616,
+            50,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Account Month",
+        "box": [
+            427,
+            598,
+            67,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Robert ",
+        "box": [
+            115,
+            575,
+            87,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Requested By:",
+        "box": [
+            78,
+            560,
+            64,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Robert E. Muhonin",
+        "box": [
+            237,
+            553,
+            80,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "03/ 24/ 99",
+        "box": [
+            383,
+            567,
+            40,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Dist/Asgmt C.F. #",
+        "box": [
+            427,
+            546,
+            94,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Check Total",
+        "box": [
+            490,
+            500,
+            56,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "$166 586 6060",
+        "box": [
+            575,
+            496,
+            58,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "$12 784 00",
+        "box": [
+            578,
+            453,
+            54,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$2 00",
+        "box": [
+            503,
+            455,
+            29,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "6. 382",
+        "box": [
+            377,
+            462,
+            27,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "March 15- 19, 1999",
+        "box": [
+            237,
+            510,
+            86,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Section 18 Narl Chain Walgreens",
+        "box": [
+            77,
+            471,
+            145,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Promo Dates",
+        "box": [
+            77,
+            517,
+            59,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Charge To Section:",
+        "box": [
+            77,
+            531,
+            87,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PER ATTACHED",
+        "box": [
+            170,
+            527,
+            77,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SEE ATTACHED",
+        "box": [
+            85,
+            429,
+            76,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "GPC BUYDOWN PROGRAMS",
+        "box": [
+            74,
+            397,
+            138,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Promotion Name",
+        "box": [
+            127,
+            372,
+            45,
+            25
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Promotion Number",
+        "box": [
+            239,
+            366,
+            46,
+            23
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Promotion Code",
+        "box": [
+            303,
+            365,
+            47,
+            24
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "AVG Rate",
+        "box": [
+            493,
+            370,
+            46,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "$143 922 80",
+        "box": [
+            573,
+            381,
+            54,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$2 84",
+        "box": [
+            501,
+            384,
+            27,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "50, 759",
+        "box": [
+            373,
+            390,
+            32,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1099 name for number listed above proper name of egal as shown on IRS form (please print)",
+        "box": [
+            71,
+            313,
+            378,
+            24
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Enter Federal Employer Identification Number",
+        "box": [
+            68,
+            281,
+            176,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Social Security Number",
+        "box": [
+            418,
+            271,
+            92,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Please complete the following If checked \"NO\" for corporation above:",
+        "box": [
+            187,
+            256,
+            322,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Pay To:",
+        "box": [
+            67,
+            182,
+            38,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COREMARK NTERNATIONAL",
+        "box": [
+            123,
+            176,
+            134,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DAVID DRESSER",
+        "box": [
+            120,
+            193,
+            81,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "395 DYSTER POINT BLVD SUITE 415 S. SAN FRANCISCO",
+        "box": [
+            117,
+            204,
+            173,
+            31
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Is this a corporation",
+        "box": [
+            506,
+            163,
+            90,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Yes X",
+        "box": [
+            511,
+            180,
+            20,
+            26
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Distributor No",
+        "box": [
+            64,
+            120,
+            65,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Char No",
+        "box": [
+            66,
+            137,
+            43,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MAR- 24- 1999 14: 39",
+        "box": [
+            61,
+            13,
+            124,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "BROWN & WILL IMASON",
+        "box": [
+            239,
+            8,
+            121,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Brown & Williamson Tobacco Corporation",
+        "box": [
+            237,
+            54,
+            160,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "(Records Retention:",
+        "box": [
+            64,
+            64,
+            70,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            61,
+            50,
+            59,
+            12
+        ],
+        "class": "other"
+    },
+    {
+        "text": "30 days)",
+        "box": [
+            138,
+            61,
+            32,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Check Required ASAP/ PROMPT",
+        "box": [
+            304,
+            115,
+            93,
+            26
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Mai Check To:",
+        "box": [
+            419,
+            110,
+            66,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PLEASE OVERNIGHT to",
+        "box": [
+            486,
+            105,
+            114,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "X Payee (Name)",
+        "box": [
+            510,
+            122,
+            94,
+            27
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Zip Code",
+        "box": [
+            388,
+            228,
+            36,
+            12
+        ],
+        "class": "value_question"
+    }
+]

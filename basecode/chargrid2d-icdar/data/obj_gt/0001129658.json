@@ -1,0 +1,422 @@
+﻿[
+    {
+        "text": "FAX:",
+        "box": [
+            96,
+            177,
+            22,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE:",
+        "box": [
+            75,
+            337,
+            41,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FROM:",
+        "box": [
+            75,
+            286,
+            42,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CHARGEBACK:",
+        "box": [
+            457,
+            288,
+            87,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "RECIPIENT",
+        "box": [
+            106,
+            404,
+            70,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMPANY",
+        "box": [
+            235,
+            402,
+            63,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FAX",
+        "box": [
+            398,
+            404,
+            27,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No.",
+        "box": [
+            426,
+            405,
+            25,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMMENTS",
+        "box": [
+            77,
+            532,
+            70,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No:",
+        "box": [
+            538,
+            934,
+            24,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Name:",
+        "box": [
+            258,
+            936,
+            41,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Yes",
+        "box": [
+            196,
+            936,
+            25,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Confirmation:",
+        "box": [
+            105,
+            937,
+            88,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "2074956978",
+        "box": [
+            686,
+            831,
+            20,
+            95
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            591,
+            102,
+            59,
+            42
+        ],
+        "class": "other"
+    },
+    {
+        "text": "WINSTON & STRAWN",
+        "box": [
+            77,
+            95,
+            411,
+            56
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Fax Cover Sheet",
+        "box": [
+            514,
+            137,
+            100,
+            21
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "MAMI TRIAL SITE, 2000 FIRST UNION FINANCIAL CENTER, 200 SOUTH BISCAYNE BOULEVARD MIAMI, FLORIDA 33131",
+        "box": [
+            95,
+            155,
+            371,
+            26
+        ],
+        "class": "other"
+    },
+    {
+        "text": "(305) 400 6 06",
+        "box": [
+            126,
+            179,
+            99,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "200 PARK AVENUE NEWYORK NY 10166 4193 212 294-6700",
+        "box": [
+            77,
+            205,
+            120,
+            33
+        ],
+        "class": "other"
+    },
+    {
+        "text": "400 L. STREET N WASHWINGTON DC 20005 3502 202 371 5700",
+        "box": [
+            219,
+            207,
+            127,
+            29
+        ],
+        "class": "other"
+    },
+    {
+        "text": "35 WEST WACKER CHICAGO. IL 30601 312- 588 5800",
+        "box": [
+            360,
+            208,
+            82,
+            31
+        ],
+        "class": "other"
+    },
+    {
+        "text": "21 AVENUE VICTOR HUGO 75 PARIS, FRANCE 33- 53 64 62 82",
+        "box": [
+            500,
+            209,
+            94,
+            30
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Fax Number:",
+        "box": [
+            267,
+            256,
+            88,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "305 400- 6107",
+        "box": [
+            359,
+            256,
+            95,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Kevin Narko",
+        "box": [
+            161,
+            286,
+            73,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10/ 13/ 99",
+        "box": [
+            161,
+            335,
+            52,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4162/ 158",
+        "box": [
+            468,
+            310,
+            55,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Please Deliver as soon Possible To:",
+        "box": [
+            246,
+            370,
+            226,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "John Mulderig",
+        "box": [
+            108,
+            430,
+            85,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Gregory Little",
+        "box": [
+            109,
+            458,
+            83,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Philip Morris",
+        "box": [
+            235,
+            430,
+            80,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Philip Morris",
+        "box": [
+            236,
+            459,
+            77,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "917 -663 -5796",
+        "box": [
+            399,
+            432,
+            83,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "917- 663 5979",
+        "box": [
+            397,
+            461,
+            84,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "917- 663 3056",
+        "box": [
+            514,
+            432,
+            82,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PHONE No.",
+        "box": [
+            514,
+            404,
+            74,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Total number of pages including this page:",
+        "box": [
+            239,
+            497,
+            240,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "IF YOU DO NOT RECEIVE ALL THE PAGES, PLEASE CALL OUR FAX OPERATOR AS SOON AS POSSIBLE THANK YOU. 312- 558- 5948",
+        "box": [
+            85,
+            677,
+            535,
+            45
+        ],
+        "class": "other"
+    },
+    {
+        "text": "The information contained in this facsimile message is attorncy privileged and confidential information intended only for the use of the individual or entity named above. If the reader of this message is not the intended recipient, or the employee or agent responsible to deliver it to the intended recipient, you are hereby notified that any dissemination, distribution or copying this communication strictly prohibited.",
+        "box": [
+            82,
+            821,
+            557,
+            52
+        ],
+        "class": "other"
+    },
+    {
+        "text": "If you have received this communication in error, please immediately notify us by telephone, and return the original message to us at the above address via the U. S. Postal Service. Thank you.",
+        "box": [
+            84,
+            881,
+            552,
+            27
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Operator Initials:",
+        "box": [
+            105,
+            919,
+            99,
+            16
+        ],
+        "class": "value_question"
+    }
+]

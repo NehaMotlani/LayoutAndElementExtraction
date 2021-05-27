@@ -1,0 +1,382 @@
+﻿[
+    {
+        "text": "Description",
+        "box": [
+            264,
+            133,
+            80,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Displays",
+        "box": [
+            493,
+            133,
+            67,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BRANDS",
+        "box": [
+            155,
+            186,
+            64,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Adjustment",
+        "box": [
+            370,
+            225,
+            82,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Carlton",
+        "box": [
+            166,
+            225,
+            52,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Amount",
+        "box": [
+            584,
+            314,
+            57,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Displays",
+        "box": [
+            156,
+            342,
+            52,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "31,000.00",
+        "box": [
+            575,
+            341,
+            59,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(31,000.00)",
+        "box": [
+            573,
+            369,
+            64,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Distribution:",
+        "box": [
+            41,
+            782,
+            91,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            332,
+            758,
+            89,
+            39
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "5/5",
+        "box": [
+            432,
+            774,
+            34,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            570,
+            757,
+            110,
+            39
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0.00",
+        "box": [
+            603,
+            737,
+            32,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Date",
+        "box": [
+            663,
+            841,
+            24,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            663,
+            797,
+            24,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            425,
+            797,
+            24,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            425,
+            839,
+            25,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "THE AMERICAN TOBACCO COMPANY",
+        "box": [
+            36,
+            21,
+            103,
+            71
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "APPROVED MARKETING PROJECT EXPENSE RECOMMENDATION",
+        "box": [
+            355,
+            36,
+            330,
+            38
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "S0002 Supp 2",
+        "box": [
+            137,
+            133,
+            103,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Private Stock",
+        "box": [
+            149,
+            205,
+            86,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Current Budget",
+        "box": [
+            356,
+            186,
+            111,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "$ 7,569,000.00",
+        "box": [
+            547,
+            184,
+            86,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Revised Budget",
+        "box": [
+            356,
+            263,
+            112,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "$ 7,569,000.00",
+        "box": [
+            547,
+            263,
+            87,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$ 0.00",
+        "box": [
+            598,
+            225,
+            37,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CAR- MMT- DSP",
+        "box": [
+            349,
+            341,
+            103,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PRV- MMT- DSP",
+        "box": [
+            351,
+            366,
+            98,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Prepared By:",
+        "box": [
+            253,
+            782,
+            78,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            476,
+            781,
+            85,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            478,
+            825,
+            82,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Prepared By:",
+        "box": [
+            253,
+            825,
+            78,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            138,
+            795,
+            54,
+            33
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Accounting File",
+        "box": [
+            53,
+            799,
+            71,
+            26
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Project No",
+        "box": [
+            41,
+            134,
+            75,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Offer Description",
+        "box": [
+            87,
+            313,
+            119,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Charge Code",
+        "box": [
+            395,
+            313,
+            97,
+            18
+        ],
+        "class": "value_question"
+    }
+]

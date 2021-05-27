@@ -1,0 +1,211 @@
+﻿[
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            401,
+            165,
+            41,
+            24
+        ]
+    },
+    {
+        "value": "Signature",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            344,
+            433,
+            82,
+            24
+        ]
+    },
+    {
+        "value": "From",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            211,
+            295,
+            45,
+            17
+        ]
+    },
+    {
+        "value": "To",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            492,
+            293,
+            28,
+            17
+        ]
+    },
+    {
+        "value": "NOTE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            126,
+            547,
+            49,
+            20
+        ]
+    },
+    {
+        "value": "3",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            154,
+            385,
+            13,
+            17
+        ]
+    },
+    {
+        "value": "2",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            429,
+            390,
+            15,
+            13
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            443,
+            420,
+            141,
+            34
+        ]
+    },
+    {
+        "value": "A. T. Co. Tar & Nicotine Change Form",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            229,
+            94,
+            297,
+            20
+        ]
+    },
+    {
+        "value": "7/ 24/ 90",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            487,
+            159,
+            56,
+            21
+        ]
+    },
+    {
+        "value": "CARLTON 100's FMSP",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            285,
+            228,
+            133,
+            22
+        ]
+    },
+    {
+        "value": "Brand & Style",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            124,
+            230,
+            118,
+            28
+        ]
+    },
+    {
+        "value": "Tar (Mg /Cigt)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            127,
+            323,
+            81,
+            48
+        ]
+    },
+    {
+        "value": "Nicotine (Mg /Cigt)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            265,
+            323,
+            83,
+            46
+        ]
+    },
+    {
+        "value": "Tar (Mg /Cigt)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            409,
+            323,
+            79,
+            48
+        ]
+    },
+    {
+        "value": "Nicotine (Mg/ /Cigt)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            543,
+            324,
+            82,
+            46
+        ]
+    },
+    {
+        "value": "0 .2",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            566,
+            387,
+            31,
+            17
+        ]
+    },
+    {
+        "value": "0 .3",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            285,
+            387,
+            27,
+            17
+        ]
+    },
+    {
+        "value": "Use Separate Form For Each Change",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            187,
+            546,
+            291,
+            19
+        ]
+    }
+]

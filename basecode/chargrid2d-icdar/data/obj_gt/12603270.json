@@ -1,0 +1,782 @@
+﻿[
+    {
+        "text": "Date:",
+        "box": [
+            81,
+            63,
+            38,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Description:",
+        "box": [
+            86,
+            131,
+            85,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Supplier:",
+        "box": [
+            85,
+            159,
+            66,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "#",
+        "box": [
+            533,
+            51,
+            13,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "51",
+        "box": [
+            547,
+            51,
+            15,
+            12
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Reasons:",
+        "box": [
+            86,
+            267,
+            58,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Increase",
+        "box": [
+            198,
+            209,
+            58,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(",
+        "box": [
+            480,
+            201,
+            13,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "CANCELLED",
+        "box": [
+            206,
+            357,
+            68,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1985",
+        "box": [
+            530,
+            337,
+            37,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "3,669,000",
+        "box": [
+            513,
+            352,
+            83,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "252,955",
+        "box": [
+            532,
+            380,
+            63,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "+58,500",
+        "box": [
+            535,
+            405,
+            58,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "311.455",
+        "box": [
+            533,
+            517,
+            63,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3,357,545",
+        "box": [
+            517,
+            566,
+            76,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0",
+        "box": [
+            434,
+            447,
+            13,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Original",
+        "box": [
+            95,
+            787,
+            61,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "cc:",
+        "box": [
+            98,
+            802,
+            22,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            424,
+            630,
+            28,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            422,
+            656,
+            35,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            424,
+            681,
+            32,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            425,
+            711,
+            33,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            427,
+            738,
+            28,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            497,
+            621,
+            71,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            492,
+            645,
+            106,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            497,
+            673,
+            95,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "A.",
+        "box": [
+            184,
+            733,
+            12,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "J.",
+        "box": [
+            206,
+            729,
+            13,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Mellman",
+        "box": [
+            226,
+            729,
+            53,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "L.",
+        "box": [
+            184,
+            703,
+            15,
+            12
+        ],
+        "class": "other"
+    },
+    {
+        "text": "E.",
+        "box": [
+            206,
+            703,
+            15,
+            12
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Gravely",
+        "box": [
+            223,
+            703,
+            55,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "J.",
+        "box": [
+            184,
+            676,
+            18,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "F.",
+        "box": [
+            206,
+            674,
+            15,
+            12
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Wilhelm",
+        "box": [
+            224,
+            673,
+            53,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            228,
+            681,
+            98,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            179,
+            621,
+            164,
+            27
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            178,
+            648,
+            246,
+            25
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1985-39NP",
+        "box": [
+            492,
+            791,
+            66,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "681925993",
+        "box": [
+            535,
+            855,
+            123,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "/big:jfw00017",
+        "box": [
+            100,
+            867,
+            93,
+            12
+        ],
+        "class": "other"
+    },
+    {
+        "text": "CHANGE OF AUTHORIZED COST",
+        "box": [
+            264,
+            42,
+            169,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "June 21, 1985",
+        "box": [
+            131,
+            58,
+            93,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RICHLAND 100's",
+        "box": [
+            174,
+            86,
+            99,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Brand Name:",
+        "box": [
+            83,
+            88,
+            78,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Amelia 100's Candidates: (NM-FT and NM- Lights)",
+        "box": [
+            186,
+            121,
+            324,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Market Facts. Inc.",
+        "box": [
+            168,
+            154,
+            123,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Previous $ Commitments This Project",
+        "box": [
+            86,
+            179,
+            241,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Amt. of Change:",
+        "box": [
+            85,
+            209,
+            106,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Adjusted Total Cost of Protect:",
+        "box": [
+            86,
+            236,
+            216,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "$ 58,500",
+        "box": [
+            374,
+            174,
+            57,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "PROJECT CANCELLED",
+        "box": [
+            296,
+            287,
+            114,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Projected: Field Start",
+        "box": [
+            88,
+            347,
+            82,
+            25
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Field Complete",
+        "box": [
+            88,
+            387,
+            101,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Final Report Due",
+        "box": [
+            90,
+            415,
+            112,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Summary of Research Budget",
+        "box": [
+            307,
+            341,
+            180,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Total Area Budget:",
+        "box": [
+            309,
+            355,
+            126,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Current Balance Available",
+        "box": [
+            311,
+            380,
+            176,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "This Change: (From Current Budget)",
+        "box": [
+            311,
+            410,
+            146,
+            31
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "This Amount",
+        "box": [
+            309,
+            452,
+            77,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(From Next Year's Budget)",
+        "box": [
+            311,
+            463,
+            171,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "New Balance:",
+        "box": [
+            311,
+            520,
+            84,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Committed To Date:",
+        "box": [
+            312,
+            575,
+            125,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Submitted By:",
+        "box": [
+            95,
+            635,
+            89,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            93,
+            663,
+            90,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            96,
+            689,
+            87,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            93,
+            716,
+            88,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            95,
+            746,
+            89,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Project File S. Willinger ",
+        "box": [
+            178,
+            784,
+            115,
+            27
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Research Group Manager Bonnie Fuller V. Hansberry (If International)",
+        "box": [
+            181,
+            811,
+            216,
+            42
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Project No.",
+        "box": [
+            399,
+            792,
+            73,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Account Name",
+        "box": [
+            400,
+            821,
+            83,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PRODUCT TESTING",
+        "box": [
+            495,
+            816,
+            105,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "681925993 RODUCED FROM B&W WEB SITE",
+        "box": [
+            0,
+            953,
+            233,
+            30
+        ],
+        "class": "other"
+    },
+    {
+        "text": "$ -0-",
+        "box": [
+            374,
+            231,
+            49,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "-100% Change)",
+        "box": [
+            530,
+            199,
+            91,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Decrease X",
+        "box": [
+            284,
+            206,
+            79,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$- 58,500",
+        "box": [
+            374,
+            203,
+            58,
+            15
+        ],
+        "class": "other"
+    }
+]

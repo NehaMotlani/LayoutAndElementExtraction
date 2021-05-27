@@ -1,0 +1,182 @@
+﻿[
+    {
+        "text": "EPL",
+        "box": [
+            70,
+            130,
+            53,
+            28
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Multiple",
+        "box": [
+            209,
+            405,
+            63,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1419A",
+        "box": [
+            571,
+            274,
+            36,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Species",
+        "box": [
+            441,
+            405,
+            52,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Mice",
+        "box": [
+            527,
+            405,
+            34,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "89386032",
+        "box": [
+            675,
+            832,
+            15,
+            89
+        ],
+        "class": "other"
+    },
+    {
+        "text": "EXPERIMENTAL PATHOLOGY LABORATORIES, INC.",
+        "box": [
+            141,
+            168,
+            283,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "QUALITY ASSURANCE REPORT CERTIFICATION",
+        "box": [
+            291,
+            218,
+            147,
+            27
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Client Name",
+        "box": [
+            106,
+            274,
+            82,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Study Director",
+        "box": [
+            106,
+            317,
+            102,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Study Title",
+        "box": [
+            106,
+            360,
+            79,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Test Article",
+        "box": [
+            109,
+            404,
+            86,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Borriston Laboratories, Inc.",
+        "box": [
+            200,
+            274,
+            197,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Client Study No.",
+        "box": [
+            404,
+            275,
+            117,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Dr. William O. Iverson Pathologist Dr. Charley E. Gilmore",
+        "box": [
+            212,
+            316,
+            424,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Bioassay of Cigarette Smoke Condensates for potential Tumorigenic Activity on Mouse Skin (Revised Pathology Report)",
+        "box": [
+            214,
+            344,
+            380,
+            47
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "A11 parts of the pathology phase of this study, including the final report, were reviewed by Experimental Pathology Laboratories Quality Assurance Unit on March 2- June 8, 1983 . All Findings were reported to the Study Director and Management.",
+        "box": [
+            124,
+            486,
+            543,
+            107
+        ],
+        "class": "other"
+    },
+    {
+        "text": "6/8/83",
+        "box": [
+            398,
+            661,
+            229,
+            88
+        ],
+        "class": "other"
+    }
+]

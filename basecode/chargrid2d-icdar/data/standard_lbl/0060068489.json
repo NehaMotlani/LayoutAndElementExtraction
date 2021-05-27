@@ -1,0 +1,552 @@
+﻿[
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            554,
+            181,
+            36,
+            12
+        ]
+    },
+    {
+        "value": "DESCRIPTION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            534,
+            201,
+            79,
+            9
+        ]
+    },
+    {
+        "value": "MEDIUM",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            307,
+            198,
+            45,
+            13
+        ]
+    },
+    {
+        "value": "3/17/82",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            606,
+            178,
+            61,
+            13
+        ]
+    },
+    {
+        "value": "Outdoor",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            299,
+            219,
+            63,
+            15
+        ]
+    },
+    {
+        "value": "AGENCY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            25,
+            177,
+            49,
+            13
+        ]
+    },
+    {
+        "value": "BRAND",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            69,
+            198,
+            43,
+            10
+        ]
+    },
+    {
+        "value": "NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            416,
+            178,
+            18,
+            15
+        ]
+    },
+    {
+        "value": "April",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            223,
+            289,
+            46,
+            13
+        ]
+    },
+    {
+        "value": "THRU",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            407,
+            293,
+            39,
+            12
+        ]
+    },
+    {
+        "value": "July",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            534,
+            287,
+            36,
+            15
+        ]
+    },
+    {
+        "value": "SPACE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            100,
+            382,
+            37,
+            13
+        ]
+    },
+    {
+        "value": "CONTINGENCY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            488,
+            85,
+            13
+        ]
+    },
+    {
+        "value": "1,680",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            21,
+            344,
+            49,
+            13
+        ]
+    },
+    {
+        "value": "2.000.00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            391,
+            513,
+            70,
+            10
+        ]
+    },
+    {
+        "value": "TOTAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            292,
+            591,
+            40,
+            15
+        ]
+    },
+    {
+        "value": "APPROVALS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            569,
+            594,
+            69,
+            13
+        ]
+    },
+    {
+        "value": "Agency",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            506,
+            624,
+            36,
+            13
+        ]
+    },
+    {
+        "value": "Product",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            506,
+            648,
+            40,
+            10
+        ]
+    },
+    {
+        "value": "Media",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            504,
+            674,
+            33,
+            12
+        ]
+    },
+    {
+        "value": "Sales",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            506,
+            699,
+            30,
+            12
+        ]
+    },
+    {
+        "value": "Marketing",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            506,
+            725,
+            49,
+            12
+        ]
+    },
+    {
+        "value": "Executive",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            507,
+            750,
+            48,
+            12
+        ]
+    },
+    {
+        "value": "Accounting",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            506,
+            775,
+            57,
+            12
+        ]
+    },
+    {
+        "value": "REMARKS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            25,
+            645,
+            58,
+            15
+        ]
+    },
+    {
+        "value": "ADVERTISING AND SELLING AUTHORIZATION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            418,
+            78,
+            288,
+            19
+        ]
+    },
+    {
+        "value": "NYO 09 (10-81)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            636,
+            67,
+            68,
+            10
+        ]
+    },
+    {
+        "value": "The American Tobacco Company DIVISION OF AMERICAN BRANDS INC. 265 PARK AVENUE, NEW YORK, NEW YORK 00267",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            25,
+            55,
+            280,
+            55
+        ]
+    },
+    {
+        "value": "DO NOT MAKE ANY COMMITMENT OR AUTHORIZE ANY EXPENDITURE OF ANY KIND FOR. ACCOUNT OF THIS COMPANY UNTIL EXECUTIVE APPROVAL HAS BEEN OBTAINED HEREON.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            94,
+            132,
+            544,
+            25
+        ]
+    },
+    {
+        "value": "corporate Media Department",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            123,
+            175,
+            222,
+            15
+        ]
+    },
+    {
+        "value": "30 sheet Posters (White Background)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            512,
+            220,
+            151,
+            29
+        ]
+    },
+    {
+        "value": "LUCKY STRIKE LOW Tar Filters Box- 100%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            13,
+            216,
+            174,
+            30
+        ]
+    },
+    {
+        "value": "PERIOD. FROM",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            69,
+            290,
+            86,
+            15
+        ]
+    },
+    {
+        "value": "ENTER ESTIMATES OF AMOUNTS TO BE EXPENDED BY MONTHS UNDER \"REMARKS\" OR ON ATTACHMENT. MAXIMUM EXPENDITURES AUTHORIZED",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            175,
+            307,
+            508,
+            25
+        ]
+    },
+    {
+        "value": "1,600 posters plus 5% overrun (80) $ 16.00 each",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            516,
+            356,
+            158,
+            45
+        ]
+    },
+    {
+        "value": "$ 26,880,00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            376,
+            355,
+            87,
+            15
+        ]
+    },
+    {
+        "value": "$ 28,880.00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            352,
+            584,
+            110,
+            16
+        ]
+    },
+    {
+        "value": "For posting in Cincinnati, Covington and Tampa/St. Petersburg.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            93,
+            668,
+            341,
+            27
+        ]
+    },
+    {
+        "value": "Posters are captioned for identification, \"LUCKY STRIKES AGAIN (printed in red) with the word \"New\" printed in a snipe effect in the upper left corner. These posters have a white background and will be further identified as such in order to differentiate from a second design which will have a solid red background with white lettering.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            93,
+            705,
+            401,
+            111
+        ]
+    },
+    {
+        "value": "Posters are printed six colors (four color process and two impressions of red) on white 70# outdoor poster paper.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            93,
+            823,
+            375,
+            41
+        ]
+    },
+    {
+        "value": "Budget Allocation",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            509,
+            826,
+            87,
+            13
+        ]
+    },
+    {
+        "value": "Authorization No.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            506,
+            852,
+            87,
+            14
+        ]
+    },
+    {
+        "value": "M- 49",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            618,
+            850,
+            38,
+            13
+        ]
+    },
+    {
+        "value": "L- 3a",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            617,
+            825,
+            38,
+            13
+        ]
+    },
+    {
+        "value": "Estimated Freight Charges",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            94,
+            512,
+            218,
+            13
+        ]
+    },
+    {
+        "value": "DISPLAY MATERIAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            100,
+            460,
+            115,
+            13
+        ]
+    },
+    {
+        "value": "MECHANICAL PRODUCTION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            97,
+            436,
+            162,
+            13
+        ]
+    },
+    {
+        "value": "ART WORK",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            100,
+            409,
+            64,
+            13
+        ]
+    },
+    {
+        "value": "AIR TIME",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            102,
+            332,
+            55,
+            15
+        ]
+    },
+    {
+        "value": "30 Sheet Posters ",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            346,
+            165,
+            25
+        ]
+    }
+]

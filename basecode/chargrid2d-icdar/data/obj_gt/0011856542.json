@@ -1,0 +1,182 @@
+﻿[
+    {
+        "text": "DATE",
+        "box": [
+            425,
+            258,
+            37,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BD-FF",
+        "box": [
+            259,
+            255,
+            42,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1/4/90",
+        "box": [
+            500,
+            259,
+            51,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Marketing",
+        "box": [
+            257,
+            382,
+            73,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "cc:",
+        "box": [
+            65,
+            755,
+            26,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            363,
+            737,
+            218,
+            57
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PROJECT INITIATION FORM",
+        "box": [
+            256,
+            150,
+            202,
+            24
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "PROJECT CODE",
+        "box": [
+            71,
+            250,
+            111,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PROJECT NAME",
+        "box": [
+            72,
+            294,
+            106,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BULL DURHAM Full Flavor King Size Cigarettes",
+        "box": [
+            259,
+            296,
+            315,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "J. F. Anders/ J. E. Mann",
+        "box": [
+            262,
+            338,
+            163,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PROJECT LEADER",
+        "box": [
+            68,
+            334,
+            126,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "WORK REQUESTED BY",
+        "box": [
+            71,
+            375,
+            147,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PROJECT OBJECTIVE",
+        "box": [
+            66,
+            417,
+            154,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Develop 14- mg \"tar\" delivery king size cigarette for generic pricing directed toward young male smokers. Cigarette dimensions- 85 mm x 24.9 mm circumference- 20 mm filter- 24 mm tipping. Offshore tobacco blend with unique flavor formulation. Cork tipping.",
+        "box": [
+            255,
+            423,
+            384,
+            158
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "OTHER PERSONNEL ASSIGNED",
+        "box": [
+            66,
+            581,
+            109,
+            40
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved by",
+        "box": [
+            368,
+            718,
+            98,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "RSS RDC PHL PRC DRB Records Project Leader Other Personnel Assigned",
+        "box": [
+            106,
+            756,
+            207,
+            117
+        ],
+        "class": "value_answer"
+    }
+]

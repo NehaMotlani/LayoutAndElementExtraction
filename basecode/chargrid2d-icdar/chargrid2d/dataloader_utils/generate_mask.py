@@ -10,10 +10,10 @@ import numpy as np
 import torch
 # import utils
 import sys
-sys.path.insert(1, '/Users/nehamotlani/Desktop/College_Courses/Research/Code/basecode/chargrid2d-icdar/')
+sys.path.insert(1, '/Users/nehamotlani/Desktop/College_Courses/Research/Repo/LayoutAndElementExtraction/basecode/chargrid2d-icdar/')
 from chargrid2d.dataloader_utils.utils import make_folder, read_json, write_json
 
-root = '/Users/nehamotlani/Desktop/College_Courses/Research/Code/basecode/chargrid2d-icdar/'
+root = '/Users/nehamotlani/Desktop/College_Courses/Research/Repo/LayoutAndElementExtraction/basecode/chargrid2d-icdar/'
 
 class MaskGenerator():
     def __init__(self):

@@ -1,0 +1,486 @@
+﻿[
+    {
+        "value": "VENDOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            21,
+            244,
+            46,
+            10
+        ]
+    },
+    {
+        "value": "TERMS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            50,
+            289,
+            36,
+            11
+        ]
+    },
+    {
+        "value": "VIA",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            373,
+            288,
+            21,
+            13
+        ]
+    },
+    {
+        "value": "Attn:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            257,
+            316,
+            38,
+            15
+        ]
+    },
+    {
+        "value": "NET",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            116,
+            285,
+            25,
+            15
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            577,
+            200,
+            29,
+            13
+        ]
+    },
+    {
+        "value": "UNIT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            645,
+            372,
+            28,
+            15
+        ]
+    },
+    {
+        "value": "PRICE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            675,
+            372,
+            32,
+            14
+        ]
+    },
+    {
+        "value": "DESCRIPTION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            367,
+            372,
+            70,
+            15
+        ]
+    },
+    {
+        "value": "QUANTITY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            31,
+            374,
+            56,
+            14
+        ]
+    },
+    {
+        "value": "CODE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            140,
+            373,
+            34,
+            15
+        ]
+    },
+    {
+        "value": "00920222",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            563,
+            838,
+            95,
+            21
+        ]
+    },
+    {
+        "value": "15",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            155,
+            284,
+            17,
+            17
+        ]
+    },
+    {
+        "value": "-",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            27,
+            278,
+            11,
+            11
+        ]
+    },
+    {
+        "value": "4111",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            302,
+            950,
+            32,
+            18
+        ]
+    },
+    {
+        "value": "9590",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            441,
+            951,
+            31,
+            17
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            514,
+            947,
+            218,
+            39
+        ]
+    },
+    {
+        "value": "PURCHASE REQUISITION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            254,
+            207,
+            167,
+            17
+        ]
+    },
+    {
+        "value": "☐ PURCHASING",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            39,
+            207,
+            85,
+            14
+        ]
+    },
+    {
+        "value": "☐ STATIONARY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            39,
+            223,
+            90,
+            15
+        ]
+    },
+    {
+        "value": "Borriston Laboratories, INC. , 5050 Beech Place Temple Hills, MD 20748",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            36,
+            251,
+            510,
+            23
+        ]
+    },
+    {
+        "value": "ORDER NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            574,
+            242,
+            59,
+            11
+        ]
+    },
+    {
+        "value": "March 27, 1984",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            588,
+            214,
+            104,
+            18
+        ]
+    },
+    {
+        "value": "1332 REV L1 16 79",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            468,
+            198,
+            99,
+            21
+        ]
+    },
+    {
+        "value": "PLEASE INCLUDE ONLY ONE TYPE OF MATERIAL ON THIS REQUISITION",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            166,
+            223,
+            363,
+            17
+        ]
+    },
+    {
+        "value": "F. O. B.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            204,
+            288,
+            30,
+            14
+        ]
+    },
+    {
+        "value": "N /A",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            278,
+            284,
+            23,
+            15
+        ]
+    },
+    {
+        "value": "N /A",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            430,
+            282,
+            28,
+            17
+        ]
+    },
+    {
+        "value": "DATE WANTED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            501,
+            302,
+            78,
+            11
+        ]
+    },
+    {
+        "value": "Prev. or Recommended SupplIer",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            575,
+            272,
+            142,
+            13
+        ]
+    },
+    {
+        "value": "As required",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            535,
+            314,
+            87,
+            16
+        ]
+    },
+    {
+        "value": "Dr. Connie Stone",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            307,
+            313,
+            122,
+            17
+        ]
+    },
+    {
+        "value": "- Lorillard Research Center",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            21,
+            314,
+            206,
+            20
+        ]
+    },
+    {
+        "value": "- 420 English Street Greensboro, NC 27405",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            18,
+            341,
+            315,
+            22
+        ]
+    },
+    {
+        "value": "This is your authorization to perform the \"Acute Oral Toxicity Study in the Rat\" tests on materials D13 and D23 supplied by Lorillard. The fixed price for each test is $2050 for each material, for a total price of $4100. Studies are to be conducted in accordance with the October 17, 1980 formal agreement between Borriston and Lorillard. All work is to be coordinated with our Dr. Connie Stone (919) 373- 6663.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            117,
+            402,
+            596,
+            168
+        ]
+    },
+    {
+        "value": "FOLLOW UP DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            876,
+            94,
+            14
+        ]
+    },
+    {
+        "value": "BUDGET NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            109,
+            929,
+            66,
+            15
+        ]
+    },
+    {
+        "value": "REQUISITION NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            335,
+            874,
+            91,
+            14
+        ]
+    },
+    {
+        "value": "ISSUED BY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            587,
+            872,
+            59,
+            17
+        ]
+    },
+    {
+        "value": "APPROVED BY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            578,
+            927,
+            79,
+            15
+        ]
+    },
+    {
+        "value": "DEPT. NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            413,
+            927,
+            54,
+            17
+        ]
+    },
+    {
+        "value": "ACCT. NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            295,
+            927,
+            53,
+            17
+        ]
+    },
+    {
+        "value": "SHIP TO (DEPT- BRANCH)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            24,
+            304,
+            126,
+            11
+        ]
+    },
+    {
+        "value": "FOR PURCHASING DEPARTMENT USE ONLY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            193,
+            242,
+            217,
+            11
+        ]
+    }
+]

@@ -1,0 +1,332 @@
+﻿[
+    {
+        "text": "DATE",
+        "box": [
+            156,
+            270,
+            55,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TIME",
+        "box": [
+            360,
+            271,
+            43,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NAME:",
+        "box": [
+            160,
+            380,
+            55,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OFFICE:",
+        "box": [
+            158,
+            406,
+            70,
+            23
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NAME:",
+        "box": [
+            156,
+            516,
+            60,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OFFICE:",
+        "box": [
+            156,
+            540,
+            68,
+            24
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "11/4/93",
+        "box": [
+            235,
+            273,
+            60,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "COMMENTS:",
+        "box": [
+            155,
+            611,
+            111,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "cc:",
+        "box": [
+            285,
+            786,
+            23,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "91372360",
+        "box": [
+            754,
+            745,
+            21,
+            75
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Lorillard TOBACCO COMPANY",
+        "box": [
+            120,
+            84,
+            230,
+            68
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Nov. 4 93 16:33",
+        "box": [
+            104,
+            29,
+            109,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "KONICA FAX 285",
+        "box": [
+            297,
+            29,
+            93,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "P. 1",
+        "box": [
+            690,
+            19,
+            37,
+            23
+        ],
+        "class": "other"
+    },
+    {
+        "text": "101 N. CLASSEN BLVD. SUITE 102. OKLAHOMA CITY OK. 73118 TELEPHONE 405) 543- 0455 or 04600460",
+        "box": [
+            116,
+            152,
+            443,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "FACSIMILE COVER PAGE",
+        "box": [
+            318,
+            214,
+            206,
+            21
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "3:28 CST",
+        "box": [
+            428,
+            273,
+            66,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "The following document, including cover page is 3 pages long.",
+        "box": [
+            160,
+            298,
+            493,
+            22
+        ],
+        "class": "other"
+    },
+    {
+        "text": "PLEASE TRANSMIT THIS DOCUMENT TO:",
+        "box": [
+            156,
+            337,
+            351,
+            19
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Mr. A. J. Giacoio",
+        "box": [
+            249,
+            382,
+            143,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "New York- Sales Planning",
+        "box": [
+            249,
+            406,
+            209,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "212 545- 3299",
+        "box": [
+            365,
+            436,
+            110,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "FAX PHONE NUMBER:",
+        "box": [
+            159,
+            434,
+            183,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "THIS DOCUMENT IS FROM:",
+        "box": [
+            160,
+            476,
+            225,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "R F ",
+        "box": [
+            253,
+            519,
+            96,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Oklahoma City. OK",
+        "box": [
+            226,
+            544,
+            157,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "FAX PHONE NUMBER:",
+        "box": [
+            154,
+            571,
+            191,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(400) 840- 0639",
+        "box": [
+            349,
+            572,
+            123,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "The attached Competitive information was secured in Oklahoma today. If you should have any questions.",
+        "box": [
+            285,
+            611,
+            303,
+            78
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "If any of these pages are not legible, or you do not receive all pages, please call this office as soon as possible.",
+        "box": [
+            154,
+            709,
+            479,
+            34
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Mr. R. B. Spell",
+        "box": [
+            316,
+            783,
+            127,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. S. L. Enloe",
+        "box": [
+            321,
+            798,
+            123,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "please advise. Dick",
+        "box": [
+            286,
+            691,
+            207,
+            17
+        ],
+        "class": "other"
+    }
+]

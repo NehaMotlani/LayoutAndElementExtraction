@@ -1,0 +1,402 @@
+﻿[
+    {
+        "text": "FROM:",
+        "box": [
+            106,
+            170,
+            41,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TO:",
+        "box": [
+            106,
+            203,
+            21,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CC:",
+        "box": [
+            108,
+            233,
+            21,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "KENT",
+        "box": [
+            300,
+            295,
+            35,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1",
+        "box": [
+            358,
+            358,
+            8,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MEDIA",
+        "box": [
+            108,
+            325,
+            38,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CIRCULATION",
+        "box": [
+            105,
+            489,
+            78,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "00862",
+        "box": [
+            525,
+            774,
+            61,
+            25
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "490",
+        "box": [
+            538,
+            797,
+            36,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "890",
+        "box": [
+            543,
+            811,
+            39,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "91974562",
+        "box": [
+            675,
+            809,
+            18,
+            70
+        ],
+        "class": "other"
+    },
+    {
+        "text": "COUPON CODE REGISTRATION FORM",
+        "box": [
+            303,
+            142,
+            216,
+            16
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "THOM SMITH",
+        "box": [
+            155,
+            172,
+            74,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "VINCE LOSITO",
+        "box": [
+            141,
+            203,
+            82,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "D. WEST, L. GIORDANO, V. LINDSLEY, A. SADOVNICK S. RAPISARLDI B. DAVIN. A. Pasheluk",
+        "box": [
+            141,
+            232,
+            514,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "KENT HEAVY UP TEST DIRECT MAIL CPNS New Names",
+        "box": [
+            300,
+            264,
+            358,
+            19
+        ],
+        "class": "other"
+    },
+    {
+        "text": "BRANDS(S) APPLICABLE",
+        "box": [
+            106,
+            295,
+            140,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DIRECT MAIL",
+        "box": [
+            300,
+            325,
+            77,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ISSUE FREQUENCY/ YEAR",
+        "box": [
+            105,
+            355,
+            145,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SPACE/ COLOR",
+        "box": [
+            106,
+            387,
+            83,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COUPON ISSUE DATE",
+        "box": [
+            106,
+            416,
+            123,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COUPON EXPIRATION DATE",
+        "box": [
+            105,
+            444,
+            156,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "10/ 13/ 95",
+        "box": [
+            302,
+            416,
+            45,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "12/ 17/ 95",
+        "box": [
+            300,
+            446,
+            46,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "GEOGRAPHICAL AREA(S)",
+        "box": [
+            105,
+            535,
+            140,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Regions 11, 17, 21",
+        "box": [
+            299,
+            538,
+            99,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "COUPON VALUE",
+        "box": [
+            105,
+            564,
+            90,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "$2 off 3 Pcks or Crtn",
+        "box": [
+            297,
+            567,
+            110,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PACK AND OR/ CARTON",
+        "box": [
+            103,
+            596,
+            132,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PACK OR CARTON",
+        "box": [
+            297,
+            595,
+            103,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ADVERTISING CREATIVE THEME",
+        "box": [
+            102,
+            628,
+            184,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SIGNATURE OF INITIATOR",
+        "box": [
+            102,
+            658,
+            148,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            342,
+            617,
+            186,
+            80
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "6/ 8/ 95",
+        "box": [
+            297,
+            689,
+            34,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DATE INITIATED",
+        "box": [
+            102,
+            689,
+            90,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ANALYTICAL REQUIREMENTS:",
+        "box": [
+            103,
+            718,
+            171,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "FOR CONTROL USE ONLY:",
+        "box": [
+            299,
+            750,
+            148,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CODE ASSIGNED:",
+        "box": [
+            297,
+            779,
+            101,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "JOB NUMBER:",
+        "box": [
+            297,
+            796,
+            80,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EST. REDEMPTION:",
+        "box": [
+            297,
+            807,
+            110,
+            16
+        ],
+        "class": "value_question"
+    }
+]

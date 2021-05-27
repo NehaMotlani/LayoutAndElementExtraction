@@ -1,0 +1,1146 @@
+﻿[
+    {
+        "value": "Home",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            309,
+            74,
+            63,
+            20
+        ]
+    },
+    {
+        "value": "Office",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            378,
+            70,
+            64,
+            21
+        ]
+    },
+    {
+        "value": "Check",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            450,
+            67,
+            70,
+            22
+        ]
+    },
+    {
+        "value": "20182",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            134,
+            122,
+            31,
+            10
+        ]
+    },
+    {
+        "value": "Request",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            166,
+            77,
+            94,
+            24
+        ]
+    },
+    {
+        "value": "Attention:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            67,
+            198,
+            42,
+            8
+        ]
+    },
+    {
+        "value": "Address:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            66,
+            212,
+            42,
+            10
+        ]
+    },
+    {
+        "value": "No",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            584,
+            180,
+            17,
+            10
+        ]
+    },
+    {
+        "value": "City",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            137,
+            239,
+            17,
+            10
+        ]
+    },
+    {
+        "value": "State",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            302,
+            232,
+            21,
+            10
+        ]
+    },
+    {
+        "value": "CA",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            309,
+            216,
+            18,
+            11
+        ]
+    },
+    {
+        "value": "94080",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            419,
+            214,
+            29,
+            11
+        ]
+    },
+    {
+        "value": "OR",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            346,
+            289,
+            20,
+            10
+        ]
+    },
+    {
+        "value": "Quantity",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            372,
+            377,
+            38,
+            11
+        ]
+    },
+    {
+        "value": "Units",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            439,
+            373,
+            27,
+            13
+        ]
+    },
+    {
+        "value": "Amount",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            574,
+            369,
+            36,
+            11
+        ]
+    },
+    {
+        "value": "288",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            254,
+            395,
+            18,
+            11
+        ]
+    },
+    {
+        "value": "296",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            258,
+            468,
+            17,
+            11
+        ]
+    },
+    {
+        "value": "725",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            318,
+            392,
+            18,
+            11
+        ]
+    },
+    {
+        "value": "725",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            318,
+            465,
+            21,
+            13
+        ]
+    },
+    {
+        "value": "CTNS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            441,
+            461,
+            27,
+            11
+        ]
+    },
+    {
+        "value": "CTNS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            440,
+            390,
+            28,
+            10
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            366,
+            552,
+            18,
+            13
+        ]
+    },
+    {
+        "value": "39A00A",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            441,
+            566,
+            38,
+            11
+        ]
+    },
+    {
+        "value": "0607",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            511,
+            563,
+            24,
+            11
+        ]
+    },
+    {
+        "value": "ID#",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            554,
+            543,
+            24,
+            10
+        ]
+    },
+    {
+        "value": "Verification",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            80,
+            613,
+            49,
+            10
+        ]
+    },
+    {
+        "value": "Ref",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            80,
+            628,
+            20,
+            10
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            302,
+            603,
+            24,
+            14
+        ]
+    },
+    {
+        "value": "Vendor#",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            366,
+            602,
+            39,
+            11
+        ]
+    },
+    {
+        "value": "Check#",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            303,
+            620,
+            38,
+            10
+        ]
+    },
+    {
+        "value": "Description",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            246,
+            651,
+            52,
+            11
+        ]
+    },
+    {
+        "value": "Account#",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            313,
+            648,
+            45,
+            13
+        ]
+    },
+    {
+        "value": "Department",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            373,
+            645,
+            52,
+            11
+        ]
+    },
+    {
+        "value": "Product",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            443,
+            644,
+            39,
+            10
+        ]
+    },
+    {
+        "value": "Amount",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            580,
+            637,
+            36,
+            11
+        ]
+    },
+    {
+        "value": "Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            244,
+            795,
+            24,
+            10
+        ]
+    },
+    {
+        "value": "00000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            489,
+            784,
+            32,
+            13
+        ]
+    },
+    {
+        "value": "Check",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            493,
+            802,
+            29,
+            10
+        ]
+    },
+    {
+        "value": "Y",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            503,
+            816,
+            14,
+            11
+        ]
+    },
+    {
+        "value": "N",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            570,
+            811,
+            11,
+            13
+        ]
+    },
+    {
+        "value": "Distribution:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            844,
+            53,
+            11
+        ]
+    },
+    {
+        "value": "For",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            265,
+            74,
+            38,
+            22
+        ]
+    },
+    {
+        "value": "425 481 31 46 PAGE 02",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            468,
+            897,
+            177,
+            16
+        ]
+    },
+    {
+        "value": "210180429 PRODUCED FROM B & W WEB SITE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            0,
+            954,
+            231,
+            32
+        ]
+    },
+    {
+        "value": "MAR 24 1999 16: 16",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            66,
+            906,
+            115,
+            17
+        ]
+    },
+    {
+        "value": "Fax to Field Payments at (502) 588- 7826",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            142,
+            837,
+            175,
+            18
+        ]
+    },
+    {
+        "value": "Pay Terms",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            433,
+            788,
+            56,
+            13
+        ]
+    },
+    {
+        "value": "Pay Method",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            433,
+            800,
+            61,
+            16
+        ]
+    },
+    {
+        "value": "Separate Pay-",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            433,
+            817,
+            67,
+            11
+        ]
+    },
+    {
+        "value": "Prepared By:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            307,
+            793,
+            56,
+            10
+        ]
+    },
+    {
+        "value": "Voucher Approval:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            799,
+            82,
+            11
+        ]
+    },
+    {
+        "value": "Account Name",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            127,
+            654,
+            64,
+            11
+        ]
+    },
+    {
+        "value": "Business Unit",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            496,
+            640,
+            60,
+            11
+        ]
+    },
+    {
+        "value": "Pay Handling",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            430,
+            613,
+            56,
+            13
+        ]
+    },
+    {
+        "value": "Check Date",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            366,
+            616,
+            50,
+            11
+        ]
+    },
+    {
+        "value": "Account Month",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            427,
+            598,
+            67,
+            16
+        ]
+    },
+    {
+        "value": "Robert ",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            115,
+            575,
+            87,
+            17
+        ]
+    },
+    {
+        "value": "Requested By:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            78,
+            560,
+            64,
+            14
+        ]
+    },
+    {
+        "value": "Robert E. Muhonin",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            237,
+            553,
+            80,
+            13
+        ]
+    },
+    {
+        "value": "03/ 24/ 99",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            383,
+            567,
+            40,
+            12
+        ]
+    },
+    {
+        "value": "Dist/Asgmt C.F. #",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            427,
+            546,
+            94,
+            14
+        ]
+    },
+    {
+        "value": "Check Total",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            490,
+            500,
+            56,
+            14
+        ]
+    },
+    {
+        "value": "$166 586 6060",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            575,
+            496,
+            58,
+            15
+        ]
+    },
+    {
+        "value": "$12 784 00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            578,
+            453,
+            54,
+            15
+        ]
+    },
+    {
+        "value": "$2 00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            503,
+            455,
+            29,
+            13
+        ]
+    },
+    {
+        "value": "6. 382",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            377,
+            462,
+            27,
+            14
+        ]
+    },
+    {
+        "value": "March 15- 19, 1999",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            237,
+            510,
+            86,
+            14
+        ]
+    },
+    {
+        "value": "Section 18 Narl Chain Walgreens",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            77,
+            471,
+            145,
+            15
+        ]
+    },
+    {
+        "value": "Promo Dates",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            517,
+            59,
+            14
+        ]
+    },
+    {
+        "value": "Charge To Section:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            531,
+            87,
+            14
+        ]
+    },
+    {
+        "value": "PER ATTACHED",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            170,
+            527,
+            77,
+            14
+        ]
+    },
+    {
+        "value": "SEE ATTACHED",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            85,
+            429,
+            76,
+            11
+        ]
+    },
+    {
+        "value": "GPC BUYDOWN PROGRAMS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            74,
+            397,
+            138,
+            15
+        ]
+    },
+    {
+        "value": "Promotion Name",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            127,
+            372,
+            45,
+            25
+        ]
+    },
+    {
+        "value": "Promotion Number",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            239,
+            366,
+            46,
+            23
+        ]
+    },
+    {
+        "value": "Promotion Code",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            303,
+            365,
+            47,
+            24
+        ]
+    },
+    {
+        "value": "AVG Rate",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            493,
+            370,
+            46,
+            12
+        ]
+    },
+    {
+        "value": "$143 922 80",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            573,
+            381,
+            54,
+            13
+        ]
+    },
+    {
+        "value": "$2 84",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            501,
+            384,
+            27,
+            13
+        ]
+    },
+    {
+        "value": "50, 759",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            373,
+            390,
+            32,
+            12
+        ]
+    },
+    {
+        "value": "1099 name for number listed above proper name of egal as shown on IRS form (please print)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            71,
+            313,
+            378,
+            24
+        ]
+    },
+    {
+        "value": "Enter Federal Employer Identification Number",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            68,
+            281,
+            176,
+            16
+        ]
+    },
+    {
+        "value": "Social Security Number",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            418,
+            271,
+            92,
+            13
+        ]
+    },
+    {
+        "value": "Please complete the following If checked \"NO\" for corporation above:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            187,
+            256,
+            322,
+            21
+        ]
+    },
+    {
+        "value": "Pay To:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            67,
+            182,
+            38,
+            13
+        ]
+    },
+    {
+        "value": "COREMARK NTERNATIONAL",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            123,
+            176,
+            134,
+            15
+        ]
+    },
+    {
+        "value": "DAVID DRESSER",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            120,
+            193,
+            81,
+            14
+        ]
+    },
+    {
+        "value": "395 DYSTER POINT BLVD SUITE 415 S. SAN FRANCISCO",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            117,
+            204,
+            173,
+            31
+        ]
+    },
+    {
+        "value": "Is this a corporation",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            506,
+            163,
+            90,
+            16
+        ]
+    },
+    {
+        "value": "Yes X",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            511,
+            180,
+            20,
+            26
+        ]
+    },
+    {
+        "value": "Distributor No",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            64,
+            120,
+            65,
+            16
+        ]
+    },
+    {
+        "value": "Char No",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            66,
+            137,
+            43,
+            14
+        ]
+    },
+    {
+        "value": "MAR- 24- 1999 14: 39",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            61,
+            13,
+            124,
+            15
+        ]
+    },
+    {
+        "value": "BROWN & WILL IMASON",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            239,
+            8,
+            121,
+            14
+        ]
+    },
+    {
+        "value": "Brown & Williamson Tobacco Corporation",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            237,
+            54,
+            160,
+            16
+        ]
+    },
+    {
+        "value": "(Records Retention:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            64,
+            64,
+            70,
+            11
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            61,
+            50,
+            59,
+            12
+        ]
+    },
+    {
+        "value": "30 days)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            138,
+            61,
+            32,
+            13
+        ]
+    },
+    {
+        "value": "Check Required ASAP/ PROMPT",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            304,
+            115,
+            93,
+            26
+        ]
+    },
+    {
+        "value": "Mai Check To:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            419,
+            110,
+            66,
+            13
+        ]
+    },
+    {
+        "value": "PLEASE OVERNIGHT to",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            486,
+            105,
+            114,
+            16
+        ]
+    },
+    {
+        "value": "X Payee (Name)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            510,
+            122,
+            94,
+            27
+        ]
+    },
+    {
+        "value": "Zip Code",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            388,
+            228,
+            36,
+            12
+        ]
+    }
+]

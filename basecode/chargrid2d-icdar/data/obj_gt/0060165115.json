@@ -1,0 +1,362 @@
+﻿[
+    {
+        "text": "DATE:",
+        "box": [
+            95,
+            258,
+            47,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FROM:",
+        "box": [
+            96,
+            309,
+            49,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TO:",
+        "box": [
+            98,
+            359,
+            27,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ADDRESS:",
+        "box": [
+            99,
+            422,
+            77,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Telephone",
+        "box": [
+            487,
+            173,
+            41,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Telefax",
+        "box": [
+            486,
+            182,
+            32,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Re.:",
+        "box": [
+            98,
+            626,
+            34,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2463",
+        "box": [
+            303,
+            154,
+            57,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2505430204",
+        "box": [
+            648,
+            779,
+            43,
+            144
+        ],
+        "class": "other"
+    },
+    {
+        "text": "27/94",
+        "box": [
+            686,
+            954,
+            20,
+            8
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Contract",
+        "box": [
+            487,
+            138,
+            52,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Research",
+        "box": [
+            542,
+            138,
+            60,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "INBIFO",
+        "box": [
+            486,
+            94,
+            162,
+            45
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "INBIFO Institut für biologische Forschung GmbH",
+        "box": [
+            95,
+            110,
+            290,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TELEFAX MESSAGE No.:",
+        "box": [
+            96,
+            156,
+            162,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "INBIFO bioloische Forschnung GmbH Fuggesstr 3- D- 51149 Cologne",
+        "box": [
+            98,
+            193,
+            304,
+            12
+        ],
+        "class": "other"
+    },
+    {
+        "text": "28 Apr. 98",
+        "box": [
+            267,
+            263,
+            71,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Dr. Wolf Reininghaus",
+        "box": [
+            267,
+            309,
+            137,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Dr. Don Leyden, Dept. Scientific Affairs",
+        "box": [
+            267,
+            359,
+            155,
+            30
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "98 -04 -28 12: 05 OUT",
+        "box": [
+            487,
+            330,
+            144,
+            29
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Philip Morris Europe Fabriques de Tabac Reunies S. A.",
+        "box": [
+            267,
+            422,
+            217,
+            32
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CH- 2003 Neuchatel",
+        "box": [
+            267,
+            469,
+            129,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0041- 32- 888 5776",
+        "box": [
+            335,
+            514,
+            119,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Fax no:",
+        "box": [
+            267,
+            517,
+            55,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Telefax- Original Ablage",
+        "box": [
+            511,
+            401,
+            134,
+            99
+        ],
+        "class": "other"
+    },
+    {
+        "text": "NUMBER OF FOLLOWING PAGES",
+        "box": [
+            99,
+            563,
+            236,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "21 ",
+        "box": [
+            370,
+            553,
+            193,
+            42
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "TPM/ Nocotine ratio",
+        "box": [
+            135,
+            627,
+            143,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "For your information!",
+        "box": [
+            101,
+            670,
+            156,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Cologne HRB 367",
+        "box": [
+            552,
+            936,
+            68,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Dr. Wolf Reninghaus",
+        "box": [
+            561,
+            947,
+            80,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "General Manager",
+        "box": [
+            493,
+            946,
+            69,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Trade Register",
+        "box": [
+            493,
+            937,
+            58,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(0 22 03) 303 -1",
+        "box": [
+            529,
+            172,
+            59,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(0 22 03) 303 -362",
+        "box": [
+            518,
+            182,
+            67,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "-/BVI DLEY FAX",
+        "box": [
+            494,
+            212,
+            59,
+            26
+        ],
+        "class": "other"
+    }
+]

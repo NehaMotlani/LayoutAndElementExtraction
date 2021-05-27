@@ -1,0 +1,442 @@
+﻿[
+    {
+        "text": "FROM:",
+        "box": [
+            108,
+            117,
+            46,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TO:",
+        "box": [
+            108,
+            152,
+            25,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CC:",
+        "box": [
+            108,
+            184,
+            25,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MEDIA",
+        "box": [
+            108,
+            282,
+            42,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CIRCULATION",
+        "box": [
+            108,
+            459,
+            89,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1",
+        "box": [
+            337,
+            311,
+            11,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "5/19/93",
+        "box": [
+            335,
+            381,
+            57,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "11/30/93",
+        "box": [
+            337,
+            409,
+            64,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "25,461",
+        "box": [
+            334,
+            473,
+            49,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PACK",
+        "box": [
+            337,
+            571,
+            36,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2/3/93",
+        "box": [
+            366,
+            655,
+            78,
+            39
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "8482",
+        "box": [
+            554,
+            761,
+            50,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1.54",
+        "box": [
+            581,
+            797,
+            45,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "9076",
+        "box": [
+            568,
+            781,
+            52,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "91391286",
+        "box": [
+            742,
+            774,
+            18,
+            73
+        ],
+        "class": "other"
+    },
+    {
+        "text": "COUPON CODE REGISTRATION FORM",
+        "box": [
+            328,
+            82,
+            243,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "THOM SMITH",
+        "box": [
+            161,
+            117,
+            84,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "VINCE LOSITO",
+        "box": [
+            148,
+            149,
+            94,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "T. BAYLIES, L GIORDANO, V. LINDSLEY, M. MCGLYNN, S RAPISARLDI,",
+        "box": [
+            145,
+            180,
+            446,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "B. maj ",
+        "box": [
+            589,
+            165,
+            70,
+            29
+        ],
+        "class": "other"
+    },
+    {
+        "text": "HARLEY- DAVIDSON",
+        "box": [
+            338,
+            250,
+            116,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MAGAZINE- HOT ROD",
+        "box": [
+            337,
+            281,
+            141,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BRANDS(S) APPLICABLE",
+        "box": [
+            106,
+            247,
+            156,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ISSUE FREQUENCY/ YEAR",
+        "box": [
+            105,
+            313,
+            166,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SPACE/ COLOR",
+        "box": [
+            105,
+            346,
+            97,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FULL PAGE",
+        "box": [
+            334,
+            339,
+            75,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "COUPON ISSUE DATE",
+        "box": [
+            106,
+            378,
+            141,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COUPON EXPIRATION DATE",
+        "box": [
+            108,
+            411,
+            180,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "GEOGRAPHICAL AREA(S)",
+        "box": [
+            106,
+            507,
+            160,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TOTAL HOUSTON, GALVESTON, MINNEAPOLIS, ST. PAUL, DULUTH",
+        "box": [
+            335,
+            503,
+            417,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "COUPON VALUE",
+        "box": [
+            105,
+            539,
+            108,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "$ .75 OFF 1 PACK",
+        "box": [
+            334,
+            541,
+            121,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PACK AND OR/ CARTOCARTON",
+        "box": [
+            106,
+            573,
+            150,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ADVERTISING CREATIVE THEME",
+        "box": [
+            105,
+            603,
+            210,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BLUE SKY",
+        "box": [
+            338,
+            606,
+            63,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SIGNATURE OF INITIATOR",
+        "box": [
+            105,
+            637,
+            167,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            429,
+            599,
+            205,
+            77
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DATE INITIATED",
+        "box": [
+            108,
+            670,
+            103,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ANALYTICAL REQUIREMENTS:",
+        "box": [
+            108,
+            700,
+            191,
+            21
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "FOR CONTROL USE ONLY:",
+        "box": [
+            325,
+            732,
+            173,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "93- 056",
+        "box": [
+            554,
+            729,
+            73,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CODE ASSIGNED:",
+        "box": [
+            327,
+            765,
+            113,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "JOB NUMBER:",
+        "box": [
+            325,
+            784,
+            97,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EST. REDEMPTION:",
+        "box": [
+            325,
+            799,
+            129,
+            15
+        ],
+        "class": "value_question"
+    }
+]

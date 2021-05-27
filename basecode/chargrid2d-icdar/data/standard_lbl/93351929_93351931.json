@@ -1,0 +1,530 @@
+﻿[
+    {
+        "value": "FROM:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            113,
+            45,
+            13
+        ]
+    },
+    {
+        "value": "TO:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            147,
+            22,
+            14
+        ]
+    },
+    {
+        "value": "CC:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            182,
+            22,
+            14
+        ]
+    },
+    {
+        "value": "MEDIA",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            87,
+            286,
+            43,
+            14
+        ]
+    },
+    {
+        "value": "September",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            310,
+            356,
+            66,
+            14
+        ]
+    },
+    {
+        "value": "Pack",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            307,
+            615,
+            32,
+            14
+        ]
+    },
+    {
+        "value": "Rebecca",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            307,
+            648,
+            53,
+            14
+        ]
+    },
+    {
+        "value": "Magazines:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            309,
+            390,
+            68,
+            17
+        ]
+    },
+    {
+        "value": "Newspapers:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            419,
+            390,
+            78,
+            14
+        ]
+    },
+    {
+        "value": "Magazines:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            309,
+            289,
+            70,
+            14
+        ]
+    },
+    {
+        "value": "Newspaper:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            309,
+            323,
+            73,
+            14
+        ]
+    },
+    {
+        "value": "93351929",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            716,
+            825,
+            20,
+            80
+        ]
+    },
+    {
+        "value": "COUPON CODE REGISTRATION FORM",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            311,
+            75,
+            244,
+            16
+        ]
+    },
+    {
+        "value": "JESSICA ARATO",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            138,
+            112,
+            108,
+            15
+        ]
+    },
+    {
+        "value": "VINCE LOSITO",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            127,
+            145,
+            93,
+            15
+        ]
+    },
+    {
+        "value": "K. AUGUSTYN. L. GIORDANO, M. McGLYNN, S. RAPISARLDI",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            127,
+            180,
+            377,
+            17
+        ]
+    },
+    {
+        "value": "BRANDS (S) APPLICABLE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            250,
+            160,
+            18
+        ]
+    },
+    {
+        "value": "ISSUE FREQUENCY/ YEAR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            353,
+            170,
+            17
+        ]
+    },
+    {
+        "value": "SPACE/ COLOR",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            85,
+            388,
+            98,
+            17
+        ]
+    },
+    {
+        "value": "COUPON ISSUE DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            425,
+            140,
+            14
+        ]
+    },
+    {
+        "value": "COUPON EXPIRATION DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            459,
+            182,
+            14
+        ]
+    },
+    {
+        "value": "CIRCULATION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            87,
+            511,
+            89,
+            13
+        ]
+    },
+    {
+        "value": "GEOGFIAPHICAL AREA(S)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            545,
+            163,
+            15
+        ]
+    },
+    {
+        "value": "COUPON VALUE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            580,
+            104,
+            14
+        ]
+    },
+    {
+        "value": "PACK AND OR/ CARTON",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            612,
+            152,
+            16
+        ]
+    },
+    {
+        "value": "ADVERTISING CREATIVE THEME",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            647,
+            205,
+            16
+        ]
+    },
+    {
+        "value": "SIGNATURE OF INITIATOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            82,
+            682,
+            170,
+            15
+        ]
+    },
+    {
+        "value": "DATE INITIATED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            82,
+            716,
+            107,
+            15
+        ]
+    },
+    {
+        "value": "ANALYTICAL REQUIREMENTS:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            84,
+            747,
+            196,
+            20
+        ]
+    },
+    {
+        "value": "FOR CONTROL USE ONLY:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            306,
+            781,
+            171,
+            18
+        ]
+    },
+    {
+        "value": "CODE ASSIGNED:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            306,
+            817,
+            116,
+            14
+        ]
+    },
+    {
+        "value": "JOB NUMBER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            307,
+            834,
+            92,
+            17
+        ]
+    },
+    {
+        "value": "EST. REDEMPTION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            307,
+            852,
+            126,
+            16
+        ]
+    },
+    {
+        "value": "3 %",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            568,
+            849,
+            41,
+            22
+        ]
+    },
+    {
+        "value": "414",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            553,
+            832,
+            34,
+            17
+        ]
+    },
+    {
+        "value": "221782",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            527,
+            807,
+            89,
+            24
+        ]
+    },
+    {
+        "value": "May 14, 1992",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            306,
+            715,
+            83,
+            16
+        ]
+    },
+    {
+        "value": "Free Pack",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            307,
+            578,
+            63,
+            17
+        ]
+    },
+    {
+        "value": "Tier ",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            309,
+            545,
+            31,
+            15
+        ]
+    },
+    {
+        "value": "1, 221, 000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            309,
+            511,
+            59,
+            15
+        ]
+    },
+    {
+        "value": "December 31, 1992",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            307,
+            459,
+            119,
+            15
+        ]
+    },
+    {
+        "value": "September 1, 1992",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            309,
+            425,
+            112,
+            15
+        ]
+    },
+    {
+        "value": "P 4/ C;",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            378,
+            388,
+            41,
+            20
+        ]
+    },
+    {
+        "value": "1/ 2 B/ W",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            500,
+            388,
+            49,
+            19
+        ]
+    },
+    {
+        "value": "Village Voice",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            383,
+            320,
+            78,
+            16
+        ]
+    },
+    {
+        "value": "All Kent Family Packings",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            309,
+            253,
+            146,
+            15
+        ]
+    },
+    {
+        "value": "People, Rolling Stone, Cosmopolitan,",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            383,
+            285,
+            222,
+            18
+        ]
+    },
+    {
+        "value": "Mademoiselle, New York Magazine",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            309,
+            304,
+            208,
+            15
+        ]
+    }
+]

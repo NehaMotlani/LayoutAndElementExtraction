@@ -1,0 +1,464 @@
+﻿[
+    {
+        "value": "DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            133,
+            204,
+            41,
+            15
+        ]
+    },
+    {
+        "value": "TIME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            260,
+            203,
+            35,
+            14
+        ]
+    },
+    {
+        "value": "MANUFACTURER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            78,
+            254,
+            117,
+            20
+        ]
+    },
+    {
+        "value": "cc:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            782,
+            20,
+            14
+        ]
+    },
+    {
+        "value": "93329540",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            735,
+            799,
+            18,
+            71
+        ]
+    },
+    {
+        "value": "NEW COMPETITIVE PRODUCTS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            311,
+            87,
+            213,
+            20
+        ]
+    },
+    {
+        "value": "REPORTED BY:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            80,
+            151,
+            100,
+            17
+        ]
+    },
+    {
+        "value": "A. REID, DIVISION MANAGER, SAN FRANCISCO, CA",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            258,
+            147,
+            326,
+            19
+        ]
+    },
+    {
+        "value": "8/ 13/ 93",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            177,
+            201,
+            52,
+            15
+        ]
+    },
+    {
+        "value": "AMERICAN TOBACCO COMPANY",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            256,
+            256,
+            180,
+            16
+        ]
+    },
+    {
+        "value": "SPECIAL 10' s",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            260,
+            304,
+            88,
+            19
+        ]
+    },
+    {
+        "value": "BRAND NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            80,
+            309,
+            98,
+            18
+        ]
+    },
+    {
+        "value": "TYPE OF PRODUCT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            80,
+            362,
+            70,
+            34
+        ]
+    },
+    {
+        "value": "SIZE OR SIZES:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            82,
+            430,
+            104,
+            19
+        ]
+    },
+    {
+        "value": "LIST PRICE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            81,
+            483,
+            81,
+            18
+        ]
+    },
+    {
+        "value": "EXTENT OF DISTRIBUTION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            81,
+            536,
+            103,
+            35
+        ]
+    },
+    {
+        "value": "OTHER INFORMATION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            80,
+            642,
+            105,
+            34
+        ]
+    },
+    {
+        "value": "SEE ATTACHED COPY OF CIRCULAR NO. 4848",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            263,
+            652,
+            279,
+            19
+        ]
+    },
+    {
+        "value": "A. H. Tisch",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            84,
+            799,
+            70,
+            16
+        ]
+    },
+    {
+        "value": "R. H. Orcutt",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            84,
+            818,
+            78,
+            15
+        ]
+    },
+    {
+        "value": "M. A. Peterson",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            82,
+            837,
+            99,
+            14
+        ]
+    },
+    {
+        "value": "M. L. Orlowsky",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            85,
+            853,
+            94,
+            15
+        ]
+    },
+    {
+        "value": "L. Gordon",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            84,
+            872,
+            70,
+            11
+        ]
+    },
+    {
+        "value": "G. Telford",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            85,
+            887,
+            64,
+            12
+        ]
+    },
+    {
+        "value": "V. Norman",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            242,
+            797,
+            72,
+            14
+        ]
+    },
+    {
+        "value": "A. W. Spears",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            240,
+            817,
+            86,
+            14
+        ]
+    },
+    {
+        "value": "A. J. Giacoio",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            242,
+            834,
+            83,
+            14
+        ]
+    },
+    {
+        "value": "N. P. Ruffalo",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            242,
+            851,
+            78,
+            14
+        ]
+    },
+    {
+        "value": "T. L. Achey",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            242,
+            869,
+            77,
+            14
+        ]
+    },
+    {
+        "value": "R. B. Spell",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            242,
+            887,
+            70,
+            13
+        ]
+    },
+    {
+        "value": "P. J. McCann",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            240,
+            901,
+            87,
+            14
+        ]
+    },
+    {
+        "value": "J. J. Tatulli",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            370,
+            796,
+            73,
+            15
+        ]
+    },
+    {
+        "value": "L. H. Kersh",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            372,
+            813,
+            72,
+            16
+        ]
+    },
+    {
+        "value": "J. R. Slater",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            373,
+            831,
+            71,
+            14
+        ]
+    },
+    {
+        "value": "A. Pasheluk",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            373,
+            849,
+            77,
+            15
+        ]
+    },
+    {
+        "value": "R. S. Goldbrenner",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            373,
+            867,
+            117,
+            15
+        ]
+    },
+    {
+        "value": "N. Simeonidis",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            373,
+            884,
+            90,
+            14
+        ]
+    },
+    {
+        "value": "S. F. Smith",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            374,
+            901,
+            72,
+            15
+        ]
+    },
+    {
+        "value": "K. P. Augustyn",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            547,
+            795,
+            99,
+            15
+        ]
+    },
+    {
+        "value": "V. D. Lindsley",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            547,
+            811,
+            91,
+            15
+        ]
+    },
+    {
+        "value": "R. C. Bondy",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            549,
+            830,
+            80,
+            14
+        ]
+    },
+    {
+        "value": "R. D. Hammer",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            550,
+            846,
+            92,
+            15
+        ]
+    }
+]

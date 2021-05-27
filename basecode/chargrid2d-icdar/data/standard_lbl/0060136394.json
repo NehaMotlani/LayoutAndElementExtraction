@@ -1,0 +1,299 @@
+﻿[
+    {
+        "value": "SIGNED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            226,
+            412,
+            43,
+            11
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            520,
+            411,
+            34,
+            13
+        ]
+    },
+    {
+        "value": "TOTAL:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            506,
+            356,
+            43,
+            11
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            35,
+            309,
+            109,
+            31
+        ]
+    },
+    {
+        "value": "CLIENT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            208,
+            145,
+            42,
+            14
+        ]
+    },
+    {
+        "value": "PROGRAM",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            207,
+            172,
+            59,
+            11
+        ]
+    },
+    {
+        "value": "STATIONS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            247,
+            196,
+            53,
+            11
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            246,
+            221,
+            49,
+            14
+        ]
+    },
+    {
+        "value": "RS#39",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            85,
+            20,
+            38,
+            17
+        ]
+    },
+    {
+        "value": "RS",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            36,
+            10,
+            20,
+            8
+        ]
+    },
+    {
+        "value": "Accounting",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            56,
+            77,
+            57,
+            7
+        ]
+    },
+    {
+        "value": "Batten, Barton, Durstine & Osborn INCORPORATED CHANGE IN RADIO SCHEDULE",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            209,
+            57,
+            507,
+            74
+        ]
+    },
+    {
+        "value": "WHAS 11/3/56 10/26/57",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            654,
+            10,
+            61,
+            64
+        ]
+    },
+    {
+        "value": "THE AMERICAN TOBACCO COMPANY (LUCKY STRIKE)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            309,
+            134,
+            320,
+            21
+        ]
+    },
+    {
+        "value": "1/2 HOUR PROGRAMES",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            313,
+            165,
+            121,
+            16
+        ]
+    },
+    {
+        "value": "WHAS LOUISVILLE, KENTUCKY",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            309,
+            191,
+            210,
+            19
+        ]
+    },
+    {
+        "value": "CONTRACT #1032",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            310,
+            218,
+            103,
+            15
+        ]
+    },
+    {
+        "value": "ENTIRE SCHEDULE CANCELLED LAST BROADCAST SATURDAY, APRIL 13, 1957",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            175,
+            240,
+            458,
+            17
+        ]
+    },
+    {
+        "value": "REVISED CONTRACT TOTALS.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            176,
+            271,
+            172,
+            13
+        ]
+    },
+    {
+        "value": "24 @ $ 150.00 TIME",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            359,
+            296,
+            161,
+            15
+        ]
+    },
+    {
+        "value": "24 @ $ 125.00 NET TALENT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            359,
+            324,
+            172,
+            18
+        ]
+    },
+    {
+        "value": "$ 6.600.00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            561,
+            351,
+            78,
+            17
+        ]
+    },
+    {
+        "value": "APRIL 1,1957",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            584,
+            408,
+            96,
+            16
+        ]
+    },
+    {
+        "value": "HOPE MARTINEZ",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            309,
+            409,
+            95,
+            15
+        ]
+    },
+    {
+        "value": "Form No. RA 905",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            54,
+            439,
+            77,
+            14
+        ]
+    },
+    {
+        "value": "GEN'L ACCT DEPT. APTEKICKSER MURIEL, KAMNIT PRE MALARA (2) HOPE MARTINEZ",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            34,
+            152,
+            124,
+            71
+        ]
+    },
+    {
+        "value": "M. BOGGIANO Director) FRANK TOWERS",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            36,
+            94,
+            108,
+            45
+        ]
+    }
+]

@@ -1,0 +1,530 @@
+﻿[
+    {
+        "value": "Brand:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            334,
+            172,
+            43,
+            20
+        ]
+    },
+    {
+        "value": "Power:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            511,
+            203,
+            45,
+            17
+        ]
+    },
+    {
+        "value": "Pulse:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            332,
+            201,
+            46,
+            15
+        ]
+    },
+    {
+        "value": "Modules:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            92,
+            170,
+            53,
+            14
+        ]
+    },
+    {
+        "value": "Scorching:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            286,
+            88,
+            17
+        ]
+    },
+    {
+        "value": "Cratering:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            313,
+            87,
+            15
+        ]
+    },
+    {
+        "value": "Comments:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            89,
+            335,
+            88,
+            20
+        ]
+    },
+    {
+        "value": "Scorching:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            92,
+            430,
+            84,
+            17
+        ]
+    },
+    {
+        "value": "Cratering",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            89,
+            454,
+            85,
+            15
+        ]
+    },
+    {
+        "value": "Comments:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            480,
+            87,
+            17
+        ]
+    },
+    {
+        "value": "Module:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            517,
+            53,
+            18
+        ]
+    },
+    {
+        "value": "Brand:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            330,
+            522,
+            46,
+            17
+        ]
+    },
+    {
+        "value": "Pulse:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            330,
+            547,
+            46,
+            17
+        ]
+    },
+    {
+        "value": "Scorching:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            631,
+            84,
+            18
+        ]
+    },
+    {
+        "value": "Cratering:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            89,
+            658,
+            84,
+            17
+        ]
+    },
+    {
+        "value": "Comments:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            684,
+            82,
+            18
+        ]
+    },
+    {
+        "value": "Scorching:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            772,
+            85,
+            17
+        ]
+    },
+    {
+        "value": "Cratering:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            800,
+            88,
+            18
+        ]
+    },
+    {
+        "value": "Comments:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            830,
+            87,
+            17
+        ]
+    },
+    {
+        "value": "Power:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            506,
+            549,
+            49,
+            15
+        ]
+    },
+    {
+        "value": "412",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            197,
+            169,
+            24,
+            15
+        ]
+    },
+    {
+        "value": "Insignificant.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            236,
+            284,
+            106,
+            17
+        ]
+    },
+    {
+        "value": "Insignificant.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            236,
+            427,
+            106,
+            17
+        ]
+    },
+    {
+        "value": "Week of:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            103,
+            63,
+            18
+        ]
+    },
+    {
+        "value": "P. S.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            249,
+            80,
+            36,
+            15
+        ]
+    },
+    {
+        "value": "73 -91",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            388,
+            78,
+            42,
+            17
+        ]
+    },
+    {
+        "value": "Date Received",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            394,
+            110,
+            103,
+            15
+        ]
+    },
+    {
+        "value": "1 /25 /91",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            547,
+            110,
+            59,
+            16
+        ]
+    },
+    {
+        "value": "LASER PERFORATED TIPPING APPEARANCE CHECK HOLE DEPTH, SCORCHING, CRATERING",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            247,
+            131,
+            321,
+            32
+        ]
+    },
+    {
+        "value": "Shift & Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            94,
+            196,
+            99,
+            18
+        ]
+    },
+    {
+        "value": "CARLTON Filter 100's - 4 Mg Laser",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            387,
+            169,
+            259,
+            18
+        ]
+    },
+    {
+        "value": "Mfg. for Taiwan",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            472,
+            190,
+            121,
+            15
+        ]
+    },
+    {
+        "value": "FRONT CIGARETTES",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            339,
+            237,
+            126,
+            20
+        ]
+    },
+    {
+        "value": "<1 mm 13 .0 mm from end",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            228,
+            260,
+            255,
+            15
+        ]
+    },
+    {
+        "value": "None to insignificant.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            236,
+            310,
+            168,
+            17
+        ]
+    },
+    {
+        "value": "Excellent appearance (18 holes).",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            233,
+            334,
+            247,
+            20
+        ]
+    },
+    {
+        "value": "Hole Depth:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            260,
+            86,
+            20
+        ]
+    },
+    {
+        "value": "Hole Depth:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            402,
+            86,
+            18
+        ]
+    },
+    {
+        "value": "<1 mm 13 .0 mm from end",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            229,
+            408,
+            254,
+            15
+        ]
+    },
+    {
+        "value": "BACK CIGARETTES",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            346,
+            381,
+            119,
+            17
+        ]
+    },
+    {
+        "value": "None to insignificant.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            233,
+            453,
+            172,
+            15
+        ]
+    },
+    {
+        "value": "Excellent appearance (18 holes).",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            237,
+            476,
+            244,
+            18
+        ]
+    },
+    {
+        "value": "Shift & Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            89,
+            542,
+            101,
+            21
+        ]
+    },
+    {
+        "value": "FRONT CIGARETTES",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            337,
+            584,
+            125,
+            20
+        ]
+    },
+    {
+        "value": "Hole Depth:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            89,
+            606,
+            85,
+            17
+        ]
+    },
+    {
+        "value": "BACK CIGARETTES",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            346,
+            726,
+            116,
+            20
+        ]
+    },
+    {
+        "value": "Hole Depth:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            749,
+            85,
+            17
+        ]
+    },
+    {
+        "value": "ATXO2 0062194",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            534,
+            877,
+            111,
+            20
+        ]
+    }
+]

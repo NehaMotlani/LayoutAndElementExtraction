@@ -1,0 +1,893 @@
+﻿[
+    {
+        "value": "Telephone:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            503,
+            63,
+            57,
+            18
+        ]
+    },
+    {
+        "value": "TELEPHONE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            444,
+            134,
+            77,
+            20
+        ]
+    },
+    {
+        "value": "AME",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            14,
+            165,
+            28,
+            17
+        ]
+    },
+    {
+        "value": "AFFILLATION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            372,
+            166,
+            81,
+            20
+        ]
+    },
+    {
+        "value": "DDRESS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            13,
+            193,
+            49,
+            18
+        ]
+    },
+    {
+        "value": "TELEPHONE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            446,
+            222,
+            78,
+            20
+        ]
+    },
+    {
+        "value": "AFFILIATION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            372,
+            254,
+            81,
+            15
+        ]
+    },
+    {
+        "value": "AME",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            8,
+            254,
+            38,
+            14
+        ]
+    },
+    {
+        "value": "DDRESS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            7,
+            282,
+            57,
+            17
+        ]
+    },
+    {
+        "value": "Position",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            349,
+            448,
+            41,
+            15
+        ]
+    },
+    {
+        "value": "resider",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            8,
+            447,
+            45,
+            15
+        ]
+    },
+    {
+        "value": "Affiliation",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            20,
+            468,
+            50,
+            18
+        ]
+    },
+    {
+        "value": "Affiliation",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            22,
+            521,
+            47,
+            17
+        ]
+    },
+    {
+        "value": "Position",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            349,
+            500,
+            39,
+            15
+        ]
+    },
+    {
+        "value": "Position",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            351,
+            573,
+            39,
+            15
+        ]
+    },
+    {
+        "value": "Affiliation",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            20,
+            592,
+            52,
+            17
+        ]
+    },
+    {
+        "value": "Topic.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            20,
+            615,
+            31,
+            17
+        ]
+    },
+    {
+        "value": "Affiliation",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            21,
+            666,
+            50,
+            14
+        ]
+    },
+    {
+        "value": "Topic",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            21,
+            689,
+            29,
+            13
+        ]
+    },
+    {
+        "value": "Position",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            352,
+            642,
+            39,
+            20
+        ]
+    },
+    {
+        "value": "Position",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            349,
+            718,
+            42,
+            15
+        ]
+    },
+    {
+        "value": "Position",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            349,
+            788,
+            42,
+            15
+        ]
+    },
+    {
+        "value": "Affiliation",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            22,
+            807,
+            50,
+            17
+        ]
+    },
+    {
+        "value": "Tοpic",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            20,
+            831,
+            29,
+            15
+        ]
+    },
+    {
+        "value": "Affiliation",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            22,
+            737,
+            50,
+            17
+        ]
+    },
+    {
+        "value": "Topic",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            21,
+            761,
+            28,
+            14
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            529,
+            149,
+            22,
+            10
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            552,
+            151,
+            22,
+            10
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            605,
+            149,
+            36,
+            13
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            605,
+            237,
+            38,
+            10
+        ]
+    },
+    {
+        "value": "Professor",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            419,
+            493,
+            85,
+            20
+        ]
+    },
+    {
+        "value": "Professor",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            413,
+            635,
+            85,
+            21
+        ]
+    },
+    {
+        "value": "Professor",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            419,
+            707,
+            91,
+            18
+        ]
+    },
+    {
+        "value": "Cytogeneticist",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            413,
+            779,
+            131,
+            17
+        ]
+    },
+    {
+        "value": "Topic",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            21,
+            546,
+            29,
+            15
+        ]
+    },
+    {
+        "value": "Annual Meeting Los Angeles",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            75,
+            11,
+            150,
+            45
+        ]
+    },
+    {
+        "value": "26- 31 May 1983",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            106,
+            53,
+            91,
+            20
+        ]
+    },
+    {
+        "value": "ACCEPTED SYMPOSIUM",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            256,
+            0,
+            213,
+            21
+        ]
+    },
+    {
+        "value": "Preliminary Program Information",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            261,
+            22,
+            202,
+            22
+        ]
+    },
+    {
+        "value": "Submit not later than 1 November",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            254,
+            59,
+            219,
+            22
+        ]
+    },
+    {
+        "value": "Return this form to:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            501,
+            0,
+            135,
+            20
+        ]
+    },
+    {
+        "value": "AAAS Meetings Office 1101 Vermont Ave., N W. Washington, D. C. 20005",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            500,
+            17,
+            132,
+            47
+        ]
+    },
+    {
+        "value": "(202) 842- 9530",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            559,
+            64,
+            82,
+            17
+        ]
+    },
+    {
+        "value": "READ REVERSE SIDE BEFORE FILLING OUT THIS FORM",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            173,
+            101,
+            343,
+            18
+        ]
+    },
+    {
+        "value": "202/ 457- 4850",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            527,
+            127,
+            114,
+            24
+        ]
+    },
+    {
+        "value": "RINCIPAL ORGANIZER (who will receive correspondence):",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            14,
+            137,
+            323,
+            18
+        ]
+    },
+    {
+        "value": "Marvin A Kastenbaum",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            61,
+            165,
+            187,
+            17
+        ]
+    },
+    {
+        "value": "1825 Eye Street, NW Suite 800",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            61,
+            191,
+            259,
+            23
+        ]
+    },
+    {
+        "value": "CITY STATE, ",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            323,
+            193,
+            103,
+            20
+        ]
+    },
+    {
+        "value": "Washington DC 20006",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            433,
+            190,
+            185,
+            21
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            529,
+            236,
+            44,
+            13
+        ]
+    },
+    {
+        "value": "O ORGANIZER (if applicable):",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            10,
+            221,
+            176,
+            22
+        ]
+    },
+    {
+        "value": "CITY, STATE, ZIP",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            324,
+            282,
+            100,
+            17
+        ]
+    },
+    {
+        "value": "INAL TITLE OF SYMPOSIUM",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            10,
+            360,
+            178,
+            20
+        ]
+    },
+    {
+        "value": "FOR ONE SESSION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            288,
+            324,
+            114,
+            18
+        ]
+    },
+    {
+        "value": "THE HUMAN CHROMOSOME",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            279,
+            351,
+            191,
+            22
+        ]
+    },
+    {
+        "value": "Dr. William J. Schull",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            64,
+            439,
+            194,
+            22
+        ]
+    },
+    {
+        "value": "Director - Genetics Centers",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            391,
+            436,
+            247,
+            24
+        ]
+    },
+    {
+        "value": "Univ. of Texas Graduate School of Biomedical Sciences (Houston)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            73,
+            461,
+            585,
+            24
+        ]
+    },
+    {
+        "value": "- Speaker",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            10,
+            499,
+            53,
+            18
+        ]
+    },
+    {
+        "value": "Dr. Jorge J. Yunis",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            74,
+            494,
+            159,
+            18
+        ]
+    },
+    {
+        "value": "Univ. of Minnesota School of Medicine",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            94,
+            510,
+            339,
+            22
+        ]
+    },
+    {
+        "value": "The Oncogene, the Fragile Site, and Nonrandom Aberrations",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            67,
+            534,
+            519,
+            23
+        ]
+    },
+    {
+        "value": "- Speaker",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            10,
+            571,
+            55,
+            20
+        ]
+    },
+    {
+        "value": "Dr. Sheldon Wolff",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            75,
+            561,
+            163,
+            23
+        ]
+    },
+    {
+        "value": "Chairman - Professor of Cytogenetic",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            391,
+            559,
+            322,
+            23
+        ]
+    },
+    {
+        "value": "Laborat. Radiobiology& Environmental Health - U. of Cal. San Francis",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            74,
+            582,
+            639,
+            24
+        ]
+    },
+    {
+        "value": "Sister- -Chromatid Exchanges",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            92,
+            608,
+            240,
+            22
+        ]
+    },
+    {
+        "value": "- Speaker",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            10,
+            645,
+            53,
+            17
+        ]
+    },
+    {
+        "value": "Dr. Patricia Jacobs",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            67,
+            637,
+            178,
+            20
+        ]
+    },
+    {
+        "value": "University of Hawai - Dept. of Anatomy",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            87,
+            656,
+            357,
+            23
+        ]
+    },
+    {
+        "value": "Abnormal Human Chromosome Complements",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            66,
+            679,
+            343,
+            24
+        ]
+    },
+    {
+        "value": "Dr. Raymond White",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            92,
+            707,
+            165,
+            22
+        ]
+    },
+    {
+        "value": "- Speaker",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            8,
+            716,
+            55,
+            17
+        ]
+    },
+    {
+        "value": "University of Utah",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            95,
+            729,
+            169,
+            23
+        ]
+    },
+    {
+        "value": "Human Linkage Map based on DNA Markers",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            95,
+            749,
+            368,
+            24
+        ]
+    },
+    {
+        "value": "- Speaker",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            10,
+            788,
+            54,
+            18
+        ]
+    },
+    {
+        "value": "Dr. Michael A. Bender",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            75,
+            779,
+            190,
+            22
+        ]
+    },
+    {
+        "value": "Brookhaven National Laboratory - Medical Department",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            98,
+            799,
+            483,
+            24
+        ]
+    },
+    {
+        "value": "Cyrogeneric Epidemiology",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            94,
+            824,
+            224,
+            22
+        ]
+    },
+    {
+        "value": "See Reverse Side",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            603,
+            852,
+            88,
+            18
+        ]
+    }
+]

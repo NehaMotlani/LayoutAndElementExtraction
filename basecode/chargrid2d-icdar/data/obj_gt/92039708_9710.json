@@ -1,0 +1,232 @@
+﻿[
+    {
+        "text": "TO:",
+        "box": [
+            96,
+            115,
+            24,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FROM:",
+        "box": [
+            96,
+            141,
+            45,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SUBJECT:",
+        "box": [
+            96,
+            193,
+            64,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "92039708",
+        "box": [
+            687,
+            767,
+            13,
+            67
+        ],
+        "class": "other"
+    },
+    {
+        "text": "SUBMISSION DATE",
+        "box": [
+            487,
+            119,
+            137,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "MAY 27 ☐",
+        "box": [
+            451,
+            145,
+            97,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "JUN 24 ☐",
+        "box": [
+            451,
+            165,
+            97,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "AUG 26 ☐",
+        "box": [
+            580,
+            147,
+            89,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OCT 07 ☐",
+        "box": [
+            580,
+            165,
+            89,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MAVERICK SPECIALS- PROGRESS REPORT",
+        "box": [
+            184,
+            196,
+            306,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R. B. SPELL",
+        "box": [
+            186,
+            116,
+            75,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "EFFECTIVENESS OF:",
+        "box": [
+            95,
+            270,
+            147,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Pre- Sell Booklet /Coupon Maverick /Harley B1 G1 F",
+        "box": [
+            254,
+            270,
+            369,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(Report on May 27 only)",
+        "box": [
+            101,
+            292,
+            163,
+            19
+        ],
+        "class": "other"
+    },
+    {
+        "text": "PRE- SELL",
+        "box": [
+            95,
+            313,
+            69,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BOOKLET/ COUPON",
+        "box": [
+            94,
+            457,
+            138,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MAVERICK/ HARLEY B1 G1 F",
+        "box": [
+            94,
+            605,
+            184,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMPETITIVE PROMOTIONAL ACTIVITY",
+        "box": [
+            102,
+            746,
+            278,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(Report on May 27 only)",
+        "box": [
+            99,
+            764,
+            164,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Average Coupon Buydown Value On Targeted Brands (Doral/ Basic/ Monarch/ Cambridge/ GPC",
+        "box": [
+            94,
+            786,
+            567,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "PACKS ☐",
+        "box": [
+            216,
+            820,
+            160,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CARTONS ☐",
+        "box": [
+            218,
+            852,
+            159,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1 of 3",
+        "box": [
+            649,
+            908,
+            42,
+            14
+        ],
+        "class": "other"
+    }
+]

@@ -1,0 +1,622 @@
+﻿[
+    {
+        "text": "BRAND",
+        "box": [
+            43,
+            89,
+            34,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Domestic",
+        "box": [
+            117,
+            105,
+            59,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "X",
+        "box": [
+            200,
+            105,
+            11,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Export",
+        "box": [
+            235,
+            103,
+            39,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Description:",
+        "box": [
+            45,
+            244,
+            82,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            388,
+            506,
+            29,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ENDORSEMENTS",
+        "box": [
+            172,
+            535,
+            81,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            360,
+            535,
+            31,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CQA",
+        "box": [
+            75,
+            561,
+            21,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ELT",
+        "box": [
+            77,
+            644,
+            22,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Marketing",
+        "box": [
+            78,
+            670,
+            61,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "APPROVAL",
+        "box": [
+            173,
+            698,
+            54,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            362,
+            701,
+            31,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CQA",
+        "box": [
+            77,
+            729,
+            25,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "President",
+        "box": [
+            80,
+            757,
+            61,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Rationale",
+        "box": [
+            74,
+            411,
+            64,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Military",
+        "box": [
+            344,
+            103,
+            54,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Contract",
+        "box": [
+            479,
+            103,
+            60,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "X",
+        "box": [
+            310,
+            187,
+            11,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Processing",
+        "box": [
+            365,
+            216,
+            73,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "X",
+        "box": [
+            309,
+            423,
+            14,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "X",
+        "box": [
+            311,
+            453,
+            11,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10111",
+        "box": [
+            49,
+            797,
+            35,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "621626776",
+        "box": [
+            560,
+            845,
+            115,
+            22
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Attachment II",
+        "box": [
+            42,
+            49,
+            90,
+            11
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "SPECIFICATION CHANGE PROPOSAL",
+        "box": [
+            232,
+            61,
+            197,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "ELI CUTTER KS",
+        "box": [
+            124,
+            89,
+            90,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SPECIFICATION CHANGE NUMBER 84- 79",
+        "box": [
+            365,
+            88,
+            237,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TYPE OF SPECIFICATION CHANGE (Check all that apply)",
+        "box": [
+            71,
+            131,
+            346,
+            16
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Packaging, Temporary",
+        "box": [
+            71,
+            148,
+            139,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cigarette Design, Trial",
+        "box": [
+            70,
+            159,
+            160,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Tar Adjustment < 1 mg",
+        "box": [
+            70,
+            172,
+            147,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "New Product",
+        "box": [
+            71,
+            189,
+            77,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Equivalent Additive",
+        "box": [
+            70,
+            203,
+            136,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Equivalent Filter/ Paper/ /Tipping",
+        "box": [
+            71,
+            215,
+            213,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Packaging, Permanent",
+        "box": [
+            366,
+            145,
+            135,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cigarette Design, Permanent",
+        "box": [
+            363,
+            159,
+            192,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Tar Adjustment > 1 mg",
+        "box": [
+            366,
+            173,
+            150,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Discontinue Product",
+        "box": [
+            365,
+            189,
+            131,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Equivalent Packaging Material",
+        "box": [
+            365,
+            201,
+            201,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ELI CUTTER KS, for test market, using AMELIA \"B\" Blend (XLF -680G)",
+        "box": [
+            141,
+            243,
+            450,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "*Cost Summary-",
+        "box": [
+            46,
+            271,
+            104,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "REQUESTED IMPLEMENTATION DATE",
+        "box": [
+            74,
+            297,
+            197,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "9 /17 /84",
+        "box": [
+            304,
+            300,
+            51,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "COST SUMMARY",
+        "box": [
+            74,
+            327,
+            82,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Obsolete Material Cost",
+        "box": [
+            101,
+            342,
+            151,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Special Equipment/ Material Cost",
+        "box": [
+            101,
+            355,
+            211,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Est. Annual Product Cost Change",
+        "box": [
+            102,
+            370,
+            208,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ATTACHMENTS (Check if Included)",
+        "box": [
+            73,
+            395,
+            212,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Product Specification List",
+        "box": [
+            77,
+            423,
+            175,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Packaging Art Stat.",
+        "box": [
+            75,
+            439,
+            130,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Processing Detail",
+        "box": [
+            74,
+            451,
+            120,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Initial Production Requirement",
+        "box": [
+            74,
+            466,
+            205,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cost Analysis",
+        "box": [
+            367,
+            411,
+            90,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Spec. Change Detail",
+        "box": [
+            367,
+            423,
+            131,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Casing Flavoring Formulae",
+        "box": [
+            365,
+            437,
+            177,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Blend Formulae",
+        "box": [
+            365,
+            451,
+            102,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Prepared By:",
+        "box": [
+            75,
+            507,
+            84,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "D. M. Frank",
+        "box": [
+            226,
+            506,
+            76,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10/ 10/ 84",
+        "box": [
+            462,
+            506,
+            59,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RD&E - Product",
+        "box": [
+            77,
+            589,
+            96,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "RD&E - Process",
+        "box": [
+            77,
+            617,
+            95,
+            15
+        ],
+        "class": "value_question"
+    }
+]

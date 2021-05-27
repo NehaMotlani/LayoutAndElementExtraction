@@ -1,0 +1,182 @@
+﻿[
+    {
+        "text": "Date",
+        "box": [
+            501,
+            141,
+            34,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Marketing",
+        "box": [
+            197,
+            295,
+            70,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mann",
+        "box": [
+            168,
+            270,
+            35,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Project Initiation Form",
+        "box": [
+            299,
+            81,
+            174,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "November 15, 1968",
+        "box": [
+            547,
+            141,
+            127,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CST- N- 68",
+        "box": [
+            168,
+            141,
+            61,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Project Code",
+        "box": [
+            54,
+            141,
+            90,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Project Name",
+        "box": [
+            53,
+            209,
+            91,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Charcoal Smoking Tobacco",
+        "box": [
+            170,
+            207,
+            179,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Project Leader",
+        "box": [
+            54,
+            267,
+            105,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Work Requested by",
+        "box": [
+            53,
+            299,
+            127,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Project Objective",
+        "box": [
+            54,
+            355,
+            127,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "A pipe tobacco containing activated charcoal - must show vapor phase reduction.",
+        "box": [
+            200,
+            353,
+            455,
+            49
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Smoking Deval Tobacco ",
+        "box": [
+            106,
+            432,
+            443,
+            68
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Other personnel assigned",
+        "box": [
+            57,
+            744,
+            180,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Analytical Section is doing most of the work on vapor phase.",
+        "box": [
+            254,
+            742,
+            436,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PDL and John Brooks preparing charocal impregnated RC.",
+        "box": [
+            74,
+            771,
+            394,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Estimated Man Hours for Completion",
+        "box": [
+            61,
+            848,
+            249,
+            18
+        ],
+        "class": "value_question"
+    }
+]

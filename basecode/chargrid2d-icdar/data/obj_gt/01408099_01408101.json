@@ -1,0 +1,522 @@
+﻿[
+    {
+        "text": "DATE",
+        "box": [
+            531,
+            108,
+            40,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "A.",
+        "box": [
+            59,
+            180,
+            16,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "N-",
+        "box": [
+            513,
+            183,
+            19,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "306",
+        "box": [
+            529,
+            183,
+            33,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "B.",
+        "box": [
+            51,
+            500,
+            16,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MARKETING",
+        "box": [
+            95,
+            500,
+            86,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SIZE",
+        "box": [
+            96,
+            519,
+            37,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OF",
+        "box": [
+            143,
+            519,
+            17,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TARGET",
+        "box": [
+            168,
+            517,
+            56,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MARKET",
+        "box": [
+            231,
+            519,
+            59,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(BY",
+        "box": [
+            99,
+            531,
+            25,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BRAND",
+        "box": [
+            132,
+            533,
+            48,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OR",
+        "box": [
+            186,
+            536,
+            19,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMPANY)",
+        "box": [
+            215,
+            536,
+            72,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "UNITS",
+        "box": [
+            686,
+            560,
+            51,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "UNITS",
+        "box": [
+            689,
+            572,
+            49,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "UNITS",
+        "box": [
+            689,
+            591,
+            49,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "UNITS",
+        "box": [
+            687,
+            606,
+            52,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMMENTS",
+        "box": [
+            94,
+            623,
+            76,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1st",
+        "box": [
+            376,
+            705,
+            29,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Qtr.",
+        "box": [
+            412,
+            707,
+            35,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "79",
+        "box": [
+            469,
+            707,
+            19,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "01408099",
+        "box": [
+            674,
+            841,
+            20,
+            95
+        ],
+        "class": "other"
+    },
+    {
+        "text": "PROJECT STATUS REPORT CONFIDENTIAL",
+        "box": [
+            270,
+            72,
+            218,
+            68
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "March 1, 1978",
+        "box": [
+            587,
+            104,
+            120,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "REVISION #",
+        "box": [
+            529,
+            139,
+            93,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SECTIONS REVISED",
+        "box": [
+            529,
+            171,
+            149,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PROJECT NAME",
+        "box": [
+            91,
+            183,
+            110,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "True 100's (R&M)",
+        "box": [
+            214,
+            178,
+            144,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PROJECT #",
+        "box": [
+            401,
+            187,
+            83,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TOTAL BUDGET",
+        "box": [
+            397,
+            203,
+            117,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PROJECT LEADER",
+        "box": [
+            91,
+            199,
+            129,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "GENERAL PROJECT DESCRIPTION",
+        "box": [
+            88,
+            214,
+            249,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Williams/ Giordano",
+        "box": [
+            225,
+            199,
+            158,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "True 100's, Regular and Menthol tar",
+        "box": [
+            341,
+            217,
+            321,
+            24
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "reduction to the range of 8- 10mg tar. Variations to be: 1) Same taste",
+        "box": [
+            88,
+            233,
+            636,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "characteristics as current True 100's product and, 2) Taste characterist-",
+        "box": [
+            95,
+            249,
+            657,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ics similar to True King Size, 5mg. tar product.",
+        "box": [
+            96,
+            262,
+            436,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "REVISED TARGET DATE",
+        "box": [
+            445,
+            372,
+            102,
+            32
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ESTIMATED TARGET DATE- ORIGINAL COMMENTS",
+        "box": [
+            96,
+            365,
+            148,
+            46
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "YEAR ONE",
+        "box": [
+            324,
+            520,
+            40,
+            31
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "YEAR ",
+        "box": [
+            405,
+            521,
+            38,
+            31
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "YEAR THREE",
+        "box": [
+            467,
+            521,
+            51,
+            35
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "YEAR FOUR",
+        "box": [
+            552,
+            525,
+            40,
+            33
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "YEAR FIVE",
+        "box": [
+            623,
+            528,
+            44,
+            30
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SALES OBJECTIVE",
+        "box": [
+            94,
+            594,
+            139,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ESTIMATED PAYBACK PERIOD",
+        "box": [
+            96,
+            608,
+            220,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "In- home placement",
+        "box": [
+            94,
+            702,
+            157,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ORIGINAL COMPLETION DATE",
+        "box": [
+            376,
+            674,
+            142,
+            34
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "MAJOR MKT. AND MKT. RESEARCH STEPS",
+        "box": [
+            91,
+            667,
+            176,
+            34
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "* REVISED COMPLETION DATE",
+        "box": [
+            603,
+            680,
+            138,
+            37
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "* EXPLANATION OF CHANGE",
+        "box": [
+            92,
+            805,
+            143,
+            32
+        ],
+        "class": "value_question"
+    }
+]

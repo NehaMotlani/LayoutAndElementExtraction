@@ -1,0 +1,442 @@
+﻿[
+    {
+        "value": "B164",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            166,
+            182,
+            36,
+            14
+        ]
+    },
+    {
+        "value": "pH",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            225,
+            13,
+            11
+        ]
+    },
+    {
+        "value": "Reference:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            135,
+            408,
+            83,
+            15
+        ]
+    },
+    {
+        "value": "ORAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            120,
+            390,
+            20,
+            13
+        ]
+    },
+    {
+        "value": "SOLUBILITY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            103,
+            370,
+            39,
+            8
+        ]
+    },
+    {
+        "value": "ACUTE CADCOVASCULAR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            119,
+            508,
+            91,
+            9
+        ]
+    },
+    {
+        "value": "Reference:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            135,
+            559,
+            84,
+            12
+        ]
+    },
+    {
+        "value": "00865872",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            634,
+            702,
+            19,
+            90
+        ]
+    },
+    {
+        "value": "COMPOUND",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            770,
+            43,
+            9
+        ]
+    },
+    {
+        "value": "TO",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            179,
+            770,
+            8,
+            11
+        ]
+    },
+    {
+        "value": "SENSITIVE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            140,
+            771,
+            36,
+            8
+        ]
+    },
+    {
+        "value": "SIGNATURE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            920,
+            41,
+            9
+        ]
+    },
+    {
+        "value": "[] OTHER",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            259,
+            793,
+            37,
+            11
+        ]
+    },
+    {
+        "value": "[MOISTURE]",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            198,
+            795,
+            48,
+            8
+        ]
+    },
+    {
+        "value": "[] HEAT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            158,
+            793,
+            27,
+            12
+        ]
+    },
+    {
+        "value": "[] Air",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            118,
+            793,
+            25,
+            12
+        ]
+    },
+    {
+        "value": "SAFETY",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            96,
+            822,
+            28,
+            9
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            211,
+            824,
+            39,
+            8
+        ]
+    },
+    {
+        "value": "PROCEDURE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            251,
+            824,
+            49,
+            7
+        ]
+    },
+    {
+        "value": "(SUGGESTED",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            164,
+            824,
+            48,
+            8
+        ]
+    },
+    {
+        "value": "COMMENT:",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            126,
+            822,
+            36,
+            9
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            135,
+            921,
+            180,
+            23
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            499,
+            922,
+            19,
+            10
+        ]
+    },
+    {
+        "value": "8/22/83",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            531,
+            924,
+            88,
+            24
+        ]
+    },
+    {
+        "value": "COMPOUND PHYSICAL PARAMETERS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            246,
+            141,
+            291,
+            18
+        ]
+    },
+    {
+        "value": "LRC FILE NUMBER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            98,
+            172,
+            66,
+            9
+        ]
+    },
+    {
+        "value": "LOT NUMBER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            501,
+            172,
+            52,
+            11
+        ]
+    },
+    {
+        "value": "PHYSICAL STATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            98,
+            198,
+            59,
+            11
+        ]
+    },
+    {
+        "value": "Brownish- gray powder",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            169,
+            211,
+            168,
+            17
+        ]
+    },
+    {
+        "value": "The pH of a 50% concentration of B164 in water was calculated to be 4.82 at 25°C according to the extrapolation procedures by Dr. P. D. Schickedantz, Lorillard Research Center Accession Number 1662.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            131,
+            267,
+            522,
+            56
+        ]
+    },
+    {
+        "value": "(See SOP FOX Biological Solutions)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            152,
+            377,
+            283,
+            18
+        ]
+    },
+    {
+        "value": "BC20- 48",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            226,
+            405,
+            60,
+            16
+        ]
+    },
+    {
+        "value": "B164 forms a suspension in corn oil at 0.5g/ 1.5 ml Triple dosing is required",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            130,
+            430,
+            433,
+            45
+        ]
+    },
+    {
+        "value": "(See SOP for Determination of Solubility of Materials for Acute Cardiovascular and Respiratory Effects Study Beagle Dogs)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            130,
+            516,
+            553,
+            30
+        ]
+    },
+    {
+        "value": "BC20- 48",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            222,
+            559,
+            64,
+            15
+        ]
+    },
+    {
+        "value": "B164 is insoluble according to this procedure",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            131,
+            584,
+            378,
+            19
+        ]
+    },
+    {
+        "value": "STORAGE RECOMMENDATIONS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            98,
+            663,
+            109,
+            9
+        ]
+    },
+    {
+        "value": "Refrigerate in amber glass bottle at no more than 8°C",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            134,
+            679,
+            454,
+            19
+        ]
+    },
+    {
+        "value": "LORILLARD RESEARCH CENTER",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            94,
+            945,
+            109,
+            13
+        ]
+    },
+    {
+        "value": "FORM 1921",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            644,
+            949,
+            52,
+            12
+        ]
+    }
+]

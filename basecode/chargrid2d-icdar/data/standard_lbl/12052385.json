@@ -1,0 +1,222 @@
+﻿[
+    {
+        "value": "KOOL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            41,
+            46,
+            13
+        ]
+    },
+    {
+        "value": "DESCRIPTION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            107,
+            101,
+            19
+        ]
+    },
+    {
+        "value": "SUPPLIER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            224,
+            78,
+            14
+        ]
+    },
+    {
+        "value": "CUMULATIVE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            553,
+            527,
+            84,
+            18
+        ]
+    },
+    {
+        "value": "JAN",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            195,
+            568,
+            32,
+            15
+        ]
+    },
+    {
+        "value": "466024372",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            678,
+            950,
+            66,
+            18
+        ]
+    },
+    {
+        "value": "466024372",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            548,
+            884,
+            123,
+            22
+        ]
+    },
+    {
+        "value": "PROJECT NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            430,
+            35,
+            97,
+            20
+        ]
+    },
+    {
+        "value": "1987- 144- K",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            558,
+            31,
+            95,
+            20
+        ]
+    },
+    {
+        "value": "0595- 529- 1510 -0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            58,
+            55,
+            135,
+            17
+        ]
+    },
+    {
+        "value": "KMDP ANALYSIS UTILIZING BLACK SWITCHING STUDY DATA",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            197,
+            100,
+            428,
+            25
+        ]
+    },
+    {
+        "value": "C. B. Pugh",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            200,
+            177,
+            78,
+            18
+        ]
+    },
+    {
+        "value": "Market Facts",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            200,
+            218,
+            108,
+            17
+        ]
+    },
+    {
+        "value": "12, 500 (10- 15- 87)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            198,
+            258,
+            174,
+            22
+        ]
+    },
+    {
+        "value": "CARRYOVER TO 1988 -- 0",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            460,
+            275,
+            199,
+            21
+        ]
+    },
+    {
+        "value": "MR PERSONNEL:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            55,
+            179,
+            110,
+            17
+        ]
+    },
+    {
+        "value": "AUTHORIZED COST:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            55,
+            262,
+            139,
+            17
+        ]
+    },
+    {
+        "value": "RELEASED TO ACCTG",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            517,
+            76,
+            34
+        ]
+    },
+    {
+        "value": "PAID OUT OF 1987 BUDGET",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            292,
+            509,
+            97,
+            39
+        ]
+    },
+    {
+        "value": "PRODUCED FROM B&W WEB SITE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            5,
+            950,
+            223,
+            20
+        ]
+    }
+]

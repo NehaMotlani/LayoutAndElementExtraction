@@ -1,0 +1,652 @@
+﻿[
+    {
+        "text": "TO:",
+        "box": [
+            67,
+            112,
+            25,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FROM:",
+        "box": [
+            67,
+            138,
+            45,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "#CASES",
+        "box": [
+            303,
+            413,
+            59,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "ITEMS",
+        "box": [
+            304,
+            549,
+            42,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "7/11/97",
+        "box": [
+            609,
+            108,
+            50,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1",
+        "box": [
+            221,
+            434,
+            28,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            221,
+            454,
+            25,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            223,
+            468,
+            24,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            612,
+            451,
+            35,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "29-980-7",
+        "box": [
+            426,
+            598,
+            80,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "400",
+        "box": [
+            547,
+            577,
+            31,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "400",
+        "box": [
+            549,
+            608,
+            27,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "400",
+        "box": [
+            553,
+            628,
+            24,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "400",
+        "box": [
+            608,
+            595,
+            32,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "7/11/97",
+        "box": [
+            415,
+            813,
+            56,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "198-820-0003",
+        "box": [
+            324,
+            742,
+            84,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "REQFORM",
+        "box": [
+            50,
+            923,
+            59,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "82254638",
+        "box": [
+            672,
+            792,
+            22,
+            108
+        ],
+        "class": "other"
+    },
+    {
+        "text": "01/17/97",
+        "box": [
+            651,
+            923,
+            47,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Attendence",
+        "box": [
+            504,
+            239,
+            77,
+            25
+        ],
+        "class": "other"
+    },
+    {
+        "text": "140",
+        "box": [
+            486,
+            282,
+            27,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "250",
+        "box": [
+            482,
+            339,
+            31,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            352,
+            381,
+            151,
+            42
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            219,
+            483,
+            27,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            413,
+            494,
+            32,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            415,
+            468,
+            32,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            608,
+            437,
+            38,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "(314)739-8090",
+        "box": [
+            363,
+            127,
+            117,
+            24
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            415,
+            439,
+            34,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "DIV. NAME/ NO:",
+        "box": [
+            68,
+            165,
+            103,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SAM ZOLOT",
+        "box": [
+            207,
+            110,
+            68,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "W. R. KNIGHT - MCA",
+        "box": [
+            211,
+            137,
+            131,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ST. LOUIS, MO",
+        "box": [
+            211,
+            163,
+            95,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DATE TO CORP:",
+        "box": [
+            499,
+            109,
+            96,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1997 SPECIAL EVENT REQUEST FORM",
+        "box": [
+            254,
+            218,
+            234,
+            16
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "NAME OF EVENT:",
+        "box": [
+            68,
+            274,
+            110,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "*DATE OF EVENT:",
+        "box": [
+            70,
+            302,
+            112,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Lorillard Metro Golf Outing 1997",
+        "box": [
+            209,
+            274,
+            232,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "September 10, 1997 Marcus Hellenic Spirit Charities Golf Classic September 18, 1997",
+        "box": [
+            209,
+            300,
+            325,
+            59
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SAMPLES/ ITEMS REQUIRED:",
+        "box": [
+            70,
+            356,
+            185,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SAMPLE 10'S (400 PACKS PER CASE)",
+        "box": [
+            272,
+            356,
+            201,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "NEWPORTKS K.S.",
+        "box": [
+            70,
+            440,
+            85,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NEWPORT 100'S",
+        "box": [
+            70,
+            453,
+            90,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NEWPORT LTS. KS.",
+        "box": [
+            70,
+            465,
+            110,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NEWPORT LTS. 100",
+        "box": [
+            70,
+            480,
+            109,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "KENT II K.S.",
+        "box": [
+            304,
+            440,
+            75,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "KENT III 100",
+        "box": [
+            304,
+            454,
+            74,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TRUE K.S.",
+        "box": [
+            304,
+            466,
+            60,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "KENT K.S.",
+        "box": [
+            306,
+            482,
+            57,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "KENT 100",
+        "box": [
+            304,
+            496,
+            58,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "KENT GL LTS K.S.",
+        "box": [
+            501,
+            439,
+            99,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "KENT GL 100",
+        "box": [
+            500,
+            454,
+            74,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1",
+        "box": [
+            420,
+            448,
+            51,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1",
+        "box": [
+            418,
+            473,
+            56,
+            28
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BASEBALL CAP",
+        "box": [
+            306,
+            577,
+            95,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "QUANTITY REQUIRED",
+        "box": [
+            500,
+            549,
+            148,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "WATER BOTTLES",
+        "box": [
+            307,
+            603,
+            108,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Any Other Items Available",
+        "box": [
+            309,
+            627,
+            182,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SHIP TO:",
+        "box": [
+            73,
+            716,
+            56,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "CUSTOMER SHIPPING NUMBER",
+        "box": [
+            71,
+            742,
+            184,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NYO ONLY:",
+        "box": [
+            73,
+            782,
+            73,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "DATE FORWARDED TO PROMOTION SERVICES:",
+        "box": [
+            71,
+            811,
+            278,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            469,
+            694,
+            231,
+            75
+        ],
+        "class": "other"
+    },
+    {
+        "text": "*PLEASE ALLOW 6 WEEKS FOR PROCESSING OF YOUR REQUEST.",
+        "box": [
+            74,
+            863,
+            409,
+            19
+        ],
+        "class": "other"
+    },
+    {
+        "text": "CONFIRMATION TO SPZ 9/2/97",
+        "box": [
+            141,
+            883,
+            215,
+            19
+        ],
+        "class": "other"
+    }
+]

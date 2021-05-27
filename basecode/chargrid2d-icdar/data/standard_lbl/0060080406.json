@@ -1,0 +1,651 @@
+﻿[
+    {
+        "value": "02/04/91",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            550,
+            137,
+            70,
+            15
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            500,
+            141,
+            28,
+            11
+        ]
+    },
+    {
+        "value": "DESCRIPTION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            525,
+            168,
+            75,
+            14
+        ]
+    },
+    {
+        "value": "MEDIUM",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            304,
+            169,
+            45,
+            14
+        ]
+    },
+    {
+        "value": "SALES",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            101,
+            135,
+            49,
+            14
+        ]
+    },
+    {
+        "value": "BRAND",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            168,
+            36,
+            13
+        ]
+    },
+    {
+        "value": "ORIGINATOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            10,
+            141,
+            70,
+            13
+        ]
+    },
+    {
+        "value": "THRU",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            429,
+            320,
+            31,
+            17
+        ]
+    },
+    {
+        "value": "REMARKS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            10,
+            348,
+            50,
+            15
+        ]
+    },
+    {
+        "value": "LABELS",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            60,
+            501,
+            56,
+            11
+        ]
+    },
+    {
+        "value": "DECALS",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            59,
+            487,
+            57,
+            11
+        ]
+    },
+    {
+        "value": "MOBILES",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            229,
+            486,
+            61,
+            13
+        ]
+    },
+    {
+        "value": "35,000.00",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            500,
+            595,
+            81,
+            15
+        ]
+    },
+    {
+        "value": "APPROVALS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            82,
+            627,
+            66,
+            11
+        ]
+    },
+    {
+        "value": "JAN",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            270,
+            651,
+            31,
+            18
+        ]
+    },
+    {
+        "value": "FEB",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            271,
+            666,
+            31,
+            15
+        ]
+    },
+    {
+        "value": "MAR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            272,
+            680,
+            28,
+            15
+        ]
+    },
+    {
+        "value": "Agency",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            10,
+            661,
+            36,
+            11
+        ]
+    },
+    {
+        "value": "Forecasting",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            10,
+            689,
+            54,
+            14
+        ]
+    },
+    {
+        "value": "Marketing",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            10,
+            716,
+            46,
+            17
+        ]
+    },
+    {
+        "value": "Sales",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            8,
+            747,
+            29,
+            11
+        ]
+    },
+    {
+        "value": "Sales",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            36,
+            804,
+            24,
+            14
+        ]
+    },
+    {
+        "value": "President",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            10,
+            837,
+            45,
+            11
+        ]
+    },
+    {
+        "value": "5060",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            518,
+            849,
+            41,
+            15
+        ]
+    },
+    {
+        "value": "Yr.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            612,
+            853,
+            13,
+            13
+        ]
+    },
+    {
+        "value": "91",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            676,
+            848,
+            15,
+            15
+        ]
+    },
+    {
+        "value": "THE AMERICAN TOBACCO COMPANY",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            66,
+            32,
+            86,
+            60
+        ]
+    },
+    {
+        "value": "SIX STAMFORD FORUM P. O. BOX 10380 STAMFORD CONNECTICUT 06904- 2380",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            173,
+            34,
+            165,
+            32
+        ]
+    },
+    {
+        "value": "AT [1- 89)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            622,
+            34,
+            58,
+            11
+        ]
+    },
+    {
+        "value": "ADVERTISING AND SELLING AUTHORIZATION",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            459,
+            43,
+            222,
+            40
+        ]
+    },
+    {
+        "value": "DO NOT MAKE ANY COMMITMENT OR AUTHORIZE ANY EXPENDITURE OF ANY KIND FOR ACCOUNT OF THIS COMPANY UNTIL EXECUTIVE APPROVAL HAS BEEN OBTAINED HEREON (BE GUIDED BY PPM 60,020 IN COMPLETING THIS FORM)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            22,
+            99,
+            647,
+            19
+        ]
+    },
+    {
+        "value": "BULL DURHAM Filter Box",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            57,
+            191,
+            198,
+            19
+        ]
+    },
+    {
+        "value": "BULL DURHAM Lights BOX",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            57,
+            207,
+            200,
+            15
+        ]
+    },
+    {
+        "value": "JOB NO",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            346,
+            141,
+            39,
+            14
+        ]
+    },
+    {
+        "value": "COLLATERAL MERCHANDISING MATERIALS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            506,
+            191,
+            199,
+            30
+        ]
+    },
+    {
+        "value": "PERIOD - FROM",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            176,
+            320,
+            78,
+            18
+        ]
+    },
+    {
+        "value": "01/ 91",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            278,
+            318,
+            43,
+            14
+        ]
+    },
+    {
+        "value": "03/ 91",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            482,
+            316,
+            45,
+            20
+        ]
+    },
+    {
+        "value": "To cover the cost of collateral merchandising materials to be used in 1991 in connection with the merchandising and promotion of BULL DURHAM.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            60,
+            384,
+            630,
+            35
+        ]
+    },
+    {
+        "value": "These costs will include but are not exclusive to the the following materials:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            59,
+            429,
+            575,
+            30
+        ]
+    },
+    {
+        "value": "CARTON END PANELS",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            57,
+            471,
+            148,
+            17
+        ]
+    },
+    {
+        "value": "SCORED CARTONS",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            466,
+            471,
+            123,
+            15
+        ]
+    },
+    {
+        "value": "SHELF DANGLERS",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            468,
+            485,
+            120,
+            14
+        ]
+    },
+    {
+        "value": "SIDING INDOOR TALKERS",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            468,
+            499,
+            182,
+            17
+        ]
+    },
+    {
+        "value": "PACKAGE I. D. STRIPS",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            229,
+            513,
+            166,
+            15
+        ]
+    },
+    {
+        "value": "POSTERS (LARGE WINDOW)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            229,
+            497,
+            188,
+            20
+        ]
+    },
+    {
+        "value": "LIGHT THIEF",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            230,
+            471,
+            95,
+            17
+        ]
+    },
+    {
+        "value": "JUMBO PACKS",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            60,
+            513,
+            97,
+            16
+        ]
+    },
+    {
+        "value": "TOTALS $",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            402,
+            601,
+            44,
+            15
+        ]
+    },
+    {
+        "value": "ACCOUNTING DISTRIBUTION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            380,
+            627,
+            144,
+            13
+        ]
+    },
+    {
+        "value": "V. P. - Marketing",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            10,
+            774,
+            78,
+            18
+        ]
+    },
+    {
+        "value": "Chairman/ CEO",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            13,
+            863,
+            70,
+            14
+        ]
+    },
+    {
+        "value": "$ 10.000.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            304,
+            654,
+            104,
+            14
+        ]
+    },
+    {
+        "value": "$ 10.000.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            307,
+            666,
+            103,
+            15
+        ]
+    },
+    {
+        "value": "$ 15,000.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            306,
+            677,
+            105,
+            18
+        ]
+    },
+    {
+        "value": "Account Code",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            444,
+            796,
+            67,
+            15
+        ]
+    },
+    {
+        "value": "Budget Code",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            444,
+            825,
+            63,
+            15
+        ]
+    },
+    {
+        "value": "Auth No.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            444,
+            853,
+            45,
+            14
+        ]
+    },
+    {
+        "value": "10- 320",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            547,
+            792,
+            59,
+            20
+        ]
+    }
+]

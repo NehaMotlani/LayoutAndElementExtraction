@@ -10,13 +10,13 @@ import torch
 from matplotlib import pyplot as plt
 from torchvision import transforms
 import sys
-sys.path.insert(1, '/Users/nehamotlani/Desktop/College_Courses/Research/Code/basecode/chargrid2d-icdar/')
+sys.path.insert(1, '/Users/nehamotlani/Desktop/College_Courses/Research/Repo/LayoutAndElementExtraction/basecode/chargrid2d-icdar/')
 
 from chargrid2d.dataloader_utils.generate_mask import MaskGenerator
 from chargrid2d.dataloader_utils.onehotencoder import OneHotEncoder
 from chargrid2d.model import Chargrid2D
 
-root = '/Users/nehamotlani/Desktop/College_Courses/Research/Code/basecode/chargrid2d-icdar/'
+root = '/Users/nehamotlani/Desktop/College_Courses/Research/Repo/LayoutAndElementExtraction/basecode/chargrid2d-icdar/'
 all_color = [
     (0, 0, 0),
     (0, 255, 0),

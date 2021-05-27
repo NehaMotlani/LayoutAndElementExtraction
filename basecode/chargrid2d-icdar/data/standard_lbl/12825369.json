@@ -1,0 +1,475 @@
+﻿[
+    {
+        "value": "MARKET",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            59,
+            135,
+            47,
+            14
+        ]
+    },
+    {
+        "value": "POPULATION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            59,
+            165,
+            67,
+            14
+        ]
+    },
+    {
+        "value": "OPERATOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            56,
+            194,
+            60,
+            14
+        ]
+    },
+    {
+        "value": "BRAND",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            367,
+            134,
+            39,
+            13
+        ]
+    },
+    {
+        "value": "SCHEDULE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            367,
+            163,
+            59,
+            14
+        ]
+    },
+    {
+        "value": "FULL INSPECTION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            367,
+            196,
+            94,
+            14
+        ]
+    },
+    {
+        "value": "NUMBER VIEWED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            367,
+            226,
+            92,
+            11
+        ]
+    },
+    {
+        "value": "Lakeland Metro Market",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            119,
+            131,
+            149,
+            15
+        ]
+    },
+    {
+        "value": "Misty",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            427,
+            130,
+            38,
+            14
+        ]
+    },
+    {
+        "value": "SPOT CHECK",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            539,
+            194,
+            67,
+            14
+        ]
+    },
+    {
+        "value": "TYPE OF DISPLAY",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            324,
+            250,
+            103,
+            17
+        ]
+    },
+    {
+        "value": "PERMANENT",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            177,
+            286,
+            75,
+            15
+        ]
+    },
+    {
+        "value": "LOCATION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            56,
+            351,
+            50,
+            11
+        ]
+    },
+    {
+        "value": "DESIGN ON DISPLAY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            59,
+            420,
+            122,
+            17
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            427,
+            317,
+            17,
+            15
+        ]
+    },
+    {
+        "value": "ROTARY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            384,
+            316,
+            41,
+            18
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            246,
+            391,
+            21,
+            13
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            216,
+            388,
+            28,
+            18
+        ]
+    },
+    {
+        "value": "COMMENTS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            57,
+            493,
+            74,
+            15
+        ]
+    },
+    {
+        "value": "COMMENT ON PLANT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            59,
+            689,
+            135,
+            17
+        ]
+    },
+    {
+        "value": "INSPECTION BY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            545,
+            888,
+            82,
+            14
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            496,
+            844,
+            209,
+            71
+        ]
+    },
+    {
+        "value": "LAURENCE, CHARLES, FREE & LAWSON, INC. BULLETIN ADVERTISING- INSPECTION REPORT",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            165,
+            47,
+            418,
+            45
+        ]
+    },
+    {
+        "value": "400.400 ",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            154,
+            159,
+            50,
+            17
+        ]
+    },
+    {
+        "value": "The Lamar Corp.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            141,
+            186,
+            102,
+            17
+        ]
+    },
+    {
+        "value": "2/ 20 & 3/ 20",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            433,
+            159,
+            84,
+            18
+        ]
+    },
+    {
+        "value": "3/ 23/ 91",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            589,
+            159,
+            55,
+            18
+        ]
+    },
+    {
+        "value": "BULLETIN ☐",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            57,
+            313,
+            69,
+            21
+        ]
+    },
+    {
+        "value": "WALL ☐",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            180,
+            316,
+            45,
+            18
+        ]
+    },
+    {
+        "value": "See attached list",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            141,
+            345,
+            120,
+            17
+        ]
+    },
+    {
+        "value": "NO OF ROTARIES",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            383,
+            346,
+            85,
+            20
+        ]
+    },
+    {
+        "value": "8 RB",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            508,
+            351,
+            34,
+            17
+        ]
+    },
+    {
+        "value": "218, 499",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            539,
+            390,
+            49,
+            18
+        ]
+    },
+    {
+        "value": "AVERAGE DAILY EFFECTIVE CIRCULATION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            385,
+            383,
+            121,
+            26
+        ]
+    },
+    {
+        "value": "DAILY EFFECTIVE CIRCULATION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            56,
+            383,
+            122,
+            30
+        ]
+    },
+    {
+        "value": "(Condition And Rendition of Copy)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            183,
+            419,
+            178,
+            18
+        ]
+    },
+    {
+        "value": "(Description of Location or Rotary Plan, Brand Category Competition)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            133,
+            490,
+            357,
+            22
+        ]
+    },
+    {
+        "value": "This is a comparatively easy market to cover. It is less than an hour from Tampa airport. Our bulletins are on every major arterial and in all No quadrants of the area. changes were made. Some minor on- premise blocking and trees were noted, but deemed serious enough for correction. not",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            54,
+            511,
+            598,
+            63
+        ]
+    },
+    {
+        "value": "The only other tobacco in the market was a standing 6 Panel RJR buy currently showing Camel.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            52,
+            582,
+            600,
+            33
+        ]
+    },
+    {
+        "value": "(Condition, Structures, Painting Ability, Lighting, Cooperation, etc.)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            197,
+            689,
+            338,
+            18
+        ]
+    },
+    {
+        "value": "The plant is well maintained and covers all parts of the market. Lamar looks like a good citizen here, keeping a good- looking public and carrying lot operation. doing service, a of local advertisers.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            52,
+            708,
+            596,
+            45
+        ]
+    },
+    {
+        "value": "(FORM NO ",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            31,
+            890,
+            69,
+            15
+        ]
+    },
+    {
+        "value": "970518461 PRODUCED FROM B&W WEB SITE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            0,
+            951,
+            231,
+            34
+        ]
+    }
+]

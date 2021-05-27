@@ -1,0 +1,783 @@
+﻿[
+    {
+        "value": "Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            85,
+            37,
+            18
+        ]
+    },
+    {
+        "value": "Description:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            112,
+            91,
+            19
+        ]
+    },
+    {
+        "value": "No.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            493,
+            82,
+            24,
+            18
+        ]
+    },
+    {
+        "value": "Supplier:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            177,
+            66,
+            12
+        ]
+    },
+    {
+        "value": "Reasons:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            90,
+            290,
+            69,
+            19
+        ]
+    },
+    {
+        "value": "Increase",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            207,
+            235,
+            73,
+            15
+        ]
+    },
+    {
+        "value": "Decrease",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            301,
+            232,
+            64,
+            16
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            201,
+            431,
+            111,
+            103
+        ]
+    },
+    {
+        "value": "PROJECTED:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            85,
+            394,
+            81,
+            19
+        ]
+    },
+    {
+        "value": "1987",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            573,
+            409,
+            39,
+            15
+        ]
+    },
+    {
+        "value": "Com-",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            226,
+            561,
+            40,
+            12
+        ]
+    },
+    {
+        "value": "cc:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            871,
+            27,
+            13
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            442,
+            810,
+            34,
+            19
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            443,
+            781,
+            31,
+            16
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            442,
+            750,
+            33,
+            19
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            442,
+            722,
+            34,
+            15
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            442,
+            693,
+            37,
+            16
+        ]
+    },
+    {
+        "value": "MRD00008",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            85,
+            945,
+            64,
+            16
+        ]
+    },
+    {
+        "value": "465915249",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            608,
+            934,
+            124,
+            28
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            253,
+            829,
+            40,
+            13
+        ]
+    },
+    {
+        "value": "CHANGE OF AUTHORIZED COST",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            289,
+            70,
+            184,
+            18
+        ]
+    },
+    {
+        "value": "12- -4 -87",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            150,
+            87,
+            66,
+            15
+        ]
+    },
+    {
+        "value": "C -5-51",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            552,
+            85,
+            36,
+            18
+        ]
+    },
+    {
+        "value": "CAPRI A&U EXPANSION - CALIFORNIA: WAVE 2 (87 -113) ,",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            204,
+            112,
+            449,
+            21
+        ]
+    },
+    {
+        "value": "WAVE 3 (87 –114) AND WAVE 4 (87 -115) .",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            105,
+            142,
+            321,
+            21
+        ]
+    },
+    {
+        "value": "Kapuler Marketing Research",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            204,
+            177,
+            226,
+            16
+        ]
+    },
+    {
+        "value": "Previous $ Commitments This Project",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            90,
+            202,
+            259,
+            18
+        ]
+    },
+    {
+        "value": "$ 212, 475 + 10%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            395,
+            202,
+            136,
+            19
+        ]
+    },
+    {
+        "value": "Amt. of Change:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            90,
+            232,
+            109,
+            18
+        ]
+    },
+    {
+        "value": "$ NA ( % Change)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            397,
+            232,
+            269,
+            18
+        ]
+    },
+    {
+        "value": "$ 212, 475 + 10%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            395,
+            262,
+            135,
+            19
+        ]
+    },
+    {
+        "value": "Adjusted Total Cost of Project:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            90,
+            262,
+            230,
+            16
+        ]
+    },
+    {
+        "value": "Adjustment due to timing of projects falling into 1988.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            201,
+            319,
+            393,
+            30
+        ]
+    },
+    {
+        "value": "Internal Init. Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            90,
+            424,
+            142,
+            18
+        ]
+    },
+    {
+        "value": "Ext. Auth. Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            454,
+            114,
+            17
+        ]
+    },
+    {
+        "value": "Field Complete",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            87,
+            482,
+            112,
+            20
+        ]
+    },
+    {
+        "value": "Final Report Due (Supplier Rpt.)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            512,
+            125,
+            34
+        ]
+    },
+    {
+        "value": "Summary of Research Budget",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            323,
+            394,
+            196,
+            19
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            543,
+            424,
+            93,
+            17
+        ]
+    },
+    {
+        "value": "(886, 220. 53)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            540,
+            451,
+            102,
+            21
+        ]
+    },
+    {
+        "value": "+14, 165. 00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            545,
+            481,
+            91,
+            21
+        ]
+    },
+    {
+        "value": "Total Area Budget:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            325,
+            422,
+            132,
+            18
+        ]
+    },
+    {
+        "value": "Current Balance Available:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            323,
+            454,
+            197,
+            17
+        ]
+    },
+    {
+        "value": "This Change: (From Current Budget)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            322,
+            484,
+            159,
+            32
+        ]
+    },
+    {
+        "value": "This Amount",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            323,
+            527,
+            82,
+            17
+        ]
+    },
+    {
+        "value": "(From Next Year' s Budget)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            326,
+            545,
+            188,
+            16
+        ]
+    },
+    {
+        "value": "-14, 165. 00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            421,
+            528,
+            94,
+            15
+        ]
+    },
+    {
+        "value": "Start plete FR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            174,
+            575,
+            153,
+            16
+        ]
+    },
+    {
+        "value": "(872, 055. 53)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            540,
+            584,
+            102,
+            21
+        ]
+    },
+    {
+        "value": "1, 652, 955. 53",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            525,
+            644,
+            113,
+            19
+        ]
+    },
+    {
+        "value": "12 -4 -87",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            549,
+            692,
+            63,
+            16
+        ]
+    },
+    {
+        "value": "12 /2 /87",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            525,
+            799,
+            125,
+            31
+        ]
+    },
+    {
+        "value": "1987 -113 /114 /115 -CA",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            504,
+            867,
+            168,
+            21
+        ]
+    },
+    {
+        "value": "Project No.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            412,
+            871,
+            86,
+            15
+        ]
+    },
+    {
+        "value": "Account Name",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            407,
+            900,
+            96,
+            15
+        ]
+    },
+    {
+        "value": "Original -",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            90,
+            856,
+            75,
+            12
+        ]
+    },
+    {
+        "value": "Project File",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            169,
+            856,
+            93,
+            17
+        ]
+    },
+    {
+        "value": "S. Willinger (3)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            168,
+            870,
+            119,
+            17
+        ]
+    },
+    {
+        "value": "G. D. Raphael",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            166,
+            888,
+            99,
+            14
+        ]
+    },
+    {
+        "value": "V. Hansberry (If Int.)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            160,
+            900,
+            175,
+            17
+        ]
+    },
+    {
+        "value": "Budget Check",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            811,
+            100,
+            15
+        ]
+    },
+    {
+        "value": "Approved By:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            781,
+            96,
+            16
+        ]
+    },
+    {
+        "value": "Approved By:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            749,
+            88,
+            19
+        ]
+    },
+    {
+        "value": "Approved By:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            722,
+            90,
+            15
+        ]
+    },
+    {
+        "value": "Submitted By:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            87,
+            692,
+            97,
+            15
+        ]
+    },
+    {
+        "value": "S. L. Willinger",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            210,
+            692,
+            126,
+            15
+        ]
+    },
+    {
+        "value": "Committed To Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            323,
+            645,
+            135,
+            18
+        ]
+    },
+    {
+        "value": "New Balance:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            325,
+            588,
+            88,
+            15
+        ]
+    },
+    {
+        "value": "87 -113 (70, 825) 9 /23 10 /11 11 /16 87 -114 (70. 825) 10 /13 10 /29 12 /7 87 -115 (70, 825 11 /16 12 /7 1 /11",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            30,
+            585,
+            296,
+            51
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            186,
+            795,
+            160,
+            52
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            210,
+            828,
+            34,
+            10
+        ]
+    }
+]

@@ -1,0 +1,794 @@
+﻿[
+    {
+        "value": "Brand",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            127,
+            43,
+            17
+        ]
+    },
+    {
+        "value": "Title",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            154,
+            46,
+            18
+        ]
+    },
+    {
+        "value": "Size",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            211,
+            36,
+            15
+        ]
+    },
+    {
+        "value": "Magazine",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            39,
+            239,
+            71,
+            14
+        ]
+    },
+    {
+        "value": "Location",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            295,
+            71,
+            14
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            496,
+            204,
+            6,
+            6
+        ]
+    },
+    {
+        "value": "SCORE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            182,
+            394,
+            43,
+            15
+        ]
+    },
+    {
+        "value": "BASE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            250,
+            394,
+            32,
+            15
+        ]
+    },
+    {
+        "value": "SCORE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            337,
+            394,
+            45,
+            13
+        ]
+    },
+    {
+        "value": "BASE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            404,
+            394,
+            34,
+            13
+        ]
+    },
+    {
+        "value": "COMMENTS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            542,
+            376,
+            71,
+            17
+        ]
+    },
+    {
+        "value": "PM6",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            222,
+            377,
+            28,
+            17
+        ]
+    },
+    {
+        "value": "OVERALL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            39,
+            454,
+            67,
+            18
+        ]
+    },
+    {
+        "value": "SEX:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            41,
+            511,
+            35,
+            13
+        ]
+    },
+    {
+        "value": "AGE:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            41,
+            595,
+            35,
+            14
+        ]
+    },
+    {
+        "value": "Male",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            525,
+            36,
+            13
+        ]
+    },
+    {
+        "value": "Female",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            538,
+            52,
+            15
+        ]
+    },
+    {
+        "value": "214",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            568,
+            154,
+            29,
+            15
+        ]
+    },
+    {
+        "value": "TIME",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            138,
+            239,
+            39,
+            15
+        ]
+    },
+    {
+        "value": "1.0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            194,
+            455,
+            27,
+            14
+        ]
+    },
+    {
+        "value": "(.97)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            247,
+            455,
+            35,
+            17
+        ]
+    },
+    {
+        "value": "31",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            351,
+            457,
+            20,
+            14
+        ]
+    },
+    {
+        "value": "(167)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            399,
+            453,
+            41,
+            17
+        ]
+    },
+    {
+        "value": "(83)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            404,
+            524,
+            35,
+            15
+        ]
+    },
+    {
+        "value": "(84)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            404,
+            539,
+            35,
+            13
+        ]
+    },
+    {
+        "value": "31",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            352,
+            524,
+            20,
+            14
+        ]
+    },
+    {
+        "value": "31",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            352,
+            541,
+            20,
+            11
+        ]
+    },
+    {
+        "value": "(51)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            247,
+            524,
+            36,
+            17
+        ]
+    },
+    {
+        "value": "(46)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            246,
+            541,
+            38,
+            14
+        ]
+    },
+    {
+        "value": "2.0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            194,
+            525,
+            28,
+            15
+        ]
+    },
+    {
+        "value": "0.0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            194,
+            541,
+            31,
+            13
+        ]
+    },
+    {
+        "value": "(81)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            404,
+            704,
+            39,
+            14
+        ]
+    },
+    {
+        "value": "(86)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            402,
+            718,
+            41,
+            17
+        ]
+    },
+    {
+        "value": "33",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            352,
+            703,
+            22,
+            15
+        ]
+    },
+    {
+        "value": "29",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            355,
+            721,
+            18,
+            15
+        ]
+    },
+    {
+        "value": "(42)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            250,
+            703,
+            38,
+            18
+        ]
+    },
+    {
+        "value": "(55)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            250,
+            719,
+            38,
+            17
+        ]
+    },
+    {
+        "value": "2.4",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            196,
+            703,
+            29,
+            15
+        ]
+    },
+    {
+        "value": "0.0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            196,
+            718,
+            32,
+            17
+        ]
+    },
+    {
+        "value": "4/19/74",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            570,
+            830,
+            64,
+            17
+        ]
+    },
+    {
+        "value": "770205964",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            500,
+            892,
+            113,
+            20
+        ]
+    },
+    {
+        "value": "33",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            356,
+            786,
+            18,
+            15
+        ]
+    },
+    {
+        "value": "(42)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            405,
+            788,
+            39,
+            17
+        ]
+    },
+    {
+        "value": "(125)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            406,
+            803,
+            39,
+            15
+        ]
+    },
+    {
+        "value": "30",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            356,
+            806,
+            20,
+            14
+        ]
+    },
+    {
+        "value": "MAGAZINE SCORES AUDIENCE STUDIES",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            279,
+            36,
+            133,
+            47
+        ]
+    },
+    {
+        "value": "SALEM (RJR)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            138,
+            124,
+            98,
+            19
+        ]
+    },
+    {
+        "value": "Project #",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            459,
+            127,
+            79,
+            18
+        ]
+    },
+    {
+        "value": "Total Sample",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            458,
+            154,
+            106,
+            18
+        ]
+    },
+    {
+        "value": "74- 80",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            568,
+            123,
+            44,
+            18
+        ]
+    },
+    {
+        "value": "\"HEAD IN WATER\"",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            141,
+            152,
+            125,
+            17
+        ]
+    },
+    {
+        "value": "Code #",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            182,
+            49,
+            21
+        ]
+    },
+    {
+        "value": "FULL PAGE",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            137,
+            209,
+            83,
+            17
+        ]
+    },
+    {
+        "value": "Field Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            39,
+            267,
+            88,
+            17
+        ]
+    },
+    {
+        "value": "WEEK OF MARCH 25, 1974",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            138,
+            265,
+            185,
+            19
+        ]
+    },
+    {
+        "value": "CHICAGO, DALLAS/ FORT WORTH, INDIANAPOLIS, LOS ANGELES",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            138,
+            292,
+            446,
+            20
+        ]
+    },
+    {
+        "value": "MEMPHIS, PHILADELPHIA, PITTSBURGH",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            138,
+            321,
+            279,
+            17
+        ]
+    },
+    {
+        "value": "Sample Description",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            356,
+            154,
+            17
+        ]
+    },
+    {
+        "value": "MALE AND FEMALE MENTHOL SMOKERS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            204,
+            359,
+            258,
+            17
+        ]
+    },
+    {
+        "value": "PROVED RECALL",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            330,
+            377,
+            105,
+            17
+        ]
+    },
+    {
+        "value": "Tested among a half sample of smokers. Sub- group scores subject to wide variation because of small sample size and should be averaged across several ads for meaningful infor- mation.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            471,
+            454,
+            222,
+            112
+        ]
+    },
+    {
+        "value": "Under 25",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            42,
+            608,
+            68,
+            14
+        ]
+    },
+    {
+        "value": "25- 34",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            43,
+            622,
+            44,
+            14
+        ]
+    },
+    {
+        "value": "35- 44",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            42,
+            634,
+            44,
+            15
+        ]
+    },
+    {
+        "value": "45 & Over",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            43,
+            649,
+            77,
+            15
+        ]
+    },
+    {
+        "value": "Under 35",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            43,
+            704,
+            69,
+            15
+        ]
+    },
+    {
+        "value": "35 & Over",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            43,
+            719,
+            76,
+            15
+        ]
+    },
+    {
+        "value": "BRAND SMOKED:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            43,
+            775,
+            104,
+            14
+        ]
+    },
+    {
+        "value": "Test Brand Smokers",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            789,
+            151,
+            15
+        ]
+    },
+    {
+        "value": "All Other Smokers",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            43,
+            803,
+            138,
+            17
+        ]
+    },
+    {
+        "value": "Date Sent",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            486,
+            830,
+            79,
+            17
+        ]
+    },
+    {
+        "value": "PI- 7653",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            575,
+            842,
+            73,
+            15
+        ]
+    }
+]

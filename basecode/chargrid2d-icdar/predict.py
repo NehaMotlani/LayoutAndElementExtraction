@@ -10,7 +10,7 @@ from matplotlib import pyplot as plt
 from torchvision import transforms
 
 import sys
-sys.path.insert(1, '/Users/nehamotlani/Desktop/College_Courses/Research/Code/basecode/chargrid2d-icdar/')
+sys.path.insert(1, '/Users/nehamotlani/Desktop/College_Courses/Research/Repo/LayoutAndElementExtraction/basecode/chargrid2d-icdar/')
 
 from chargrid2d.dataloader_utils.onehotencoder import OneHotEncoder
 from chargrid2d.dataloader_utils.utils import read_json, make_folder

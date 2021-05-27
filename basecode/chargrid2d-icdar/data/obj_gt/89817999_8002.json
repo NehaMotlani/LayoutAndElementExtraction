@@ -1,0 +1,292 @@
+﻿[
+    {
+        "text": "TO",
+        "box": [
+            61,
+            101,
+            27,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FROM:",
+        "box": [
+            63,
+            131,
+            48,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SUBJECT:",
+        "box": [
+            65,
+            163,
+            70,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DISTRIBUTION",
+        "box": [
+            63,
+            221,
+            103,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☑",
+        "box": [
+            525,
+            140,
+            20,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "89817999",
+        "box": [
+            656,
+            846,
+            18,
+            88
+        ],
+        "class": "other"
+    },
+    {
+        "text": "R. H. ORCUTT",
+        "box": [
+            115,
+            96,
+            99,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "J. J. BUXTON",
+        "box": [
+            115,
+            128,
+            96,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SUBMISSION DATE:",
+        "box": [
+            462,
+            90,
+            138,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "FEB 17",
+        "box": [
+            462,
+            123,
+            52,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MAR 16",
+        "box": [
+            463,
+            138,
+            52,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MAY 11",
+        "box": [
+            561,
+            123,
+            50,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "JULY 6",
+        "box": [
+            561,
+            138,
+            51,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "STYLE LIGHTS PROGRESS REPORT",
+        "box": [
+            141,
+            159,
+            249,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "EFFECTIVENESS OF PRE- SELL (REPORT ON FEB. 17 ONLY).",
+        "box": [
+            174,
+            213,
+            410,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "% OF DISTRIBUTION ACHIEVED IN RETAIL OUTLETS:",
+        "box": [
+            65,
+            322,
+            357,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "62% CLASSIFIED CALLS",
+        "box": [
+            284,
+            350,
+            163,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10% ANNUAL CALLS",
+        "box": [
+            284,
+            377,
+            140,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PROMOTIONAL IMPACT:",
+        "box": [
+            68,
+            410,
+            164,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "HAS PROVEN TO BE AN EXCELLENT TOOL IN GENERATING PACK TRIAL IN BOTH HIGH AND LOW DEVELOPMENT PRICE VALUE MARKETS. MANY DISPLAYS SELLING OUT BEFORE RECONTACT.",
+        "box": [
+            204,
+            472,
+            444,
+            60
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "20 CENTS OFF PACK COUPON/STICKER:",
+        "box": [
+            63,
+            482,
+            131,
+            33
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SALES FORCE 20'S",
+        "box": [
+            68,
+            555,
+            114,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ADDITIONAL SUPPLY WOULD BE HELPFUL. INITIAL QUANTITIES WERE QUICKLY DEPLETED",
+        "box": [
+            206,
+            545,
+            385,
+            38
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$1.50 OFF CARTON COUPON:",
+        "box": [
+            71,
+            663,
+            117,
+            34
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CARTON MOVEMENT SPOTTY AT THIS POINT. SUPPLIES ARE MORE THAN ADEQUATE AND THE NEED IS MOSTLY PACKAGE SUPPORT AT THIS TIME.",
+        "box": [
+            206,
+            656,
+            443,
+            40
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "EFFECTIVENESS OF ADVERTISING:",
+        "box": [
+            71,
+            746,
+            245,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OUTDOOR AND PRINT ADS HAVE BEEN EFFECTIVE IN",
+        "box": [
+            321,
+            739,
+            317,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CREATING CONSUMER AWARENESS IN THOSE ARE EYE CATCHING AND CONSUMERS ARE MORE AWARE OF THE PRODUCT IN THOSE MARKETS WITH ADVERTISING.",
+        "box": [
+            71,
+            764,
+            580,
+            56
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PAGE 1 of 4",
+        "box": [
+            68,
+            900,
+            72,
+            15
+        ],
+        "class": "other"
+    }
+]

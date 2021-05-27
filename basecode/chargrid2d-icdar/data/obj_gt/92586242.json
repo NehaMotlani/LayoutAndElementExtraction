@@ -1,0 +1,332 @@
+﻿[
+    {
+        "text": "HOURS:",
+        "box": [
+            131,
+            499,
+            73,
+            24
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "SPECIFICS:",
+        "box": [
+            133,
+            634,
+            92,
+            21
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "(S)",
+        "box": [
+            307,
+            684,
+            11,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☑",
+        "box": [
+            209,
+            746,
+            14,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "☑",
+        "box": [
+            208,
+            686,
+            13,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "92586242",
+        "box": [
+            662,
+            796,
+            15,
+            73
+        ],
+        "class": "other"
+    },
+    {
+        "text": "3056",
+        "box": [
+            52,
+            934,
+            21,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Newport pleasure!",
+        "box": [
+            80,
+            80,
+            591,
+            91
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "SPECIAL EVENT INFORMATION SHEET",
+        "box": [
+            134,
+            239,
+            488,
+            28
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "GENERAL INFORMATION:",
+        "box": [
+            131,
+            338,
+            233,
+            19
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "EVENT NAME:",
+        "box": [
+            131,
+            373,
+            85,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EVENT LOCATION:",
+        "box": [
+            133,
+            404,
+            112,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EVENT DATES:",
+        "box": [
+            131,
+            432,
+            86,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Upper Madisor Avenue Festival",
+        "box": [
+            258,
+            372,
+            201,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "68th -86th Street New York, NY",
+        "box": [
+            258,
+            402,
+            215,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "June 4, 1995",
+        "box": [
+            260,
+            432,
+            83,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MONDAY- FRIDAY",
+        "box": [
+            133,
+            535,
+            109,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SATURDAY- SUNDAY",
+        "box": [
+            131,
+            564,
+            119,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "11 am - 6 pm",
+        "box": [
+            272,
+            566,
+            72,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "check applicable box(es)",
+        "box": [
+            133,
+            656,
+            119,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "# OF BOOTH",
+        "box": [
+            225,
+            684,
+            80,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ SAMPLING & PREMIUMS",
+        "box": [
+            208,
+            715,
+            158,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PREMIUMS ONLY",
+        "box": [
+            226,
+            743,
+            100,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ SIGNAGE",
+        "box": [
+            451,
+            684,
+            68,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ MUSIC VAN",
+        "box": [
+            453,
+            714,
+            84,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ RACING CAR",
+        "box": [
+            453,
+            746,
+            91,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SUPERVISOR INFORMATION:",
+        "box": [
+            135,
+            813,
+            256,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "NAME OF ALLWAYS SUPERVISOR",
+        "box": [
+            134,
+            848,
+            191,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Jerome Curry",
+        "box": [
+            359,
+            851,
+            82,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PHONE NUMBER",
+        "box": [
+            134,
+            878,
+            104,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(201) 923 -9208",
+        "box": [
+            251,
+            877,
+            94,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BEEPER NUMBER:",
+        "box": [
+            372,
+            878,
+            105,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(201) 698 1780",
+        "box": [
+            494,
+            877,
+            94,
+            15
+        ],
+        "class": "value_answer"
+    }
+]

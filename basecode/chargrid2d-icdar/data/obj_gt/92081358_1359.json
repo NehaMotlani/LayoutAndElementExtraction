@@ -1,0 +1,542 @@
+﻿[
+    {
+        "text": "DIVISION:",
+        "box": [
+            138,
+            178,
+            78,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "80%",
+        "box": [
+            512,
+            275,
+            23,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "5%",
+        "box": [
+            520,
+            320,
+            16,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "5%",
+        "box": [
+            607,
+            291,
+            17,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10%",
+        "box": [
+            601,
+            305,
+            21,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "100%",
+        "box": [
+            600,
+            334,
+            35,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0",
+        "box": [
+            346,
+            482,
+            11,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0%",
+        "box": [
+            442,
+            481,
+            18,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "8",
+        "box": [
+            345,
+            498,
+            13,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3%",
+        "box": [
+            439,
+            496,
+            18,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "162",
+        "box": [
+            333,
+            513,
+            23,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "53%",
+        "box": [
+            434,
+            512,
+            22,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "76",
+        "box": [
+            340,
+            529,
+            15,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "25%",
+        "box": [
+            433,
+            528,
+            22,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "100%",
+        "box": [
+            430,
+            556,
+            32,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "19%",
+        "box": [
+            432,
+            543,
+            23,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "57",
+        "box": [
+            339,
+            544,
+            18,
+            9
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "303",
+        "box": [
+            333,
+            555,
+            20,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Liquor",
+        "box": [
+            368,
+            618,
+            48,
+            7
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ANNUALS",
+        "box": [
+            202,
+            542,
+            61,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TOTAL",
+        "box": [
+            203,
+            555,
+            45,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "%",
+        "box": [
+            425,
+            452,
+            10,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "92081358",
+        "box": [
+            698,
+            801,
+            19,
+            72
+        ],
+        "class": "other"
+    },
+    {
+        "text": "URBAN CENTER INITIATIVE ASSIGNMENT PROFILE",
+        "box": [
+            301,
+            67,
+            240,
+            47
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "11/30/93 17:07",
+        "box": [
+            99,
+            20,
+            110,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "708 369 1422",
+        "box": [
+            237,
+            19,
+            97,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "LORILLARD CHI",
+        "box": [
+            404,
+            16,
+            88,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "002/003 ",
+        "box": [
+            667,
+            7,
+            71,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Chicago South",
+        "box": [
+            245,
+            175,
+            98,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LIST THE INFORMATION BELOW AS IT PERTAINS TO THE URBAN CENTER PORTION OF YOUR ASSIGNMENT ONLY:",
+        "box": [
+            136,
+            199,
+            532,
+            37
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "POPULATION COMPOSITION:",
+        "box": [
+            138,
+            249,
+            203,
+            12
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "% BLACK =",
+        "box": [
+            231,
+            279,
+            83,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "% HISPANIC =",
+        "box": [
+            234,
+            293,
+            107,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "% WHITE =",
+        "box": [
+            237,
+            309,
+            87,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "% OTHER ",
+        "box": [
+            234,
+            321,
+            82,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "% TOTAL =",
+        "box": [
+            235,
+            337,
+            80,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "% OF RETAIL CALLS:",
+        "box": [
+            138,
+            366,
+            160,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "247- classifIed",
+        "box": [
+            332,
+            364,
+            119,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "57- annual",
+        "box": [
+            341,
+            381,
+            82,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "APPROXIMATE % OF RETAIL CALLS SECURED BY GLASS:",
+        "box": [
+            138,
+            392,
+            406,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "45% (136 calls)",
+        "box": [
+            567,
+            392,
+            110,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RETAIL CALL FREQUENCY:",
+        "box": [
+            139,
+            425,
+            193,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "# CALLS",
+        "box": [
+            314,
+            453,
+            60,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "50/ YR",
+        "box": [
+            220,
+            485,
+            46,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "25/ YR",
+        "box": [
+            218,
+            493,
+            46,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "12/ YR",
+        "box": [
+            220,
+            513,
+            44,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "6/ YR",
+        "box": [
+            227,
+            529,
+            41,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PRIMARY CLASS OF TRADE:",
+        "box": [
+            140,
+            585,
+            200,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Convenience/ Grocery",
+        "box": [
+            362,
+            584,
+            141,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SECONDARY CLASS OF TRADE:",
+        "box": [
+            141,
+            615,
+            217,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PRIMARY DISTRIBUTION CHANNEL (E. G. JOBBER, SUB- JOBBER MEMBERSHIP",
+        "box": [
+            140,
+            654,
+            570,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CLUB, CASH & CARRY, ETC...):",
+        "box": [
+            142,
+            672,
+            240,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "*Jobber/ Membership",
+        "box": [
+            411,
+            670,
+            156,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "* A number of stores are part of an Arab owned collective that gets a large order delivered from a jobber and then distributes the cigarettes to each store.",
+        "box": [
+            143,
+            699,
+            547,
+            58
+        ],
+        "class": "other"
+    }
+]

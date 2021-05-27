@@ -1,0 +1,422 @@
+﻿[
+    {
+        "text": "DATE:",
+        "box": [
+            133,
+            204,
+            41,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TIME:",
+        "box": [
+            260,
+            203,
+            35,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MANUFACTURER:",
+        "box": [
+            78,
+            254,
+            117,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "cc:",
+        "box": [
+            84,
+            782,
+            20,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "93329540",
+        "box": [
+            735,
+            799,
+            18,
+            71
+        ],
+        "class": "other"
+    },
+    {
+        "text": "NEW COMPETITIVE PRODUCTS",
+        "box": [
+            311,
+            87,
+            213,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "REPORTED BY:",
+        "box": [
+            80,
+            151,
+            100,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "A. REID, DIVISION MANAGER, SAN FRANCISCO, CA",
+        "box": [
+            258,
+            147,
+            326,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "8/ 13/ 93",
+        "box": [
+            177,
+            201,
+            52,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "AMERICAN TOBACCO COMPANY",
+        "box": [
+            256,
+            256,
+            180,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SPECIAL 10' s",
+        "box": [
+            260,
+            304,
+            88,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BRAND NAME:",
+        "box": [
+            80,
+            309,
+            98,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TYPE OF PRODUCT:",
+        "box": [
+            80,
+            362,
+            70,
+            34
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SIZE OR SIZES:",
+        "box": [
+            82,
+            430,
+            104,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LIST PRICE:",
+        "box": [
+            81,
+            483,
+            81,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EXTENT OF DISTRIBUTION:",
+        "box": [
+            81,
+            536,
+            103,
+            35
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OTHER INFORMATION:",
+        "box": [
+            80,
+            642,
+            105,
+            34
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SEE ATTACHED COPY OF CIRCULAR NO. 4848",
+        "box": [
+            263,
+            652,
+            279,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "A. H. Tisch",
+        "box": [
+            84,
+            799,
+            70,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R. H. Orcutt",
+        "box": [
+            84,
+            818,
+            78,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "M. A. Peterson",
+        "box": [
+            82,
+            837,
+            99,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "M. L. Orlowsky",
+        "box": [
+            85,
+            853,
+            94,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "L. Gordon",
+        "box": [
+            84,
+            872,
+            70,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "G. Telford",
+        "box": [
+            85,
+            887,
+            64,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "V. Norman",
+        "box": [
+            242,
+            797,
+            72,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "A. W. Spears",
+        "box": [
+            240,
+            817,
+            86,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "A. J. Giacoio",
+        "box": [
+            242,
+            834,
+            83,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "N. P. Ruffalo",
+        "box": [
+            242,
+            851,
+            78,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "T. L. Achey",
+        "box": [
+            242,
+            869,
+            77,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R. B. Spell",
+        "box": [
+            242,
+            887,
+            70,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "P. J. McCann",
+        "box": [
+            240,
+            901,
+            87,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "J. J. Tatulli",
+        "box": [
+            370,
+            796,
+            73,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "L. H. Kersh",
+        "box": [
+            372,
+            813,
+            72,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "J. R. Slater",
+        "box": [
+            373,
+            831,
+            71,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "A. Pasheluk",
+        "box": [
+            373,
+            849,
+            77,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R. S. Goldbrenner",
+        "box": [
+            373,
+            867,
+            117,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "N. Simeonidis",
+        "box": [
+            373,
+            884,
+            90,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "S. F. Smith",
+        "box": [
+            374,
+            901,
+            72,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "K. P. Augustyn",
+        "box": [
+            547,
+            795,
+            99,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "V. D. Lindsley",
+        "box": [
+            547,
+            811,
+            91,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R. C. Bondy",
+        "box": [
+            549,
+            830,
+            80,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R. D. Hammer",
+        "box": [
+            550,
+            846,
+            92,
+            15
+        ],
+        "class": "value_answer"
+    }
+]

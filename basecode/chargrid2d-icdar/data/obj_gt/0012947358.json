@@ -1,0 +1,832 @@
+﻿[
+    {
+        "text": "VIA:",
+        "box": [
+            53,
+            228,
+            21,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "TO:",
+        "box": [
+            422,
+            43,
+            18,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FROM:",
+        "box": [
+            405,
+            99,
+            35,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Per",
+        "box": [
+            420,
+            128,
+            17,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE:",
+        "box": [
+            408,
+            183,
+            29,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "VIA:",
+        "box": [
+            542,
+            177,
+            24,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "RE:",
+        "box": [
+            53,
+            270,
+            17,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FOR",
+        "box": [
+            47,
+            309,
+            22,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "IN",
+        "box": [
+            250,
+            267,
+            21,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Document(s)",
+        "box": [
+            70,
+            412,
+            61,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Served:",
+        "box": [
+            134,
+            412,
+            38,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Court:",
+        "box": [
+            71,
+            440,
+            31,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Remarks",
+        "box": [
+            73,
+            684,
+            45,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BY:",
+        "box": [
+            426,
+            781,
+            17,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Per",
+        "box": [
+            427,
+            811,
+            17,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            47,
+            130,
+            20,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(X)",
+        "box": [
+            78,
+            230,
+            20,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "FLORIDA",
+        "box": [
+            310,
+            265,
+            71,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(X)",
+        "box": [
+            568,
+            190,
+            17,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(city)",
+        "box": [
+            475,
+            166,
+            21,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "(State)",
+        "box": [
+            596,
+            165,
+            28,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "(City)",
+        "box": [
+            471,
+            82,
+            22,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "(Originating",
+        "box": [
+            515,
+            109,
+            46,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Agent)",
+        "box": [
+            564,
+            109,
+            25,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "(State)",
+        "box": [
+            589,
+            81,
+            28,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "(C",
+        "box": [
+            535,
+            54,
+            11,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "T.",
+        "box": [
+            546,
+            54,
+            8,
+            8
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Office)",
+        "box": [
+            554,
+            54,
+            29,
+            8
+        ],
+        "class": "other"
+    },
+    {
+        "text": "(Name",
+        "box": [
+            608,
+            317,
+            27,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "State)",
+        "box": [
+            635,
+            316,
+            24,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            434,
+            209,
+            126,
+            123
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            553,
+            606,
+            134,
+            137
+        ],
+        "class": "other"
+    },
+    {
+        "text": "(Address)",
+        "box": [
+            535,
+            848,
+            36,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "9.",
+        "box": [
+            60,
+            684,
+            11,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "8.",
+        "box": [
+            59,
+            631,
+            11,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "7.",
+        "box": [
+            59,
+            603,
+            10,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "6.",
+        "box": [
+            56,
+            578,
+            13,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "5.",
+        "box": [
+            59,
+            521,
+            11,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "4.",
+        "box": [
+            54,
+            466,
+            14,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "3.",
+        "box": [
+            57,
+            441,
+            10,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "2.",
+        "box": [
+            57,
+            413,
+            11,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "1.",
+        "box": [
+            57,
+            370,
+            10,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "C T SYSTEM The Corporation Trust Company C T Corporation System and Associated Companies",
+        "box": [
+            28,
+            32,
+            209,
+            74
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "The Corporation Trust Company",
+        "box": [
+            440,
+            38,
+            232,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "New York, New York",
+        "box": [
+            457,
+            64,
+            155,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "C T Corporation System",
+        "box": [
+            458,
+            92,
+            176,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Phyllis G. Jennings",
+        "box": [
+            458,
+            122,
+            142,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Jacksonville, Florida",
+        "box": [
+            461,
+            148,
+            154,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1- -27 -69",
+        "box": [
+            454,
+            180,
+            60,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "() Certified Mail",
+        "box": [
+            568,
+            176,
+            91,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Certified Air Mail",
+        "box": [
+            587,
+            189,
+            87,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Walliam Degenhardt Tax Director The American Tobacco Company 245 Park Avenue New York New York 1001",
+        "box": [
+            81,
+            126,
+            249,
+            60
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Recipienti",
+        "box": [
+            148,
+            186,
+            84,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Certified Mail",
+        "box": [
+            99,
+            229,
+            72,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "() Messenger",
+        "box": [
+            175,
+            229,
+            72,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "() Certified Air Mail",
+        "box": [
+            80,
+            246,
+            111,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PROCESS SERVED",
+        "box": [
+            75,
+            267,
+            167,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "N. J.",
+        "box": [
+            589,
+            300,
+            42,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "THE AMERICAN TOBACCO COMPANY",
+        "box": [
+            88,
+            307,
+            283,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Name of Company",
+        "box": [
+            261,
+            323,
+            80,
+            8
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Enclosed are copies of legal proces served upon the statutory agent of the above company as follows:",
+        "box": [
+            77,
+            335,
+            521,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Title of Action:",
+        "box": [
+            70,
+            369,
+            73,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Reuben Sunstein, Plaintiff, v. The American Tobacco Company, a New Jorsey corporation, Defendant.",
+        "box": [
+            147,
+            356,
+            511,
+            41
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Summons and Complaint",
+        "box": [
+            186,
+            408,
+            176,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Circuit Court, Dade County, Florida. No. 69 -1351",
+        "box": [
+            117,
+            430,
+            369,
+            23
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Nature of Action:",
+        "box": [
+            71,
+            465,
+            87,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "For personal injuries resulting after smoking \"Pall Mall\" and \"Lucky",
+        "box": [
+            168,
+            454,
+            499,
+            22
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Strike\" cigarettes manufactured by defendant, wherein plaintiff alleges breach of was- anties, seeks damages in excess of $5, 000 and demands trial by jury.",
+        "box": [
+            63,
+            469,
+            620,
+            41
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "On Whom Process was Served:",
+        "box": [
+            71,
+            520,
+            157,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Phyllis G. Jonnings, Asst. Socy,. The Corporation Company, Jacksonville, Florida",
+        "box": [
+            244,
+            510,
+            445,
+            39
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Date and Hour of Service",
+        "box": [
+            70,
+            575,
+            134,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Appearance or Answer Dues",
+        "box": [
+            74,
+            602,
+            141,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Plaintiff's Attorney(s):",
+        "box": [
+            71,
+            628,
+            110,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Max A. Goldfarb 414 Biscayne Building Miami, Florida",
+        "box": [
+            244,
+            624,
+            161,
+            47
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "January 27, 1969 9: 00 a. m.",
+        "box": [
+            246,
+            568,
+            232,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Within 20 days after service, exclusive of day of service.",
+        "box": [
+            247,
+            592,
+            411,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RECEIVED AND FORWARDED ON",
+        "box": [
+            418,
+            751,
+            170,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1 29/29/ 69 (Date)",
+        "box": [
+            610,
+            746,
+            80,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "THE CORPORATION TRUST COMPANY",
+        "box": [
+            448,
+            778,
+            211,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "V. Colvellm Asst. Secy. 277 Park Avenue",
+        "box": [
+            448,
+            795,
+            166,
+            56
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "New York, New York 10017",
+        "box": [
+            450,
+            856,
+            172,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            574,
+            880,
+            109,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "KINDLY ACKNOWLEDGE RECEIPT BY SIGNING AND RETURNING TO US THE ENCLOSED CARBON COPY OF THIS TRANSMITTAL FORM,",
+        "box": [
+            25,
+            782,
+            352,
+            30
+        ],
+        "class": "other"
+    }
+]

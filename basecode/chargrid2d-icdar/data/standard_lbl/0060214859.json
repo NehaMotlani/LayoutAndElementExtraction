@@ -1,0 +1,420 @@
+﻿[
+    {
+        "value": "Report",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            175,
+            71,
+            18
+        ]
+    },
+    {
+        "value": "517",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            163,
+            179,
+            28,
+            17
+        ]
+    },
+    {
+        "value": "ACCEPTED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            148,
+            373,
+            78,
+            18
+        ]
+    },
+    {
+        "value": "XX",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            102,
+            433,
+            22,
+            17
+        ]
+    },
+    {
+        "value": "REJECTED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            149,
+            433,
+            75,
+            18
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            492,
+            226,
+            41,
+            15
+        ]
+    },
+    {
+        "value": "Supplier",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            494,
+            257,
+            73,
+            17
+        ]
+    },
+    {
+        "value": "Comments:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            63,
+            615,
+            85,
+            18
+        ]
+    },
+    {
+        "value": "Distribution:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            59,
+            781,
+            122,
+            18
+        ]
+    },
+    {
+        "value": "6926",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            377,
+            754,
+            36,
+            17
+        ]
+    },
+    {
+        "value": "Telephone#",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            265,
+            756,
+            102,
+            14
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            641,
+            851,
+            57,
+            27
+        ]
+    },
+    {
+        "value": "By",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            594,
+            859,
+            31,
+            29
+        ]
+    },
+    {
+        "value": "No",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            471,
+            853,
+            42,
+            28
+        ]
+    },
+    {
+        "value": "436",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            524,
+            853,
+            56,
+            27
+        ]
+    },
+    {
+        "value": "505991060",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            730,
+            758,
+            22,
+            91
+        ]
+    },
+    {
+        "value": "Material Tested",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            98,
+            256,
+            139,
+            14
+        ]
+    },
+    {
+        "value": "P- 830 GLASS FIBER",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            253,
+            254,
+            159,
+            18
+        ]
+    },
+    {
+        "value": "10- NOV- 1986",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            588,
+            226,
+            103,
+            19
+        ]
+    },
+    {
+        "value": "OWENS CORNING",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            587,
+            257,
+            119,
+            16
+        ]
+    },
+    {
+        "value": "2 ROLLS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            668,
+            289,
+            66,
+            16
+        ]
+    },
+    {
+        "value": "Quantity Received",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            493,
+            288,
+            159,
+            20
+        ]
+    },
+    {
+        "value": "Lot or Sample#",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            98,
+            284,
+            136,
+            16
+        ]
+    },
+    {
+        "value": "ROLL 34 & 35",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            254,
+            285,
+            114,
+            16
+        ]
+    },
+    {
+        "value": "11- 6- 86",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            254,
+            316,
+            64,
+            16
+        ]
+    },
+    {
+        "value": "Date Received",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            314,
+            123,
+            17
+        ]
+    },
+    {
+        "value": "Following physical/ visual properties out of specifications:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            66,
+            479,
+            544,
+            24
+        ]
+    },
+    {
+        "value": "WEIGHT OUT OF",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            620,
+            483,
+            121,
+            18
+        ]
+    },
+    {
+        "value": "SPECIFICATIONS ON ROLLS 34 & 35. WT. AV. ROLL 34 (183. 04) ; WT. AV. ROLL 35 (183. 44) : SPECS. 190 -210 GMS/ SQM. LOI OUT DE SPEC. ON ROLL 34 (AV 2. 49%) SPECIFICATIONS (2.6 6- 3. 1% .",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            74,
+            510,
+            656,
+            66
+        ]
+    },
+    {
+        "value": "Kwb Kenneth W. Smits Technologist - QA",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            57,
+            714,
+            164,
+            51
+        ]
+    },
+    {
+        "value": "Mr. Lucien L. Bass, III",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            198,
+            785,
+            216,
+            18
+        ]
+    },
+    {
+        "value": "Dr. L. H. O' Conner",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            198,
+            797,
+            161,
+            18
+        ]
+    },
+    {
+        "value": "Mr. L. W. Peterson",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            198,
+            814,
+            161,
+            17
+        ]
+    },
+    {
+        "value": "Mr. W. B. Scantland",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            197,
+            832,
+            172,
+            13
+        ]
+    },
+    {
+        "value": "Ms. R. deLacy",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            197,
+            845,
+            124,
+            14
+        ]
+    },
+    {
+        "value": "Mr. M. D. Shannon",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            197,
+            859,
+            155,
+            16
+        ]
+    },
+    {
+        "value": "Mr. R. L. McGee",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            197,
+            874,
+            137,
+            19
+        ]
+    },
+    {
+        "value": "RJR SECRET ADDRESSED ONLY",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            520,
+            750,
+            152,
+            102
+        ]
+    }
+]

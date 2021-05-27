@@ -1,0 +1,722 @@
+﻿[
+    {
+        "text": "Brand",
+        "box": [
+            41,
+            127,
+            43,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Title",
+        "box": [
+            41,
+            154,
+            46,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Size",
+        "box": [
+            41,
+            211,
+            36,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Magazine",
+        "box": [
+            39,
+            239,
+            71,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Location",
+        "box": [
+            41,
+            295,
+            71,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            496,
+            204,
+            6,
+            6
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SCORE",
+        "box": [
+            182,
+            394,
+            43,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BASE",
+        "box": [
+            250,
+            394,
+            32,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SCORE",
+        "box": [
+            337,
+            394,
+            45,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BASE",
+        "box": [
+            404,
+            394,
+            34,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMMENTS",
+        "box": [
+            542,
+            376,
+            71,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PM6",
+        "box": [
+            222,
+            377,
+            28,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "OVERALL",
+        "box": [
+            39,
+            454,
+            67,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SEX:",
+        "box": [
+            41,
+            511,
+            35,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "AGE:",
+        "box": [
+            41,
+            595,
+            35,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Male",
+        "box": [
+            41,
+            525,
+            36,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Female",
+        "box": [
+            41,
+            538,
+            52,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "214",
+        "box": [
+            568,
+            154,
+            29,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "TIME",
+        "box": [
+            138,
+            239,
+            39,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1.0",
+        "box": [
+            194,
+            455,
+            27,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(.97)",
+        "box": [
+            247,
+            455,
+            35,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "31",
+        "box": [
+            351,
+            457,
+            20,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(167)",
+        "box": [
+            399,
+            453,
+            41,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(83)",
+        "box": [
+            404,
+            524,
+            35,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(84)",
+        "box": [
+            404,
+            539,
+            35,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "31",
+        "box": [
+            352,
+            524,
+            20,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "31",
+        "box": [
+            352,
+            541,
+            20,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(51)",
+        "box": [
+            247,
+            524,
+            36,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(46)",
+        "box": [
+            246,
+            541,
+            38,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2.0",
+        "box": [
+            194,
+            525,
+            28,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0.0",
+        "box": [
+            194,
+            541,
+            31,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(81)",
+        "box": [
+            404,
+            704,
+            39,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(86)",
+        "box": [
+            402,
+            718,
+            41,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "33",
+        "box": [
+            352,
+            703,
+            22,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "29",
+        "box": [
+            355,
+            721,
+            18,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(42)",
+        "box": [
+            250,
+            703,
+            38,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(55)",
+        "box": [
+            250,
+            719,
+            38,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2.4",
+        "box": [
+            196,
+            703,
+            29,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0.0",
+        "box": [
+            196,
+            718,
+            32,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4/19/74",
+        "box": [
+            570,
+            830,
+            64,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "770205964",
+        "box": [
+            500,
+            892,
+            113,
+            20
+        ],
+        "class": "other"
+    },
+    {
+        "text": "33",
+        "box": [
+            356,
+            786,
+            18,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(42)",
+        "box": [
+            405,
+            788,
+            39,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(125)",
+        "box": [
+            406,
+            803,
+            39,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "30",
+        "box": [
+            356,
+            806,
+            20,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MAGAZINE SCORES AUDIENCE STUDIES",
+        "box": [
+            279,
+            36,
+            133,
+            47
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "SALEM (RJR)",
+        "box": [
+            138,
+            124,
+            98,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Project #",
+        "box": [
+            459,
+            127,
+            79,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Total Sample",
+        "box": [
+            458,
+            154,
+            106,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "74- 80",
+        "box": [
+            568,
+            123,
+            44,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "\"HEAD IN WATER\"",
+        "box": [
+            141,
+            152,
+            125,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Code #",
+        "box": [
+            41,
+            182,
+            49,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FULL PAGE",
+        "box": [
+            137,
+            209,
+            83,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Field Date",
+        "box": [
+            39,
+            267,
+            88,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "WEEK OF MARCH 25, 1974",
+        "box": [
+            138,
+            265,
+            185,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CHICAGO, DALLAS/ FORT WORTH, INDIANAPOLIS, LOS ANGELES",
+        "box": [
+            138,
+            292,
+            446,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MEMPHIS, PHILADELPHIA, PITTSBURGH",
+        "box": [
+            138,
+            321,
+            279,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Sample Description",
+        "box": [
+            41,
+            356,
+            154,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MALE AND FEMALE MENTHOL SMOKERS",
+        "box": [
+            204,
+            359,
+            258,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PROVED RECALL",
+        "box": [
+            330,
+            377,
+            105,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Tested among a half sample of smokers. Sub- group scores subject to wide variation because of small sample size and should be averaged across several ads for meaningful infor- mation.",
+        "box": [
+            471,
+            454,
+            222,
+            112
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Under 25",
+        "box": [
+            42,
+            608,
+            68,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "25- 34",
+        "box": [
+            43,
+            622,
+            44,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "35- 44",
+        "box": [
+            42,
+            634,
+            44,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "45 & Over",
+        "box": [
+            43,
+            649,
+            77,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Under 35",
+        "box": [
+            43,
+            704,
+            69,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "35 & Over",
+        "box": [
+            43,
+            719,
+            76,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BRAND SMOKED:",
+        "box": [
+            43,
+            775,
+            104,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Test Brand Smokers",
+        "box": [
+            41,
+            789,
+            151,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "All Other Smokers",
+        "box": [
+            43,
+            803,
+            138,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date Sent",
+        "box": [
+            486,
+            830,
+            79,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PI- 7653",
+        "box": [
+            575,
+            842,
+            73,
+            15
+        ],
+        "class": "other"
+    }
+]

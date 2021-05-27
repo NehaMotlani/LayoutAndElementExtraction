@@ -1,0 +1,1812 @@
+﻿[
+    {
+        "text": "SUBJECT:",
+        "box": [
+            60,
+            121,
+            67,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SAMPLE:",
+        "box": [
+            59,
+            152,
+            59,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CIGARETTES:",
+        "box": [
+            57,
+            237,
+            97,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TAR",
+        "box": [
+            473,
+            218,
+            29,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "9.1",
+        "box": [
+            473,
+            235,
+            28,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "NIC",
+        "box": [
+            518,
+            219,
+            32,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": ".88",
+        "box": [
+            520,
+            235,
+            27,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MOIST",
+        "box": [
+            567,
+            221,
+            46,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "14.0",
+        "box": [
+            571,
+            232,
+            34,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MENT",
+        "box": [
+            637,
+            223,
+            39,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": ".841",
+        "box": [
+            645,
+            276,
+            27,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PREFERENCE:",
+        "box": [
+            54,
+            353,
+            97,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Bright",
+        "box": [
+            215,
+            429,
+            47,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "39",
+        "box": [
+            380,
+            430,
+            21,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "34",
+        "box": [
+            459,
+            428,
+            13,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "43",
+        "box": [
+            527,
+            430,
+            22,
+            9
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "35",
+        "box": [
+            596,
+            429,
+            20,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "42",
+        "box": [
+            656,
+            430,
+            21,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "8",
+        "box": [
+            660,
+            458,
+            17,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "9",
+        "box": [
+            601,
+            458,
+            13,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "11",
+        "box": [
+            531,
+            456,
+            14,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "6",
+        "box": [
+            459,
+            459,
+            15,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "8",
+        "box": [
+            383,
+            460,
+            17,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "200",
+        "box": [
+            373,
+            478,
+            26,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "100",
+        "box": [
+            452,
+            480,
+            25,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "100",
+        "box": [
+            521,
+            479,
+            31,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "100",
+        "box": [
+            590,
+            480,
+            28,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "100",
+        "box": [
+            653,
+            479,
+            24,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ATTRIBUTES:",
+        "box": [
+            13,
+            522,
+            97,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "53+++",
+        "box": [
+            380,
+            399,
+            41,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "60+++",
+        "box": [
+            455,
+            397,
+            42,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "46",
+        "box": [
+            532,
+            399,
+            19,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "56+++",
+        "box": [
+            599,
+            396,
+            38,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "50",
+        "box": [
+            660,
+            396,
+            17,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(n=)",
+        "box": [
+            317,
+            355,
+            27,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Total",
+        "box": [
+            167,
+            525,
+            39,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Male",
+        "box": [
+            284,
+            520,
+            34,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Female",
+        "box": [
+            381,
+            519,
+            50,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "35+",
+        "box": [
+            613,
+            518,
+            24,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "KL",
+        "box": [
+            144,
+            547,
+            26,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Bright",
+        "box": [
+            191,
+            545,
+            50,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "KL",
+        "box": [
+            259,
+            547,
+            24,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Bright",
+        "box": [
+            309,
+            544,
+            46,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "KL",
+        "box": [
+            370,
+            546,
+            21,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Bright",
+        "box": [
+            414,
+            546,
+            46,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "KL",
+        "box": [
+            481,
+            547,
+            24,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Bright",
+        "box": [
+            531,
+            546,
+            47,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "KL",
+        "box": [
+            591,
+            547,
+            22,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Bright",
+        "box": [
+            639,
+            545,
+            45,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "4.51",
+        "box": [
+            366,
+            577,
+            32,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4.45",
+        "box": [
+            320,
+            579,
+            31,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4.09**",
+        "box": [
+            254,
+            577,
+            41,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4.59",
+        "box": [
+            205,
+            579,
+            32,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4.31***",
+        "box": [
+            140,
+            577,
+            57,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.60**",
+        "box": [
+            140,
+            608,
+            51,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.64***",
+        "box": [
+            139,
+            638,
+            52,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.39***",
+        "box": [
+            142,
+            670,
+            57,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.12***",
+        "box": [
+            139,
+            700,
+            54,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.56***",
+        "box": [
+            142,
+            730,
+            55,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4.00",
+        "box": [
+            134,
+            765,
+            42,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.42",
+        "box": [
+            202,
+            608,
+            35,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.73**",
+        "box": [
+            250,
+            607,
+            46,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.58***",
+        "box": [
+            246,
+            640,
+            58,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4.94",
+        "box": [
+            204,
+            643,
+            37,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.04",
+        "box": [
+            200,
+            669,
+            40,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.46***",
+        "box": [
+            248,
+            670,
+            60,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.28***",
+        "box": [
+            248,
+            696,
+            53,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2.78",
+        "box": [
+            200,
+            697,
+            39,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.24",
+        "box": [
+            202,
+            730,
+            37,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.96",
+        "box": [
+            197,
+            761,
+            44,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4.02",
+        "box": [
+            246,
+            762,
+            33,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.69***",
+        "box": [
+            249,
+            730,
+            53,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.02",
+        "box": [
+            321,
+            669,
+            32,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2.78",
+        "box": [
+            321,
+            698,
+            29,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.21",
+        "box": [
+            320,
+            731,
+            33,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.95",
+        "box": [
+            314,
+            759,
+            42,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.99",
+        "box": [
+            363,
+            763,
+            34,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.44",
+        "box": [
+            360,
+            732,
+            38,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2.97*",
+        "box": [
+            363,
+            695,
+            39,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.33**",
+        "box": [
+            364,
+            666,
+            44,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.70***",
+        "box": [
+            363,
+            637,
+            51,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.47",
+        "box": [
+            364,
+            607,
+            40,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.43",
+        "box": [
+            318,
+            610,
+            32,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4.85",
+        "box": [
+            316,
+            643,
+            35,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4.71",
+        "box": [
+            427,
+            575,
+            33,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.41",
+        "box": [
+            427,
+            608,
+            33,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "5.02",
+        "box": [
+            423,
+            636,
+            42,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.06",
+        "box": [
+            427,
+            671,
+            33,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2.78",
+        "box": [
+            422,
+            696,
+            41,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.26",
+        "box": [
+            425,
+            732,
+            34,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.96",
+        "box": [
+            427,
+            764,
+            32,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4.35**",
+        "box": [
+            473,
+            574,
+            51,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.61*",
+        "box": [
+            472,
+            606,
+            44,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.63***",
+        "box": [
+            475,
+            639,
+            53,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.45***",
+        "box": [
+            474,
+            667,
+            53,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.17***",
+        "box": [
+            474,
+            695,
+            50,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.52***",
+        "box": [
+            474,
+            728,
+            51,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4.07**",
+        "box": [
+            476,
+            765,
+            42,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4.74",
+        "box": [
+            539,
+            577,
+            37,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.38",
+        "box": [
+            541,
+            607,
+            33,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "5.31",
+        "box": [
+            545,
+            638,
+            33,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2.99",
+        "box": [
+            540,
+            667,
+            34,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2.74",
+        "box": [
+            542,
+            697,
+            32,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.07",
+        "box": [
+            546,
+            732,
+            25,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.92",
+        "box": [
+            544,
+            761,
+            29,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4.27",
+        "box": [
+            590,
+            574,
+            33,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.58",
+        "box": [
+            590,
+            607,
+            35,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.65***",
+        "box": [
+            590,
+            638,
+            50,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2.34**",
+        "box": [
+            592,
+            672,
+            44,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.08**",
+        "box": [
+            592,
+            692,
+            44,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.60*",
+        "box": [
+            591,
+            730,
+            38,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.94",
+        "box": [
+            587,
+            763,
+            33,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4.45",
+        "box": [
+            645,
+            574,
+            39,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.46",
+        "box": [
+            639,
+            607,
+            38,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4.61",
+        "box": [
+            644,
+            640,
+            37,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2.08",
+        "box": [
+            646,
+            670,
+            31,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2.82",
+        "box": [
+            642,
+            697,
+            37,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.39",
+        "box": [
+            637,
+            729,
+            39,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.99",
+        "box": [
+            643,
+            762,
+            32,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "620915734",
+        "box": [
+            550,
+            883,
+            125,
+            21
+        ],
+        "class": "other"
+    },
+    {
+        "text": "+/-/*",
+        "box": [
+            113,
+            829,
+            50,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "++/--/**",
+        "box": [
+            107,
+            848,
+            73,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "+++/---/***",
+        "box": [
+            101,
+            861,
+            90,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Attribute",
+        "box": [
+            45,
+            795,
+            68,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "scores",
+        "box": [
+            116,
+            795,
+            47,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "reflectia",
+        "box": [
+            156,
+            794,
+            60,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "a",
+        "box": [
+            213,
+            794,
+            15,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "comparison",
+        "box": [
+            228,
+            796,
+            77,
+            12
+        ],
+        "class": "other"
+    },
+    {
+        "text": "of",
+        "box": [
+            303,
+            790,
+            20,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "the",
+        "box": [
+            328,
+            792,
+            21,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "test",
+        "box": [
+            354,
+            792,
+            28,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "product",
+        "box": [
+            384,
+            794,
+            57,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "to",
+        "box": [
+            441,
+            794,
+            19,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "the",
+        "box": [
+            465,
+            792,
+            24,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "smoker's",
+        "box": [
+            491,
+            791,
+            57,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "most",
+        "box": [
+            546,
+            789,
+            34,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "often",
+        "box": [
+            579,
+            792,
+            42,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "brand",
+        "box": [
+            624,
+            789,
+            39,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "NOTE",
+        "box": [
+            8,
+            790,
+            34,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "TOP- LINES MENTHOL PRODUCT TEST",
+        "box": [
+            60,
+            60,
+            171,
+            29
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "C273- 82- 7",
+        "box": [
+            493,
+            39,
+            70,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1982 102KL",
+        "box": [
+            488,
+            55,
+            71,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1 of 4",
+        "box": [
+            486,
+            73,
+            52,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PDC #",
+        "box": [
+            441,
+            42,
+            44,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PROJECT #",
+        "box": [
+            408,
+            58,
+            76,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PAGE #",
+        "box": [
+            429,
+            73,
+            55,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "KOOL Lights KS vs. Bright KS Product Monitor",
+        "box": [
+            185,
+            113,
+            308,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "408 Menthol Lights / 105 Menthol Ultra, 111 Non- Menthol Lights / 92 Non- Menthol Ultras)",
+        "box": [
+            182,
+            140,
+            400,
+            48
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "September 13, 1982",
+        "box": [
+            189,
+            197,
+            124,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "FIELD DATE:",
+        "box": [
+            58,
+            205,
+            95,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "# 839 / 869",
+        "box": [
+            165,
+            233,
+            89,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "# 369 / 839",
+        "box": [
+            167,
+            275,
+            88,
+            21
+        ],
+        "class": "other"
+    },
+    {
+        "text": "KOOL Lights KS- white tip- ping masked",
+        "box": [
+            265,
+            232,
+            187,
+            34
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": ".4 4",
+        "box": [
+            644,
+            236,
+            33,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "13. 5",
+        "box": [
+            574,
+            274,
+            33,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".55",
+        "box": [
+            521,
+            275,
+            24,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "5. 5",
+        "box": [
+            473,
+            275,
+            27,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "masked / a certain proportion of the menthol result is pep- perrront oil; R&D is unable to determine the percentage.",
+        "box": [
+            267,
+            289,
+            398,
+            31
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Bright KS white tipping-",
+        "box": [
+            269,
+            275,
+            174,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Total Menthol Smokers",
+        "box": [
+            458,
+            328,
+            150,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Total (205)",
+        "box": [
+            375,
+            343,
+            38,
+            29
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Male (99)",
+        "box": [
+            448,
+            343,
+            35,
+            30
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Female (106)",
+        "box": [
+            512,
+            343,
+            46,
+            31
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "21- 34 (96)",
+        "box": [
+            586,
+            342,
+            39,
+            26
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "35+ 109",
+        "box": [
+            649,
+            343,
+            33,
+            28
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "KOOL Lights",
+        "box": [
+            215,
+            396,
+            83,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No Preference",
+        "box": [
+            210,
+            458,
+            100,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "21- 34",
+        "box": [
+            506,
+            518,
+            36,
+            19
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "STRENGTH (7= Stronger)",
+        "box": [
+            15,
+            574,
+            106,
+            31
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SMOOTHNESS (7= 5moother",
+        "box": [
+            14,
+            607,
+            105,
+            28
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "AMT MENTHOL (7= More)",
+        "box": [
+            12,
+            633,
+            106,
+            33
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MENTHOL TASTE (7= Better",
+        "box": [
+            14,
+            669,
+            112,
+            29
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SATISFYING (7= More",
+        "box": [
+            13,
+            698,
+            85,
+            29
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "APTERTASTE (7= Pleasant)",
+        "box": [
+            11,
+            730,
+            107,
+            30
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EASE OF DRAW 17 Easier",
+        "box": [
+            13,
+            765,
+            96,
+            28
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Directional Difference:",
+        "box": [
+            195,
+            829,
+            199,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "66 79% confidence Level",
+        "box": [
+            401,
+            827,
+            197,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "80- 94% confidence Level",
+        "box": [
+            403,
+            843,
+            193,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "95+% confidence Level",
+        "box": [
+            399,
+            856,
+            183,
+            25
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Marginal Difference:",
+        "box": [
+            193,
+            846,
+            171,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Significant Difference:",
+        "box": [
+            198,
+            862,
+            191,
+            17
+        ],
+        "class": "value_question"
+    }
+]

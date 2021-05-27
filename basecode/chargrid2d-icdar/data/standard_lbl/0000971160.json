@@ -1,0 +1,266 @@
+﻿[
+    {
+        "value": "R&D",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            292,
+            91,
+            84,
+            84
+        ]
+    },
+    {
+        "value": ":",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            219,
+            316,
+            6,
+            11
+        ]
+    },
+    {
+        "value": "Suggestion:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            95,
+            355,
+            74,
+            15
+        ]
+    },
+    {
+        "value": "Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            482,
+            268,
+            36,
+            14
+        ]
+    },
+    {
+        "value": "Licensee",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            511,
+            309,
+            59,
+            14
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            211,
+            651,
+            6,
+            11
+        ]
+    },
+    {
+        "value": "Yes",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            461,
+            605,
+            22,
+            14
+        ]
+    },
+    {
+        "value": "No",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            545,
+            603,
+            18,
+            14
+        ]
+    },
+    {
+        "value": "597005708",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            525,
+            904,
+            116,
+            22
+        ]
+    },
+    {
+        "value": "R&D QUALITY IMPROVEMENT SUGGESTION/ SOLUTION FORM",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            256,
+            201,
+            167,
+            29
+        ]
+    },
+    {
+        "value": "Name / Phone Ext. :",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            89,
+            272,
+            115,
+            17
+        ]
+    },
+    {
+        "value": "M. Hamann P. Harper, P. Martinez",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            215,
+            271,
+            236,
+            16
+        ]
+    },
+    {
+        "value": "9/ 3/ 92",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            543,
+            264,
+            47,
+            15
+        ]
+    },
+    {
+        "value": "R&D Group:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            420,
+            310,
+            71,
+            13
+        ]
+    },
+    {
+        "value": "J. S. Wigand",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            236,
+            313,
+            91,
+            14
+        ]
+    },
+    {
+        "value": "Supervisor / Manager",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            316,
+            127,
+            15
+        ]
+    },
+    {
+        "value": "Discontinue coal retention analyses on licensee submitted product samples (Note : Coal Retention testing is not performed by most licensees. Other B&W physical measurements as ends stability and inspection for soft spots in ciparettes are thought to be sufficient measures to assure cigarette physical integrity. The proposed action will increase laboratory productivity . )",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            190,
+            346,
+            404,
+            101
+        ]
+    },
+    {
+        "value": "Suggested Solutions (s) :",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            95,
+            486,
+            155,
+            18
+        ]
+    },
+    {
+        "value": "Delete coal retention from the list of standard analyses performed on licensee submitted product samples. Special requests for coal retention testing could still be submitted on an exception basis.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            263,
+            483,
+            330,
+            70
+        ]
+    },
+    {
+        "value": "Have you contacted your Manager/ Supervisor?",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            96,
+            608,
+            302,
+            16
+        ]
+    },
+    {
+        "value": "Manager Comments:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            98,
+            651,
+            113,
+            14
+        ]
+    },
+    {
+        "value": "Manager, please contact suggester and forward",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            232,
+            644,
+            315,
+            18
+        ]
+    },
+    {
+        "value": "comments to the Quality Council.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            99,
+            662,
+            224,
+            15
+        ]
+    },
+    {
+        "value": "qip . wp",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            102,
+            823,
+            43,
+            15
+        ]
+    }
+]

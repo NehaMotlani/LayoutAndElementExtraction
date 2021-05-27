@@ -1,0 +1,871 @@
+﻿[
+    {
+        "value": "CLASS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            66,
+            138,
+            25,
+            8
+        ]
+    },
+    {
+        "value": "A32",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            174,
+            91,
+            30,
+            12
+        ]
+    },
+    {
+        "value": "SOLUBILITY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            261,
+            111,
+            47,
+            8
+        ]
+    },
+    {
+        "value": "WATER",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            274,
+            125,
+            32,
+            7
+        ]
+    },
+    {
+        "value": "OTHER",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            349,
+            123,
+            32,
+            8
+        ]
+    },
+    {
+        "value": "MEASURED",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            394,
+            111,
+            45,
+            7
+        ]
+    },
+    {
+        "value": "SALT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            405,
+            148,
+            20,
+            8
+        ]
+    },
+    {
+        "value": "BASE",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            289,
+            148,
+            22,
+            8
+        ]
+    },
+    {
+        "value": "ACID",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            154,
+            148,
+            22,
+            7
+        ]
+    },
+    {
+        "value": "REACTIVITY",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            66,
+            174,
+            47,
+            10
+        ]
+    },
+    {
+        "value": "UNCHANGED",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            248,
+            219,
+            51,
+            8
+        ]
+    },
+    {
+        "value": "UNCHANGED",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            244,
+            244,
+            55,
+            7
+        ]
+    },
+    {
+        "value": "UNCHANGED",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            246,
+            274,
+            53,
+            8
+        ]
+    },
+    {
+        "value": "UNCHANCED",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            248,
+            302,
+            51,
+            8
+        ]
+    },
+    {
+        "value": "UNCHANGED",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            248,
+            331,
+            53,
+            8
+        ]
+    },
+    {
+        "value": "UNCHANGED",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            248,
+            357,
+            51,
+            8
+        ]
+    },
+    {
+        "value": "DECOMPOSITION",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            352,
+            219,
+            66,
+            8
+        ]
+    },
+    {
+        "value": "DECOMPOSITION",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            352,
+            244,
+            66,
+            7
+        ]
+    },
+    {
+        "value": "DECOMPOSITION",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            352,
+            274,
+            66,
+            7
+        ]
+    },
+    {
+        "value": "DECOMPOSITION",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            354,
+            302,
+            63,
+            8
+        ]
+    },
+    {
+        "value": "DECOMPOSITION",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            354,
+            331,
+            66,
+            8
+        ]
+    },
+    {
+        "value": "DECOMPOSITION",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            354,
+            357,
+            66,
+            7
+        ]
+    },
+    {
+        "value": "UNCHANGED",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            505,
+            218,
+            50,
+            10
+        ]
+    },
+    {
+        "value": "UNCHANGED",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            505,
+            243,
+            50,
+            10
+        ]
+    },
+    {
+        "value": "UNCHANGED",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            502,
+            274,
+            53,
+            8
+        ]
+    },
+    {
+        "value": "UNCHANGED",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            503,
+            302,
+            51,
+            8
+        ]
+    },
+    {
+        "value": "UNCHANGED",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            503,
+            331,
+            51,
+            8
+        ]
+    },
+    {
+        "value": "UNCHANGED",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            503,
+            355,
+            53,
+            8
+        ]
+    },
+    {
+        "value": "DECOMPOSITION",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            613,
+            218,
+            66,
+            10
+        ]
+    },
+    {
+        "value": "DECOMPOSITION",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            611,
+            244,
+            68,
+            8
+        ]
+    },
+    {
+        "value": "DECOMPOSITION",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            610,
+            272,
+            70,
+            8
+        ]
+    },
+    {
+        "value": "DECOMPOSITION",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            611,
+            302,
+            66,
+            8
+        ]
+    },
+    {
+        "value": "DECOMPOSITION",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            611,
+            329,
+            66,
+            10
+        ]
+    },
+    {
+        "value": "DECOMPOSITION",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            610,
+            357,
+            70,
+            7
+        ]
+    },
+    {
+        "value": "00837285",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            653,
+            384,
+            17,
+            86
+        ]
+    },
+    {
+        "value": "AIR",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            81,
+            553,
+            13,
+            8
+        ]
+    },
+    {
+        "value": "HEAT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            128,
+            551,
+            20,
+            10
+        ]
+    },
+    {
+        "value": "LIGHT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            186,
+            553,
+            22,
+            8
+        ]
+    },
+    {
+        "value": "MOISTURE",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            243,
+            553,
+            43,
+            8
+        ]
+    },
+    {
+        "value": "OTHER",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            321,
+            551,
+            27,
+            10
+        ]
+    },
+    {
+        "value": "COMMENTS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            585,
+            48,
+            7
+        ]
+    },
+    {
+        "value": "SIGNATURE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            855,
+            45,
+            7
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            510,
+            854,
+            25,
+            8
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            563,
+            849,
+            103,
+            43
+        ]
+    },
+    {
+        "value": "11/1381",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            543,
+            90,
+            75,
+            13
+        ]
+    },
+    {
+        "value": "g100ml",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            676,
+            120,
+            32,
+            13
+        ]
+    },
+    {
+        "value": "AMOUNT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            523,
+            121,
+            35,
+            10
+        ]
+    },
+    {
+        "value": "OTHER",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            515,
+            146,
+            28,
+            10
+        ]
+    },
+    {
+        "value": "ESTIMATED",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            513,
+            110,
+            48,
+            8
+        ]
+    },
+    {
+        "value": "24",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            713,
+            17,
+            17,
+            12
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            508,
+            80,
+            25,
+            8
+        ]
+    },
+    {
+        "value": "ADDENDUM II",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            367,
+            18,
+            87,
+            12
+        ]
+    },
+    {
+        "value": "COMPOUND PHYSICAL PARAMETERS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            224,
+            48,
+            325,
+            21
+        ]
+    },
+    {
+        "value": "LRC COMPOUND CODE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            65,
+            81,
+            89,
+            10
+        ]
+    },
+    {
+        "value": "MOLECULAR WEIGHT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            66,
+            110,
+            84,
+            8
+        ]
+    },
+    {
+        "value": "200. 29",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            159,
+            121,
+            54,
+            12
+        ]
+    },
+    {
+        "value": "WITHOUT HEATING",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            277,
+            199,
+            74,
+            8
+        ]
+    },
+    {
+        "value": "DESCRIPTION OF REACTIVITY",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            394,
+            174,
+            113,
+            9
+        ]
+    },
+    {
+        "value": "WITH HEATING (80C)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            532,
+            199,
+            86,
+            8
+        ]
+    },
+    {
+        "value": "1) WATER or BRINE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            218,
+            78,
+            10
+        ]
+    },
+    {
+        "value": "2) 5% HCL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            244,
+            40,
+            10
+        ]
+    },
+    {
+        "value": "3) 5% NaOH:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            272,
+            50,
+            8
+        ]
+    },
+    {
+        "value": "4) ALCOHOLS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            302,
+            55,
+            9
+        ]
+    },
+    {
+        "value": "5) OXYGEN:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            331,
+            46,
+            8
+        ]
+    },
+    {
+        "value": "6) LIGHT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            357,
+            37,
+            8
+        ]
+    },
+    {
+        "value": "SAFETY COMMENTS (SUGGESTED HANDLING PROCEDURE)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            68,
+            377,
+            224,
+            10
+        ]
+    },
+    {
+        "value": "CHEMICAL PURITY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            472,
+            72,
+            10
+        ]
+    },
+    {
+        "value": "ANALYTICAL METHOD(S)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            394,
+            472,
+            95,
+            8
+        ]
+    },
+    {
+        "value": "STORAGE RECOMMENDATIONS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            510,
+            120,
+            10
+        ]
+    },
+    {
+        "value": "NORMAL STORAGE",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            307,
+            510,
+            75,
+            10
+        ]
+    },
+    {
+        "value": "COMPOUND SENSITIVE TO",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            538,
+            102,
+            10
+        ]
+    },
+    {
+        "value": "X SPECIAL STORAGE Refrigerate in amber bottle at no more than * C",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            487,
+            507,
+            208,
+            42
+        ]
+    },
+    {
+        "value": "pH- The pH of a 50% concentration of A32 in a 52.6% dioxane/water solution was calculated to be 2.92 at 22°C according to the extra- polation procedures by Dr. P. D. Schickedantz, Lorillard Research Center Accession No. 1662, Reference OR 83- 125.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            93,
+            610,
+            615,
+            61
+        ]
+    },
+    {
+        "value": "Solubility (See SOP for Biological Solutions)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            93,
+            683,
+            415,
+            15
+        ]
+    },
+    {
+        "value": "Oral- 5g A32 forms a suspension with stirring in 10 ml 1% Tween 80 at room temperature. Reference OR 72- 151.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            93,
+            709,
+            621,
+            31
+        ]
+    },
+    {
+        "value": "Acute Cardiovascular- Mix 2 mg A32 with 0.2 ml 80% propylene glycol and grind lightly. Add 0.8 ml saline solution. A32 is a suspension in this mixture at room temperature. Reference OR 72- 152.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            96,
+            754,
+            628,
+            44
+        ]
+    },
+    {
+        "value": "LORILLARD RESEARCH CENTER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            882,
+            124,
+            10
+        ]
+    },
+    {
+        "value": "Johnson",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            95,
+            850,
+            281,
+            29
+        ]
+    },
+    {
+        "value": "FORM ",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            666,
+            880,
+            59,
+            12
+        ]
+    }
+]

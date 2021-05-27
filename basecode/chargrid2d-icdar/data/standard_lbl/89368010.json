@@ -1,0 +1,453 @@
+﻿[
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            154,
+            618,
+            43,
+            18
+        ]
+    },
+    {
+        "value": "16/3/82",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            133,
+            587,
+            106,
+            24
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            490,
+            576,
+            162,
+            39
+        ]
+    },
+    {
+        "value": "APPROVALS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            114,
+            657,
+            75,
+            12
+        ]
+    },
+    {
+        "value": "Accept",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            364,
+            684,
+            78,
+            25
+        ]
+    },
+    {
+        "value": "Accept",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            368,
+            726,
+            78,
+            31
+        ]
+    },
+    {
+        "value": "Accept",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            361,
+            775,
+            72,
+            30
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            469,
+            668,
+            223,
+            39
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            510,
+            714,
+            108,
+            39
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            475,
+            766,
+            216,
+            30
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            490,
+            843,
+            115,
+            30
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            370,
+            850,
+            93,
+            25
+        ]
+    },
+    {
+        "value": "89368010",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            723,
+            804,
+            25,
+            93
+        ]
+    },
+    {
+        "value": "RA/QA FORM 9",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            45,
+            28,
+            100,
+            18
+        ]
+    },
+    {
+        "value": "FINAL REPORT AMENDMENT",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            280,
+            76,
+            209,
+            18
+        ]
+    },
+    {
+        "value": "Study Name",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            106,
+            120,
+            83,
+            16
+        ]
+    },
+    {
+        "value": "Study Number",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            106,
+            141,
+            98,
+            18
+        ]
+    },
+    {
+        "value": "Initiation Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            111,
+            163,
+            118,
+            18
+        ]
+    },
+    {
+        "value": "Date of Final Report (Review Completed Date)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            106,
+            186,
+            342,
+            19
+        ]
+    },
+    {
+        "value": "Part of Final Report to be Amended (Exact location)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            109,
+            208,
+            389,
+            18
+        ]
+    },
+    {
+        "value": "The attached is an addition to the I- 1725.001 Final Report",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            117,
+            232,
+            518,
+            18
+        ]
+    },
+    {
+        "value": "27 April 1982",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            478,
+            183,
+            117,
+            21
+        ]
+    },
+    {
+        "value": "25 March 1982",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            266,
+            162,
+            120,
+            16
+        ]
+    },
+    {
+        "value": "I- 1725.001",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            220,
+            141,
+            93,
+            15
+        ]
+    },
+    {
+        "value": "Acute Toxicity of Reference Cigarette Smoke lafter Inhalation in Mice.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            190,
+            117,
+            571,
+            33
+        ]
+    },
+    {
+        "value": "Reason for the Amendment",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            108,
+            310,
+            189,
+            15
+        ]
+    },
+    {
+        "value": "Survival after repeated doses over a 14 day period",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            308,
+            305,
+            454,
+            17
+        ]
+    },
+    {
+        "value": "may not be accurately predicted from survival after a single day's exposure.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            123,
+            328,
+            593,
+            38
+        ]
+    },
+    {
+        "value": "Amendment (Attach additional sheets as necessary)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            111,
+            404,
+            374,
+            20
+        ]
+    },
+    {
+        "value": "The report of the results of",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            496,
+            401,
+            251,
+            18
+        ]
+    },
+    {
+        "value": "A 14 Day Repeated Dose Assay for Reference Cigarette Smoke in Mice (I- 1725.001- M1 is attached.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            133,
+            425,
+            590,
+            42
+        ]
+    },
+    {
+        "value": "STUDY DIRECTOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            504,
+            615,
+            111,
+            13
+        ]
+    },
+    {
+        "value": "03 June 1982",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            112,
+            689,
+            135,
+            22
+        ]
+    },
+    {
+        "value": "3 June 1982",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            132,
+            725,
+            118,
+            45
+        ]
+    },
+    {
+        "value": "3 June 1982",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            117,
+            772,
+            130,
+            28
+        ]
+    },
+    {
+        "value": "ACCEPT/ REJECT (as per 58.185 (c))",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            380,
+            651,
+            250,
+            21
+        ]
+    },
+    {
+        "value": "QUALITY ASSURANCE ASSOC.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            500,
+            705,
+            184,
+            14
+        ]
+    },
+    {
+        "value": "DIRECTOR OF RESEARCH",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            501,
+            749,
+            156,
+            15
+        ]
+    },
+    {
+        "value": "DIRECTOR OF RA/QA",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            499,
+            795,
+            137,
+            14
+        ]
+    },
+    {
+        "value": "REGULATORY AFFAIRS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            499,
+            870,
+            147,
+            16
+        ]
+    },
+    {
+        "value": "Received by REGULATORY AFFATRS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            115,
+            855,
+            232,
+            19
+        ]
+    }
+]

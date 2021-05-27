@@ -1,0 +1,552 @@
+﻿[
+    {
+        "value": "970220",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            504,
+            113,
+            38,
+            15
+        ]
+    },
+    {
+        "value": "To:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            155,
+            130,
+            18,
+            17
+        ]
+    },
+    {
+        "value": "From:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            138,
+            148,
+            35,
+            14
+        ]
+    },
+    {
+        "value": "Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            141,
+            166,
+            31,
+            14
+        ]
+    },
+    {
+        "value": "Mailfile Description",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            265,
+            246,
+            108,
+            18
+        ]
+    },
+    {
+        "value": "Quantity:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            122,
+            300,
+            50,
+            17
+        ]
+    },
+    {
+        "value": "Maildate:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            119,
+            320,
+            54,
+            13
+        ]
+    },
+    {
+        "value": "Program#:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            108,
+            332,
+            66,
+            15
+        ]
+    },
+    {
+        "value": "Seeds",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            141,
+            469,
+            32,
+            15
+        ]
+    },
+    {
+        "value": "Suppression",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            487,
+            67,
+            14
+        ]
+    },
+    {
+        "value": "Notes",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            78,
+            725,
+            34,
+            15
+        ]
+    },
+    {
+        "value": "1",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            159,
+            539,
+            10,
+            11
+        ]
+    },
+    {
+        "value": "2",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            161,
+            557,
+            10,
+            11
+        ]
+    },
+    {
+        "value": "3",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            161,
+            573,
+            8,
+            13
+        ]
+    },
+    {
+        "value": "4",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            161,
+            591,
+            8,
+            11
+        ]
+    },
+    {
+        "value": "7",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            162,
+            641,
+            7,
+            14
+        ]
+    },
+    {
+        "value": "6",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            161,
+            623,
+            8,
+            14
+        ]
+    },
+    {
+        "value": "8",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            161,
+            659,
+            8,
+            10
+        ]
+    },
+    {
+        "value": "9",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            162,
+            675,
+            8,
+            13
+        ]
+    },
+    {
+        "value": "10",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            156,
+            694,
+            14,
+            11
+        ]
+    },
+    {
+        "value": "5",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            161,
+            608,
+            8,
+            11
+        ]
+    },
+    {
+        "value": "5",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            190,
+            487,
+            8,
+            13
+        ]
+    },
+    {
+        "value": "25",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            260,
+            468,
+            14,
+            15
+        ]
+    },
+    {
+        "value": "273",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            211,
+            302,
+            25,
+            14
+        ]
+    },
+    {
+        "value": "700418",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            176,
+            334,
+            42,
+            15
+        ]
+    },
+    {
+        "value": "3,",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            203,
+            250,
+            11,
+            15
+        ]
+    },
+    {
+        "value": "984",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            214,
+            250,
+            20,
+            15
+        ]
+    },
+    {
+        "value": "System",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            133,
+            216,
+            39,
+            15
+        ]
+    },
+    {
+        "value": "RJR Mailfile Table Update Sheet",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            78,
+            89,
+            242,
+            23
+        ]
+    },
+    {
+        "value": "Alert Number",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            432,
+            112,
+            71,
+            14
+        ]
+    },
+    {
+        "value": "RJR IR - Suz /Art",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            177,
+            130,
+            94,
+            15
+        ]
+    },
+    {
+        "value": "Drew Huyett",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            176,
+            149,
+            70,
+            13
+        ]
+    },
+    {
+        "value": "3/ 7/ 97",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            176,
+            165,
+            37,
+            14
+        ]
+    },
+    {
+        "value": "102- Eclipse",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            179,
+            198,
+            63,
+            15
+        ]
+    },
+    {
+        "value": "Program Group",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            87,
+            198,
+            84,
+            14
+        ]
+    },
+    {
+        "value": "Corp/ Multibrand",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            179,
+            215,
+            86,
+            14
+        ]
+    },
+    {
+        "value": "Mailfile ID:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            109,
+            249,
+            64,
+            17
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            177,
+            271,
+            58,
+            10
+        ]
+    },
+    {
+        "value": "Mail Order- Indy Responders",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            378,
+            249,
+            161,
+            15
+        ]
+    },
+    {
+        "value": "Dataset Name",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            299,
+            265,
+            75,
+            17
+        ]
+    },
+    {
+        "value": "(Complete by IR)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            433,
+            286,
+            56,
+            10
+        ]
+    },
+    {
+        "value": "3/ 17/ 97",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            176,
+            317,
+            42,
+            16
+        ]
+    },
+    {
+        "value": "BRC Codes w81 carton order form",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            110,
+            367,
+            186,
+            17
+        ]
+    },
+    {
+        "value": "T Codes NA",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            127,
+            418,
+            68,
+            17
+        ]
+    },
+    {
+        "value": "Mailfile Cells",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            521,
+            73,
+            14
+        ]
+    },
+    {
+        "value": "HD home delivery",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            177,
+            536,
+            141,
+            17
+        ]
+    },
+    {
+        "value": "SP sneak preview",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            175,
+            556,
+            146,
+            14
+        ]
+    },
+    {
+        "value": "This is for notes",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            88,
+            747,
+            90,
+            16
+        ]
+    },
+    {
+        "value": "51673 4300",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            680,
+            784,
+            13,
+            91
+        ]
+    },
+    {
+        "value": "970220 XLS Mailfile",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            61,
+            940,
+            84,
+            14
+        ]
+    }
+]

@@ -1,0 +1,750 @@
+﻿[
+    {
+        "value": "DESCRIPTION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            17,
+            109,
+            67,
+            10
+        ]
+    },
+    {
+        "value": "DESIGN",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            17,
+            163,
+            36,
+            10
+        ]
+    },
+    {
+        "value": "NO",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            163,
+            18,
+            10
+        ]
+    },
+    {
+        "value": "272972",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            341,
+            154,
+            46,
+            14
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            246,
+            215,
+            11,
+            8
+        ]
+    },
+    {
+        "value": "USE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            237,
+            187,
+            25,
+            14
+        ]
+    },
+    {
+        "value": "OFFICIAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            36,
+            216,
+            47,
+            11
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            24,
+            218,
+            11,
+            10
+        ]
+    },
+    {
+        "value": "DOMESTIC",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            257,
+            216,
+            49,
+            10
+        ]
+    },
+    {
+        "value": "☐",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            510,
+            215,
+            13,
+            8
+        ]
+    },
+    {
+        "value": "(GRAVURE)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            589,
+            215,
+            52,
+            11
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            640,
+            215,
+            6,
+            11
+        ]
+    },
+    {
+        "value": "NO",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            334,
+            258,
+            17,
+            8
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            324,
+            257,
+            10,
+            7
+        ]
+    },
+    {
+        "value": "BRANCH",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            34,
+            394,
+            53,
+            15
+        ]
+    },
+    {
+        "value": "REPLACEMENT",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            17,
+            480,
+            82,
+            15
+        ]
+    },
+    {
+        "value": "LOUISVILLE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            215,
+            395,
+            66,
+            11
+        ]
+    },
+    {
+        "value": "PETERSBURG",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            338,
+            395,
+            73,
+            13
+        ]
+    },
+    {
+        "value": "MACON",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            478,
+            394,
+            42,
+            14
+        ]
+    },
+    {
+        "value": "DESCRIPTION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            17,
+            514,
+            64,
+            13
+        ]
+    },
+    {
+        "value": "BRANCH",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            32,
+            568,
+            54,
+            15
+        ]
+    },
+    {
+        "value": "LOUISVILLE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            215,
+            570,
+            67,
+            14
+        ]
+    },
+    {
+        "value": "PETERSBURG",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            338,
+            571,
+            71,
+            13
+        ]
+    },
+    {
+        "value": "80-",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            115,
+            538,
+            22,
+            10
+        ]
+    },
+    {
+        "value": "15",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            138,
+            536,
+            13,
+            13
+        ]
+    },
+    {
+        "value": "272972",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            341,
+            535,
+            43,
+            14
+        ]
+    },
+    {
+        "value": "COMMENTS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            18,
+            631,
+            64,
+            14
+        ]
+    },
+    {
+        "value": "MACON",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            478,
+            570,
+            45,
+            10
+        ]
+    },
+    {
+        "value": "680115980",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            649,
+            712,
+            22,
+            115
+        ]
+    },
+    {
+        "value": "QNED:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            28,
+            856,
+            31,
+            10
+        ]
+    },
+    {
+        "value": "DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            490,
+            858,
+            28,
+            10
+        ]
+    },
+    {
+        "value": "BROWN & WILLIAMSON TOBACCO CORPORATION MATERIAL SPECIFICATION DESIGN CHANGE AUTHORIZATION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            236,
+            11,
+            238,
+            41
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            18,
+            11,
+            64,
+            12
+        ]
+    },
+    {
+        "value": "NEW ITEM",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            18,
+            77,
+            55,
+            13
+        ]
+    },
+    {
+        "value": "VICEROY Rich Lights 100' s 20' s Label",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            117,
+            99,
+            256,
+            18
+        ]
+    },
+    {
+        "value": "BRAND (S)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            18,
+            135,
+            46,
+            10
+        ]
+    },
+    {
+        "value": "VICEROY Rich Lights",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            117,
+            128,
+            135,
+            15
+        ]
+    },
+    {
+        "value": "B1 -257",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            116,
+            155,
+            42,
+            17
+        ]
+    },
+    {
+        "value": "UPC NO",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            281,
+            162,
+            36,
+            10
+        ]
+    },
+    {
+        "value": "MATERIAL NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            486,
+            161,
+            71,
+            10
+        ]
+    },
+    {
+        "value": "50 -034A",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            568,
+            151,
+            48,
+            16
+        ]
+    },
+    {
+        "value": "TYPE CHANGE:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            17,
+            187,
+            82,
+            15
+        ]
+    },
+    {
+        "value": "☐ TEMPORARY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            215,
+            71,
+            11
+        ]
+    },
+    {
+        "value": "MILITARY ☐ EXPORT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            334,
+            208,
+            65,
+            18
+        ]
+    },
+    {
+        "value": "GENERAL ☐ EXPORT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            423,
+            209,
+            59,
+            17
+        ]
+    },
+    {
+        "value": "CUSTOMER SPEC.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            524,
+            209,
+            54,
+            19
+        ]
+    },
+    {
+        "value": "If a material or dimensional change also involved?",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            17,
+            256,
+            231,
+            13
+        ]
+    },
+    {
+        "value": "If yes supply details",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            17,
+            271,
+            100,
+            13
+        ]
+    },
+    {
+        "value": "☐ YES",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            268,
+            257,
+            30,
+            11
+        ]
+    },
+    {
+        "value": "WINSTON SALEM",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            578,
+            395,
+            91,
+            10
+        ]
+    },
+    {
+        "value": "10/ 16/ 81",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            201,
+            453,
+            55,
+            14
+        ]
+    },
+    {
+        "value": "1010/ 30/ 8181",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            201,
+            422,
+            56,
+            13
+        ]
+    },
+    {
+        "value": "SCHEDULE: DATE OR INVENTORY DEPLETION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            20,
+            416,
+            132,
+            25
+        ]
+    },
+    {
+        "value": "DELIVERY DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            21,
+            450,
+            91,
+            15
+        ]
+    },
+    {
+        "value": "VICEROY Rich Lights 100' s 20' s Label",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            115,
+            508,
+            255,
+            16
+        ]
+    },
+    {
+        "value": "DESIGN NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            18,
+            542,
+            55,
+            11
+        ]
+    },
+    {
+        "value": "UPC NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            282,
+            542,
+            34,
+            10
+        ]
+    },
+    {
+        "value": "MATERIAL NO",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            487,
+            542,
+            69,
+            11
+        ]
+    },
+    {
+        "value": "50- 034",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            575,
+            536,
+            42,
+            13
+        ]
+    },
+    {
+        "value": "WINSTON SALEM",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            578,
+            568,
+            91,
+            14
+        ]
+    },
+    {
+        "value": "INVENTORY DEPLETION DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            21,
+            592,
+            93,
+            26
+        ]
+    },
+    {
+        "value": "10/ 30/ 81",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            215,
+            601,
+            56,
+            13
+        ]
+    },
+    {
+        "value": "Material # 50 -034 A has been assigned to the VICEROY Rich Lights 100' s 20' s Label with new bottom panel. Bottom now incorporates shield. On both side and bottom panels, \"VICEROY\" and \"Rich Lights\" have been inverted. Cartons and labels must change design simultaneously. The current design cannot be used in production after 10/ 30/ 81.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            115,
+            630,
+            559,
+            81
+        ]
+    },
+    {
+        "value": "J. F. Banks C. Lamb C. L. Domeck Webb L. C. Lanham Branch QC Branch Supply",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            75,
+            747,
+            71,
+            82
+        ]
+    },
+    {
+        "value": "Copies to:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            21,
+            749,
+            47,
+            13
+        ]
+    },
+    {
+        "value": "S. T. BEASLEY (MRS )/ jlf",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            99,
+            835,
+            189,
+            50
+        ]
+    },
+    {
+        "value": "9/ 17/ 8181",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            554,
+            852,
+            48,
+            14
+        ]
+    },
+    {
+        "value": "680115980 PRODUCED FROM B&W WEB SITE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            0,
+            951,
+            229,
+            32
+        ]
+    }
+]

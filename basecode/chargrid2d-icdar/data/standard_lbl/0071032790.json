@@ -1,0 +1,288 @@
+﻿[
+    {
+        "value": "PROJECT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            56,
+            455,
+            65,
+            13
+        ]
+    },
+    {
+        "value": "OBJECTIVE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            126,
+            455,
+            83,
+            12
+        ]
+    },
+    {
+        "value": "DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            475,
+            281,
+            47,
+            15
+        ]
+    },
+    {
+        "value": "BTF",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            248,
+            271,
+            32,
+            18
+        ]
+    },
+    {
+        "value": "-",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            249,
+            321,
+            15,
+            8
+        ]
+    },
+    {
+        "value": "To:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            53,
+            86,
+            28,
+            18
+        ]
+    },
+    {
+        "value": "Files",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            100,
+            86,
+            45,
+            18
+        ]
+    },
+    {
+        "value": "CONFIDENTIAL",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            555,
+            90,
+            103,
+            15
+        ]
+    },
+    {
+        "value": "EPB:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            53,
+            826,
+            38,
+            18
+        ]
+    },
+    {
+        "value": "cc:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            55,
+            855,
+            27,
+            15
+        ]
+    },
+    {
+        "value": "ODL",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            88,
+            826,
+            32,
+            17
+        ]
+    },
+    {
+        "value": "PROJECT INITIATION FORM",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            259,
+            166,
+            201,
+            17
+        ]
+    },
+    {
+        "value": "September 16, 1980",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            527,
+            269,
+            158,
+            23
+        ]
+    },
+    {
+        "value": "PROJECT CODE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            53,
+            281,
+            113,
+            17
+        ]
+    },
+    {
+        "value": "PROJECT NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            53,
+            324,
+            113,
+            17
+        ]
+    },
+    {
+        "value": "PROJECT LEADER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            56,
+            367,
+            127,
+            15
+        ]
+    },
+    {
+        "value": "WORK REQUESTED BY:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            55,
+            410,
+            157,
+            15
+        ]
+    },
+    {
+        "value": "E. P. Barbee",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            249,
+            355,
+            104,
+            22
+        ]
+    },
+    {
+        "value": "R. S. Sprinkle, III",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            248,
+            402,
+            162,
+            18
+        ]
+    },
+    {
+        "value": "To develop cigarette Cigarette to utilize a filter tip with longitudinal grooves from the mouth end to the tobacco end in con- junction with perforated tipping paper.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            249,
+            444,
+            394,
+            133
+        ]
+    },
+    {
+        "value": "OTHER PERSONNEL ASSIGNED:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            55,
+            606,
+            133,
+            30
+        ]
+    },
+    {
+        "value": "J. E. Mann, Jr.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            251,
+            613,
+            126,
+            22
+        ]
+    },
+    {
+        "value": "D. E. Cawthon",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            249,
+            643,
+            116,
+            20
+        ]
+    },
+    {
+        "value": "Approved by:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            402,
+            757,
+            108,
+            19
+        ]
+    },
+    {
+        "value": "R. S. Sprinkle, III",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            405,
+            771,
+            233,
+            73
+        ]
+    },
+    {
+        "value": "BMC/RMI/EPB JEM/DEC PRC/DRB",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            98,
+            855,
+            98,
+            47
+        ]
+    }
+]

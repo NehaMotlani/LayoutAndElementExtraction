@@ -1,0 +1,838 @@
+﻿[
+    {
+        "value": "Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            461,
+            22,
+            47,
+            18
+        ]
+    },
+    {
+        "value": "on",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            571,
+            75,
+            22,
+            18
+        ]
+    },
+    {
+        "value": "5031",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            380,
+            49,
+            41,
+            13
+        ]
+    },
+    {
+        "value": "BLEND",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            123,
+            52,
+            14
+        ]
+    },
+    {
+        "value": "CASING",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            179,
+            124,
+            59,
+            17
+        ]
+    },
+    {
+        "value": "RECASING",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            309,
+            124,
+            80,
+            18
+        ]
+    },
+    {
+        "value": "Cigarettes:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            56,
+            295,
+            105,
+            15
+        ]
+    },
+    {
+        "value": "Brand",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            321,
+            50,
+            14
+        ]
+    },
+    {
+        "value": "Length",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            339,
+            59,
+            14
+        ]
+    },
+    {
+        "value": "Circumference",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            355,
+            124,
+            15
+        ]
+    },
+    {
+        "value": "Paper",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            373,
+            47,
+            14
+        ]
+    },
+    {
+        "value": "Firmness",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            388,
+            77,
+            15
+        ]
+    },
+    {
+        "value": "Draw",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            406,
+            39,
+            14
+        ]
+    },
+    {
+        "value": "Weight",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            422,
+            59,
+            14
+        ]
+    },
+    {
+        "value": "Print",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            455,
+            45,
+            14
+        ]
+    },
+    {
+        "value": "Wrappings:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            419,
+            426,
+            94,
+            18
+        ]
+    },
+    {
+        "value": "Labels",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            439,
+            450,
+            60,
+            17
+        ]
+    },
+    {
+        "value": "Closures",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            439,
+            471,
+            77,
+            15
+        ]
+    },
+    {
+        "value": "Cartons",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            437,
+            504,
+            68,
+            15
+        ]
+    },
+    {
+        "value": "Markings",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            436,
+            521,
+            81,
+            15
+        ]
+    },
+    {
+        "value": "Gold",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            550,
+            489,
+            41,
+            14
+        ]
+    },
+    {
+        "value": "Requirements:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            53,
+            515,
+            122,
+            17
+        ]
+    },
+    {
+        "value": "Responsibility:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            50,
+            651,
+            142,
+            15
+        ]
+    },
+    {
+        "value": "Laboratory",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            542,
+            95,
+            15
+        ]
+    },
+    {
+        "value": "Others",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            559,
+            57,
+            17
+        ]
+    },
+    {
+        "value": "Shipping",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            726,
+            77,
+            17
+        ]
+    },
+    {
+        "value": "Reports:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            50,
+            760,
+            80,
+            17
+        ]
+    },
+    {
+        "value": "00283913",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            658,
+            768,
+            18,
+            94
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            440,
+            899,
+            265,
+            52
+        ]
+    },
+    {
+        "value": "-",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            316,
+            638,
+            21,
+            8
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            20,
+            95,
+            28,
+            32
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            20,
+            469,
+            28,
+            31
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            21,
+            825,
+            17,
+            41
+        ]
+    },
+    {
+        "value": "7/ 16/ 68",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            601,
+            21,
+            69,
+            21
+        ]
+    },
+    {
+        "value": "7/ 10/ 68",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            663,
+            73,
+            72,
+            21
+        ]
+    },
+    {
+        "value": "Mr. C. L. Tucker, Jr.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            334,
+            71,
+            191,
+            18
+        ]
+    },
+    {
+        "value": "Original request made by",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            56,
+            70,
+            229,
+            20
+        ]
+    },
+    {
+        "value": "Sample No.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            263,
+            45,
+            94,
+            20
+        ]
+    },
+    {
+        "value": "Sample specifications written by",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            57,
+            95,
+            303,
+            21
+        ]
+    },
+    {
+        "value": "John H. M. Bohlken",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            426,
+            98,
+            169,
+            20
+        ]
+    },
+    {
+        "value": "OLD GOLD STRAIGHT Tobacco Blend Control for Sample No. 5030",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            64,
+            158,
+            289,
+            52
+        ]
+    },
+    {
+        "value": "MENTHOL FLAVOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            637,
+            128,
+            134,
+            18
+        ]
+    },
+    {
+        "value": "FINAL FLAVOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            448,
+            126,
+            116,
+            18
+        ]
+    },
+    {
+        "value": "OLD GOLD STRAIGHT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            239,
+            323,
+            159,
+            17
+        ]
+    },
+    {
+        "value": "85 mm.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            239,
+            339,
+            55,
+            14
+        ]
+    },
+    {
+        "value": "25. 3 mm.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            240,
+            355,
+            73,
+            16
+        ]
+    },
+    {
+        "value": "Ecusta 556",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            237,
+            372,
+            95,
+            14
+        ]
+    },
+    {
+        "value": "OLD GOLD STRAIGHT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            237,
+            387,
+            160,
+            16
+        ]
+    },
+    {
+        "value": "OLD GOLD STRAIGHT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            239,
+            405,
+            158,
+            15
+        ]
+    },
+    {
+        "value": "OLD GOLD STRAIGHT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            237,
+            420,
+            161,
+            15
+        ]
+    },
+    {
+        "value": "OLD GOLD STRAIGHT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            237,
+            459,
+            159,
+            17
+        ]
+    },
+    {
+        "value": "Tipping Paper",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            440,
+            124,
+            15
+        ]
+    },
+    {
+        "value": "Filter Length",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            473,
+            125,
+            15
+        ]
+    },
+    {
+        "value": "OLD GOLD STRAIGHT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            550,
+            454,
+            161,
+            18
+        ]
+    },
+    {
+        "value": "Standard Blue",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            550,
+            471,
+            122,
+            16
+        ]
+    },
+    {
+        "value": "OLD GOLD STRAIGHT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            552,
+            506,
+            158,
+            15
+        ]
+    },
+    {
+        "value": "Sample number on each pack and carton",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            550,
+            522,
+            197,
+            32
+        ]
+    },
+    {
+        "value": "Tear Tape",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            439,
+            486,
+            87,
+            16
+        ]
+    },
+    {
+        "value": "One Tray",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            236,
+            542,
+            78,
+            20
+        ]
+    },
+    {
+        "value": "Laboratory Analysis:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            52,
+            591,
+            190,
+            16
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            232,
+            566,
+            209,
+            55
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            581,
+            582,
+            133,
+            41
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            344,
+            634,
+            189,
+            25
+        ]
+    },
+    {
+        "value": "Benzo (A) Pyrene Analyses",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            78,
+            634,
+            232,
+            18
+        ]
+    },
+    {
+        "value": "Tars and Nicotine, Taste Panel, Burning Time, Gas Phase Analysis,",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            70,
+            617,
+            610,
+            24
+        ]
+    },
+    {
+        "value": "Tobacco Blend",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            676,
+            123,
+            17
+        ]
+    },
+    {
+        "value": "Filter Production",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            690,
+            160,
+            18
+        ]
+    },
+    {
+        "value": "Making & Packing",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            708,
+            152,
+            18
+        ]
+    },
+    {
+        "value": "Manufacturing - A. Kraus",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            263,
+            677,
+            224,
+            17
+        ]
+    },
+    {
+        "value": "Product Development, John H. M. Bohlker",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            264,
+            707,
+            368,
+            20
+        ]
+    },
+    {
+        "value": "Written by",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            784,
+            95,
+            16
+        ]
+    },
+    {
+        "value": "Original to",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            802,
+            105,
+            15
+        ]
+    },
+    {
+        "value": "Copies to",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            818,
+            89,
+            17
+        ]
+    },
+    {
+        "value": "John H. M. Bohlken",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            197,
+            786,
+            168,
+            15
+        ]
+    },
+    {
+        "value": "Mr. C. L. Tucker, Jr.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            196,
+            803,
+            196,
+            15
+        ]
+    },
+    {
+        "value": "Dr. A. W. Spears",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            196,
+            818,
+            150,
+            16
+        ]
+    }
+]

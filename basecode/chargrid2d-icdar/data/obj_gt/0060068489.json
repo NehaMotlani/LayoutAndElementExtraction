@@ -1,0 +1,502 @@
+﻿[
+    {
+        "text": "DATE",
+        "box": [
+            554,
+            181,
+            36,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DESCRIPTION",
+        "box": [
+            534,
+            201,
+            79,
+            9
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MEDIUM",
+        "box": [
+            307,
+            198,
+            45,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "3/17/82",
+        "box": [
+            606,
+            178,
+            61,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Outdoor",
+        "box": [
+            299,
+            219,
+            63,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "AGENCY",
+        "box": [
+            25,
+            177,
+            49,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BRAND",
+        "box": [
+            69,
+            198,
+            43,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NO.",
+        "box": [
+            416,
+            178,
+            18,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "April",
+        "box": [
+            223,
+            289,
+            46,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "THRU",
+        "box": [
+            407,
+            293,
+            39,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "July",
+        "box": [
+            534,
+            287,
+            36,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SPACE",
+        "box": [
+            100,
+            382,
+            37,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CONTINGENCY",
+        "box": [
+            99,
+            488,
+            85,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1,680",
+        "box": [
+            21,
+            344,
+            49,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2.000.00",
+        "box": [
+            391,
+            513,
+            70,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "TOTAL",
+        "box": [
+            292,
+            591,
+            40,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "APPROVALS",
+        "box": [
+            569,
+            594,
+            69,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Agency",
+        "box": [
+            506,
+            624,
+            36,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Product",
+        "box": [
+            506,
+            648,
+            40,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Media",
+        "box": [
+            504,
+            674,
+            33,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Sales",
+        "box": [
+            506,
+            699,
+            30,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Marketing",
+        "box": [
+            506,
+            725,
+            49,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Executive",
+        "box": [
+            507,
+            750,
+            48,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Accounting",
+        "box": [
+            506,
+            775,
+            57,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REMARKS:",
+        "box": [
+            25,
+            645,
+            58,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ADVERTISING AND SELLING AUTHORIZATION",
+        "box": [
+            418,
+            78,
+            288,
+            19
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "NYO 09 (10-81)",
+        "box": [
+            636,
+            67,
+            68,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "The American Tobacco Company DIVISION OF AMERICAN BRANDS INC. 265 PARK AVENUE, NEW YORK, NEW YORK 00267",
+        "box": [
+            25,
+            55,
+            280,
+            55
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "DO NOT MAKE ANY COMMITMENT OR AUTHORIZE ANY EXPENDITURE OF ANY KIND FOR. ACCOUNT OF THIS COMPANY UNTIL EXECUTIVE APPROVAL HAS BEEN OBTAINED HEREON.",
+        "box": [
+            94,
+            132,
+            544,
+            25
+        ],
+        "class": "other"
+    },
+    {
+        "text": "corporate Media Department",
+        "box": [
+            123,
+            175,
+            222,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "30 sheet Posters (White Background)",
+        "box": [
+            512,
+            220,
+            151,
+            29
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LUCKY STRIKE LOW Tar Filters Box- 100%",
+        "box": [
+            13,
+            216,
+            174,
+            30
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PERIOD. FROM",
+        "box": [
+            69,
+            290,
+            86,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ENTER ESTIMATES OF AMOUNTS TO BE EXPENDED BY MONTHS UNDER \"REMARKS\" OR ON ATTACHMENT. MAXIMUM EXPENDITURES AUTHORIZED",
+        "box": [
+            175,
+            307,
+            508,
+            25
+        ],
+        "class": "other"
+    },
+    {
+        "text": "1,600 posters plus 5% overrun (80) $ 16.00 each",
+        "box": [
+            516,
+            356,
+            158,
+            45
+        ],
+        "class": "other"
+    },
+    {
+        "text": "$ 26,880,00",
+        "box": [
+            376,
+            355,
+            87,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$ 28,880.00",
+        "box": [
+            352,
+            584,
+            110,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "For posting in Cincinnati, Covington and Tampa/St. Petersburg.",
+        "box": [
+            93,
+            668,
+            341,
+            27
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Posters are captioned for identification, \"LUCKY STRIKES AGAIN (printed in red) with the word \"New\" printed in a snipe effect in the upper left corner. These posters have a white background and will be further identified as such in order to differentiate from a second design which will have a solid red background with white lettering.",
+        "box": [
+            93,
+            705,
+            401,
+            111
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Posters are printed six colors (four color process and two impressions of red) on white 70# outdoor poster paper.",
+        "box": [
+            93,
+            823,
+            375,
+            41
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Budget Allocation",
+        "box": [
+            509,
+            826,
+            87,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Authorization No.",
+        "box": [
+            506,
+            852,
+            87,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "M- 49",
+        "box": [
+            618,
+            850,
+            38,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "L- 3a",
+        "box": [
+            617,
+            825,
+            38,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Estimated Freight Charges",
+        "box": [
+            94,
+            512,
+            218,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DISPLAY MATERIAL",
+        "box": [
+            100,
+            460,
+            115,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MECHANICAL PRODUCTION",
+        "box": [
+            97,
+            436,
+            162,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ART WORK",
+        "box": [
+            100,
+            409,
+            64,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "AIR TIME",
+        "box": [
+            102,
+            332,
+            55,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "30 Sheet Posters ",
+        "box": [
+            96,
+            346,
+            165,
+            25
+        ],
+        "class": "value_question"
+    }
+]

@@ -1,0 +1,266 @@
+﻿[
+    {
+        "value": "OPTION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            241,
+            128,
+            47,
+            12
+        ]
+    },
+    {
+        "value": "PAGE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            548,
+            126,
+            32,
+            12
+        ]
+    },
+    {
+        "value": "SHB",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            392,
+            146,
+            23,
+            13
+        ]
+    },
+    {
+        "value": "03",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            547,
+            148,
+            18,
+            12
+        ]
+    },
+    {
+        "value": "(AUTO)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            596,
+            110,
+            40,
+            12
+        ]
+    },
+    {
+        "value": "207422272",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            663,
+            821,
+            18,
+            93
+        ]
+    },
+    {
+        "value": "Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            213,
+            822,
+            43,
+            18
+        ]
+    },
+    {
+        "value": "Attention:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            176,
+            849,
+            81,
+            17
+        ]
+    },
+    {
+        "value": "Company:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            178,
+            875,
+            80,
+            15
+        ]
+    },
+    {
+        "value": "Subject:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            188,
+            927,
+            68,
+            15
+        ]
+    },
+    {
+        "value": "11/12/96",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            292,
+            822,
+            65,
+            17
+        ]
+    },
+    {
+        "value": "MEMORY STORAGE REPORT",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            287,
+            68,
+            145,
+            17
+        ]
+    },
+    {
+        "value": "(NOV 12 96 05:49PM",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            518,
+            71,
+            139,
+            14
+        ]
+    },
+    {
+        "value": "FILE FILE TYPE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            126,
+            106,
+            17
+        ]
+    },
+    {
+        "value": "083 MEMORY TX",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            70,
+            145,
+            111,
+            18
+        ]
+    },
+    {
+        "value": "TEL NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            389,
+            130,
+            46,
+            10
+        ]
+    },
+    {
+        "value": "REMAINING CALL CAPACITY 299",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            452,
+            502,
+            184,
+            17
+        ]
+    },
+    {
+        "value": "Facsimile Transmission Legal Department 120 Park Avenue New York, NY 10017- 5592",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            243,
+            718,
+            232,
+            90
+        ]
+    },
+    {
+        "value": "PM PHILIP MORRIS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            314,
+            613,
+            88,
+            58
+        ]
+    },
+    {
+        "value": "John J. Mulderig C/O Mike Baker",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            292,
+            847,
+            223,
+            18
+        ]
+    },
+    {
+        "value": "Philip Morris Management Corp.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            289,
+            872,
+            229,
+            22
+        ]
+    },
+    {
+        "value": "816/545-7473",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            294,
+            900,
+            96,
+            18
+        ]
+    },
+    {
+        "value": "Fax Received",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            292,
+            925,
+            94,
+            19
+        ]
+    },
+    {
+        "value": "Fax #:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            203,
+            900,
+            53,
+            17
+        ]
+    }
+]

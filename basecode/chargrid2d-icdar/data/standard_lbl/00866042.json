@@ -1,0 +1,717 @@
+﻿[
+    {
+        "value": "EXPLOSIVE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            43,
+            391,
+            53,
+            11
+        ]
+    },
+    {
+        "value": "FLAMMABLE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            43,
+            412,
+            53,
+            14
+        ]
+    },
+    {
+        "value": "RADIOACTIVE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            42,
+            432,
+            67,
+            11
+        ]
+    },
+    {
+        "value": "SOLID",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            471,
+            35,
+            13
+        ]
+    },
+    {
+        "value": "LIQUID",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            489,
+            36,
+            8
+        ]
+    },
+    {
+        "value": "PRESSURIZED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            42,
+            504,
+            68,
+            11
+        ]
+    },
+    {
+        "value": "Colorless",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            215,
+            476,
+            70,
+            21
+        ]
+    },
+    {
+        "value": "X",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            123,
+            483,
+            11,
+            13
+        ]
+    },
+    {
+        "value": "COLOR",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            289,
+            486,
+            32,
+            10
+        ]
+    },
+    {
+        "value": "1",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            399,
+            133,
+            15,
+            20
+        ]
+    },
+    {
+        "value": "642-138",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            592,
+            131,
+            54,
+            21
+        ]
+    },
+    {
+        "value": "B166",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            682,
+            17,
+            63,
+            31
+        ]
+    },
+    {
+        "value": "SIGNATURE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            471,
+            183,
+            56,
+            14
+        ]
+    },
+    {
+        "value": "D.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            538,
+            161,
+            110,
+            39
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            532,
+            158,
+            20,
+            17
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            563,
+            162,
+            45,
+            14
+        ]
+    },
+    {
+        "value": "9/28/83",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            531,
+            233,
+            56,
+            20
+        ]
+    },
+    {
+        "value": "20.845",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            654,
+            235,
+            52,
+            15
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            425,
+            472,
+            14,
+            13
+        ]
+    },
+    {
+        "value": "DESSICATOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            627,
+            459,
+            64,
+            11
+        ]
+    },
+    {
+        "value": "FREEZER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            627,
+            476,
+            46,
+            11
+        ]
+    },
+    {
+        "value": "OTHER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            628,
+            492,
+            32,
+            13
+        ]
+    },
+    {
+        "value": "B166",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            183,
+            230,
+            34,
+            18
+        ]
+    },
+    {
+        "value": "3212",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            349,
+            162,
+            34,
+            15
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            605,
+            413,
+            15,
+            13
+        ]
+    },
+    {
+        "value": "00866042",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            693,
+            810,
+            20,
+            96
+        ]
+    },
+    {
+        "value": "HAZLETON LABORATORIES AMERICA INC",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            304,
+            74,
+            251,
+            51
+        ]
+    },
+    {
+        "value": "PROJECT SHEET",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            41,
+            82,
+            133,
+            18
+        ]
+    },
+    {
+        "value": "9200 EESAURG TURNPIKE VIENNA VIRGINIA 22180 USA",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            581,
+            77,
+            162,
+            39
+        ]
+    },
+    {
+        "value": "DATE ISSUED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            45,
+            140,
+            65,
+            13
+        ]
+    },
+    {
+        "value": "Oct. 11, 1983",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            123,
+            130,
+            97,
+            20
+        ]
+    },
+    {
+        "value": "PROJECT SHEET NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            278,
+            141,
+            98,
+            15
+        ]
+    },
+    {
+        "value": "PROJECT NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            480,
+            141,
+            88,
+            16
+        ]
+    },
+    {
+        "value": "STUDY TITLE & PROPOSAL NUMBER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            46,
+            159,
+            165,
+            13
+        ]
+    },
+    {
+        "value": "Acute Intraperitoneal Toxicity Study in Rats",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            49,
+            173,
+            325,
+            20
+        ]
+    },
+    {
+        "value": "PROJECT COORDINATOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            420,
+            161,
+            111,
+            14
+        ]
+    },
+    {
+        "value": "LOT NO.(s)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            419,
+            204,
+            61,
+            13
+        ]
+    },
+    {
+        "value": "RECEIPT DATE(s)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            527,
+            204,
+            84,
+            15
+        ]
+    },
+    {
+        "value": "LH- NUMBER(s)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            659,
+            208,
+            73,
+            11
+        ]
+    },
+    {
+        "value": "TEST MATERIAL(s)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            45,
+            201,
+            89,
+            14
+        ]
+    },
+    {
+        "value": "PERFORMING DEPARTMENTS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            47,
+            291,
+            127,
+            15
+        ]
+    },
+    {
+        "value": "4 COPIES EACH DIRECTOR)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            176,
+            292,
+            130,
+            14
+        ]
+    },
+    {
+        "value": "Acute/ Dermal Toxicology",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            47,
+            303,
+            177,
+            16
+        ]
+    },
+    {
+        "value": "PROTECTIVE PRECAUTIONS REQUIRED:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            43,
+            355,
+            182,
+            16
+        ]
+    },
+    {
+        "value": "HAZARDOUS, COMPOUND",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            165,
+            369,
+            103,
+            13
+        ]
+    },
+    {
+        "value": "CARCINOGEN (OSHA)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            211,
+            391,
+            98,
+            14
+        ]
+    },
+    {
+        "value": "CARCINOGEN (OTHER)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            211,
+            413,
+            104,
+            13
+        ]
+    },
+    {
+        "value": "PHYSICAL DESCRIPTION:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            45,
+            451,
+            118,
+            15
+        ]
+    },
+    {
+        "value": "EXPERIMENTAL PROCEDURES",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            45,
+            522,
+            130,
+            15
+        ]
+    },
+    {
+        "value": "to performed in Acure/Dermal Toxicology, building 18.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            189,
+            522,
+            390,
+            20
+        ]
+    },
+    {
+        "value": "ORIGINAL SIGNED PROJECT SHEETS TO PSO",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            422,
+            295,
+            206,
+            15
+        ]
+    },
+    {
+        "value": "FIXED DISTRIBUTION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            472,
+            316,
+            112,
+            13
+        ]
+    },
+    {
+        "value": "(1 COPY TO EACH) LAB ANIMAL MEDICINE QUALITY ASSURANCE CONTRACTS Sponsor",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            587,
+            317,
+            138,
+            70
+        ]
+    },
+    {
+        "value": "DIR. OF LIFE SCIENCES HEALTH SERVICES COMPOUND PREP (TOX) SCIENTIFIC RES TOX",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            430,
+            334,
+            109,
+            58
+        ]
+    },
+    {
+        "value": "FOLLOW DEPARTMENT AND COMPANY SAFETY MANUALS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            420,
+            404,
+            162,
+            23
+        ]
+    },
+    {
+        "value": "STORAGE CONDITIONS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            423,
+            439,
+            100,
+            15
+        ]
+    },
+    {
+        "value": "STORE IN DARK",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            437,
+            455,
+            74,
+            14
+        ]
+    },
+    {
+        "value": "REFRIGERATOR 8 C",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            437,
+            469,
+            105,
+            19
+        ]
+    },
+    {
+        "value": "ROOM TEMPERATURE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            437,
+            489,
+            93,
+            13
+        ]
+    },
+    {
+        "value": "SPECIAL INSTRUCTIONS WHILE DOSING",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            437,
+            504,
+            178,
+            15
+        ]
+    },
+    {
+        "value": "The protocol for this study is attached.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            91,
+            574,
+            292,
+            17
+        ]
+    },
+    {
+        "value": "The protocol was approved in sponsor letter of June 6, 1983.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            95,
+            602,
+            436,
+            18
+        ]
+    },
+    {
+        "value": "The anticipated initiation date of this study is October 1983.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            92,
+            630,
+            451,
+            21
+        ]
+    },
+    {
+        "value": "The anticipated completion date of this study is November 1983.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            91,
+            659,
+            459,
+            22
+        ]
+    },
+    {
+        "value": "ML FORM NO. 5 REVISED 1- 81",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            49,
+            961,
+            74,
+            22
+        ]
+    }
+]

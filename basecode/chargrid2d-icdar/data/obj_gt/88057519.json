@@ -1,0 +1,172 @@
+﻿[
+    {
+        "text": "Address",
+        "box": [
+            395,
+            483,
+            47,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "City",
+        "box": [
+            397,
+            507,
+            22,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "State",
+        "box": [
+            395,
+            529,
+            31,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Zip",
+        "box": [
+            658,
+            528,
+            18,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BRAND",
+        "box": [
+            619,
+            584,
+            63,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1982",
+        "box": [
+            708,
+            409,
+            24,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "88057519",
+        "box": [
+            701,
+            747,
+            18,
+            85
+        ],
+        "class": "other"
+    },
+    {
+        "text": "New SATIN 100's",
+        "box": [
+            552,
+            270,
+            178,
+            81
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Direct Account",
+        "box": [
+            397,
+            434,
+            79,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Please Ship To",
+        "box": [
+            395,
+            455,
+            82,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Delivery Date",
+        "box": [
+            394,
+            554,
+            75,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No. OF CARTONS",
+        "box": [
+            411,
+            582,
+            144,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Satin Filter 100's",
+        "box": [
+            574,
+            617,
+            108,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Satin Menthol 100's",
+        "box": [
+            574,
+            652,
+            129,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Signature of Hetail Purchaser",
+        "box": [
+            395,
+            796,
+            79,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Order Taken By Sales Representative",
+        "box": [
+            398,
+            830,
+            95,
+            22
+        ],
+        "class": "other"
+    },
+    {
+        "text": "DIRECT ACCOUNT",
+        "box": [
+            518,
+            858,
+            113,
+            9
+        ],
+        "class": "other"
+    }
+]

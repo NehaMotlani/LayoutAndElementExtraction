@@ -1,0 +1,712 @@
+﻿[
+    {
+        "text": "Location",
+        "box": [
+            105,
+            134,
+            53,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Division",
+        "box": [
+            425,
+            130,
+            50,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Invitations:",
+        "box": [
+            432,
+            226,
+            70,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Mugs",
+        "box": [
+            103,
+            254,
+            36,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Posters",
+        "box": [
+            105,
+            300,
+            52,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "720",
+        "box": [
+            177,
+            251,
+            28,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "40",
+        "box": [
+            186,
+            268,
+            17,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "20",
+        "box": [
+            184,
+            286,
+            20,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "100",
+        "box": [
+            179,
+            299,
+            27,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "50",
+        "box": [
+            547,
+            250,
+            21,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Unknown",
+        "box": [
+            527,
+            281,
+            59,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "#Requested",
+        "box": [
+            433,
+            253,
+            84,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            105,
+            327,
+            28,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Rec'd",
+        "box": [
+            138,
+            324,
+            36,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Attendees:",
+        "box": [
+            384,
+            365,
+            68,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Counter",
+        "box": [
+            106,
+            387,
+            49,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Floor",
+        "box": [
+            105,
+            406,
+            34,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Posters",
+        "box": [
+            102,
+            420,
+            50,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "15",
+        "box": [
+            201,
+            388,
+            20,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "9",
+        "box": [
+            205,
+            408,
+            14,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "100",
+        "box": [
+            193,
+            419,
+            29,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "40",
+        "box": [
+            534,
+            384,
+            20,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "35",
+        "box": [
+            535,
+            402,
+            20,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10",
+        "box": [
+            535,
+            418,
+            18,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Food",
+        "box": [
+            176,
+            647,
+            36,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cleanliness",
+        "box": [
+            177,
+            662,
+            71,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Service",
+        "box": [
+            175,
+            676,
+            53,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Fair",
+        "box": [
+            338,
+            690,
+            28,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Average",
+        "box": [
+            464,
+            689,
+            50,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "X",
+        "box": [
+            475,
+            641,
+            18,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "X",
+        "box": [
+            616,
+            659,
+            11,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "X",
+        "box": [
+            616,
+            675,
+            15,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Excellent",
+        "box": [
+            598,
+            687,
+            59,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "cc:",
+        "box": [
+            155,
+            884,
+            22,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "92091873",
+        "box": [
+            675,
+            777,
+            15,
+            70
+        ],
+        "class": "other"
+    },
+    {
+        "text": "6/",
+        "box": [
+            190,
+            321,
+            17,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "12/",
+        "box": [
+            211,
+            321,
+            22,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "95",
+        "box": [
+            235,
+            321,
+            15,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "NEWPORT RACING EVENT SURVEY",
+        "box": [
+            244,
+            101,
+            272,
+            16
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Leguna Seca, Monterey, Ca",
+        "box": [
+            176,
+            133,
+            205,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "San Jose/ 933",
+        "box": [
+            518,
+            126,
+            100,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "T. L. Roberts",
+        "box": [
+            517,
+            161,
+            99,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Date (s)",
+        "box": [
+            105,
+            161,
+            50,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "September 10, 1995",
+        "box": [
+            177,
+            159,
+            147,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Division Mgr",
+        "box": [
+            425,
+            158,
+            78,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date Submitted",
+        "box": [
+            284,
+            187,
+            100,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "September 26 1995",
+        "box": [
+            388,
+            182,
+            145,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(submit by 30 days after event)",
+        "box": [
+            311,
+            204,
+            160,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Promotion Quantity:",
+        "box": [
+            102,
+            230,
+            131,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Displays (8)",
+        "box": [
+            105,
+            267,
+            73,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Floor (40)",
+        "box": [
+            103,
+            286,
+            67,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date Notified",
+        "box": [
+            434,
+            268,
+            86,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date Ordered",
+        "box": [
+            433,
+            282,
+            85,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date Rec'd",
+        "box": [
+            434,
+            323,
+            67,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "9/ 5/ 95",
+        "box": [
+            532,
+            267,
+            54,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "9/ 6/ 95",
+        "box": [
+            520,
+            321,
+            46,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "#Displays Placed:",
+        "box": [
+            105,
+            363,
+            121,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "#Customers Invited",
+        "box": [
+            384,
+            385,
+            128,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "#Customers Attended",
+        "box": [
+            383,
+            404,
+            145,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "#Lorillard Personnel",
+        "box": [
+            383,
+            418,
+            137,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Invitees' Comments:",
+        "box": [
+            106,
+            450,
+            130,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "\"Thank You very much for the tickets, we had a great time\" Rogers Liquor, Marina California.",
+        "box": [
+            109,
+            462,
+            585,
+            37
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "\"We really appreciate Lorillard thinking us.\" Shiffert's Wholesale, Visalia, California.",
+        "box": [
+            106,
+            493,
+            570,
+            34
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "\"Thank you so much for the invitations... We had a great time.\" Mission Trail Oil Company (Rotten Robbie Stores) San Jose California.",
+        "box": [
+            108,
+            524,
+            567,
+            34
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "\"The races were great the Newport Hospitality area was terrific\". Coremark, Sacramento, California.",
+        "box": [
+            106,
+            556,
+            535,
+            33
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Race Day Info:",
+        "box": [
+            105,
+            601,
+            96,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Event Attendance 100, 000 Hospitality Tent Attendance 35- 40",
+        "box": [
+            230,
+            598,
+            413,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Quality of Hospitality Tent:",
+        "box": [
+            106,
+            628,
+            168,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Suggestions/ Recommendations:",
+        "box": [
+            106,
+            718,
+            218,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Perhaps the tickets could be sent but a little sooner This year the tickets arrived on Thursday and the race was Sunday. This made it difficult to get the tickets to customers on tine.",
+        "box": [
+            148,
+            733,
+            525,
+            48
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R. P. Bonomo",
+        "box": [
+            191,
+            887,
+            93,
+            15
+        ],
+        "class": "value_answer"
+    }
+]

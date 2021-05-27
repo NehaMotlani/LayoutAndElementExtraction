@@ -1,0 +1,464 @@
+﻿[
+    {
+        "value": "Account",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            519,
+            150,
+            72,
+            16
+        ]
+    },
+    {
+        "value": "Agency",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            521,
+            199,
+            60,
+            12
+        ]
+    },
+    {
+        "value": "SS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            407,
+            213,
+            27,
+            15
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            433,
+            42,
+            21
+        ]
+    },
+    {
+        "value": "1/31/88",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            102,
+            467,
+            58,
+            13
+        ]
+    },
+    {
+        "value": "Insert",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            246,
+            469,
+            49,
+            13
+        ]
+    },
+    {
+        "value": "Signed",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            395,
+            684,
+            61,
+            22
+        ]
+    },
+    {
+        "value": "91581919",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            737,
+            825,
+            25,
+            75
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            458,
+            650,
+            150,
+            70
+        ]
+    },
+    {
+        "value": "4th",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            478,
+            749,
+            33,
+            16
+        ]
+    },
+    {
+        "value": "New",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            102,
+            659,
+            30,
+            13
+        ]
+    },
+    {
+        "value": "Albany",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            138,
+            657,
+            48,
+            15
+        ]
+    },
+    {
+        "value": "Tribune",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            187,
+            657,
+            58,
+            15
+        ]
+    },
+    {
+        "value": "advertisements.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            347,
+            653,
+            145,
+            19
+        ]
+    },
+    {
+        "value": "Bookkeeper",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            561,
+            301,
+            85,
+            16
+        ]
+    },
+    {
+        "value": "MAR 08 RECO",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            126,
+            40,
+            126,
+            45
+        ]
+    },
+    {
+        "value": "AFFIDAVIT OF PERFORMANCE",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            281,
+            108,
+            236,
+            19
+        ]
+    },
+    {
+        "value": "From Newspaper",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            109,
+            148,
+            130,
+            19
+        ]
+    },
+    {
+        "value": "New Albany Tribune",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            251,
+            147,
+            138,
+            19
+        ]
+    },
+    {
+        "value": "Harley Davidson Cigarettes",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            588,
+            148,
+            120,
+            32
+        ]
+    },
+    {
+        "value": "Lorillard Media Service",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            590,
+            196,
+            180,
+            15
+        ]
+    },
+    {
+        "value": "State of",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            106,
+            195,
+            81,
+            17
+        ]
+    },
+    {
+        "value": "County of",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            111,
+            226,
+            82,
+            18
+        ]
+    },
+    {
+        "value": "Indiana )",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            199,
+            193,
+            190,
+            19
+        ]
+    },
+    {
+        "value": "Floyd )",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            199,
+            225,
+            190,
+            16
+        ]
+    },
+    {
+        "value": "Before me a Notary Public, personally appeared",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            108,
+            268,
+            434,
+            22
+        ]
+    },
+    {
+        "value": "Holly Inzer",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            554,
+            265,
+            97,
+            19
+        ]
+    },
+    {
+        "value": "who being duly sworn, says that (he) (she) is",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            103,
+            298,
+            428,
+            24
+        ]
+    },
+    {
+        "value": "of the abovementioned newspaper and that display ads for the above account were made through the aforesaid newspaper during",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            331,
+            594,
+            54
+        ]
+    },
+    {
+        "value": "the month of",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            100,
+            397,
+            126,
+            16
+        ]
+    },
+    {
+        "value": "January ,1988",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            243,
+            394,
+            201,
+            19
+        ]
+    },
+    {
+        "value": "as follows:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            463,
+            398,
+            106,
+            18
+        ]
+    },
+    {
+        "value": "Column Inches",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            237,
+            437,
+            128,
+            16
+        ]
+    },
+    {
+        "value": "Exclusive advertising for",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            436,
+            437,
+            236,
+            16
+        ]
+    },
+    {
+        "value": "Harley Davidson Cigarettes",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            436,
+            469,
+            200,
+            13
+        ]
+    },
+    {
+        "value": "We hereby certify charges shown above on dates per attached bill are true and correct as billed to the account in upper right hand corner of the affidavit and are exclusive",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            102,
+            558,
+            564,
+            87
+        ]
+    },
+    {
+        "value": "Sworn to and subscribed before me this",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            744,
+            361,
+            24
+        ]
+    },
+    {
+        "value": "day of",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            515,
+            750,
+            60,
+            16
+        ]
+    },
+    {
+        "value": "March ,1988",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            585,
+            744,
+            134,
+            22
+        ]
+    },
+    {
+        "value": "IN TESTIMONY WHEREOF I have set my hand and seal the day and year aforesaid.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            100,
+            777,
+            612,
+            47
+        ]
+    },
+    {
+        "value": "MY COMMISSION EXPIRES:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            102,
+            840,
+            211,
+            22
+        ]
+    },
+    {
+        "value": "2-9-90 Betty J. murphy (Notary Public)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            349,
+            838,
+            287,
+            39
+        ]
+    }
+]

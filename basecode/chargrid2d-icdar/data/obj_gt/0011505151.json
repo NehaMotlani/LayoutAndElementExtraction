@@ -1,0 +1,402 @@
+﻿[
+    {
+        "text": "CAPRI",
+        "box": [
+            53,
+            31,
+            47,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DESCRIPTION:",
+        "box": [
+            50,
+            102,
+            108,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SUPPLIER:",
+        "box": [
+            54,
+            145,
+            77,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "466009457",
+        "box": [
+            545,
+            901,
+            130,
+            31
+        ],
+        "class": "other"
+    },
+    {
+        "text": "47,218",
+        "box": [
+            448,
+            381,
+            49,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "9,442",
+        "box": [
+            454,
+            397,
+            45,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "14,165",
+        "box": [
+            447,
+            409,
+            52,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "-Pd.",
+        "box": [
+            503,
+            398,
+            25,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "CUMULATIVE",
+        "box": [
+            567,
+            497,
+            92,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DEC",
+        "box": [
+            205,
+            556,
+            29,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FEB",
+        "box": [
+            207,
+            573,
+            28,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "9.442",
+        "box": [
+            349,
+            547,
+            35,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "21.240",
+        "box": [
+            342,
+            559,
+            47,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3068230.682",
+        "box": [
+            342,
+            570,
+            47,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "77.900",
+        "box": [
+            587,
+            560,
+            59,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            54,
+            43,
+            136,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PROJECT NO.",
+        "box": [
+            447,
+            21,
+            93,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1987- 115- CA",
+        "box": [
+            581,
+            17,
+            99,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CAPRI EXPANSION A&U - CALIFORNIA - WAVE 4.",
+        "box": [
+            254,
+            91,
+            360,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Kapuler Marketing Research",
+        "box": [
+            257,
+            140,
+            222,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MR PERSONNEL:",
+        "box": [
+            54,
+            175,
+            115,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "B. R. Pellett",
+        "box": [
+            257,
+            169,
+            100,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "AUTHORIZED COST:",
+        "box": [
+            54,
+            216,
+            141,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "70,825 + +10 % (TOTAL 1987) +7.075 (2 -23 -88 77,900 TOTAL",
+        "box": [
+            256,
+            211,
+            205,
+            47
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Int. Init. Date",
+        "box": [
+            57,
+            311,
+            94,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Ext. Autho. Date",
+        "box": [
+            56,
+            324,
+            103,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Field Complete",
+        "box": [
+            57,
+            338,
+            103,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Final Rpt. Due",
+        "box": [
+            57,
+            353,
+            93,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            173,
+            307,
+            63,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "11- 16- 87",
+        "box": [
+            166,
+            323,
+            69,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "12- -7 -87",
+        "box": [
+            165,
+            337,
+            72,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1- 11- 88",
+        "box": [
+            173,
+            351,
+            63,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RELEASED TO ACCTG",
+        "box": [
+            84,
+            492,
+            73,
+            28
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PAID OUT OF 1989 BUDGET",
+        "box": [
+            299,
+            487,
+            99,
+            30
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "PAID 1987",
+        "box": [
+            208,
+            385,
+            77,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DEC 1987 ACCRUAL",
+        "box": [
+            207,
+            398,
+            138,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CARRYOVER TO 1988",
+        "box": [
+            208,
+            412,
+            148,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2- 25- 88",
+        "box": [
+            88,
+            568,
+            72,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "YEA -",
+        "box": [
+            297,
+            547,
+            44,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CAPRI -",
+        "box": [
+            299,
+            559,
+            41,
+            11
+        ],
+        "class": "value_question"
+    }
+]

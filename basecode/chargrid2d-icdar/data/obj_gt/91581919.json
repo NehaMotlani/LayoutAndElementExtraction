@@ -1,0 +1,422 @@
+﻿[
+    {
+        "text": "Account",
+        "box": [
+            519,
+            150,
+            72,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Agency",
+        "box": [
+            521,
+            199,
+            60,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SS:",
+        "box": [
+            407,
+            213,
+            27,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            105,
+            433,
+            42,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1/31/88",
+        "box": [
+            102,
+            467,
+            58,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Insert",
+        "box": [
+            246,
+            469,
+            49,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Signed",
+        "box": [
+            395,
+            684,
+            61,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "91581919",
+        "box": [
+            737,
+            825,
+            25,
+            75
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            458,
+            650,
+            150,
+            70
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4th",
+        "box": [
+            478,
+            749,
+            33,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "New",
+        "box": [
+            102,
+            659,
+            30,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Albany",
+        "box": [
+            138,
+            657,
+            48,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Tribune",
+        "box": [
+            187,
+            657,
+            58,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "advertisements.",
+        "box": [
+            347,
+            653,
+            145,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Bookkeeper",
+        "box": [
+            561,
+            301,
+            85,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MAR 08 RECO",
+        "box": [
+            126,
+            40,
+            126,
+            45
+        ],
+        "class": "other"
+    },
+    {
+        "text": "AFFIDAVIT OF PERFORMANCE",
+        "box": [
+            281,
+            108,
+            236,
+            19
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "From Newspaper",
+        "box": [
+            109,
+            148,
+            130,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "New Albany Tribune",
+        "box": [
+            251,
+            147,
+            138,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Harley Davidson Cigarettes",
+        "box": [
+            588,
+            148,
+            120,
+            32
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Lorillard Media Service",
+        "box": [
+            590,
+            196,
+            180,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "State of",
+        "box": [
+            106,
+            195,
+            81,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "County of",
+        "box": [
+            111,
+            226,
+            82,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Indiana )",
+        "box": [
+            199,
+            193,
+            190,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Floyd )",
+        "box": [
+            199,
+            225,
+            190,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Before me a Notary Public, personally appeared",
+        "box": [
+            108,
+            268,
+            434,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Holly Inzer",
+        "box": [
+            554,
+            265,
+            97,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "who being duly sworn, says that (he) (she) is",
+        "box": [
+            103,
+            298,
+            428,
+            24
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "of the abovementioned newspaper and that display ads for the above account were made through the aforesaid newspaper during",
+        "box": [
+            105,
+            331,
+            594,
+            54
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "the month of",
+        "box": [
+            100,
+            397,
+            126,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "January ,1988",
+        "box": [
+            243,
+            394,
+            201,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "as follows:",
+        "box": [
+            463,
+            398,
+            106,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Column Inches",
+        "box": [
+            237,
+            437,
+            128,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Exclusive advertising for",
+        "box": [
+            436,
+            437,
+            236,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Harley Davidson Cigarettes",
+        "box": [
+            436,
+            469,
+            200,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "We hereby certify charges shown above on dates per attached bill are true and correct as billed to the account in upper right hand corner of the affidavit and are exclusive",
+        "box": [
+            102,
+            558,
+            564,
+            87
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Sworn to and subscribed before me this",
+        "box": [
+            105,
+            744,
+            361,
+            24
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "day of",
+        "box": [
+            515,
+            750,
+            60,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "March ,1988",
+        "box": [
+            585,
+            744,
+            134,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "IN TESTIMONY WHEREOF I have set my hand and seal the day and year aforesaid.",
+        "box": [
+            100,
+            777,
+            612,
+            47
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MY COMMISSION EXPIRES:",
+        "box": [
+            102,
+            840,
+            211,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2-9-90 Betty J. murphy (Notary Public)",
+        "box": [
+            349,
+            838,
+            287,
+            39
+        ],
+        "class": "value_answer"
+    }
+]

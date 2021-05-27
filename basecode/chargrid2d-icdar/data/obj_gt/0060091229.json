@@ -1,0 +1,172 @@
+﻿[
+    {
+        "text": "Attention:",
+        "box": [
+            183,
+            860,
+            88,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MARDEN- KANE. INC. 666 FIFTH AVE. NEW YORK, N.Y. 10103 (212) 582-6600",
+        "box": [
+            203,
+            50,
+            306,
+            47
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "TRAVEL INFORMATION SHEET",
+        "box": [
+            262,
+            164,
+            183,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "This information will be used by Marden- Kane in making travel arrangements for your round- trip to Los Angeles, California.",
+        "box": [
+            75,
+            201,
+            561,
+            40
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Finalist Name:",
+        "box": [
+            71,
+            259,
+            107,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Home Address:",
+        "box": [
+            75,
+            304,
+            96,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Home Telephone:",
+        "box": [
+            76,
+            347,
+            110,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Business Telephone:",
+        "box": [
+            76,
+            390,
+            139,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Name of Guests",
+        "box": [
+            73,
+            432,
+            105,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Relationship to Finalist:",
+        "box": [
+            80,
+            473,
+            179,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Major Airport Nearest your home:",
+        "box": [
+            78,
+            515,
+            156,
+            30
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Distance from your home to airport:",
+        "box": [
+            78,
+            575,
+            134,
+            27
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Do you prefer airline seats in smoking or non- smoking section:",
+        "box": [
+            78,
+            630,
+            159,
+            43
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Any special dietary meal and/ you or your guest would prefer",
+        "box": [
+            78,
+            713,
+            178,
+            41
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "RETURN TO:",
+        "box": [
+            78,
+            817,
+            87,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Harden- Kane, Inc. 666 Fifth Avenue New York, N. Y. 10103",
+        "box": [
+            183,
+            814,
+            175,
+            44
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Ms. L. Sobel",
+        "box": [
+            277,
+            855,
+            107,
+            16
+        ],
+        "class": "value_answer"
+    }
+]

@@ -1,0 +1,262 @@
+﻿[
+    {
+        "text": "NAME",
+        "box": [
+            81,
+            415,
+            38,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Strokes",
+        "box": [
+            513,
+            369,
+            61,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NAME",
+        "box": [
+            85,
+            797,
+            39,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "A",
+        "box": [
+            701,
+            898,
+            24,
+            34
+        ],
+        "class": "other"
+    },
+    {
+        "text": "<>",
+        "box": [
+            465,
+            353,
+            36,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "<>",
+        "box": [
+            466,
+            370,
+            35,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SPORTS REGISTRATION",
+        "box": [
+            258,
+            45,
+            218,
+            24
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "37TH ANNUAL MEETING AUGUST 15-18, 1996 RYE- TOWN HILTON HOTEL RYE, NEW YORK",
+        "box": [
+            246,
+            67,
+            249,
+            85
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Make copies of this form if necessary. Complete applicable section (s) and return to NYSAWMD.",
+        "box": [
+            80,
+            183,
+            579,
+            32
+        ],
+        "class": "other"
+    },
+    {
+        "text": "LORILLARD TOBACCO COMPANY",
+        "box": [
+            218,
+            229,
+            303,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "GOLF TOURNAMENT",
+        "box": [
+            80,
+            286,
+            189,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(Ladies & Men) . . . Friday, August 16, Tee off at 8:00 A. M. SHARP (no green fee)",
+        "box": [
+            254,
+            291,
+            406,
+            33
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "I will participate in the Golf Tournament",
+        "box": [
+            81,
+            353,
+            367,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "My handicap is:",
+        "box": [
+            142,
+            369,
+            139,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FIRM NAME",
+        "box": [
+            82,
+            444,
+            83,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BROWN & WILLIAMSON TOBACCO CORPORATION",
+        "box": [
+            155,
+            549,
+            457,
+            21
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "TENNIS TOURNAMENT",
+        "box": [
+            84,
+            594,
+            210,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(Ladies & Men) . . . Friday, August 16, starting time is 3:00 P. M.",
+        "box": [
+            265,
+            595,
+            358,
+            35
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "I will participate in the Tennis Tournament I would classify myself as (please check appropriate box)",
+        "box": [
+            84,
+            661,
+            507,
+            30
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "<> Beginner",
+        "box": [
+            85,
+            705,
+            118,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "<> Fair",
+        "box": [
+            85,
+            722,
+            81,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "<> Good",
+        "box": [
+            87,
+            736,
+            81,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "<> Excellent",
+        "box": [
+            87,
+            751,
+            125,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FIRM NAME",
+        "box": [
+            85,
+            828,
+            82,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NYSAWMD, INC. 211 EAST 43RD STREET, NEW YORK, NY 10017-4707",
+        "box": [
+            109,
+            905,
+            535,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CONVFORM.96 ",
+        "box": [
+            88,
+            937,
+            60,
+            11
+        ],
+        "class": "other"
+    }
+]

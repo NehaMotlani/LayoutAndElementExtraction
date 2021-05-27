@@ -1,0 +1,332 @@
+﻿[
+    {
+        "value": "DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            383,
+            112,
+            39,
+            14
+        ]
+    },
+    {
+        "value": "PLACE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            383,
+            140,
+            45,
+            14
+        ]
+    },
+    {
+        "value": "NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            520,
+            117,
+            22,
+            13
+        ]
+    },
+    {
+        "value": "CLIENT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            106,
+            105,
+            49,
+            14
+        ]
+    },
+    {
+        "value": "PRODUCT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            103,
+            131,
+            64,
+            15
+        ]
+    },
+    {
+        "value": "PRESENT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            159,
+            60,
+            17
+        ]
+    },
+    {
+        "value": "SUMMARY:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            282,
+            67,
+            18
+        ]
+    },
+    {
+        "value": "CONFIDENTIAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            447,
+            328,
+            99,
+            15
+        ]
+    },
+    {
+        "value": "PH:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            95,
+            501,
+            18,
+            13
+        ]
+    },
+    {
+        "value": "cc:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            94,
+            532,
+            20,
+            11
+        ]
+    },
+    {
+        "value": "670121460",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            623,
+            714,
+            20,
+            115
+        ]
+    },
+    {
+        "value": "mg",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            115,
+            506,
+            15,
+            11
+        ]
+    },
+    {
+        "value": "Telephone",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            437,
+            141,
+            64,
+            17
+        ]
+    },
+    {
+        "value": "Viceroy",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            186,
+            135,
+            50,
+            15
+        ]
+    },
+    {
+        "value": "GREY ADVERTISING INC. - MEETING REPORT",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            71,
+            56,
+            503,
+            28
+        ]
+    },
+    {
+        "value": "FEB 23 1982",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            605,
+            56,
+            80,
+            35
+        ]
+    },
+    {
+        "value": "Brown & Williamson",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            170,
+            106,
+            129,
+            17
+        ]
+    },
+    {
+        "value": "1/ 19/ 82",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            437,
+            113,
+            50,
+            17
+        ]
+    },
+    {
+        "value": "482 -2 R1",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            550,
+            116,
+            56,
+            16
+        ]
+    },
+    {
+        "value": "(For the client)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            166,
+            163,
+            85,
+            17
+        ]
+    },
+    {
+        "value": "T. Parrack",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            101,
+            182,
+            71,
+            15
+        ]
+    },
+    {
+        "value": "DATE OF REPORT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            383,
+            166,
+            90,
+            17
+        ]
+    },
+    {
+        "value": "2/ 17/ 82",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            476,
+            170,
+            53,
+            17
+        ]
+    },
+    {
+        "value": "(For the agency)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            165,
+            226,
+            94,
+            16
+        ]
+    },
+    {
+        "value": "P. Hendricks",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            99,
+            244,
+            84,
+            17
+        ]
+    },
+    {
+        "value": "Written by:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            447,
+            306,
+            78,
+            16
+        ]
+    },
+    {
+        "value": "P. Hendricks",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            538,
+            306,
+            86,
+            17
+        ]
+    },
+    {
+        "value": "Client confirmed agreement for Agency to pay advance to with official photographer, signed estimate to follow, for 1/ 25/ 82. This was Viceroy Shoot week of agreed to by T. and January Parrack A. 18 pre- Forsythe production at the meeting",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            95,
+            374,
+            485,
+            62
+        ]
+    },
+    {
+        "value": "R. Schoenfein S. Dammers P. Hendricks",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            127,
+            531,
+            92,
+            43
+        ]
+    },
+    {
+        "value": "670121460 PRODUCED FROM B& W WEB SITE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            1,
+            953,
+            231,
+            29
+        ]
+    }
+]
