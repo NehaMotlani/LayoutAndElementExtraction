@@ -1,0 +1,282 @@
+[
+    {
+        "text": "TO:",
+        "class": "other"
+    },
+    {
+        "text": "FROM:",
+        "class": "answer"
+    },
+    {
+        "text": "SUBJECT:",
+        "class": "question"
+    },
+    {
+        "text": "X",
+        "class": "other"
+    },
+    {
+        "text": "PRE-",
+        "class": "answer"
+    },
+    {
+        "text": "SELL",
+        "class": "answer"
+    },
+    {
+        "text": "DISTRIBUTION",
+        "class": "other"
+    },
+    {
+        "text": "Sheetz",
+        "class": "other"
+    },
+    {
+        "text": "18",
+        "class": "other"
+    },
+    {
+        "text": "150",
+        "class": "other"
+    },
+    {
+        "text": "183",
+        "class": "other"
+    },
+    {
+        "text": "21",
+        "class": "other"
+    },
+    {
+        "text": "82",
+        "class": "other"
+    },
+    {
+        "text": "106",
+        "class": "other"
+    },
+    {
+        "text": "87",
+        "class": "other"
+    },
+    {
+        "text": "5",
+        "class": "other"
+    },
+    {
+        "text": "23",
+        "class": "other"
+    },
+    {
+        "text": "35",
+        "class": "other"
+    },
+    {
+        "text": "43",
+        "class": "other"
+    },
+    {
+        "text": "Kroger",
+        "class": "other"
+    },
+    {
+        "text": "cvs",
+        "class": "other"
+    },
+    {
+        "text": "82253245",
+        "class": "other"
+    },
+    {
+        "text": "K. A. Sparrow",
+        "class": "other"
+    },
+    {
+        "text": "R. E. Lane",
+        "class": "other"
+    },
+    {
+        "text": "SUBMISSION DATE",
+        "class": "other"
+    },
+    {
+        "text": "JUNE 30",
+        "class": "answer"
+    },
+    {
+        "text": "AUG 11",
+        "class": "other"
+    },
+    {
+        "text": "SEP 22",
+        "class": "other"
+    },
+    {
+        "text": "NOV 10",
+        "class": "other"
+    },
+    {
+        "text": "STYLE LOW PRICE PROGRESS REPORT",
+        "class": "question"
+    },
+    {
+        "text": "EFFECTIVENESS OF: Transition Plan",
+        "class": "question"
+    },
+    {
+        "text": "(Report on June 30 only)",
+        "class": "other"
+    },
+    {
+        "text": "Overall pre- sell efforts were successful Retail accounts that previously stocked",
+        "class": "question"
+    },
+    {
+        "text": "Style Full Price accepted the introduction of the low price",
+        "class": "answer"
+    },
+    {
+        "text": "BIGIF 2 FOR 1:",
+        "class": "answer"
+    },
+    {
+        "text": "Proved to be an excellent tool for pulling the balance of Style Full Price packs through",
+        "class": "question"
+    },
+    {
+        "text": "the system. This aided the field greatly during the transition",
+        "class": "answer"
+    },
+    {
+        "text": "$ 7.00 CARTON COUPON/ BUYDOWN:",
+        "class": "answer"
+    },
+    {
+        "text": "Effective in those retail calls that we could not exchange product out of.",
+        "class": "answer"
+    },
+    {
+        "text": "Those situations were limited.",
+        "class": "other"
+    },
+    {
+        "text": "DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION (15+ STORES) STOCKING NO LOW PRICE STYLE",
+        "class": "question"
+    },
+    {
+        "text": "NAME OF ACCOUNT",
+        "class": "question"
+    },
+    {
+        "text": "IND/ LOR VOLUME",
+        "class": "question"
+    },
+    {
+        "text": "NO. OF STORES",
+        "class": "question"
+    },
+    {
+        "text": "NAME OF ACCOUNT",
+        "class": "question"
+    },
+    {
+        "text": "IND/ LOR VOLUME",
+        "class": "other"
+    },
+    {
+        "text": "NO. OF STORES",
+        "class": "other"
+    },
+    {
+        "text": "M. Maskos & Sons",
+        "class": "other"
+    },
+    {
+        "text": "Pollock Candy and Cigar",
+        "class": "other"
+    },
+    {
+        "text": "McKeesport Candy Co.",
+        "class": "other"
+    },
+    {
+        "text": "Sicc Serva",
+        "class": "answer"
+    },
+    {
+        "text": "Thrift/ Eckerd",
+        "class": "answer"
+    },
+    {
+        "text": "104/ 22",
+        "class": "other"
+    },
+    {
+        "text": "521/ 42",
+        "class": "other"
+    },
+    {
+        "text": "137/ 20",
+        "class": "other"
+    },
+    {
+        "text": "DIRECT ACCOUNTS AND CHAINS HEADQUARTERED OUTSIDE THE REGION (15+ STORES) STOCKING NO LOW PRICE STYLE",
+        "class": "header"
+    },
+    {
+        "text": "NAME OF ACCOUNT",
+        "class": "question"
+    },
+    {
+        "text": "IND/ LOR VOLUME",
+        "class": "other"
+    },
+    {
+        "text": "NO OF STORES",
+        "class": "question"
+    },
+    {
+        "text": "NAME OF ACCOUNT",
+        "class": "question"
+    },
+    {
+        "text": "IND/ LOR VOLUME",
+        "class": "other"
+    },
+    {
+        "text": "NO OF STORES",
+        "class": "other"
+    },
+    {
+        "text": "Rich Oil",
+        "class": "other"
+    },
+    {
+        "text": "Super America",
+        "class": "other"
+    },
+    {
+        "text": "W H Smith",
+        "class": "other"
+    },
+    {
+        "text": "7- 11 318 Zon",
+        "class": "other"
+    },
+    {
+        "text": "Dairy Marts",
+        "class": "other"
+    },
+    {
+        "text": "Widman Drugs",
+        "class": "other"
+    },
+    {
+        "text": "STYLE XLS",
+        "class": "other"
+    },
+    {
+        "text": "Page 1 of 3 Pages",
+        "class": "other"
+    }
+]

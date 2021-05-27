@@ -1,0 +1,1025 @@
+﻿[
+    {
+        "value": "COMPOUND",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            119,
+            50,
+            18
+        ]
+    },
+    {
+        "value": "SOURCE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            154,
+            41,
+            15
+        ]
+    },
+    {
+        "value": "INVESTIGATOR(S)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            214,
+            74,
+            15
+        ]
+    },
+    {
+        "value": "SIGNATURE(S)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            243,
+            63,
+            15
+        ]
+    },
+    {
+        "value": "LORILLARD",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            404,
+            154,
+            46,
+            15
+        ]
+    },
+    {
+        "value": "NO",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            451,
+            155,
+            17,
+            14
+        ]
+    },
+    {
+        "value": "REPORTED:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            501,
+            186,
+            50,
+            13
+        ]
+    },
+    {
+        "value": "LOT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            612,
+            154,
+            17,
+            14
+        ]
+    },
+    {
+        "value": "NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            630,
+            155,
+            21,
+            11
+        ]
+    },
+    {
+        "value": "CONCLUSION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            796,
+            54,
+            14
+        ]
+    },
+    {
+        "value": "TA98",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            531,
+            374,
+            21,
+            10
+        ]
+    },
+    {
+        "value": "TA100",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            405,
+            374,
+            24,
+            10
+        ]
+    },
+    {
+        "value": "TA1535",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            278,
+            373,
+            31,
+            11
+        ]
+    },
+    {
+        "value": "TESTED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            320,
+            182,
+            32,
+            21
+        ]
+    },
+    {
+        "value": "SOLVENT",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            485,
+            300,
+            41,
+            17
+        ]
+    },
+    {
+        "value": "DMSC",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            554,
+            302,
+            25,
+            15
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            538,
+            303,
+            14,
+            14
+        ]
+    },
+    {
+        "value": "50",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            284,
+            303,
+            11,
+            11
+        ]
+    },
+    {
+        "value": "80",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            349,
+            304,
+            11,
+            10
+        ]
+    },
+    {
+        "value": "100",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            415,
+            303,
+            18,
+            13
+        ]
+    },
+    {
+        "value": ".5",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            352,
+            332,
+            17,
+            14
+        ]
+    },
+    {
+        "value": ".90",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            507,
+            497,
+            27,
+            18
+        ]
+    },
+    {
+        "value": ".96",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            563,
+            478,
+            27,
+            15
+        ]
+    },
+    {
+        "value": ".92",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            563,
+            500,
+            27,
+            15
+        ]
+    },
+    {
+        "value": ".85",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            563,
+            521,
+            28,
+            17
+        ]
+    },
+    {
+        "value": ".88",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            451,
+            475,
+            28,
+            20
+        ]
+    },
+    {
+        "value": ".97",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            454,
+            500,
+            24,
+            15
+        ]
+    },
+    {
+        "value": ".92",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            453,
+            521,
+            27,
+            17
+        ]
+    },
+    {
+        "value": ".92",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            313,
+            473,
+            29,
+            20
+        ]
+    },
+    {
+        "value": ".79",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            316,
+            499,
+            25,
+            15
+        ]
+    },
+    {
+        "value": ".83",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            316,
+            521,
+            25,
+            17
+        ]
+    },
+    {
+        "value": ".97",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            388,
+            496,
+            28,
+            20
+        ]
+    },
+    {
+        "value": "500",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            137,
+            475,
+            31,
+            15
+        ]
+    },
+    {
+        "value": "250",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            140,
+            500,
+            25,
+            15
+        ]
+    },
+    {
+        "value": "125",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            138,
+            521,
+            31,
+            15
+        ]
+    },
+    {
+        "value": "4",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            138,
+            634,
+            14,
+            13
+        ]
+    },
+    {
+        "value": "2",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            137,
+            656,
+            15,
+            15
+        ]
+    },
+    {
+        "value": ".86",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            260,
+            658,
+            29,
+            14
+        ]
+    },
+    {
+        "value": ".30",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            508,
+            654,
+            27,
+            18
+        ]
+    },
+    {
+        "value": "00836244",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            728,
+            806,
+            18,
+            96
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            668,
+            13,
+            44,
+            20
+        ]
+    },
+    {
+        "value": "AMES ASSAY FOR MUTAGENICITY",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            260,
+            71,
+            284,
+            26
+        ]
+    },
+    {
+        "value": "2, 4- Dihydroxypyridine",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            145,
+            112,
+            198,
+            19
+        ]
+    },
+    {
+        "value": "Lorillard - Organic Chemistry",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            137,
+            144,
+            267,
+            22
+        ]
+    },
+    {
+        "value": "OR61 -2",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            483,
+            141,
+            59,
+            21
+        ]
+    },
+    {
+        "value": "DATE RECEIVED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            183,
+            70,
+            14
+        ]
+    },
+    {
+        "value": "9 /3 /80",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            175,
+            176,
+            56,
+            17
+        ]
+    },
+    {
+        "value": "9 /10 /80 -10 /10 /80",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            363,
+            172,
+            152,
+            23
+        ]
+    },
+    {
+        "value": "10 /10 /80",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            616,
+            173,
+            74,
+            22
+        ]
+    },
+    {
+        "value": "H. S. Tong & A. A. Poole",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            175,
+            203,
+            222,
+            22
+        ]
+    },
+    {
+        "value": "NOTEBOOK PAGE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            535,
+            214,
+            75,
+            17
+        ]
+    },
+    {
+        "value": "BIO7 -24",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            633,
+            205,
+            65,
+            19
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            186,
+            229,
+            420,
+            39
+        ]
+    },
+    {
+        "value": "TOXICITY (% SURVIVAL)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            300,
+            96,
+            17
+        ]
+    },
+    {
+        "value": "CONCENTRATION 1mgimit",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            327,
+            102,
+            15
+        ]
+    },
+    {
+        "value": "☐ OTHER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            538,
+            328,
+            47,
+            14
+        ]
+    },
+    {
+        "value": "☐ WATER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            588,
+            303,
+            49,
+            14
+        ]
+    },
+    {
+        "value": "S. TYPHIMURIUM",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            370,
+            71,
+            15
+        ]
+    },
+    {
+        "value": "CONTROL AFVERTANTS PER PLATE (0.05 ml SOLVENT)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            406,
+            120,
+            21
+        ]
+    },
+    {
+        "value": "(-) 9",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            249,
+            388,
+            27,
+            11
+        ]
+    },
+    {
+        "value": "(+) ",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            310,
+            388,
+            25,
+            12
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            373,
+            388,
+            25,
+            12
+        ]
+    },
+    {
+        "value": "(+) ",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            433,
+            390,
+            26,
+            11
+        ]
+    },
+    {
+        "value": "(-) ",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            496,
+            390,
+            26,
+            10
+        ]
+    },
+    {
+        "value": "(+) ",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            557,
+            390,
+            26,
+            10
+        ]
+    },
+    {
+        "value": "(-) ",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            624,
+            390,
+            26,
+            11
+        ]
+    },
+    {
+        "value": "(+) ",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            684,
+            390,
+            27,
+            11
+        ]
+    },
+    {
+        "value": "4 .67",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            239,
+            419,
+            40,
+            20
+        ]
+    },
+    {
+        "value": "8 .00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            300,
+            418,
+            43,
+            20
+        ]
+    },
+    {
+        "value": "123 .00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            359,
+            419,
+            55,
+            20
+        ]
+    },
+    {
+        "value": "135 .33",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            423,
+            419,
+            57,
+            18
+        ]
+    },
+    {
+        "value": "3 .33.33",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            496,
+            422,
+            38,
+            17
+        ]
+    },
+    {
+        "value": "16 .00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            543,
+            420,
+            47,
+            17
+        ]
+    },
+    {
+        "value": "1. 00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            250,
+            497,
+            35,
+            20
+        ]
+    },
+    {
+        "value": "COMPOUND (US plate)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            454,
+            86,
+            14
+        ]
+    },
+    {
+        "value": "REVERSION RATE (TEST REVERSANTS/CONTROL REVERTANTS PER PLATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            314,
+            455,
+            317,
+            15
+        ]
+    },
+    {
+        "value": "POSTIVE CONTROL (ug plate)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            585,
+            77,
+            18
+        ]
+    },
+    {
+        "value": "2- AMINOANTHHACENE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            615,
+            89,
+            13
+        ]
+    },
+    {
+        "value": "1. 20",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            250,
+            631,
+            35,
+            20
+        ]
+    },
+    {
+        "value": "8 .63",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            303,
+            631,
+            41,
+            19
+        ]
+    },
+    {
+        "value": "1 .39",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            366,
+            633,
+            44,
+            17
+        ]
+    },
+    {
+        "value": "7 .26",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            434,
+            634,
+            38,
+            15
+        ]
+    },
+    {
+        "value": "1 .80",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            499,
+            631,
+            36,
+            19
+        ]
+    },
+    {
+        "value": "27 .69",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            553,
+            634,
+            46,
+            15
+        ]
+    },
+    {
+        "value": "24 .13",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            554,
+            655,
+            45,
+            18
+        ]
+    },
+    {
+        "value": "6 .07",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            433,
+            656,
+            39,
+            17
+        ]
+    },
+    {
+        "value": "1 .24",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            369,
+            656,
+            39,
+            17
+        ]
+    },
+    {
+        "value": "4 .75",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            304,
+            656,
+            43,
+            16
+        ]
+    },
+    {
+        "value": "This compound is judged non mutagenic in this test system.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            166,
+            785,
+            545,
+            24
+        ]
+    },
+    {
+        "value": "Copies to the following:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            138,
+            832,
+            223,
+            20
+        ]
+    },
+    {
+        "value": "Dr. H. J. Minnemeyer Ms. L. B. Gray",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            377,
+            832,
+            187,
+            39
+        ]
+    },
+    {
+        "value": "FORM (5/80)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            670,
+            947,
+            60,
+            13
+        ]
+    },
+    {
+        "value": "LORILLARD RESEARCH CENTER",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            75,
+            946,
+            132,
+            14
+        ]
+    }
+]

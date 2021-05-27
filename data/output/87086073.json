@@ -1,0 +1,114 @@
+[
+    {
+        "text": "",
+        "class": "question"
+    },
+    {
+        "text": "DATE",
+        "class": "answer"
+    },
+    {
+        "text": "STRUCTURE",
+        "class": "other"
+    },
+    {
+        "text": "COMMENTS",
+        "class": "other"
+    },
+    {
+        "text": "J.",
+        "class": "other"
+    },
+    {
+        "text": "D.",
+        "class": "other"
+    },
+    {
+        "text": "Engle",
+        "class": "other"
+    },
+    {
+        "text": "R.",
+        "class": "other"
+    },
+    {
+        "text": "F.",
+        "class": "other"
+    },
+    {
+        "text": "Dufresne",
+        "class": "other"
+    },
+    {
+        "text": "Vanitrope",
+        "class": "other"
+    },
+    {
+        "text": "III",
+        "class": "other"
+    },
+    {
+        "text": "B134",
+        "class": "other"
+    },
+    {
+        "text": "",
+        "class": "other"
+    },
+    {
+        "text": "",
+        "class": "other"
+    },
+    {
+        "text": "87086073",
+        "class": "other"
+    },
+    {
+        "text": "DECISION TREE ESTIMATION OF TOXIC RISK",
+        "class": "header"
+    },
+    {
+        "text": "J. D. Ergle and R. F. Dufresne",
+        "class": "question"
+    },
+    {
+        "text": "August 14, 1990",
+        "class": "other"
+    },
+    {
+        "text": "COMPOUND NAME",
+        "class": "other"
+    },
+    {
+        "text": "CH3CH2O OH",
+        "class": "answer"
+    },
+    {
+        "text": "ESTIMATED TOXICITY CLASS",
+        "class": "other"
+    },
+    {
+        "text": "LORILLARO COMPOUND CODE NUMBER",
+        "class": "question"
+    },
+    {
+        "text": "This ethoxy substitued aromatic falls into class III.",
+        "class": "answer"
+    },
+    {
+        "text": "Research Chemist",
+        "class": "other"
+    },
+    {
+        "text": "Research Chemist",
+        "class": "other"
+    },
+    {
+        "text": "LORILLARD RESEARCH CENTER",
+        "class": "other"
+    },
+    {
+        "text": "FORM ",
+        "class": "other"
+    }
+]

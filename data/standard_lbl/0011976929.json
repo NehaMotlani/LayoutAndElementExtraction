@@ -1,0 +1,266 @@
+﻿[
+    {
+        "value": "Dates:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            420,
+            380,
+            54,
+            18
+        ]
+    },
+    {
+        "value": "466603840",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            543,
+            841,
+            110,
+            21
+        ]
+    },
+    {
+        "value": "/934g",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            102,
+            869,
+            47,
+            17
+        ]
+    },
+    {
+        "value": "/lr",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            75,
+            869,
+            28,
+            18
+        ]
+    },
+    {
+        "value": "700",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            327,
+            383,
+            29,
+            15
+        ]
+    },
+    {
+        "value": "Dundee",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            489,
+            176,
+            54,
+            22
+        ]
+    },
+    {
+        "value": "State:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            54,
+            184,
+            52,
+            21
+        ]
+    },
+    {
+        "value": "Illinois",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            147,
+            183,
+            70,
+            17
+        ]
+    },
+    {
+        "value": "SPECIAL EVENTS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            284,
+            96,
+            124,
+            17
+        ]
+    },
+    {
+        "value": "City/ Town:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            358,
+            182,
+            82,
+            17
+        ]
+    },
+    {
+        "value": "Type of Event:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            57,
+            243,
+            120,
+            20
+        ]
+    },
+    {
+        "value": "Beauty Contest",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            300,
+            237,
+            117,
+            19
+        ]
+    },
+    {
+        "value": "Estimated Attendance",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            59,
+            384,
+            185,
+            18
+        ]
+    },
+    {
+        "value": "March 3rd, 4th & 5th,",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            489,
+            376,
+            180,
+            17
+        ]
+    },
+    {
+        "value": "Name of Event:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            60,
+            441,
+            123,
+            19
+        ]
+    },
+    {
+        "value": "Mrs. Illinois Beauty Pageant",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            297,
+            433,
+            238,
+            19
+        ]
+    },
+    {
+        "value": "Contact (Name/ Telephone):",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            64,
+            525,
+            217,
+            19
+        ]
+    },
+    {
+        "value": "Ms. Joy Weathers (Sales) 312/ 426 - 8000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            300,
+            521,
+            313,
+            18
+        ]
+    },
+    {
+        "value": "Audience Concentration",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            64,
+            584,
+            197,
+            15
+        ]
+    },
+    {
+        "value": "90 % White - 10 % Black Age category 21 yrs. to 45 yrs.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            300,
+            577,
+            260,
+            48
+        ]
+    },
+    {
+        "value": "Recommended Brand(s) and Promotional Activity:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            67,
+            691,
+            398,
+            21
+        ]
+    },
+    {
+        "value": "BARCLAY sampling",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            503,
+            690,
+            138,
+            18
+        ]
+    },
+    {
+        "value": "2 - 12M cases mixed.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            165,
+            721,
+            177,
+            19
+        ]
+    },
+    {
+        "value": "To be placed on tables by B & W Reps.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            169,
+            747,
+            309,
+            21
+        ]
+    }
+]

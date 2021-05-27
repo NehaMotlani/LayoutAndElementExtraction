@@ -1,0 +1,302 @@
+﻿[
+    {
+        "text": "TO:",
+        "box": [
+            80,
+            176,
+            23,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "INSTRUCTIONS:",
+        "box": [
+            76,
+            226,
+            113,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FAX",
+        "box": [
+            248,
+            465,
+            30,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NUMBERS:",
+        "box": [
+            279,
+            463,
+            73,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "3.",
+        "box": [
+            85,
+            626,
+            12,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "465658104",
+        "box": [
+            487,
+            872,
+            113,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            90,
+            842,
+            40,
+            7
+        ],
+        "class": "other"
+    },
+    {
+        "text": "1-23-95",
+        "box": [
+            297,
+            796,
+            43,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BROWN & WILLIAMSON TOBACCO CORPORATION BID REQUEST FORM (QUALITATIVE RESEARCH)",
+        "box": [
+            166,
+            60,
+            353,
+            46
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "1995- 13D",
+        "box": [
+            223,
+            140,
+            58,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "H.L. Williams",
+        "box": [
+            221,
+            159,
+            85,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Goldfarb Consultants",
+        "box": [
+            221,
+            174,
+            121,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PROJECT NUMBER:",
+        "box": [
+            73,
+            145,
+            130,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "B&W ORIGINATOR:",
+        "box": [
+            75,
+            161,
+            129,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1. THE FOLLOWING DOCUMENT IS DIVIDED INTO TWO SECTIONS.",
+        "box": [
+            80,
+            251,
+            453,
+            21
+        ],
+        "class": "other"
+    },
+    {
+        "text": "SECTION ONE CONTAINS THE PROJECT DESCRIPTION AND SPECIFICATIONS FROM B&W. ALL BIDS SHOULD BE BASED ON THE SPECIFICATIONS IN THIS DOCUMENT.",
+        "box": [
+            120,
+            284,
+            393,
+            52
+        ],
+        "class": "other"
+    },
+    {
+        "text": "SECTION TWO SHOULD BE COMPLETED BY THE RESEARCH AGENCY AND RETURNED BY FAX TO THE FOLLOWING PERSON:",
+        "box": [
+            123,
+            347,
+            417,
+            35
+        ],
+        "class": "other"
+    },
+    {
+        "text": "HAROLD WILLIAMS BROWN & WILLIAMSON TOBACCO CORPORATION LOUISVILLE, KENTUCKY U.S.A",
+        "box": [
+            244,
+            399,
+            329,
+            61
+        ],
+        "class": "other"
+    },
+    {
+        "text": "(502) 568-7313 or (502) 568-8319",
+        "box": [
+            359,
+            457,
+            194,
+            20
+        ],
+        "class": "other"
+    },
+    {
+        "text": "2. IN ORDER TO ALLOW US TO COMPARE BIDS, WE REQUEST THAT YOU SUBMIT A BID FOR THE RESEARCH AS SPECIFIED IN SECTION ONE.",
+        "box": [
+            83,
+            490,
+            475,
+            51
+        ],
+        "class": "other"
+    },
+    {
+        "text": "SUGGESTIONS ALTERNATIVE DESIGNS FROM THE AGENCY ARE WELCOME. HOWEVER, THESE SHOULD BE SUBMITTED AS SEPARATE DOCUMENTS APPENDED TO THIS BID FORM.",
+        "box": [
+            125,
+            556,
+            418,
+            49
+        ],
+        "class": "other"
+    },
+    {
+        "text": "IF YOU HAVE ANY QUESTIONS, PLEASE CONTACT THE FOLLOWING PERSON:",
+        "box": [
+            125,
+            620,
+            445,
+            33
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "HAROLD WILLIAMS BROWN & WILLIAMSON TOBACCO CORPORATION LOUISVILLE, U.S.A",
+        "box": [
+            248,
+            653,
+            328,
+            61
+        ],
+        "class": "other"
+    },
+    {
+        "text": "(502) 568-7313 or (502) 568-8319",
+        "box": [
+            364,
+            713,
+            191,
+            22
+        ],
+        "class": "other"
+    },
+    {
+        "text": "FAX NUMBERS:",
+        "box": [
+            251,
+            719,
+            108,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OTHER INFORMATION:",
+        "box": [
+            88,
+            767,
+            165,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE REQUESTED:",
+        "box": [
+            88,
+            801,
+            128,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DEADLINE FOR BID RECEIPT:",
+        "box": [
+            86,
+            821,
+            193,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1-26-95 9:00 AM EST",
+        "box": [
+            297,
+            819,
+            136,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PRODUCED FROM B&W WEB SITE",
+        "box": [
+            2,
+            952,
+            233,
+            13
+        ],
+        "class": "other"
+    }
+]

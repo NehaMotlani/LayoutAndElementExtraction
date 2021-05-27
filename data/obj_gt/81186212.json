@@ -1,0 +1,112 @@
+﻿[
+    {
+        "text": "Date:",
+        "box": [
+            89,
+            232,
+            46,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "81186212",
+        "box": [
+            690,
+            775,
+            20,
+            99
+        ],
+        "class": "other"
+    },
+    {
+        "text": "4/79",
+        "box": [
+            89,
+            943,
+            39,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "New Competitive Activity",
+        "box": [
+            254,
+            56,
+            224,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Please fill in the following information, as appropriate and send to C. W. Toti, Marketing Services Director, at the New York Office. Thank you.",
+        "box": [
+            87,
+            109,
+            559,
+            54
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Reported by:",
+        "box": [
+            85,
+            198,
+            115,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Manufacturer & Brand:",
+        "box": [
+            92,
+            267,
+            190,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Type of product, size(s) & list price:",
+        "box": [
+            89,
+            303,
+            349,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Extent of distribution:",
+        "box": [
+            91,
+            408,
+            210,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Information and hearsay from outside contacts:",
+        "box": [
+            91,
+            514,
+            419,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Further information (please attach any relevant materials; POS, advertising, brochures, etc.):",
+        "box": [
+            89,
+            684,
+            532,
+            35
+        ],
+        "class": "value_question"
+    }
+]

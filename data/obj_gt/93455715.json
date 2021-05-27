@@ -1,0 +1,372 @@
+﻿[
+    {
+        "text": "DATE:",
+        "box": [
+            67,
+            178,
+            37,
+            24
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MANUFACTURERS:",
+        "box": [
+            63,
+            271,
+            111,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "4/7/88",
+        "box": [
+            118,
+            184,
+            55,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "93455715",
+        "box": [
+            681,
+            810,
+            18,
+            93
+        ],
+        "class": "other"
+    },
+    {
+        "text": "cc:",
+        "box": [
+            58,
+            720,
+            27,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMPETITIVE ACTIVITIES AND PROMOTIONS",
+        "box": [
+            247,
+            64,
+            276,
+            24
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "REPORTED BY:",
+        "box": [
+            66,
+            136,
+            88,
+            24
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "R. E. Klein, Regional Sales Manager, Cleveland, OH",
+        "box": [
+            184,
+            136,
+            443,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SOURCE OF INFORMATION:",
+        "box": [
+            67,
+            223,
+            162,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Best Cigarette Co., Mentor, OH",
+        "box": [
+            247,
+            225,
+            270,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R. J. REYNOLDS AND PHILIP MORRIS",
+        "box": [
+            193,
+            271,
+            283,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "TYPE OF PROMOTION:",
+        "box": [
+            58,
+            358,
+            138,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SEE ATTACHED CORRESPONDENCE REGARDING:",
+        "box": [
+            207,
+            364,
+            340,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "- R. J. REYNOLDS SPRING DIRECT ACCOUNT INCENTIVE PROGRAM",
+        "box": [
+            187,
+            391,
+            500,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "- Philip Morris- SPECIAL PROMOTIONS ON MAKLBORO AND CAMBRIDGE CIGARETTES",
+        "box": [
+            187,
+            418,
+            467,
+            48
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "HOW WIDESPREAD?",
+        "box": [
+            61,
+            485,
+            111,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OTHER COMMENTS:",
+        "box": [
+            60,
+            533,
+            113,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Mr. J. R. Ave",
+        "box": [
+            102,
+            720,
+            100,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. T. L. Achey",
+        "box": [
+            283,
+            722,
+            115,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "P. J. McCann",
+        "box": [
+            283,
+            737,
+            124,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. A. J. Giacoio",
+        "box": [
+            281,
+            751,
+            132,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. L. H. Kersh",
+        "box": [
+            283,
+            766,
+            112,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. R. G. Ryan",
+        "box": [
+            284,
+            781,
+            105,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. P. A. Lawless",
+        "box": [
+            281,
+            793,
+            128,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. J. E. Daghlian",
+        "box": [
+            284,
+            810,
+            134,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. R. S. Goldbrenner",
+        "box": [
+            281,
+            823,
+            155,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Ms. E. R. Harrow",
+        "box": [
+            281,
+            837,
+            123,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Ms. S. F. Smith",
+        "box": [
+            278,
+            850,
+            118,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. N. P. Ruffalo",
+        "box": [
+            100,
+            862,
+            128,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. C. Toti",
+        "box": [
+            102,
+            847,
+            81,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Dr. S. T. Jones",
+        "box": [
+            100,
+            835,
+            113,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. G. R. Telford",
+        "box": [
+            100,
+            820,
+            130,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. L. Gordon",
+        "box": [
+            102,
+            805,
+            99,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. J. P. Mastandrea",
+        "box": [
+            103,
+            793,
+            150,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Ms. S. Ridgway",
+        "box": [
+            102,
+            778,
+            106,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. M. A. Peterson Mr. T. H. Mau",
+        "box": [
+            100,
+            750,
+            137,
+            29
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. R. H. Orcutt",
+        "box": [
+            100,
+            737,
+            123,
+            13
+        ],
+        "class": "value_answer"
+    }
+]

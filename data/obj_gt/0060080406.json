@@ -1,0 +1,592 @@
+﻿[
+    {
+        "text": "02/04/91",
+        "box": [
+            550,
+            137,
+            70,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            500,
+            141,
+            28,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DESCRIPTION",
+        "box": [
+            525,
+            168,
+            75,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MEDIUM",
+        "box": [
+            304,
+            169,
+            45,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SALES",
+        "box": [
+            101,
+            135,
+            49,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BRAND",
+        "box": [
+            96,
+            168,
+            36,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ORIGINATOR",
+        "box": [
+            10,
+            141,
+            70,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "THRU",
+        "box": [
+            429,
+            320,
+            31,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "REMARKS",
+        "box": [
+            10,
+            348,
+            50,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "LABELS",
+        "box": [
+            60,
+            501,
+            56,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "DECALS",
+        "box": [
+            59,
+            487,
+            57,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "MOBILES",
+        "box": [
+            229,
+            486,
+            61,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "35,000.00",
+        "box": [
+            500,
+            595,
+            81,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "APPROVALS",
+        "box": [
+            82,
+            627,
+            66,
+            11
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "JAN",
+        "box": [
+            270,
+            651,
+            31,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FEB",
+        "box": [
+            271,
+            666,
+            31,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MAR",
+        "box": [
+            272,
+            680,
+            28,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Agency",
+        "box": [
+            10,
+            661,
+            36,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Forecasting",
+        "box": [
+            10,
+            689,
+            54,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Marketing",
+        "box": [
+            10,
+            716,
+            46,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Sales",
+        "box": [
+            8,
+            747,
+            29,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Sales",
+        "box": [
+            36,
+            804,
+            24,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "President",
+        "box": [
+            10,
+            837,
+            45,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "5060",
+        "box": [
+            518,
+            849,
+            41,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Yr.",
+        "box": [
+            612,
+            853,
+            13,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "91",
+        "box": [
+            676,
+            848,
+            15,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "THE AMERICAN TOBACCO COMPANY",
+        "box": [
+            66,
+            32,
+            86,
+            60
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "SIX STAMFORD FORUM P. O. BOX 10380 STAMFORD CONNECTICUT 06904- 2380",
+        "box": [
+            173,
+            34,
+            165,
+            32
+        ],
+        "class": "other"
+    },
+    {
+        "text": "AT [1- 89)",
+        "box": [
+            622,
+            34,
+            58,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "ADVERTISING AND SELLING AUTHORIZATION",
+        "box": [
+            459,
+            43,
+            222,
+            40
+        ],
+        "class": "other"
+    },
+    {
+        "text": "DO NOT MAKE ANY COMMITMENT OR AUTHORIZE ANY EXPENDITURE OF ANY KIND FOR ACCOUNT OF THIS COMPANY UNTIL EXECUTIVE APPROVAL HAS BEEN OBTAINED HEREON (BE GUIDED BY PPM 60,020 IN COMPLETING THIS FORM)",
+        "box": [
+            22,
+            99,
+            647,
+            19
+        ],
+        "class": "other"
+    },
+    {
+        "text": "BULL DURHAM Filter Box",
+        "box": [
+            57,
+            191,
+            198,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BULL DURHAM Lights BOX",
+        "box": [
+            57,
+            207,
+            200,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "JOB NO",
+        "box": [
+            346,
+            141,
+            39,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COLLATERAL MERCHANDISING MATERIALS",
+        "box": [
+            506,
+            191,
+            199,
+            30
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PERIOD - FROM",
+        "box": [
+            176,
+            320,
+            78,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "01/ 91",
+        "box": [
+            278,
+            318,
+            43,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "03/ 91",
+        "box": [
+            482,
+            316,
+            45,
+            20
+        ],
+        "class": "other"
+    },
+    {
+        "text": "To cover the cost of collateral merchandising materials to be used in 1991 in connection with the merchandising and promotion of BULL DURHAM.",
+        "box": [
+            60,
+            384,
+            630,
+            35
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "These costs will include but are not exclusive to the the following materials:",
+        "box": [
+            59,
+            429,
+            575,
+            30
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CARTON END PANELS",
+        "box": [
+            57,
+            471,
+            148,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "SCORED CARTONS",
+        "box": [
+            466,
+            471,
+            123,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "SHELF DANGLERS",
+        "box": [
+            468,
+            485,
+            120,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "SIDING INDOOR TALKERS",
+        "box": [
+            468,
+            499,
+            182,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "PACKAGE I. D. STRIPS",
+        "box": [
+            229,
+            513,
+            166,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "POSTERS (LARGE WINDOW)",
+        "box": [
+            229,
+            497,
+            188,
+            20
+        ],
+        "class": "other"
+    },
+    {
+        "text": "LIGHT THIEF",
+        "box": [
+            230,
+            471,
+            95,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "JUMBO PACKS",
+        "box": [
+            60,
+            513,
+            97,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "TOTALS $",
+        "box": [
+            402,
+            601,
+            44,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ACCOUNTING DISTRIBUTION",
+        "box": [
+            380,
+            627,
+            144,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "V. P. - Marketing",
+        "box": [
+            10,
+            774,
+            78,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Chairman/ CEO",
+        "box": [
+            13,
+            863,
+            70,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "$ 10.000.",
+        "box": [
+            304,
+            654,
+            104,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$ 10.000.",
+        "box": [
+            307,
+            666,
+            103,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$ 15,000.",
+        "box": [
+            306,
+            677,
+            105,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Account Code",
+        "box": [
+            444,
+            796,
+            67,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Budget Code",
+        "box": [
+            444,
+            825,
+            63,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Auth No.",
+        "box": [
+            444,
+            853,
+            45,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "10- 320",
+        "box": [
+            547,
+            792,
+            59,
+            20
+        ],
+        "class": "value_answer"
+    }
+]

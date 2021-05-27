@@ -1,0 +1,242 @@
+﻿[
+    {
+        "text": "R&D",
+        "box": [
+            292,
+            91,
+            84,
+            84
+        ],
+        "class": "other"
+    },
+    {
+        "text": ":",
+        "box": [
+            219,
+            316,
+            6,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Suggestion:",
+        "box": [
+            95,
+            355,
+            74,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date:",
+        "box": [
+            482,
+            268,
+            36,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Licensee",
+        "box": [
+            511,
+            309,
+            59,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            211,
+            651,
+            6,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Yes",
+        "box": [
+            461,
+            605,
+            22,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No",
+        "box": [
+            545,
+            603,
+            18,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "597005708",
+        "box": [
+            525,
+            904,
+            116,
+            22
+        ],
+        "class": "other"
+    },
+    {
+        "text": "R&D QUALITY IMPROVEMENT SUGGESTION/ SOLUTION FORM",
+        "box": [
+            256,
+            201,
+            167,
+            29
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Name / Phone Ext. :",
+        "box": [
+            89,
+            272,
+            115,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "M. Hamann P. Harper, P. Martinez",
+        "box": [
+            215,
+            271,
+            236,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "9/ 3/ 92",
+        "box": [
+            543,
+            264,
+            47,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R&D Group:",
+        "box": [
+            420,
+            310,
+            71,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "J. S. Wigand",
+        "box": [
+            236,
+            313,
+            91,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Supervisor / Manager",
+        "box": [
+            91,
+            316,
+            127,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Discontinue coal retention analyses on licensee submitted product samples (Note : Coal Retention testing is not performed by most licensees. Other B&W physical measurements as ends stability and inspection for soft spots in ciparettes are thought to be sufficient measures to assure cigarette physical integrity. The proposed action will increase laboratory productivity . )",
+        "box": [
+            190,
+            346,
+            404,
+            101
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Suggested Solutions (s) :",
+        "box": [
+            95,
+            486,
+            155,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Delete coal retention from the list of standard analyses performed on licensee submitted product samples. Special requests for coal retention testing could still be submitted on an exception basis.",
+        "box": [
+            263,
+            483,
+            330,
+            70
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Have you contacted your Manager/ Supervisor?",
+        "box": [
+            96,
+            608,
+            302,
+            16
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Manager Comments:",
+        "box": [
+            98,
+            651,
+            113,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Manager, please contact suggester and forward",
+        "box": [
+            232,
+            644,
+            315,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "comments to the Quality Council.",
+        "box": [
+            99,
+            662,
+            224,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "qip . wp",
+        "box": [
+            102,
+            823,
+            43,
+            15
+        ],
+        "class": "other"
+    }
+]

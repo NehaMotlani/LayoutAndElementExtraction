@@ -1,0 +1,412 @@
+﻿[
+    {
+        "text": "DATE",
+        "box": [
+            154,
+            618,
+            43,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "16/3/82",
+        "box": [
+            133,
+            587,
+            106,
+            24
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            490,
+            576,
+            162,
+            39
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "APPROVALS",
+        "box": [
+            114,
+            657,
+            75,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Accept",
+        "box": [
+            364,
+            684,
+            78,
+            25
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Accept",
+        "box": [
+            368,
+            726,
+            78,
+            31
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Accept",
+        "box": [
+            361,
+            775,
+            72,
+            30
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            469,
+            668,
+            223,
+            39
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            510,
+            714,
+            108,
+            39
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            475,
+            766,
+            216,
+            30
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            490,
+            843,
+            115,
+            30
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            370,
+            850,
+            93,
+            25
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "89368010",
+        "box": [
+            723,
+            804,
+            25,
+            93
+        ],
+        "class": "other"
+    },
+    {
+        "text": "RA/QA FORM 9",
+        "box": [
+            45,
+            28,
+            100,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "FINAL REPORT AMENDMENT",
+        "box": [
+            280,
+            76,
+            209,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Study Name",
+        "box": [
+            106,
+            120,
+            83,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Study Number",
+        "box": [
+            106,
+            141,
+            98,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Initiation Date",
+        "box": [
+            111,
+            163,
+            118,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date of Final Report (Review Completed Date)",
+        "box": [
+            106,
+            186,
+            342,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Part of Final Report to be Amended (Exact location)",
+        "box": [
+            109,
+            208,
+            389,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "The attached is an addition to the I- 1725.001 Final Report",
+        "box": [
+            117,
+            232,
+            518,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "27 April 1982",
+        "box": [
+            478,
+            183,
+            117,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "25 March 1982",
+        "box": [
+            266,
+            162,
+            120,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "I- 1725.001",
+        "box": [
+            220,
+            141,
+            93,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Acute Toxicity of Reference Cigarette Smoke lafter Inhalation in Mice.",
+        "box": [
+            190,
+            117,
+            571,
+            33
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Reason for the Amendment",
+        "box": [
+            108,
+            310,
+            189,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Survival after repeated doses over a 14 day period",
+        "box": [
+            308,
+            305,
+            454,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "may not be accurately predicted from survival after a single day's exposure.",
+        "box": [
+            123,
+            328,
+            593,
+            38
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Amendment (Attach additional sheets as necessary)",
+        "box": [
+            111,
+            404,
+            374,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "The report of the results of",
+        "box": [
+            496,
+            401,
+            251,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "A 14 Day Repeated Dose Assay for Reference Cigarette Smoke in Mice (I- 1725.001- M1 is attached.",
+        "box": [
+            133,
+            425,
+            590,
+            42
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "STUDY DIRECTOR",
+        "box": [
+            504,
+            615,
+            111,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "03 June 1982",
+        "box": [
+            112,
+            689,
+            135,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3 June 1982",
+        "box": [
+            132,
+            725,
+            118,
+            45
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3 June 1982",
+        "box": [
+            117,
+            772,
+            130,
+            28
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ACCEPT/ REJECT (as per 58.185 (c))",
+        "box": [
+            380,
+            651,
+            250,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "QUALITY ASSURANCE ASSOC.",
+        "box": [
+            500,
+            705,
+            184,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DIRECTOR OF RESEARCH",
+        "box": [
+            501,
+            749,
+            156,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DIRECTOR OF RA/QA",
+        "box": [
+            499,
+            795,
+            137,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REGULATORY AFFAIRS",
+        "box": [
+            499,
+            870,
+            147,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Received by REGULATORY AFFATRS",
+        "box": [
+            115,
+            855,
+            232,
+            19
+        ],
+        "class": "value_question"
+    }
+]

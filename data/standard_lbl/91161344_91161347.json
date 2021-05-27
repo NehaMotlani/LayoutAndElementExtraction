@@ -1,0 +1,1630 @@
+﻿[
+    {
+        "value": "TO:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            123,
+            71,
+            22,
+            15
+        ]
+    },
+    {
+        "value": "PRODUCT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            123,
+            143,
+            56,
+            15
+        ]
+    },
+    {
+        "value": "EF1",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            244,
+            143,
+            25,
+            15
+        ]
+    },
+    {
+        "value": "5546/478",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            243,
+            174,
+            66,
+            15
+        ]
+    },
+    {
+        "value": "Alabama",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            120,
+            279,
+            55,
+            13
+        ]
+    },
+    {
+        "value": "Alaska",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            120,
+            296,
+            50,
+            12
+        ]
+    },
+    {
+        "value": "Arizona",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            120,
+            309,
+            55,
+            10
+        ]
+    },
+    {
+        "value": "Arkansas",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            118,
+            322,
+            66,
+            13
+        ]
+    },
+    {
+        "value": "California",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            118,
+            337,
+            78,
+            10
+        ]
+    },
+    {
+        "value": "Colorada",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            116,
+            352,
+            65,
+            10
+        ]
+    },
+    {
+        "value": "Connecticut",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            118,
+            365,
+            83,
+            13
+        ]
+    },
+    {
+        "value": "Delaware",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            118,
+            380,
+            63,
+            15
+        ]
+    },
+    {
+        "value": "Florida",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            115,
+            409,
+            58,
+            13
+        ]
+    },
+    {
+        "value": "Georgia",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            116,
+            427,
+            55,
+            15
+        ]
+    },
+    {
+        "value": "Hawaii",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            116,
+            440,
+            48,
+            13
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            234,
+            279,
+            13,
+            13
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            236,
+            309,
+            10,
+            8
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            234,
+            324,
+            13,
+            10
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            234,
+            341,
+            12,
+            10
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            234,
+            354,
+            10,
+            10
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            234,
+            369,
+            12,
+            12
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            234,
+            385,
+            12,
+            10
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            234,
+            399,
+            13,
+            10
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            233,
+            427,
+            13,
+            12
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            463,
+            281,
+            10,
+            12
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            460,
+            297,
+            15,
+            12
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            460,
+            311,
+            12,
+            12
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            460,
+            346,
+            8,
+            10
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            457,
+            359,
+            12,
+            8
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            460,
+            374,
+            8,
+            8
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            458,
+            389,
+            12,
+            8
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            458,
+            404,
+            13,
+            7
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            460,
+            417,
+            10,
+            10
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            457,
+            447,
+            12,
+            10
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            460,
+            460,
+            12,
+            8
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            460,
+            475,
+            10,
+            10
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            457,
+            490,
+            12,
+            12
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            458,
+            507,
+            10,
+            10
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            458,
+            522,
+            10,
+            7
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            458,
+            537,
+            10,
+            8
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            691,
+            299,
+            8,
+            13
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            689,
+            316,
+            10,
+            8
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            689,
+            329,
+            8,
+            10
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            689,
+            344,
+            8,
+            10
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            689,
+            370,
+            8,
+            13
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            689,
+            402,
+            10,
+            10
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            689,
+            417,
+            8,
+            8
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            688,
+            432,
+            10,
+            10
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            689,
+            460,
+            7,
+            10
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            689,
+            475,
+            10,
+            8
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            689,
+            490,
+            8,
+            12
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            688,
+            503,
+            8,
+            13
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            686,
+            520,
+            13,
+            8
+        ]
+    },
+    {
+        "value": "Oklahoma",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            558,
+            282,
+            63,
+            15
+        ]
+    },
+    {
+        "value": "Oregon",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            555,
+            299,
+            51,
+            13
+        ]
+    },
+    {
+        "value": "Tennessee",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            555,
+            370,
+            73,
+            12
+        ]
+    },
+    {
+        "value": "Texas",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            555,
+            385,
+            43,
+            10
+        ]
+    },
+    {
+        "value": "Utah",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            553,
+            399,
+            35,
+            13
+        ]
+    },
+    {
+        "value": "Vermont",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            555,
+            415,
+            55,
+            12
+        ]
+    },
+    {
+        "value": "Virginia",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            553,
+            429,
+            65,
+            12
+        ]
+    },
+    {
+        "value": "Washington",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            555,
+            445,
+            80,
+            12
+        ]
+    },
+    {
+        "value": "Wisconsin",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            555,
+            472,
+            71,
+            13
+        ]
+    },
+    {
+        "value": "Wyoming",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            555,
+            488,
+            56,
+            13
+        ]
+    },
+    {
+        "value": "Louisiana",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            331,
+            281,
+            71,
+            13
+        ]
+    },
+    {
+        "value": "Maine",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            331,
+            297,
+            42,
+            10
+        ]
+    },
+    {
+        "value": "Maryland",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            329,
+            309,
+            68,
+            13
+        ]
+    },
+    {
+        "value": "Massachusetts",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            331,
+            326,
+            100,
+            13
+        ]
+    },
+    {
+        "value": "Michigan",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            331,
+            339,
+            63,
+            13
+        ]
+    },
+    {
+        "value": "Minnesota",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            329,
+            354,
+            71,
+            12
+        ]
+    },
+    {
+        "value": "Mississippi",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            331,
+            369,
+            83,
+            12
+        ]
+    },
+    {
+        "value": "Missouri",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            329,
+            384,
+            61,
+            12
+        ]
+    },
+    {
+        "value": "Montana",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            329,
+            400,
+            53,
+            8
+        ]
+    },
+    {
+        "value": "Nebraska",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            329,
+            414,
+            60,
+            10
+        ]
+    },
+    {
+        "value": "Nevada",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            329,
+            429,
+            45,
+            12
+        ]
+    },
+    {
+        "value": "Ohio",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            327,
+            530,
+            30,
+            13
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            231,
+            473,
+            13,
+            10
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            231,
+            518,
+            12,
+            8
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            231,
+            533,
+            10,
+            8
+        ]
+    },
+    {
+        "value": "Idaho",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            116,
+            455,
+            40,
+            12
+        ]
+    },
+    {
+        "value": "Illinois",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            116,
+            470,
+            63,
+            12
+        ]
+    },
+    {
+        "value": "Indiana",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            115,
+            487,
+            56,
+            12
+        ]
+    },
+    {
+        "value": "Iowa",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            115,
+            502,
+            35,
+            12
+        ]
+    },
+    {
+        "value": "Kansas",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            116,
+            515,
+            47,
+            10
+        ]
+    },
+    {
+        "value": "Kentucky",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            111,
+            530,
+            68,
+            12
+        ]
+    },
+    {
+        "value": "QUANTITY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            327,
+            606,
+            63,
+            12
+        ]
+    },
+    {
+        "value": "741",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            123,
+            635,
+            25,
+            12
+        ]
+    },
+    {
+        "value": "753",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            123,
+            651,
+            27,
+            10
+        ]
+    },
+    {
+        "value": "827",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            123,
+            664,
+            25,
+            12
+        ]
+    },
+    {
+        "value": "462",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            123,
+            678,
+            27,
+            12
+        ]
+    },
+    {
+        "value": "519",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            206,
+            635,
+            28,
+            12
+        ]
+    },
+    {
+        "value": "934",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            208,
+            651,
+            23,
+            10
+        ]
+    },
+    {
+        "value": "639",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            206,
+            664,
+            25,
+            13
+        ]
+    },
+    {
+        "value": "PRODUCT",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            111,
+            738,
+            60,
+            12
+        ]
+    },
+    {
+        "value": "QUANTITY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            322,
+            739,
+            65,
+            12
+        ]
+    },
+    {
+        "value": "91161344",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            718,
+            822,
+            15,
+            71
+        ]
+    },
+    {
+        "value": "3/20/78",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            618,
+            15,
+            55,
+            15
+        ]
+    },
+    {
+        "value": "Today's Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            485,
+            15,
+            95,
+            15
+        ]
+    },
+    {
+        "value": "Mr. Flinn",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            161,
+            75,
+            74,
+            12
+        ]
+    },
+    {
+        "value": "Mr. Donahue (Loews)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            336,
+            73,
+            152,
+            15
+        ]
+    },
+    {
+        "value": "Mr. Hudson (Greensboro)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            538,
+            75,
+            183,
+            17
+        ]
+    },
+    {
+        "value": "Dr. Schultz (Greensboro",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            537,
+            91,
+            184,
+            14
+        ]
+    },
+    {
+        "value": "Mr. Tucker (Greensboro)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            537,
+            105,
+            184,
+            13
+        ]
+    },
+    {
+        "value": "Dr. Jones (Greensboro)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            538,
+            118,
+            184,
+            15
+        ]
+    },
+    {
+        "value": "Mr. Gaalman",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            161,
+            90,
+            84,
+            12
+        ]
+    },
+    {
+        "value": "Mr. Goldbrenner",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            161,
+            101,
+            116,
+            13
+        ]
+    },
+    {
+        "value": "Mr. Duffy (Loews)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            336,
+            88,
+            153,
+            16
+        ]
+    },
+    {
+        "value": "Mr. Miele (Loews)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            334,
+            103,
+            154,
+            15
+        ]
+    },
+    {
+        "value": "MRD #",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            120,
+            173,
+            40,
+            15
+        ]
+    },
+    {
+        "value": "PROJECT ORIGINATED BY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            121,
+            204,
+            161,
+            15
+        ]
+    },
+    {
+        "value": "William Doyle",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            311,
+            203,
+            100,
+            17
+        ]
+    },
+    {
+        "value": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            90,
+            249,
+            386,
+            15
+        ]
+    },
+    {
+        "value": "D. C.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            115,
+            395,
+            40,
+            15
+        ]
+    },
+    {
+        "value": "New Hampshire",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            329,
+            442,
+            99,
+            13
+        ]
+    },
+    {
+        "value": "New Jersey",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            329,
+            457,
+            77,
+            11
+        ]
+    },
+    {
+        "value": "New Mexico",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            332,
+            472,
+            76,
+            15
+        ]
+    },
+    {
+        "value": "New York",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            329,
+            488,
+            59,
+            12
+        ]
+    },
+    {
+        "value": "North Carolina",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            331,
+            500,
+            105,
+            14
+        ]
+    },
+    {
+        "value": "North Dakota",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            329,
+            517,
+            92,
+            9
+        ]
+    },
+    {
+        "value": "Pennsyl vania",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            558,
+            312,
+            94,
+            13
+        ]
+    },
+    {
+        "value": "Rhode Island",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            558,
+            327,
+            91,
+            12
+        ]
+    },
+    {
+        "value": "South Carolina",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            556,
+            341,
+            111,
+            14
+        ]
+    },
+    {
+        "value": "South Dakota",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            556,
+            355,
+            95,
+            14
+        ]
+    },
+    {
+        "value": "West Virginia",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            558,
+            457,
+            98,
+            15
+        ]
+    },
+    {
+        "value": "*Chicago, Ill.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            555,
+            503,
+            106,
+            13
+        ]
+    },
+    {
+        "value": "*NYC, N. Y.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            555,
+            517,
+            81,
+            13
+        ]
+    },
+    {
+        "value": "2. ESTIMATED TEST PRODUCT QUANTITIES (PER MARKET)",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            85,
+            573,
+            382,
+            15
+        ]
+    },
+    {
+        "value": "PRODUCT Code #",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            116,
+            605,
+            55,
+            28
+        ]
+    },
+    {
+        "value": "Code #",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            196,
+            618,
+            51,
+            15
+        ]
+    },
+    {
+        "value": "(4's, 5's, 20's etc.)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            547,
+            603,
+            161,
+            18
+        ]
+    },
+    {
+        "value": "All are 20's",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            571,
+            635,
+            93,
+            13
+        ]
+    },
+    {
+        "value": "(4's, 5's, 20's etc.)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            548,
+            738,
+            155,
+            18
+        ]
+    },
+    {
+        "value": "All are 20's",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            575,
+            767,
+            90,
+            15
+        ]
+    },
+    {
+        "value": "Varies by market, see attached list. Approx. 20% of the total # by state will receive product",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            339,
+            635,
+            156,
+            73
+        ]
+    },
+    {
+        "value": "2a. ESTIMATED TOTALS BY PRODUCT ALL MARKETS COMBINED",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            76,
+            708,
+            419,
+            14
+        ]
+    },
+    {
+        "value": "Code # 741",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            133,
+            752,
+            72,
+            14
+        ]
+    },
+    {
+        "value": "Code # 753",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            135,
+            769,
+            73,
+            12
+        ]
+    },
+    {
+        "value": "Code # 327",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            135,
+            782,
+            70,
+            13
+        ]
+    },
+    {
+        "value": "Code # 462",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            135,
+            797,
+            69,
+            14
+        ]
+    },
+    {
+        "value": "Code # #519",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            135,
+            812,
+            69,
+            14
+        ]
+    },
+    {
+        "value": "Code # 934",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            135,
+            827,
+            69,
+            12
+        ]
+    },
+    {
+        "value": "Cade # 639",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            131,
+            842,
+            75,
+            13
+        ]
+    },
+    {
+        "value": "1920 Packs",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            347,
+            754,
+            79,
+            12
+        ]
+    },
+    {
+        "value": "1920 Packs",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            349,
+            769,
+            77,
+            12
+        ]
+    },
+    {
+        "value": "960 Packs",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            357,
+            784,
+            69,
+            12
+        ]
+    },
+    {
+        "value": "960 Packs",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            354,
+            797,
+            70,
+            14
+        ]
+    },
+    {
+        "value": "1920 Packs",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            347,
+            812,
+            76,
+            14
+        ]
+    },
+    {
+        "value": "1920 Packs",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            347,
+            827,
+            77,
+            12
+        ]
+    },
+    {
+        "value": "1920 Packs",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            349,
+            842,
+            75,
+            12
+        ]
+    }
+]

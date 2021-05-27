@@ -1,0 +1,414 @@
+[
+    {
+        "text": "Date:",
+        "class": "other"
+    },
+    {
+        "text": "on",
+        "class": "other"
+    },
+    {
+        "text": "BLEND",
+        "class": "question"
+    },
+    {
+        "text": "CASTING",
+        "class": "question"
+    },
+    {
+        "text": "RECASING",
+        "class": "question"
+    },
+    {
+        "text": "MENIHOL",
+        "class": "other"
+    },
+    {
+        "text": "Filters",
+        "class": "other"
+    },
+    {
+        "text": "Cigarettes",
+        "class": "other"
+    },
+    {
+        "text": "Maker",
+        "class": "answer"
+    },
+    {
+        "text": "Length",
+        "class": "answer"
+    },
+    {
+        "text": "Circumference",
+        "class": "answer"
+    },
+    {
+        "text": "Weight",
+        "class": "answer"
+    },
+    {
+        "text": "Paper",
+        "class": "answer"
+    },
+    {
+        "text": "Kind",
+        "class": "answer"
+    },
+    {
+        "text": "Circumference",
+        "class": "answer"
+    },
+    {
+        "text": "Weight",
+        "class": "answer"
+    },
+    {
+        "text": "Plast.",
+        "class": "question"
+    },
+    {
+        "text": "3/14/90",
+        "class": "other"
+    },
+    {
+        "text": "Attached",
+        "class": "question"
+    },
+    {
+        "text": "None",
+        "class": "question"
+    },
+    {
+        "text": "Attached",
+        "class": "question"
+    },
+    {
+        "text": "None",
+        "class": "other"
+    },
+    {
+        "text": "None",
+        "class": "other"
+    },
+    {
+        "text": "mm",
+        "class": "other"
+    },
+    {
+        "text": "430",
+        "class": "question"
+    },
+    {
+        "text": "G",
+        "class": "other"
+    },
+    {
+        "text": "White",
+        "class": "question"
+    },
+    {
+        "text": "Blue",
+        "class": "question"
+    },
+    {
+        "text": "White",
+        "class": "question"
+    },
+    {
+        "text": "White",
+        "class": "question"
+    },
+    {
+        "text": "James",
+        "class": "other"
+    },
+    {
+        "text": "James",
+        "class": "other"
+    },
+    {
+        "text": "MFG.",
+        "class": "other"
+    },
+    {
+        "text": "Wrapping",
+        "class": "other"
+    },
+    {
+        "text": "Responsibility",
+        "class": "other"
+    },
+    {
+        "text": "Closures",
+        "class": "question"
+    },
+    {
+        "text": "Labels",
+        "class": "answer"
+    },
+    {
+        "text": "Cartons",
+        "class": "answer"
+    },
+    {
+        "text": "Markings",
+        "class": "answer"
+    },
+    {
+        "text": "Shipping",
+        "class": "other"
+    },
+    {
+        "text": "Requirements",
+        "class": "other"
+    },
+    {
+        "text": "Laboratory",
+        "class": "question"
+    },
+    {
+        "text": "Analysis:",
+        "class": "other"
+    },
+    {
+        "text": "87093315",
+        "class": "other"
+    },
+    {
+        "text": "90- B- 1",
+        "class": "other"
+    },
+    {
+        "text": "1194- 90",
+        "class": "answer"
+    },
+    {
+        "text": "100 mm Filter",
+        "class": "other"
+    },
+    {
+        "text": "47.5 lbs.",
+        "class": "other"
+    },
+    {
+        "text": "Original Request Made By",
+        "class": "answer"
+    },
+    {
+        "text": "J. H. Bell",
+        "class": "answer"
+    },
+    {
+        "text": "2/15/90",
+        "class": "other"
+    },
+    {
+        "text": "Purpose of Sample",
+        "class": "answer"
+    },
+    {
+        "text": "Cigarette Modification B- 451",
+        "class": "answer"
+    },
+    {
+        "text": "Sample Specifications Written By",
+        "class": "question"
+    },
+    {
+        "text": "C. W. Lassiter",
+        "class": "other"
+    },
+    {
+        "text": "FINAL FLAVOR",
+        "class": "question"
+    },
+    {
+        "text": "MK 8",
+        "class": "other"
+    },
+    {
+        "text": "99.0 mm",
+        "class": "other"
+    },
+    {
+        "text": "27 mm",
+        "class": "question"
+    },
+    {
+        "text": "24.8 mm",
+        "class": "other"
+    },
+    {
+        "text": "78.0 g / 100",
+        "class": "question"
+    },
+    {
+        "text": "81- 01- 07",
+        "class": "question"
+    },
+    {
+        "text": "25- 04- 07",
+        "class": "question"
+    },
+    {
+        "text": "67 mm White",
+        "class": "question"
+    },
+    {
+        "text": "Sample No.",
+        "class": "other"
+    },
+    {
+        "text": "Type of Cigarette",
+        "class": "answer"
+    },
+    {
+        "text": "Batch Size",
+        "class": "answer"
+    },
+    {
+        "text": "Filter Length",
+        "class": "answer"
+    },
+    {
+        "text": "Tip. Paper",
+        "class": "answer"
+    },
+    {
+        "text": "Tip. Paper Por.",
+        "class": "other"
+    },
+    {
+        "text": "Glue Roller",
+        "class": "other"
+    },
+    {
+        "text": "Air Dilution",
+        "class": "answer"
+    },
+    {
+        "text": "13.0 %",
+        "class": "question"
+    },
+    {
+        "text": "Section A",
+        "class": "question"
+    },
+    {
+        "text": "Section B",
+        "class": "other"
+    },
+    {
+        "text": "27 mm",
+        "class": "other"
+    },
+    {
+        "text": "3.3/ 35,000",
+        "class": "other"
+    },
+    {
+        "text": "OG Lt.",
+        "class": "other"
+    },
+    {
+        "text": "108 mm",
+        "class": "other"
+    },
+    {
+        "text": "400 mm",
+        "class": "other"
+    },
+    {
+        "text": "24.45 mm",
+        "class": "other"
+    },
+    {
+        "text": "75.3 30g / 100",
+        "class": "other"
+    },
+    {
+        "text": "7 % Kent",
+        "class": "other"
+    },
+    {
+        "text": "84- 52- 28",
+        "class": "other"
+    },
+    {
+        "text": "655 ",
+        "class": "other"
+    },
+    {
+        "text": "Rod Length",
+        "class": "answer"
+    },
+    {
+        "text": "Pressure Drop",
+        "class": "answer"
+    },
+    {
+        "text": "Plug Wrap",
+        "class": "answer"
+    },
+    {
+        "text": "Plug Wrap Por.",
+        "class": "answer"
+    },
+    {
+        "text": "Comb. Wrap",
+        "class": "other"
+    },
+    {
+        "text": "Comb. Wrap Por.",
+        "class": "other"
+    },
+    {
+        "text": "Tobacco Blend",
+        "class": "answer"
+    },
+    {
+        "text": "Filter Production",
+        "class": "answer"
+    },
+    {
+        "text": "Making & Packing",
+        "class": "question"
+    },
+    {
+        "text": "Sample Requistion (Form 02: 20: 06)",
+        "class": "other"
+    },
+    {
+        "text": "Lassiter/ Douglas",
+        "class": "other"
+    },
+    {
+        "text": "Tear Tape",
+        "class": "answer"
+    },
+    {
+        "text": "Sample No. on each Carton",
+        "class": "question"
+    },
+    {
+        "text": "Laboratory Other",
+        "class": "question"
+    },
+    {
+        "text": "1 Tray",
+        "class": "question"
+    },
+    {
+        "text": "Mainstream Smoke Analysis",
+        "class": "question"
+    },
+    {
+        "text": "Special Requirements",
+        "class": "other"
+    },
+    {
+        "text": "Director, Product Development",
+        "class": "other"
+    }
+]

@@ -1,0 +1,365 @@
+﻿[
+    {
+        "value": "HOURS:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            131,
+            499,
+            73,
+            24
+        ]
+    },
+    {
+        "value": "SPECIFICS:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            133,
+            634,
+            92,
+            21
+        ]
+    },
+    {
+        "value": "(S)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            307,
+            684,
+            11,
+            18
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            209,
+            746,
+            14,
+            13
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            208,
+            686,
+            13,
+            14
+        ]
+    },
+    {
+        "value": "92586242",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            662,
+            796,
+            15,
+            73
+        ]
+    },
+    {
+        "value": "3056",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            52,
+            934,
+            21,
+            13
+        ]
+    },
+    {
+        "value": "Newport pleasure!",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            80,
+            80,
+            591,
+            91
+        ]
+    },
+    {
+        "value": "SPECIAL EVENT INFORMATION SHEET",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            134,
+            239,
+            488,
+            28
+        ]
+    },
+    {
+        "value": "GENERAL INFORMATION:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            131,
+            338,
+            233,
+            19
+        ]
+    },
+    {
+        "value": "EVENT NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            131,
+            373,
+            85,
+            18
+        ]
+    },
+    {
+        "value": "EVENT LOCATION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            133,
+            404,
+            112,
+            17
+        ]
+    },
+    {
+        "value": "EVENT DATES:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            131,
+            432,
+            86,
+            17
+        ]
+    },
+    {
+        "value": "Upper Madisor Avenue Festival",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            258,
+            372,
+            201,
+            17
+        ]
+    },
+    {
+        "value": "68th -86th Street New York, NY",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            258,
+            402,
+            215,
+            17
+        ]
+    },
+    {
+        "value": "June 4, 1995",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            260,
+            432,
+            83,
+            17
+        ]
+    },
+    {
+        "value": "MONDAY- FRIDAY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            133,
+            535,
+            109,
+            20
+        ]
+    },
+    {
+        "value": "SATURDAY- SUNDAY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            131,
+            564,
+            119,
+            17
+        ]
+    },
+    {
+        "value": "11 am - 6 pm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            272,
+            566,
+            72,
+            15
+        ]
+    },
+    {
+        "value": "check applicable box(es)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            133,
+            656,
+            119,
+            17
+        ]
+    },
+    {
+        "value": "# OF BOOTH",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            225,
+            684,
+            80,
+            18
+        ]
+    },
+    {
+        "value": "☐ SAMPLING & PREMIUMS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            208,
+            715,
+            158,
+            16
+        ]
+    },
+    {
+        "value": "PREMIUMS ONLY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            226,
+            743,
+            100,
+            18
+        ]
+    },
+    {
+        "value": "☐ SIGNAGE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            451,
+            684,
+            68,
+            17
+        ]
+    },
+    {
+        "value": "☐ MUSIC VAN",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            453,
+            714,
+            84,
+            15
+        ]
+    },
+    {
+        "value": "☐ RACING CAR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            453,
+            746,
+            91,
+            14
+        ]
+    },
+    {
+        "value": "SUPERVISOR INFORMATION:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            135,
+            813,
+            256,
+            18
+        ]
+    },
+    {
+        "value": "NAME OF ALLWAYS SUPERVISOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            134,
+            848,
+            191,
+            18
+        ]
+    },
+    {
+        "value": "Jerome Curry",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            359,
+            851,
+            82,
+            14
+        ]
+    },
+    {
+        "value": "PHONE NUMBER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            134,
+            878,
+            104,
+            14
+        ]
+    },
+    {
+        "value": "(201) 923 -9208",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            251,
+            877,
+            94,
+            15
+        ]
+    },
+    {
+        "value": "BEEPER NUMBER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            372,
+            878,
+            105,
+            16
+        ]
+    },
+    {
+        "value": "(201) 698 1780",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            494,
+            877,
+            94,
+            15
+        ]
+    }
+]

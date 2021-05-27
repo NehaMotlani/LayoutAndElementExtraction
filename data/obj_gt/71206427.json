@@ -1,0 +1,312 @@
+﻿[
+    {
+        "text": "ITEM:",
+        "box": [
+            394,
+            145,
+            39,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE:",
+        "box": [
+            109,
+            112,
+            42,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BRAND:",
+        "box": [
+            110,
+            140,
+            49,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SUMMARY",
+        "box": [
+            109,
+            183,
+            59,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OF",
+        "box": [
+            175,
+            184,
+            18,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PROJECT:",
+        "box": [
+            201,
+            184,
+            66,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Attached",
+        "box": [
+            317,
+            186,
+            68,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "See",
+        "box": [
+            282,
+            186,
+            28,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "FUNDING:",
+        "box": [
+            103,
+            404,
+            70,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SIGNATURES:",
+        "box": [
+            101,
+            559,
+            95,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "4514cbta",
+        "box": [
+            98,
+            824,
+            68,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            545,
+            21,
+            102,
+            96
+        ],
+        "class": "other"
+    },
+    {
+        "text": "PROJECT BRIEF",
+        "box": [
+            328,
+            74,
+            109,
+            16
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "June 1, 1990",
+        "box": [
+            194,
+            115,
+            101,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "General Merchandising Nonspecific",
+        "box": [
+            176,
+            142,
+            176,
+            28
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Package Fixture Circle-K Convenient Stores",
+        "box": [
+            450,
+            147,
+            203,
+            28
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            550,
+            216,
+            153,
+            109
+        ],
+        "class": "other"
+    },
+    {
+        "text": "SUPPLIERS BEING CONSIDERED:",
+        "box": [
+            106,
+            251,
+            225,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Chicago Show",
+        "box": [
+            106,
+            278,
+            104,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Display Equation",
+        "box": [
+            105,
+            306,
+            136,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Chicago Display",
+        "box": [
+            106,
+            335,
+            127,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Robert Nielson & Associates",
+        "box": [
+            106,
+            360,
+            227,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1990 Customized Merchandising",
+        "box": [
+            106,
+            430,
+            241,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Services ESPNS",
+        "box": [
+            105,
+            459,
+            126,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "REQUESTING MANAGER",
+        "box": [
+            101,
+            598,
+            153,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MERCHANDISING MANAGER",
+        "box": [
+            101,
+            640,
+            177,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "GROUP PRODUCT DIRECTOR",
+        "box": [
+            99,
+            682,
+            186,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PURCHASING DEPARTMENT",
+        "box": [
+            98,
+            725,
+            177,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "RETURN TO:",
+        "box": [
+            96,
+            768,
+            85,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REQUESTING MANAGER",
+        "box": [
+            197,
+            771,
+            154,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "462231045 PRODUCED FROM B&W WEB SITE",
+        "box": [
+            1,
+            953,
+            231,
+            30
+        ],
+        "class": "other"
+    }
+]

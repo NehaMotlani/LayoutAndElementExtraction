@@ -1,0 +1,302 @@
+﻿[
+    {
+        "text": "DATE:",
+        "box": [
+            383,
+            112,
+            39,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PLACE:",
+        "box": [
+            383,
+            140,
+            45,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NO.",
+        "box": [
+            520,
+            117,
+            22,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CLIENT:",
+        "box": [
+            106,
+            105,
+            49,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PRODUCT:",
+        "box": [
+            103,
+            131,
+            64,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PRESENT:",
+        "box": [
+            105,
+            159,
+            60,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SUMMARY:",
+        "box": [
+            99,
+            282,
+            67,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CONFIDENTIAL",
+        "box": [
+            447,
+            328,
+            99,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PH:",
+        "box": [
+            95,
+            501,
+            18,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "cc:",
+        "box": [
+            94,
+            532,
+            20,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "670121460",
+        "box": [
+            623,
+            714,
+            20,
+            115
+        ],
+        "class": "other"
+    },
+    {
+        "text": "mg",
+        "box": [
+            115,
+            506,
+            15,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Telephone",
+        "box": [
+            437,
+            141,
+            64,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Viceroy",
+        "box": [
+            186,
+            135,
+            50,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "GREY ADVERTISING INC. - MEETING REPORT",
+        "box": [
+            71,
+            56,
+            503,
+            28
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "FEB 23 1982",
+        "box": [
+            605,
+            56,
+            80,
+            35
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Brown & Williamson",
+        "box": [
+            170,
+            106,
+            129,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1/ 19/ 82",
+        "box": [
+            437,
+            113,
+            50,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "482 -2 R1",
+        "box": [
+            550,
+            116,
+            56,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(For the client)",
+        "box": [
+            166,
+            163,
+            85,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "T. Parrack",
+        "box": [
+            101,
+            182,
+            71,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DATE OF REPORT:",
+        "box": [
+            383,
+            166,
+            90,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2/ 17/ 82",
+        "box": [
+            476,
+            170,
+            53,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(For the agency)",
+        "box": [
+            165,
+            226,
+            94,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "P. Hendricks",
+        "box": [
+            99,
+            244,
+            84,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Written by:",
+        "box": [
+            447,
+            306,
+            78,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "P. Hendricks",
+        "box": [
+            538,
+            306,
+            86,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Client confirmed agreement for Agency to pay advance to with official photographer, signed estimate to follow, for 1/ 25/ 82. This was Viceroy Shoot week of agreed to by T. and January Parrack A. 18 pre- Forsythe production at the meeting",
+        "box": [
+            95,
+            374,
+            485,
+            62
+        ],
+        "class": "other"
+    },
+    {
+        "text": "R. Schoenfein S. Dammers P. Hendricks",
+        "box": [
+            127,
+            531,
+            92,
+            43
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "670121460 PRODUCED FROM B& W WEB SITE",
+        "box": [
+            1,
+            953,
+            231,
+            29
+        ],
+        "class": "other"
+    }
+]

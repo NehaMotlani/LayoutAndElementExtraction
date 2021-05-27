@@ -1,0 +1,123 @@
+﻿[
+    {
+        "value": "Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            89,
+            232,
+            46,
+            18
+        ]
+    },
+    {
+        "value": "81186212",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            690,
+            775,
+            20,
+            99
+        ]
+    },
+    {
+        "value": "4/79",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            89,
+            943,
+            39,
+            18
+        ]
+    },
+    {
+        "value": "New Competitive Activity",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            254,
+            56,
+            224,
+            20
+        ]
+    },
+    {
+        "value": "Please fill in the following information, as appropriate and send to C. W. Toti, Marketing Services Director, at the New York Office. Thank you.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            87,
+            109,
+            559,
+            54
+        ]
+    },
+    {
+        "value": "Reported by:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            198,
+            115,
+            17
+        ]
+    },
+    {
+        "value": "Manufacturer & Brand:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            92,
+            267,
+            190,
+            17
+        ]
+    },
+    {
+        "value": "Type of product, size(s) & list price:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            89,
+            303,
+            349,
+            18
+        ]
+    },
+    {
+        "value": "Extent of distribution:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            408,
+            210,
+            17
+        ]
+    },
+    {
+        "value": "Information and hearsay from outside contacts:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            514,
+            419,
+            16
+        ]
+    },
+    {
+        "value": "Further information (please attach any relevant materials; POS, advertising, brochures, etc.):",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            89,
+            684,
+            532,
+            35
+        ]
+    }
+]

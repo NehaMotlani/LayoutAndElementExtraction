@@ -1,0 +1,398 @@
+﻿[
+    {
+        "value": "DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            95,
+            258,
+            47,
+            20
+        ]
+    },
+    {
+        "value": "FROM:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            309,
+            49,
+            18
+        ]
+    },
+    {
+        "value": "TO:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            98,
+            359,
+            27,
+            15
+        ]
+    },
+    {
+        "value": "ADDRESS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            422,
+            77,
+            20
+        ]
+    },
+    {
+        "value": "Telephone",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            487,
+            173,
+            41,
+            8
+        ]
+    },
+    {
+        "value": "Telefax",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            486,
+            182,
+            32,
+            8
+        ]
+    },
+    {
+        "value": "Re.:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            98,
+            626,
+            34,
+            17
+        ]
+    },
+    {
+        "value": "2463",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            303,
+            154,
+            57,
+            21
+        ]
+    },
+    {
+        "value": "2505430204",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            648,
+            779,
+            43,
+            144
+        ]
+    },
+    {
+        "value": "27/94",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            686,
+            954,
+            20,
+            8
+        ]
+    },
+    {
+        "value": "Contract",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            487,
+            138,
+            52,
+            13
+        ]
+    },
+    {
+        "value": "Research",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            542,
+            138,
+            60,
+            13
+        ]
+    },
+    {
+        "value": "INBIFO",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            486,
+            94,
+            162,
+            45
+        ]
+    },
+    {
+        "value": "INBIFO Institut für biologische Forschung GmbH",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            95,
+            110,
+            290,
+            20
+        ]
+    },
+    {
+        "value": "TELEFAX MESSAGE No.:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            156,
+            162,
+            19
+        ]
+    },
+    {
+        "value": "INBIFO bioloische Forschnung GmbH Fuggesstr 3- D- 51149 Cologne",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            98,
+            193,
+            304,
+            12
+        ]
+    },
+    {
+        "value": "28 Apr. 98",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            267,
+            263,
+            71,
+            14
+        ]
+    },
+    {
+        "value": "Dr. Wolf Reininghaus",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            267,
+            309,
+            137,
+            17
+        ]
+    },
+    {
+        "value": "Dr. Don Leyden, Dept. Scientific Affairs",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            267,
+            359,
+            155,
+            30
+        ]
+    },
+    {
+        "value": "98 -04 -28 12: 05 OUT",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            487,
+            330,
+            144,
+            29
+        ]
+    },
+    {
+        "value": "Philip Morris Europe Fabriques de Tabac Reunies S. A.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            267,
+            422,
+            217,
+            32
+        ]
+    },
+    {
+        "value": "CH- 2003 Neuchatel",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            267,
+            469,
+            129,
+            16
+        ]
+    },
+    {
+        "value": "0041- 32- 888 5776",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            335,
+            514,
+            119,
+            17
+        ]
+    },
+    {
+        "value": "Fax no:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            267,
+            517,
+            55,
+            14
+        ]
+    },
+    {
+        "value": "Telefax- Original Ablage",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            511,
+            401,
+            134,
+            99
+        ]
+    },
+    {
+        "value": "NUMBER OF FOLLOWING PAGES",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            563,
+            236,
+            15
+        ]
+    },
+    {
+        "value": "21 ",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            370,
+            553,
+            193,
+            42
+        ]
+    },
+    {
+        "value": "TPM/ Nocotine ratio",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            135,
+            627,
+            143,
+            15
+        ]
+    },
+    {
+        "value": "For your information!",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            101,
+            670,
+            156,
+            18
+        ]
+    },
+    {
+        "value": "Cologne HRB 367",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            552,
+            936,
+            68,
+            10
+        ]
+    },
+    {
+        "value": "Dr. Wolf Reninghaus",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            561,
+            947,
+            80,
+            10
+        ]
+    },
+    {
+        "value": "General Manager",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            493,
+            946,
+            69,
+            10
+        ]
+    },
+    {
+        "value": "Trade Register",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            493,
+            937,
+            58,
+            10
+        ]
+    },
+    {
+        "value": "(0 22 03) 303 -1",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            529,
+            172,
+            59,
+            11
+        ]
+    },
+    {
+        "value": "(0 22 03) 303 -362",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            518,
+            182,
+            67,
+            10
+        ]
+    },
+    {
+        "value": "-/BVI DLEY FAX",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            494,
+            212,
+            59,
+            26
+        ]
+    }
+]

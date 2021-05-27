@@ -1,0 +1,332 @@
+﻿[
+    {
+        "text": "Date:",
+        "box": [
+            402,
+            190,
+            27,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Contact:",
+        "box": [
+            402,
+            230,
+            45,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Agency:",
+        "box": [
+            73,
+            235,
+            41,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Address:",
+        "box": [
+            71,
+            288,
+            50,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Client:",
+        "box": [
+            73,
+            342,
+            35,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Products:",
+        "box": [
+            73,
+            398,
+            46,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "20",
+        "box": [
+            303,
+            504,
+            20,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "30",
+        "box": [
+            304,
+            518,
+            18,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "60",
+        "box": [
+            303,
+            531,
+            20,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "20",
+        "box": [
+            303,
+            545,
+            18,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "30",
+        "box": [
+            306,
+            560,
+            17,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "60",
+        "box": [
+            306,
+            574,
+            15,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "AMERICAN BROADCASTING COMPANY TELEVISION NETWORK",
+        "box": [
+            236,
+            50,
+            211,
+            42
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "1330 Avenue of the Americas, New York, New York 10019 LT - 7777",
+        "box": [
+            222,
+            99,
+            239,
+            37
+        ],
+        "class": "other"
+    },
+    {
+        "text": "October 9, 1968",
+        "box": [
+            455,
+            182,
+            133,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. Mary Goldsmith",
+        "box": [
+            464,
+            216,
+            159,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BBDO Inc.",
+        "box": [
+            138,
+            221,
+            79,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "383 Madison Avenue New York 10017",
+        "box": [
+            135,
+            274,
+            300,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "American Tobacco Co.",
+        "box": [
+            137,
+            327,
+            173,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Tareyton Cigarettes",
+        "box": [
+            137,
+            378,
+            169,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Script(s) (and/ or story board(s)) cleared:",
+        "box": [
+            73,
+            451,
+            206,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Phone Booth :",
+        "box": [
+            138,
+            503,
+            165,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Phone Booth :",
+        "box": [
+            140,
+            518,
+            164,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Phone Booth :",
+        "box": [
+            138,
+            532,
+            166,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ECU :",
+        "box": [
+            138,
+            547,
+            165,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ECU :",
+        "box": [
+            138,
+            561,
+            166,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ECU :",
+        "box": [
+            138,
+            575,
+            167,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "THESE COMMERCIALS CANNOT BE SCHEDULED UNTIL THIS DEPARTMENT HAS BEEN NOTIFIED OF THEIR CODE NUMBERS.",
+        "box": [
+            130,
+            613,
+            546,
+            32
+        ],
+        "class": "other"
+    },
+    {
+        "text": "PLEASE NOTIFY THIS DEPARTMENT OF ANY CHANGES THE CODE NUMBER(S).",
+        "box": [
+            75,
+            665,
+            459,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Final approval is, of course, dependent upon our screening the finished film(s), and upon time and placement of the commercial(s).",
+        "box": [
+            74,
+            689,
+            436,
+            33
+        ],
+        "class": "other"
+    },
+    {
+        "text": "XER. 257/ REV 6/ 68",
+        "box": [
+            82,
+            855,
+            116,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "JP/ gb",
+        "box": [
+            123,
+            817,
+            46,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Sincerely. American Broadcasting Company Judse Price Department of BROADCAST STANDARDS AND PRACTICES",
+        "box": [
+            405,
+            744,
+            200,
+            115
+        ],
+        "class": "other"
+    }
+]

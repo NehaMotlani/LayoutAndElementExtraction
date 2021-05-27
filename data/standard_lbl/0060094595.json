@@ -1,0 +1,651 @@
+﻿[
+    {
+        "value": "Weight",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            98,
+            306,
+            42,
+            14
+        ]
+    },
+    {
+        "value": "Draw",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            98,
+            331,
+            31,
+            15
+        ]
+    },
+    {
+        "value": "Tar",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            98,
+            358,
+            24,
+            15
+        ]
+    },
+    {
+        "value": "Nicotine",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            385,
+            57,
+            14
+        ]
+    },
+    {
+        "value": "0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            302,
+            475,
+            11,
+            15
+        ]
+    },
+    {
+        "value": "5",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            303,
+            499,
+            10,
+            17
+        ]
+    },
+    {
+        "value": "7",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            303,
+            527,
+            11,
+            17
+        ]
+    },
+    {
+        "value": "12",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            297,
+            566,
+            14,
+            15
+        ]
+    },
+    {
+        "value": "23",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            404,
+            476,
+            18,
+            14
+        ]
+    },
+    {
+        "value": "0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            413,
+            503,
+            10,
+            14
+        ]
+    },
+    {
+        "value": "1",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            412,
+            529,
+            13,
+            11
+        ]
+    },
+    {
+        "value": "0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            413,
+            567,
+            11,
+            13
+        ]
+    },
+    {
+        "value": "11",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            510,
+            473,
+            17,
+            14
+        ]
+    },
+    {
+        "value": "5",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            515,
+            500,
+            11,
+            15
+        ]
+    },
+    {
+        "value": "4",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            515,
+            527,
+            11,
+            14
+        ]
+    },
+    {
+        "value": "4",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            518,
+            566,
+            10,
+            13
+        ]
+    },
+    {
+        "value": "23",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            613,
+            472,
+            17,
+            15
+        ]
+    },
+    {
+        "value": "1",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            622,
+            527,
+            13,
+            13
+        ]
+    },
+    {
+        "value": "0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            622,
+            500,
+            10,
+            10
+        ]
+    },
+    {
+        "value": "0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            622,
+            564,
+            11,
+            13
+        ]
+    },
+    {
+        "value": "Basic",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            592,
+            406,
+            38,
+            15
+        ]
+    },
+    {
+        "value": "Basic",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            384,
+            411,
+            38,
+            11
+        ]
+    },
+    {
+        "value": "Basic",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            274,
+            412,
+            36,
+            13
+        ]
+    },
+    {
+        "value": "80620665",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            678,
+            828,
+            19,
+            107
+        ]
+    },
+    {
+        "value": "Characteristic Tested",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            87,
+            232,
+            143,
+            17
+        ]
+    },
+    {
+        "value": "BETWEEN THE ACTS 25 %% mm. Butt",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            271,
+            219,
+            130,
+            36
+        ]
+    },
+    {
+        "value": "MADISON 25 mm. Butt",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            492,
+            219,
+            100,
+            33
+        ]
+    },
+    {
+        "value": "Smoke Analysis",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            85,
+            267,
+            97,
+            16
+        ]
+    },
+    {
+        "value": "Present Sample",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            250,
+            265,
+            97,
+            17
+        ]
+    },
+    {
+        "value": "Mean of Last 12 Samples",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            360,
+            267,
+            86,
+            25
+        ]
+    },
+    {
+        "value": "Present Sample",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            458,
+            264,
+            98,
+            17
+        ]
+    },
+    {
+        "value": "Mean of Last 12 Samples",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            567,
+            263,
+            89,
+            27
+        ]
+    },
+    {
+        "value": "1 .089",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            270,
+            304,
+            38,
+            15
+        ]
+    },
+    {
+        "value": "0. .34",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            278,
+            331,
+            29,
+            14
+        ]
+    },
+    {
+        "value": "39. .7",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            281,
+            356,
+            28,
+            16
+        ]
+    },
+    {
+        "value": "4 .26",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            278,
+            385,
+            33,
+            13
+        ]
+    },
+    {
+        "value": "ction to Litmus",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            411,
+            125,
+            14
+        ]
+    },
+    {
+        "value": "1 .106",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            384,
+            304,
+            36,
+            15
+        ]
+    },
+    {
+        "value": "0 .37",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            390,
+            328,
+            30,
+            16
+        ]
+    },
+    {
+        "value": "35 .6",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            391,
+            355,
+            29,
+            15
+        ]
+    },
+    {
+        "value": "3 .83",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            391,
+            380,
+            30,
+            17
+        ]
+    },
+    {
+        "value": "1 .111",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            486,
+            303,
+            35,
+            14
+        ]
+    },
+    {
+        "value": "0 .34",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            492,
+            327,
+            33,
+            17
+        ]
+    },
+    {
+        "value": "37 .8",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            494,
+            355,
+            36,
+            14
+        ]
+    },
+    {
+        "value": "3 .45",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            493,
+            380,
+            31,
+            17
+        ]
+    },
+    {
+        "value": "Basic",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            487,
+            408,
+            39,
+            15
+        ]
+    },
+    {
+        "value": "1 .132",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            589,
+            299,
+            38,
+            16
+        ]
+    },
+    {
+        "value": "0 .37",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            598,
+            328,
+            31,
+            14
+        ]
+    },
+    {
+        "value": "31 .0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            596,
+            352,
+            34,
+            15
+        ]
+    },
+    {
+        "value": "2 2.99",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            596,
+            377,
+            31,
+            17
+        ]
+    },
+    {
+        "value": "urn Test",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            94,
+            439,
+            55,
+            13
+        ]
+    },
+    {
+        "value": "Static -Complete Cigar",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            464,
+            118,
+            25
+        ]
+    },
+    {
+        "value": "-1 /2 Cigar",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            154,
+            500,
+            71,
+            16
+        ]
+    },
+    {
+        "value": "-1 /3 Cigar",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            154,
+            527,
+            71,
+            16
+        ]
+    },
+    {
+        "value": "-Went out immediately",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            155,
+            557,
+            84,
+            26
+        ]
+    },
+    {
+        "value": "Dynamic -Time in seconds",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            99,
+            594,
+            115,
+            27
+        ]
+    },
+    {
+        "value": "-% Burned Completely",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            156,
+            634,
+            78,
+            27
+        ]
+    },
+    {
+        "value": "SOC- 36",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            571,
+            689,
+            44,
+            17
+        ]
+    },
+    {
+        "value": "P. LORILLARD CO. , INC. RESEARCH DIVISION QUALITY CONTROL DEPARTMENT SMOKE ANALYSIS AND BURNING TEST REPORT WEEKLY PRODUCTION LITTLE CIGARS NON FILTERS WEEK ENDING 11/ 25 /66",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            137,
+            89,
+            412,
+            118
+        ]
+    }
+]

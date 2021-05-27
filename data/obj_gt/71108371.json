@@ -1,0 +1,822 @@
+﻿[
+    {
+        "text": "Department:",
+        "box": [
+            110,
+            109,
+            75,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "System:",
+        "box": [
+            109,
+            147,
+            49,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "x",
+        "box": [
+            112,
+            205,
+            15,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "7970",
+        "box": [
+            207,
+            127,
+            29,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            271,
+            176,
+            18,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "X",
+        "box": [
+            462,
+            189,
+            14,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4/20/98",
+        "box": [
+            480,
+            122,
+            43,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4/17/98",
+        "box": [
+            482,
+            102,
+            46,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Immediate",
+        "box": [
+            480,
+            175,
+            56,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "High",
+        "box": [
+            483,
+            189,
+            27,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Medium",
+        "box": [
+            480,
+            201,
+            43,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Low",
+        "box": [
+            482,
+            216,
+            24,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Defer",
+        "box": [
+            482,
+            229,
+            29,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PRIORITY",
+        "box": [
+            511,
+            155,
+            70,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "designed",
+        "box": [
+            408,
+            712,
+            43,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            99,
+            848,
+            198,
+            7
+        ],
+        "class": "other"
+    },
+    {
+        "text": "MIS PROJECT REQUEST PART I - CLIENT REQUEST",
+        "box": [
+            257,
+            13,
+            210,
+            36
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Requested by:",
+        "box": [
+            109,
+            74,
+            84,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Karl Hutchison",
+        "box": [
+            200,
+            73,
+            94,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Project Number:",
+        "box": [
+            384,
+            71,
+            98,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(assigned by MIS)",
+        "box": [
+            485,
+            70,
+            88,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BD & SS",
+        "box": [
+            196,
+            108,
+            55,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Phone Number:",
+        "box": [
+            109,
+            127,
+            94,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date Submitted:",
+        "box": [
+            384,
+            103,
+            97,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date Required:",
+        "box": [
+            384,
+            123,
+            90,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REQUEST TYPE",
+        "box": [
+            130,
+            162,
+            108,
+            16
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "REASON CODE",
+        "box": [
+            307,
+            159,
+            105,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "1. Enhancement",
+        "box": [
+            131,
+            180,
+            86,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2. Maintenance",
+        "box": [
+            133,
+            194,
+            82,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "3. Special Processing",
+        "box": [
+            135,
+            207,
+            108,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "4. Ad Hoc",
+        "box": [
+            133,
+            221,
+            54,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "5. Emergency",
+        "box": [
+            131,
+            235,
+            74,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1. Productivity Improvement",
+        "box": [
+            296,
+            177,
+            147,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2. Return On Investment",
+        "box": [
+            295,
+            190,
+            125,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "3. Customer Impact",
+        "box": [
+            293,
+            204,
+            105,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "4. Government Requirement",
+        "box": [
+            293,
+            216,
+            147,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "5. Business Change",
+        "box": [
+            295,
+            232,
+            99,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "6. System Error",
+        "box": [
+            295,
+            244,
+            82,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "7. Procedural Error",
+        "box": [
+            296,
+            258,
+            103,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PROBLEM DEFINITION",
+        "box": [
+            110,
+            292,
+            157,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Description of Request:",
+        "box": [
+            109,
+            310,
+            117,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Please run job FRMRXUM2 for GPC, Misty, and Kool against file b:\\common\\khutchi\\r892unm.lst. Please place output in the same directory.",
+        "box": [
+            109,
+            318,
+            497,
+            34
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Reason for Request:",
+        "box": [
+            110,
+            406,
+            101,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Calculation of 1997 STR volumes for these brands for allocation of Period 2A budgets.",
+        "box": [
+            109,
+            430,
+            427,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Request Authorized By:",
+        "box": [
+            110,
+            506,
+            144,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Karl Hutchison",
+        "box": [
+            309,
+            520,
+            84,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "REQUEST TYPE:",
+        "box": [
+            98,
+            588,
+            93,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "REASON CODE:",
+        "box": [
+            387,
+            584,
+            89,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "REQUEST AUTHORIZED BY",
+        "box": [
+            101,
+            782,
+            166,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1. Enhancement",
+        "box": [
+            98,
+            603,
+            98,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "productivity improvement, new",
+        "box": [
+            198,
+            602,
+            149,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "functionality, nice to have feature",
+        "box": [
+            119,
+            615,
+            160,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "2. Maintenance-",
+        "box": [
+            98,
+            630,
+            95,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "fix program error new business need",
+        "box": [
+            194,
+            628,
+            177,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "3. Special Processing",
+        "box": [
+            98,
+            645,
+            123,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "high volume file maintenance or",
+        "box": [
+            222,
+            642,
+            154,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "data correction which is not part of normal processing",
+        "box": [
+            120,
+            656,
+            256,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "4. Ad Hoc-",
+        "box": [
+            99,
+            672,
+            68,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "reporting requirement which is not part of",
+        "box": [
+            169,
+            672,
+            200,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "normal processing",
+        "box": [
+            120,
+            687,
+            88,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "5. Emergency-",
+        "box": [
+            99,
+            701,
+            87,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "application or technology failure",
+        "box": [
+            187,
+            700,
+            157,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "1. Productivity Improvement",
+        "box": [
+            388,
+            599,
+            158,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2. Return on Investment-",
+        "box": [
+            387,
+            612,
+            135,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "3. Customer Impact",
+        "box": [
+            388,
+            627,
+            114,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "dollar savings",
+        "box": [
+            524,
+            612,
+            68,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "time savings",
+        "box": [
+            547,
+            596,
+            64,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "requested change affects",
+        "box": [
+            503,
+            624,
+            118,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "B&W's external customers",
+        "box": [
+            408,
+            640,
+            127,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "4. Government Requirement",
+        "box": [
+            388,
+            655,
+            158,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "required by law",
+        "box": [
+            547,
+            652,
+            75,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "5. Business Change",
+        "box": [
+            388,
+            668,
+            112,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "change in a business",
+        "box": [
+            501,
+            668,
+            99,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "process, or implement strategic direction",
+        "box": [
+            409,
+            682,
+            195,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "6. System Error-",
+        "box": [
+            388,
+            697,
+            95,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "System is not functioning as",
+        "box": [
+            486,
+            696,
+            131,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "7. Procedural Error",
+        "box": [
+            388,
+            725,
+            114,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "caused by user, scheduling,",
+        "box": [
+            506,
+            722,
+            128,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "operations, etc.",
+        "box": [
+            409,
+            740,
+            72,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "MUST BE AUTHORIZED BY THE DEPARTMENT DIRECTOR OR THE",
+        "box": [
+            270,
+            777,
+            357,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DESIGNATED SYSTEM OWNER BEFORE SUBMISSION TO THE MIS CLIENT SYSTEMS MANAGER.",
+        "box": [
+            101,
+            793,
+            520,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "12009596 PRODUCED FROM B&W WEB SITE",
+        "box": [
+            0,
+            954,
+            232,
+            28
+        ],
+        "class": "other"
+    }
+]

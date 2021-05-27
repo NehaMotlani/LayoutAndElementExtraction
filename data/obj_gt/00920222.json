@@ -1,0 +1,442 @@
+﻿[
+    {
+        "text": "VENDOR",
+        "box": [
+            21,
+            244,
+            46,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TERMS",
+        "box": [
+            50,
+            289,
+            36,
+            11
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "VIA",
+        "box": [
+            373,
+            288,
+            21,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Attn:",
+        "box": [
+            257,
+            316,
+            38,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NET",
+        "box": [
+            116,
+            285,
+            25,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            577,
+            200,
+            29,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "UNIT",
+        "box": [
+            645,
+            372,
+            28,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PRICE",
+        "box": [
+            675,
+            372,
+            32,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DESCRIPTION",
+        "box": [
+            367,
+            372,
+            70,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "QUANTITY",
+        "box": [
+            31,
+            374,
+            56,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CODE",
+        "box": [
+            140,
+            373,
+            34,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "00920222",
+        "box": [
+            563,
+            838,
+            95,
+            21
+        ],
+        "class": "other"
+    },
+    {
+        "text": "15",
+        "box": [
+            155,
+            284,
+            17,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "-",
+        "box": [
+            27,
+            278,
+            11,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "4111",
+        "box": [
+            302,
+            950,
+            32,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "9590",
+        "box": [
+            441,
+            951,
+            31,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            514,
+            947,
+            218,
+            39
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PURCHASE REQUISITION",
+        "box": [
+            254,
+            207,
+            167,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "☐ PURCHASING",
+        "box": [
+            39,
+            207,
+            85,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ STATIONARY",
+        "box": [
+            39,
+            223,
+            90,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Borriston Laboratories, INC. , 5050 Beech Place Temple Hills, MD 20748",
+        "box": [
+            36,
+            251,
+            510,
+            23
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ORDER NO.",
+        "box": [
+            574,
+            242,
+            59,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "March 27, 1984",
+        "box": [
+            588,
+            214,
+            104,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1332 REV L1 16 79",
+        "box": [
+            468,
+            198,
+            99,
+            21
+        ],
+        "class": "other"
+    },
+    {
+        "text": "PLEASE INCLUDE ONLY ONE TYPE OF MATERIAL ON THIS REQUISITION",
+        "box": [
+            166,
+            223,
+            363,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "F. O. B.",
+        "box": [
+            204,
+            288,
+            30,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "N /A",
+        "box": [
+            278,
+            284,
+            23,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "N /A",
+        "box": [
+            430,
+            282,
+            28,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DATE WANTED",
+        "box": [
+            501,
+            302,
+            78,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Prev. or Recommended SupplIer",
+        "box": [
+            575,
+            272,
+            142,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "As required",
+        "box": [
+            535,
+            314,
+            87,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Dr. Connie Stone",
+        "box": [
+            307,
+            313,
+            122,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "- Lorillard Research Center",
+        "box": [
+            21,
+            314,
+            206,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "- 420 English Street Greensboro, NC 27405",
+        "box": [
+            18,
+            341,
+            315,
+            22
+        ],
+        "class": "other"
+    },
+    {
+        "text": "This is your authorization to perform the \"Acute Oral Toxicity Study in the Rat\" tests on materials D13 and D23 supplied by Lorillard. The fixed price for each test is $2050 for each material, for a total price of $4100. Studies are to be conducted in accordance with the October 17, 1980 formal agreement between Borriston and Lorillard. All work is to be coordinated with our Dr. Connie Stone (919) 373- 6663.",
+        "box": [
+            117,
+            402,
+            596,
+            168
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "FOLLOW UP DATE",
+        "box": [
+            96,
+            876,
+            94,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BUDGET NO.",
+        "box": [
+            109,
+            929,
+            66,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REQUISITION NO.",
+        "box": [
+            335,
+            874,
+            91,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ISSUED BY",
+        "box": [
+            587,
+            872,
+            59,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "APPROVED BY",
+        "box": [
+            578,
+            927,
+            79,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DEPT. NO.",
+        "box": [
+            413,
+            927,
+            54,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ACCT. NO.",
+        "box": [
+            295,
+            927,
+            53,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SHIP TO (DEPT- BRANCH)",
+        "box": [
+            24,
+            304,
+            126,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FOR PURCHASING DEPARTMENT USE ONLY",
+        "box": [
+            193,
+            242,
+            217,
+            11
+        ],
+        "class": "value_question"
+    }
+]

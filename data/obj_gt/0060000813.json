@@ -1,0 +1,482 @@
+﻿[
+    {
+        "text": "Brand:",
+        "box": [
+            334,
+            172,
+            43,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Power:",
+        "box": [
+            511,
+            203,
+            45,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Pulse:",
+        "box": [
+            332,
+            201,
+            46,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Modules:",
+        "box": [
+            92,
+            170,
+            53,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Scorching:",
+        "box": [
+            91,
+            286,
+            88,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cratering:",
+        "box": [
+            91,
+            313,
+            87,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Comments:",
+        "box": [
+            89,
+            335,
+            88,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Scorching:",
+        "box": [
+            92,
+            430,
+            84,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cratering",
+        "box": [
+            89,
+            454,
+            85,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Comments:",
+        "box": [
+            91,
+            480,
+            87,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Module:",
+        "box": [
+            91,
+            517,
+            53,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Brand:",
+        "box": [
+            330,
+            522,
+            46,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Pulse:",
+        "box": [
+            330,
+            547,
+            46,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Scorching:",
+        "box": [
+            91,
+            631,
+            84,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cratering:",
+        "box": [
+            89,
+            658,
+            84,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Comments:",
+        "box": [
+            91,
+            684,
+            82,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Scorching:",
+        "box": [
+            88,
+            772,
+            85,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cratering:",
+        "box": [
+            85,
+            800,
+            88,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Comments:",
+        "box": [
+            88,
+            830,
+            87,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Power:",
+        "box": [
+            506,
+            549,
+            49,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "412",
+        "box": [
+            197,
+            169,
+            24,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Insignificant.",
+        "box": [
+            236,
+            284,
+            106,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Insignificant.",
+        "box": [
+            236,
+            427,
+            106,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Week of:",
+        "box": [
+            91,
+            103,
+            63,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "P. S.",
+        "box": [
+            249,
+            80,
+            36,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "73 -91",
+        "box": [
+            388,
+            78,
+            42,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Date Received",
+        "box": [
+            394,
+            110,
+            103,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1 /25 /91",
+        "box": [
+            547,
+            110,
+            59,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LASER PERFORATED TIPPING APPEARANCE CHECK HOLE DEPTH, SCORCHING, CRATERING",
+        "box": [
+            247,
+            131,
+            321,
+            32
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Shift & Date:",
+        "box": [
+            94,
+            196,
+            99,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CARLTON Filter 100's - 4 Mg Laser",
+        "box": [
+            387,
+            169,
+            259,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mfg. for Taiwan",
+        "box": [
+            472,
+            190,
+            121,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "FRONT CIGARETTES",
+        "box": [
+            339,
+            237,
+            126,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "<1 mm 13 .0 mm from end",
+        "box": [
+            228,
+            260,
+            255,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "None to insignificant.",
+        "box": [
+            236,
+            310,
+            168,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Excellent appearance (18 holes).",
+        "box": [
+            233,
+            334,
+            247,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Hole Depth:",
+        "box": [
+            91,
+            260,
+            86,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Hole Depth:",
+        "box": [
+            91,
+            402,
+            86,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "<1 mm 13 .0 mm from end",
+        "box": [
+            229,
+            408,
+            254,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BACK CIGARETTES",
+        "box": [
+            346,
+            381,
+            119,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "None to insignificant.",
+        "box": [
+            233,
+            453,
+            172,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Excellent appearance (18 holes).",
+        "box": [
+            237,
+            476,
+            244,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Shift & Date:",
+        "box": [
+            89,
+            542,
+            101,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FRONT CIGARETTES",
+        "box": [
+            337,
+            584,
+            125,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Hole Depth:",
+        "box": [
+            89,
+            606,
+            85,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BACK CIGARETTES",
+        "box": [
+            346,
+            726,
+            116,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Hole Depth:",
+        "box": [
+            88,
+            749,
+            85,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ATXO2 0062194",
+        "box": [
+            534,
+            877,
+            111,
+            20
+        ],
+        "class": "other"
+    }
+]

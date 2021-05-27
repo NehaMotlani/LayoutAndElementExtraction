@@ -1,0 +1,542 @@
+﻿[
+    {
+        "text": "",
+        "box": [
+            117,
+            92,
+            60,
+            49
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            575,
+            99,
+            57,
+            45
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Date:",
+        "box": [
+            524,
+            205,
+            32,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Market(s):",
+        "box": [
+            119,
+            388,
+            61,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Male:",
+        "box": [
+            120,
+            543,
+            31,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Female:",
+        "box": [
+            119,
+            560,
+            45,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Bogotá:",
+        "box": [
+            187,
+            606,
+            45,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Medellin:",
+        "box": [
+            189,
+            635,
+            53,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Note:",
+        "box": [
+            120,
+            670,
+            31,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "#",
+        "box": [
+            218,
+            205,
+            11,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Other",
+        "box": [
+            219,
+            270,
+            32,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "COLOMBIA",
+        "box": [
+            313,
+            239,
+            70,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "KOOL",
+        "box": [
+            311,
+            254,
+            41,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "60%",
+        "box": [
+            190,
+            541,
+            25,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "40%",
+        "box": [
+            190,
+            559,
+            25,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1)",
+        "box": [
+            120,
+            444,
+            11,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "2)",
+        "box": [
+            120,
+            459,
+            11,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "3)",
+        "box": [
+            122,
+            475,
+            10,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "4)",
+        "box": [
+            122,
+            492,
+            11,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Market Research - Initiating Project Brief",
+        "box": [
+            233,
+            155,
+            306,
+            22
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Brief Number",
+        "box": [
+            124,
+            204,
+            84,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Client Group:",
+        "box": [
+            120,
+            239,
+            81,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "02/ 12/ 98",
+        "box": [
+            573,
+            205,
+            51,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R. B. U.",
+        "box": [
+            216,
+            237,
+            40,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Brand Group",
+        "box": [
+            221,
+            254,
+            72,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Client Contact:",
+        "box": [
+            117,
+            303,
+            88,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Maria Helena Argüelles/ Edwin Garcia",
+        "box": [
+            219,
+            303,
+            135,
+            31
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Research Liaison:",
+        "box": [
+            394,
+            303,
+            105,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Camilo Concha/ Andrea Suarez",
+        "box": [
+            504,
+            302,
+            130,
+            32
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Project Name/ Description",
+        "box": [
+            120,
+            353,
+            151,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "K001 vs. Marlboro Menthol Lights",
+        "box": [
+            274,
+            352,
+            198,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Bogotá, Medellin and Barranquilla",
+        "box": [
+            183,
+            388,
+            190,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Referent Brand(s):",
+        "box": [
+            120,
+            426,
+            106,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Current Kool Filter King Colombia 1 1 mg tar @ 0. 51% menthol white tipping.",
+        "box": [
+            134,
+            441,
+            436,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Kool Milds KS Japan 9mg tar @ 0. 56% menthol white tipping",
+        "box": [
+            135,
+            458,
+            348,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Kool KS. 9 mg tar, @ 0. 51% menthol white tipping",
+        "box": [
+            135,
+            473,
+            283,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Current Marlboro Lights Menthol King US 9mg tar @ 0. 66% menthol, white tipping.",
+        "box": [
+            135,
+            490,
+            467,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Consumer Segment(s):",
+        "box": [
+            120,
+            524,
+            129,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "18 -29 (100%)",
+        "box": [
+            190,
+            574,
+            75,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "By age:",
+        "box": [
+            122,
+            575,
+            40,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BY SEL:",
+        "box": [
+            122,
+            591,
+            45,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "AB1 (100%)",
+        "box": [
+            190,
+            591,
+            69,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "By City:",
+        "box": [
+            122,
+            606,
+            46,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "KOOL Parent regular smokers 50% -alternate smokers 50%",
+        "box": [
+            249,
+            605,
+            323,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "KOOL Parent regular smokers 50% -alternate smokers 50%",
+        "box": [
+            249,
+            622,
+            323,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "KOOL Parent regular smokers 50% -alternate smokers 50%",
+        "box": [
+            250,
+            638,
+            324,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "In order to establish a quantitative basis for determining the winning product, results will be",
+        "box": [
+            154,
+            668,
+            497,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Alternate 60%, Regular 40%.",
+        "box": [
+            233,
+            686,
+            158,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Background Problem Definition:",
+        "box": [
+            119,
+            722,
+            191,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "On September 1 97, PMI simultaneously launched Marlboro Menthol KS Box (16mg tar and Menthol Lights KS Box (9mg tar) in Colombia. These two products became KOOL's direct competitors (Premium Menthol Brands).",
+        "box": [
+            122,
+            736,
+            531,
+            48
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "At the same time KOOL replaced its product with a milder 11mg cigarette (the same KOOL Milds but with a 27mm cork tipping).",
+        "box": [
+            122,
+            785,
+            527,
+            32
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "440026083 PRODUCED FROM B &W WEB SITE",
+        "box": [
+            0,
+            953,
+            231,
+            30
+        ],
+        "class": "other"
+    },
+    {
+        "text": "weighted as follows:",
+        "box": [
+            120,
+            686,
+            110,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "B/ quilla:",
+        "box": [
+            190,
+            622,
+            48,
+            14
+        ],
+        "class": "value_question"
+    }
+]

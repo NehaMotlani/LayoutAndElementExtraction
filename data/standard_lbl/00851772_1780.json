@@ -1,0 +1,365 @@
+﻿[
+    {
+        "value": "TYPE",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            94,
+            158,
+            20,
+            8
+        ]
+    },
+    {
+        "value": "COMBINED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            527,
+            168,
+            39,
+            8
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            568,
+            168,
+            10,
+            10
+        ]
+    },
+    {
+        "value": "NAME",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            94,
+            186,
+            21,
+            8
+        ]
+    },
+    {
+        "value": "NAME",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            137,
+            212,
+            21,
+            8
+        ]
+    },
+    {
+        "value": "COMPOUND",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            94,
+            212,
+            42,
+            8
+        ]
+    },
+    {
+        "value": "B73",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            116,
+            278,
+            22,
+            8
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            501,
+            186,
+            18,
+            7
+        ]
+    },
+    {
+        "value": "N/A",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            520,
+            277,
+            22,
+            14
+        ]
+    },
+    {
+        "value": "DATES",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            634,
+            299,
+            27,
+            8
+        ]
+    },
+    {
+        "value": "REVIEWED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            628,
+            306,
+            38,
+            10
+        ]
+    },
+    {
+        "value": "00851772",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            619,
+            778,
+            18,
+            85
+        ]
+    },
+    {
+        "value": "II.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            145,
+            311,
+            20,
+            11
+        ]
+    },
+    {
+        "value": "(cont'd)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            180,
+            310,
+            53,
+            14
+        ]
+    },
+    {
+        "value": "Toxline",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            179,
+            339,
+            49,
+            13
+        ]
+    },
+    {
+        "value": "1929-1966",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            626,
+            546,
+            63,
+            13
+        ]
+    },
+    {
+        "value": "INFORMATION SEARCH SUMMARY",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            249,
+            130,
+            276,
+            18
+        ]
+    },
+    {
+        "value": "CHEMICAL ☐",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            193,
+            168,
+            47,
+            10
+        ]
+    },
+    {
+        "value": "BIOLOGICAL ☐",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            356,
+            168,
+            54,
+            8
+        ]
+    },
+    {
+        "value": "May 27, 1982",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            520,
+            186,
+            85,
+            14
+        ]
+    },
+    {
+        "value": "Valerian Fluid Extract",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            116,
+            228,
+            153,
+            13
+        ]
+    },
+    {
+        "value": "Jimmy Bell",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            117,
+            186,
+            70,
+            13
+        ]
+    },
+    {
+        "value": "LORILLARD COMPOUND CODE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            95,
+            270,
+            104,
+            8
+        ]
+    },
+    {
+        "value": "REGISTRY NUMBER (IF applicable)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            499,
+            270,
+            116,
+            8
+        ]
+    },
+    {
+        "value": "LITERATURE SURVEYED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            95,
+            295,
+            84,
+            10
+        ]
+    },
+    {
+        "value": "Registry of the Toxic Effects of Chemicals",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            179,
+            380,
+            293,
+            14
+        ]
+    },
+    {
+        "value": "1974- Jan. 1982 to Dec. 1981",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            624,
+            339,
+            63,
+            67
+        ]
+    },
+    {
+        "value": "1957- Dec. 1981",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            624,
+            658,
+            64,
+            25
+        ]
+    },
+    {
+        "value": "LORILLARD RESEARCH CENTER",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            95,
+            943,
+            113,
+            10
+        ]
+    },
+    {
+        "value": "FORM ",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            642,
+            944,
+            54,
+            8
+        ]
+    },
+    {
+        "value": "III. SUPPLEMENTAL LITERATURE SEARCH Chemical Abstracts Vol. 23 - Vol. 65 Arctander' s Perfume and Flavor Materials of Natural Origin (1960) Guenther' s Monographs on Fragrance Raw Materials (1979) Tobacco Abstracts U. S. Dispensatory 23rd edition (1943)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            138,
+            520,
+            326,
+            192
+        ]
+    },
+    {
+        "value": "Jimmy H. Bell B. Sc. Scientist",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            115,
+            739,
+            215,
+            61
+        ]
+    },
+    {
+        "value": "Ann C. Stringfield Literature M.L.S. Chemist",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            116,
+            420,
+            190,
+            71
+        ]
+    }
+]

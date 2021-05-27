@@ -1,0 +1,352 @@
+﻿[
+    {
+        "text": "DATE:",
+        "box": [
+            152,
+            193,
+            38,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MANUFACTURER:",
+        "box": [
+            68,
+            313,
+            101,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "9135631",
+        "box": [
+            661,
+            691,
+            17,
+            71
+        ],
+        "class": "other"
+    },
+    {
+        "text": "CC:",
+        "box": [
+            70,
+            785,
+            27,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMPETITIVE ACTIVITIES AND PROMOTIONS",
+        "box": [
+            225,
+            78,
+            302,
+            21
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "REPORTED BY:",
+        "box": [
+            67,
+            141,
+            87,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "VAL THURMAN, DIVISION MANAGER, LOUISVILLE, KY",
+        "box": [
+            211,
+            138,
+            384,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4/ 26/ 91",
+        "box": [
+            209,
+            190,
+            63,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SOURCE OF INFORMATION:",
+        "box": [
+            68,
+            244,
+            87,
+            28
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SHORT STOP FOOD MARTS. LOUISVILLE, KY",
+        "box": [
+            215,
+            260,
+            315,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PHILIP MORRIS",
+        "box": [
+            205,
+            310,
+            113,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BRAND (S) PROMOTED:",
+        "box": [
+            70,
+            365,
+            131,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MARLBORO CIGARETTES",
+        "box": [
+            240,
+            359,
+            164,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "TYPE OF PROMOTION:",
+        "box": [
+            67,
+            416,
+            133,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CARTON PROMOTION SWEEPSTAKES (SEE ATTACHMENTS)",
+        "box": [
+            265,
+            415,
+            241,
+            39
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "HOW WIDESPREAD?",
+        "box": [
+            70,
+            550,
+            117,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OTHER COMMENTS:",
+        "box": [
+            71,
+            601,
+            117,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "L. H. LAKERSH",
+        "box": [
+            373,
+            797,
+            72,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "J. R. SLATER",
+        "box": [
+            372,
+            810,
+            77,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "S. T. JONES",
+        "box": [
+            372,
+            824,
+            75,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R. S. GOLDBRENNER",
+        "box": [
+            374,
+            837,
+            123,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "S. F. SMITH",
+        "box": [
+            373,
+            851,
+            71,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "G. R. TELFORD",
+        "box": [
+            253,
+            797,
+            87,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R. G. RYAN",
+        "box": [
+            251,
+            811,
+            68,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "N. P. RUFFALO",
+        "box": [
+            251,
+            823,
+            89,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "T. L. ACHEY",
+        "box": [
+            251,
+            838,
+            72,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "P. J. McCANN",
+        "box": [
+            251,
+            849,
+            83,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "A. J. GIACOIO",
+        "box": [
+            250,
+            865,
+            83,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "J. J. TATULLI",
+        "box": [
+            253,
+            877,
+            75,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "A. H. TISCH",
+        "box": [
+            96,
+            797,
+            67,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R. H. ORCUTT",
+        "box": [
+            96,
+            813,
+            81,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "M. A. PETERSON",
+        "box": [
+            95,
+            825,
+            98,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "M. L. ORLOWSKY",
+        "box": [
+            95,
+            839,
+            100,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "L. GORDON",
+        "box": [
+            96,
+            853,
+            68,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "J. P. MASTANDREA",
+        "box": [
+            95,
+            863,
+            111,
+            16
+        ],
+        "class": "value_answer"
+    }
+]

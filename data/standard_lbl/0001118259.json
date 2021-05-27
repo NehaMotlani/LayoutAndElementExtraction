@@ -1,0 +1,343 @@
+﻿[
+    {
+        "value": "B&W",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            221,
+            71,
+            43,
+            18
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            221,
+            41,
+            42,
+            29
+        ]
+    },
+    {
+        "value": "WCC",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            377,
+            366,
+            39,
+            14
+        ]
+    },
+    {
+        "value": "621800455",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            697,
+            796,
+            24,
+            131
+        ]
+    },
+    {
+        "value": "Reconstituted Tobacco Leaf Substitutions Export Formulas",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            511,
+            50,
+            219,
+            32
+        ]
+    },
+    {
+        "value": "Revision Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            601,
+            84,
+            77,
+            11
+        ]
+    },
+    {
+        "value": "Allowable Grade Substitutions for Export CPCL",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            254,
+            154,
+            256,
+            40
+        ]
+    },
+    {
+        "value": "Standard Grade Mark",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            148,
+            253,
+            183,
+            21
+        ]
+    },
+    {
+        "value": "Allowable Substitutions",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            412,
+            257,
+            197,
+            21
+        ]
+    },
+    {
+        "value": "PCFS Flue cured fines",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            108,
+            282,
+            178,
+            23
+        ]
+    },
+    {
+        "value": "PCBS Burley fines",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            108,
+            328,
+            148,
+            21
+        ]
+    },
+    {
+        "value": "MC- 4 Manufacturing fines",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            105,
+            406,
+            201,
+            22
+        ]
+    },
+    {
+        "value": "MC -6 Stem Meal",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            102,
+            542,
+            141,
+            17
+        ]
+    },
+    {
+        "value": "MC -7 Winnowers",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            101,
+            588,
+            143,
+            17
+        ]
+    },
+    {
+        "value": "RXF Fine flue cured stem",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            99,
+            634,
+            209,
+            20
+        ]
+    },
+    {
+        "value": "RBF Fine Burely stem",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            98,
+            742,
+            182,
+            19
+        ]
+    },
+    {
+        "value": "RPCFS or RPCFS-O ",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            378,
+            291,
+            144,
+            16
+        ]
+    },
+    {
+        "value": "RPCBS OT RPCBS- O",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            378,
+            337,
+            145,
+            17
+        ]
+    },
+    {
+        "value": "MC -4 -S",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            377,
+            411,
+            53,
+            18
+        ]
+    },
+    {
+        "value": "MC -4 -PH",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            378,
+            439,
+            63,
+            18
+        ]
+    },
+    {
+        "value": "MC -4 -RC",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            376,
+            471,
+            64,
+            15
+        ]
+    },
+    {
+        "value": "MC -4 -W",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            376,
+            500,
+            58,
+            17
+        ]
+    },
+    {
+        "value": "MC -1",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            374,
+            547,
+            37,
+            17
+        ]
+    },
+    {
+        "value": "C Stem",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            374,
+            594,
+            51,
+            15
+        ]
+    },
+    {
+        "value": "RRXF or RRXF -O",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            374,
+            638,
+            120,
+            18
+        ]
+    },
+    {
+        "value": "RRXM -B",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            372,
+            670,
+            61,
+            14
+        ]
+    },
+    {
+        "value": "RRXM -T",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            372,
+            700,
+            59,
+            16
+        ]
+    },
+    {
+        "value": "RRBF or RRBF -O",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            370,
+            747,
+            121,
+            18
+        ]
+    },
+    {
+        "value": "RRB -B",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            370,
+            778,
+            47,
+            15
+        ]
+    },
+    {
+        "value": "RRB -L",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            369,
+            809,
+            46,
+            14
+        ]
+    },
+    {
+        "value": "RRB -T",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            369,
+            838,
+            46,
+            14
+        ]
+    }
+]

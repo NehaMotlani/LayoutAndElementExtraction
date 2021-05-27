@@ -1,0 +1,310 @@
+﻿[
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            534,
+            155,
+            35,
+            14
+        ]
+    },
+    {
+        "value": "5-13-81",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            571,
+            152,
+            59,
+            13
+        ]
+    },
+    {
+        "value": "Subject",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            103,
+            201,
+            56,
+            18
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            409,
+            279,
+            39,
+            17
+        ]
+    },
+    {
+        "value": "5-13-81",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            454,
+            275,
+            61,
+            20
+        ]
+    },
+    {
+        "value": "Method",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            532,
+            282,
+            54,
+            14
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            279,
+            392,
+            13,
+            15
+        ]
+    },
+    {
+        "value": "increased",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            317,
+            394,
+            80,
+            14
+        ]
+    },
+    {
+        "value": "decreased",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            487,
+            392,
+            77,
+            15
+        ]
+    },
+    {
+        "value": "00851879",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            622,
+            693,
+            17,
+            95
+        ]
+    },
+    {
+        "value": "Verbal Phone",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            587,
+            278,
+            104,
+            18
+        ]
+    },
+    {
+        "value": "(Means of communication)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            536,
+            297,
+            196,
+            16
+        ]
+    },
+    {
+        "value": "Estimated cost of the study will be:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            102,
+            358,
+            298,
+            19
+        ]
+    },
+    {
+        "value": "not affected",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            633,
+            392,
+            103,
+            15
+        ]
+    },
+    {
+        "value": "Description of change order:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            103,
+            422,
+            231,
+            19
+        ]
+    },
+    {
+        "value": "The change was made so the protocol more closely conforms with the proposed regulations as stated in the Federal Register, Vol. 44, No. 145, 772.112-24 Primary Eye Irritation Study.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            108,
+            566,
+            597,
+            49
+        ]
+    },
+    {
+        "value": "Twenty- four to 30 hours prior to dosing, both eyes of each rabbit will be examined by an experienced investigator using a slit lamp biomicroscope.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            144,
+            503,
+            561,
+            51
+        ]
+    },
+    {
+        "value": "Section III A. 2nd paragraph- the first sentence is to be changed to read as follows:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            102,
+            450,
+            603,
+            43
+        ]
+    },
+    {
+        "value": "19 MAY 26 1981",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            589,
+            8,
+            156,
+            50
+        ]
+    },
+    {
+        "value": "ADDENDUM I DAWSON RESEARCH CORPORATION Protocol Change Order No. 1",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            251,
+            45,
+            240,
+            82
+        ]
+    },
+    {
+        "value": "Protocol LRC-5A",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            105,
+            162,
+            124,
+            15
+        ]
+    },
+    {
+        "value": "Change in the time of the Pre- dose Biomicroscopic Examination",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            165,
+            190,
+            490,
+            25
+        ]
+    },
+    {
+        "value": "Authorized by",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            281,
+            105,
+            15
+        ]
+    },
+    {
+        "value": "Dr. Connie Stone",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            221,
+            281,
+            131,
+            15
+        ]
+    },
+    {
+        "value": "Authorized to",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            102,
+            331,
+            111,
+            13
+        ]
+    },
+    {
+        "value": "Mr. Charles Burns",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            219,
+            324,
+            141,
+            20
+        ]
+    },
+    {
+        "value": "Sponsor Signature",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            123,
+            848,
+            286,
+            99
+        ]
+    },
+    {
+        "value": "Study Director Signature",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            444,
+            842,
+            310,
+            104
+        ]
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "text": "",
+        "class": "other"
+    },
+    {
+        "text": "TO:",
+        "class": "answer"
+    },
+    {
+        "text": "FROM:",
+        "class": "answer"
+    },
+    {
+        "text": "SUBJECT:",
+        "class": "answer"
+    },
+    {
+        "text": "X",
+        "class": "other"
+    },
+    {
+        "text": "GEOGRAPHY",
+        "class": "other"
+    },
+    {
+        "text": "REGION:",
+        "class": "answer"
+    },
+    {
+        "text": "DIVISION:",
+        "class": "question"
+    },
+    {
+        "text": "FULL",
+        "class": "question"
+    },
+    {
+        "text": "PARTIAL",
+        "class": "other"
+    },
+    {
+        "text": "x",
+        "class": "other"
+    },
+    {
+        "text": "FULL",
+        "class": "question"
+    },
+    {
+        "text": "PARTIAL",
+        "class": "other"
+    },
+    {
+        "text": "DISTRIBUTION",
+        "class": "other"
+    },
+    {
+        "text": "Seyle",
+        "class": "other"
+    },
+    {
+        "text": "Dantzlen",
+        "class": "other"
+    },
+    {
+        "text": "Econ",
+        "class": "other"
+    },
+    {
+        "text": "180",
+        "class": "other"
+    },
+    {
+        "text": "130",
+        "class": "other"
+    },
+    {
+        "text": "20",
+        "class": "other"
+    },
+    {
+        "text": "19",
+        "class": "other"
+    },
+    {
+        "text": "18",
+        "class": "other"
+    },
+    {
+        "text": "18",
+        "class": "other"
+    },
+    {
+        "text": "17",
+        "class": "other"
+    },
+    {
+        "text": "16",
+        "class": "other"
+    },
+    {
+        "text": "K&B",
+        "class": "other"
+    },
+    {
+        "text": "Delchamps",
+        "class": "other"
+    },
+    {
+        "text": "Litco",
+        "class": "other"
+    },
+    {
+        "text": "85",
+        "class": "other"
+    },
+    {
+        "text": "39",
+        "class": "other"
+    },
+    {
+        "text": "36",
+        "class": "other"
+    },
+    {
+        "text": "36",
+        "class": "other"
+    },
+    {
+        "text": "23",
+        "class": "other"
+    },
+    {
+        "text": "23",
+        "class": "other"
+    },
+    {
+        "text": "22",
+        "class": "other"
+    },
+    {
+        "text": "86230203",
+        "class": "other"
+    },
+    {
+        "text": "Page 1 of 4",
+        "class": "other"
+    },
+    {
+        "text": "MAVPROG",
+        "class": "other"
+    },
+    {
+        "text": "11-Dec-96",
+        "class": "other"
+    },
+    {
+        "text": "12/12/96 08:33",
+        "class": "header"
+    },
+    {
+        "text": "204 7348616",
+        "class": "header"
+    },
+    {
+        "text": "LORILLARD TOB",
+        "class": "other"
+    },
+    {
+        "text": "NYO 1",
+        "class": "answer"
+    },
+    {
+        "text": "0001/ 004",
+        "class": "other"
+    },
+    {
+        "text": "K. A. Sparrow",
+        "class": "other"
+    },
+    {
+        "text": "F. Strickland",
+        "class": "other"
+    },
+    {
+        "text": "MAVERICK SPECIALS- PROGRESS REPORT",
+        "class": "answer"
+    },
+    {
+        "text": "SUBMISSION DATE",
+        "class": "other"
+    },
+    {
+        "text": "DEC 13",
+        "class": "answer"
+    },
+    {
+        "text": "JAN 25",
+        "class": "answer"
+    },
+    {
+        "text": "FEB 24",
+        "class": "other"
+    },
+    {
+        "text": "APR 4",
+        "class": "other"
+    },
+    {
+        "text": "(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)",
+        "class": "question"
+    },
+    {
+        "text": "DIVISION NAME:",
+        "class": "question"
+    },
+    {
+        "text": "DIVISION NAME:",
+        "class": "other"
+    },
+    {
+        "text": "DIVISION NAME:",
+        "class": "answer"
+    },
+    {
+        "text": "# REPS",
+        "class": "other"
+    },
+    {
+        "text": "# REPS",
+        "class": "other"
+    },
+    {
+        "text": "# REPS",
+        "class": "other"
+    },
+    {
+        "text": "DIVISION: ",
+        "class": "other"
+    },
+    {
+        "text": "DIVISION NAME:",
+        "class": "other"
+    },
+    {
+        "text": "DIVISION NAME:",
+        "class": "other"
+    },
+    {
+        "text": "DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION (15+ STORES) STOCKING NO MAVERICK SPECIALS",
+        "class": "answer"
+    },
+    {
+        "text": "NAME OF ACCOUNT",
+        "class": "question"
+    },
+    {
+        "text": "NO. OF STORES",
+        "class": "question"
+    },
+    {
+        "text": "NAME OF ACCOUNT",
+        "class": "question"
+    },
+    {
+        "text": "NO OF STORES",
+        "class": "other"
+    },
+    {
+        "text": "Winn Dixie",
+        "class": "other"
+    },
+    {
+        "text": "Schwegmann",
+        "class": "other"
+    },
+    {
+        "text": "Aurry Greer",
+        "class": "other"
+    },
+    {
+        "text": "Double ",
+        "class": "other"
+    },
+    {
+        "text": "Huber Oil",
+        "class": "other"
+    },
+    {
+        "text": "Morris Corp",
+        "class": "other"
+    },
+    {
+        "text": "Bayou Foods",
+        "class": "other"
+    },
+    {
+        "text": "Compac Foods",
+        "class": "other"
+    },
+    {
+        "text": "Southeast Foods",
+        "class": "other"
+    }
+]

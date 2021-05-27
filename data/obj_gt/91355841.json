@@ -1,0 +1,342 @@
+﻿[
+    {
+        "text": "DATE:",
+        "box": [
+            190,
+            201,
+            35,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MANUFACTURER:",
+        "box": [
+            102,
+            271,
+            102,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CC:",
+        "box": [
+            99,
+            753,
+            22,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "91355841",
+        "box": [
+            709,
+            718,
+            15,
+            80
+        ],
+        "class": "other"
+    },
+    {
+        "text": "COMPETITIVE ACTIVITIES AND PROMOTIONS",
+        "box": [
+            263,
+            71,
+            304,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "A. L. EVERETT, MANAGER, CHAIN ACCOUNTS - ATLANTA, GA",
+        "box": [
+            253,
+            131,
+            449,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "REPORTED BY:",
+        "box": [
+            103,
+            137,
+            88,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SEPT. 27, 1991",
+        "box": [
+            270,
+            203,
+            120,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BROWN & WILLIAMSON",
+        "box": [
+            278,
+            268,
+            156,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BRAND (S) PROMOTED:",
+        "box": [
+            101,
+            339,
+            132,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "KOOL CIGARETTES",
+        "box": [
+            295,
+            338,
+            128,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "TYPE OF PROMOTION:",
+        "box": [
+            101,
+            406,
+            130,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SEE ATTACHMENTS",
+        "box": [
+            278,
+            402,
+            128,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "HOW WIDESPREAD?",
+        "box": [
+            99,
+            528,
+            121,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OTHER COMMENTS:",
+        "box": [
+            101,
+            595,
+            120,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "A. H. TISCH",
+        "box": [
+            124,
+            768,
+            72,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R. H. ORCUTT",
+        "box": [
+            124,
+            785,
+            84,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "M. A. PETERSON",
+        "box": [
+            124,
+            803,
+            101,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "M. L. ORLOWSKY",
+        "box": [
+            124,
+            820,
+            101,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "L. GORDON",
+        "box": [
+            126,
+            838,
+            68,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "J. P. MASTANDREA",
+        "box": [
+            123,
+            855,
+            115,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "G. R. TELFORD",
+        "box": [
+            285,
+            767,
+            88,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R. G. RYAN",
+        "box": [
+            284,
+            785,
+            69,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "N. P. RUFFALO",
+        "box": [
+            285,
+            802,
+            88,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "T. L. ACHEY",
+        "box": [
+            284,
+            820,
+            72,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "P. J. McCANN",
+        "box": [
+            284,
+            838,
+            83,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "A. J. GIACOIO",
+        "box": [
+            282,
+            856,
+            88,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "J. J. TATULLI",
+        "box": [
+            284,
+            872,
+            77,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "L. H. KERSH",
+        "box": [
+            406,
+            770,
+            76,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "J. R. SLATER",
+        "box": [
+            408,
+            785,
+            76,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "S. T. JONES",
+        "box": [
+            406,
+            803,
+            76,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R. S. GOLDBRENNER",
+        "box": [
+            406,
+            820,
+            128,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "N. SIMEONIDIS",
+        "box": [
+            406,
+            838,
+            92,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "S. F. SMITH",
+        "box": [
+            408,
+            855,
+            70,
+            14
+        ],
+        "class": "value_answer"
+    }
+]

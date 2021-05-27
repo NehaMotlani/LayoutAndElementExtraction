@@ -1,0 +1,432 @@
+﻿[
+    {
+        "text": "MARKET",
+        "box": [
+            59,
+            135,
+            47,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "POPULATION",
+        "box": [
+            59,
+            165,
+            67,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OPERATOR",
+        "box": [
+            56,
+            194,
+            60,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BRAND",
+        "box": [
+            367,
+            134,
+            39,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SCHEDULE",
+        "box": [
+            367,
+            163,
+            59,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FULL INSPECTION",
+        "box": [
+            367,
+            196,
+            94,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NUMBER VIEWED",
+        "box": [
+            367,
+            226,
+            92,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Lakeland Metro Market",
+        "box": [
+            119,
+            131,
+            149,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Misty",
+        "box": [
+            427,
+            130,
+            38,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SPOT CHECK",
+        "box": [
+            539,
+            194,
+            67,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TYPE OF DISPLAY",
+        "box": [
+            324,
+            250,
+            103,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "PERMANENT",
+        "box": [
+            177,
+            286,
+            75,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "LOCATION",
+        "box": [
+            56,
+            351,
+            50,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DESIGN ON DISPLAY",
+        "box": [
+            59,
+            420,
+            122,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☑",
+        "box": [
+            427,
+            317,
+            17,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ROTARY",
+        "box": [
+            384,
+            316,
+            41,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            246,
+            391,
+            21,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            216,
+            388,
+            28,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "COMMENTS:",
+        "box": [
+            57,
+            493,
+            74,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMMENT ON PLANT:",
+        "box": [
+            59,
+            689,
+            135,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "INSPECTION BY",
+        "box": [
+            545,
+            888,
+            82,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            496,
+            844,
+            209,
+            71
+        ],
+        "class": "other"
+    },
+    {
+        "text": "LAURENCE, CHARLES, FREE & LAWSON, INC. BULLETIN ADVERTISING- INSPECTION REPORT",
+        "box": [
+            165,
+            47,
+            418,
+            45
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "400.400 ",
+        "box": [
+            154,
+            159,
+            50,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "The Lamar Corp.",
+        "box": [
+            141,
+            186,
+            102,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2/ 20 & 3/ 20",
+        "box": [
+            433,
+            159,
+            84,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3/ 23/ 91",
+        "box": [
+            589,
+            159,
+            55,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "BULLETIN ☐",
+        "box": [
+            57,
+            313,
+            69,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "WALL ☐",
+        "box": [
+            180,
+            316,
+            45,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "See attached list",
+        "box": [
+            141,
+            345,
+            120,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "NO OF ROTARIES",
+        "box": [
+            383,
+            346,
+            85,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "8 RB",
+        "box": [
+            508,
+            351,
+            34,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "218, 499",
+        "box": [
+            539,
+            390,
+            49,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "AVERAGE DAILY EFFECTIVE CIRCULATION",
+        "box": [
+            385,
+            383,
+            121,
+            26
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DAILY EFFECTIVE CIRCULATION",
+        "box": [
+            56,
+            383,
+            122,
+            30
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(Condition And Rendition of Copy)",
+        "box": [
+            183,
+            419,
+            178,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(Description of Location or Rotary Plan, Brand Category Competition)",
+        "box": [
+            133,
+            490,
+            357,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "This is a comparatively easy market to cover. It is less than an hour from Tampa airport. Our bulletins are on every major arterial and in all No quadrants of the area. changes were made. Some minor on- premise blocking and trees were noted, but deemed serious enough for correction. not",
+        "box": [
+            54,
+            511,
+            598,
+            63
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "The only other tobacco in the market was a standing 6 Panel RJR buy currently showing Camel.",
+        "box": [
+            52,
+            582,
+            600,
+            33
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(Condition, Structures, Painting Ability, Lighting, Cooperation, etc.)",
+        "box": [
+            197,
+            689,
+            338,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "The plant is well maintained and covers all parts of the market. Lamar looks like a good citizen here, keeping a good- looking public and carrying lot operation. doing service, a of local advertisers.",
+        "box": [
+            52,
+            708,
+            596,
+            45
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(FORM NO ",
+        "box": [
+            31,
+            890,
+            69,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "970518461 PRODUCED FROM B&W WEB SITE",
+        "box": [
+            0,
+            951,
+            231,
+            34
+        ],
+        "class": "other"
+    }
+]

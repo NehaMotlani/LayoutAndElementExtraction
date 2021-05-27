@@ -1,0 +1,530 @@
+﻿[
+    {
+        "value": "Brand(s)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            448,
+            216,
+            56,
+            18
+        ]
+    },
+    {
+        "value": "Company",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            214,
+            59,
+            18
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            601,
+            397,
+            39,
+            15
+        ]
+    },
+    {
+        "value": "SIGNATURE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            412,
+            395,
+            81,
+            14
+        ]
+    },
+    {
+        "value": "NAME",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            223,
+            395,
+            42,
+            15
+        ]
+    },
+    {
+        "value": "Originator",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            429,
+            60,
+            15
+        ]
+    },
+    {
+        "value": "Manager",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            82,
+            468,
+            56,
+            14
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            601,
+            522,
+            39,
+            17
+        ]
+    },
+    {
+        "value": "SECTION(S)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            602,
+            662,
+            78,
+            15
+        ]
+    },
+    {
+        "value": "SIGNATURE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            412,
+            522,
+            81,
+            15
+        ]
+    },
+    {
+        "value": "PAGE(S)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            411,
+            662,
+            56,
+            15
+        ]
+    },
+    {
+        "value": "Insurance",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            556,
+            59,
+            13
+        ]
+    },
+    {
+        "value": "Law",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            82,
+            589,
+            28,
+            13
+        ]
+    },
+    {
+        "value": "1-11-94",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            620,
+            464,
+            87,
+            24
+        ]
+    },
+    {
+        "value": "SME",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            409,
+            842,
+            34,
+            14
+        ]
+    },
+    {
+        "value": "SPORTS MARKETING ENTERPRISES DOCUMENT CLEARANCE SHEET",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            226,
+            63,
+            355,
+            36
+        ]
+    },
+    {
+        "value": "January 11, 1994",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            225,
+            135,
+            108,
+            19
+        ]
+    },
+    {
+        "value": "Date Routed:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            81,
+            133,
+            84,
+            17
+        ]
+    },
+    {
+        "value": "Contract No.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            412,
+            133,
+            75,
+            18
+        ]
+    },
+    {
+        "value": "4011 00 00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            554,
+            135,
+            71,
+            16
+        ]
+    },
+    {
+        "value": "Joe's Place Exhibits",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            226,
+            180,
+            124,
+            20
+        ]
+    },
+    {
+        "value": "Contract Subject:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            180,
+            102,
+            17
+        ]
+    },
+    {
+        "value": "SPEVCO, INC.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            173,
+            211,
+            93,
+            21
+        ]
+    },
+    {
+        "value": "Camel/ Winston",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            522,
+            215,
+            97,
+            15
+        ]
+    },
+    {
+        "value": "Current Year Cost",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            418,
+            249,
+            108,
+            18
+        ]
+    },
+    {
+        "value": "Total Contract Cost",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            81,
+            250,
+            119,
+            17
+        ]
+    },
+    {
+        "value": "$ 1,340,000.00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            243,
+            249,
+            94,
+            17
+        ]
+    },
+    {
+        "value": "1994-1995",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            582,
+            250,
+            66,
+            17
+        ]
+    },
+    {
+        "value": "Brief Description",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            82,
+            286,
+            101,
+            17
+        ]
+    },
+    {
+        "value": "2 Joe's Place Exhibits for use at Winston Cup, Winston Drag and Camel Super Bike Events.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            247,
+            284,
+            454,
+            31
+        ]
+    },
+    {
+        "value": "G/ L Code:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            82,
+            355,
+            65,
+            16
+        ]
+    },
+    {
+        "value": "Program Budget Code",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            404,
+            353,
+            133,
+            17
+        ]
+    },
+    {
+        "value": "Michael Wright",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            226,
+            426,
+            96,
+            19
+        ]
+    },
+    {
+        "value": "John Powell",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            225,
+            468,
+            78,
+            15
+        ]
+    },
+    {
+        "value": "B J. Powell",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            432,
+            450,
+            141,
+            43
+        ]
+    },
+    {
+        "value": "REVIEW ROUTING",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            82,
+            501,
+            121,
+            17
+        ]
+    },
+    {
+        "value": "FS - Marketing",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            82,
+            624,
+            90,
+            17
+        ]
+    },
+    {
+        "value": "* UP TO AND INCLUDING $ 25,000 ** OVER $ 25,000",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            81,
+            887,
+            214,
+            30
+        ]
+    },
+    {
+        "value": "Revised 10/26/92",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            601,
+            902,
+            103,
+            17
+        ]
+    },
+    {
+        "value": "13 Plaza",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            599,
+            842,
+            53,
+            15
+        ]
+    },
+    {
+        "value": "51669 8130",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            737,
+            774,
+            15,
+            95
+        ]
+    },
+    {
+        "value": "REVISIONS TO SHELL (Other than Term Compensation or Job",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            80,
+            659,
+            147,
+            52
+        ]
+    },
+    {
+        "value": "APPROVAL ROUTING",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            81,
+            733,
+            141,
+            15
+        ]
+    },
+    {
+        "value": "* Sr. Manager (B. J. Powell)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            81,
+            749,
+            189,
+            19
+        ]
+    },
+    {
+        "value": "* Director - (G. L. Littell)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            767,
+            161,
+            21
+        ]
+    },
+    {
+        "value": "** Sr. VP T. W. Robertson",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            81,
+            802,
+            199,
+            18
+        ]
+    },
+    {
+        "value": "Return To:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            78,
+            839,
+            70,
+            19
+        ]
+    },
+    {
+        "value": "MARY SEAGRAVES Ext 1485",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            222,
+            841,
+            126,
+            32
+        ]
+    }
+]

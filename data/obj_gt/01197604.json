@@ -1,0 +1,302 @@
+﻿[
+    {
+        "text": "DESCRIPTION:",
+        "box": [
+            102,
+            250,
+            94,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SMOKER:",
+        "box": [
+            103,
+            436,
+            54,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REMARKS:",
+        "box": [
+            101,
+            708,
+            64,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "195",
+        "box": [
+            264,
+            156,
+            28,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "II",
+        "box": [
+            263,
+            187,
+            21,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "01197604",
+        "box": [
+            665,
+            768,
+            18,
+            95
+        ],
+        "class": "other"
+    },
+    {
+        "text": "SAMPLE DESCRIPTION:",
+        "box": [
+            102,
+            126,
+            147,
+            19
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Tar Number:",
+        "box": [
+            141,
+            158,
+            85,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Batch Number:",
+        "box": [
+            140,
+            186,
+            100,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Tobacco Number:",
+        "box": [
+            141,
+            218,
+            116,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Sample No. 1166, RD 308",
+        "box": [
+            265,
+            218,
+            188,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "OLD GOLD Straights + 3% KNO3",
+        "box": [
+            212,
+            249,
+            214,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SAMPLE WEIGHT:",
+        "box": [
+            106,
+            311,
+            104,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "300 mm. tar, 100 mm acetone",
+        "box": [
+            226,
+            310,
+            223,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "METHOD OF PREPARATION:",
+        "box": [
+            103,
+            345,
+            168,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Water removed by co- distillation with acetone under vacum at 45 C.",
+        "box": [
+            288,
+            342,
+            344,
+            48
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "NUMBER OF CIGARETTES SMOKED:",
+        "box": [
+            102,
+            405,
+            214,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "100 unit",
+        "box": [
+            212,
+            434,
+            61,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Railway Express",
+        "box": [
+            209,
+            464,
+            119,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Dr. Dietrich Hoffman The Kettering New York, New York",
+        "box": [
+            212,
+            494,
+            182,
+            79
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SHIPPED VIA:",
+        "box": [
+            103,
+            468,
+            92,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SHIPPED TO:",
+        "box": [
+            101,
+            497,
+            86,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "November 2, 1965",
+        "box": [
+            263,
+            585,
+            124,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "150 gm",
+        "box": [
+            264,
+            617,
+            52,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "February, 136",
+        "box": [
+            261,
+            647,
+            106,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SUPPLIED UNTIL:",
+        "box": [
+            102,
+            649,
+            119,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REQUIREMENTS /MP.:",
+        "box": [
+            102,
+            616,
+            133,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE SHIPPED:",
+        "box": [
+            102,
+            589,
+            99,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Moisture content of tar .48% as determined by near infrared spectroscopy",
+        "box": [
+            120,
+            708,
+            508,
+            46
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "11 /2",
+        "box": [
+            102,
+            922,
+            34,
+            17
+        ],
+        "class": "other"
+    }
+]

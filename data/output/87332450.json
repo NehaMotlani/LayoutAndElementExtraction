@@ -1,0 +1,194 @@
+[
+    {
+        "text": "Name:",
+        "class": "other"
+    },
+    {
+        "text": "First",
+        "class": "answer"
+    },
+    {
+        "text": "Title",
+        "class": "other"
+    },
+    {
+        "text": "Middle",
+        "class": "question"
+    },
+    {
+        "text": "Last",
+        "class": "other"
+    },
+    {
+        "text": "Institution:",
+        "class": "other"
+    },
+    {
+        "text": "Street",
+        "class": "question"
+    },
+    {
+        "text": "City",
+        "class": "question"
+    },
+    {
+        "text": "State",
+        "class": "other"
+    },
+    {
+        "text": "ZIP Code",
+        "class": "question"
+    },
+    {
+        "text": "Country",
+        "class": "other"
+    },
+    {
+        "text": "Telephone:",
+        "class": "other"
+    },
+    {
+        "text": "TOTAL",
+        "class": "other"
+    },
+    {
+        "text": "DATE",
+        "class": "other"
+    },
+    {
+        "text": "TIME",
+        "class": "question"
+    },
+    {
+        "text": "Arrival:",
+        "class": "other"
+    },
+    {
+        "text": "Departure:",
+        "class": "other"
+    },
+    {
+        "text": "CARRIER",
+        "class": "question"
+    },
+    {
+        "text": "87332450",
+        "class": "other"
+    },
+    {
+        "text": "Telephone:",
+        "class": "answer"
+    },
+    {
+        "text": "FAX:",
+        "class": "other"
+    },
+    {
+        "text": "Address:",
+        "class": "other"
+    },
+    {
+        "text": "47th TCRC REGISTRATION FORM",
+        "class": "header"
+    },
+    {
+        "text": "Please type or print",
+        "class": "other"
+    },
+    {
+        "text": "FAX #:",
+        "class": "other"
+    },
+    {
+        "text": "P.O. Box#",
+        "class": "other"
+    },
+    {
+        "text": "Name of guest:",
+        "class": "other"
+    },
+    {
+        "text": "Continental Breakfast on Tuesday",
+        "class": "answer"
+    },
+    {
+        "text": "Fall Foliage Tour on Tuesday",
+        "class": "answer"
+    },
+    {
+        "text": "Breakfast on Wednesday",
+        "class": "other"
+    },
+    {
+        "text": "Craftsman Village Tour Wednesday",
+        "class": "answer"
+    },
+    {
+        "text": "Advance Registration Fee:",
+        "class": "answer"
+    },
+    {
+        "text": "(prior to September 1)",
+        "class": "answer"
+    },
+    {
+        "text": "after September ",
+        "class": "answer"
+    },
+    {
+        "text": "Late Registration Fee",
+        "class": "answer"
+    },
+    {
+        "text": "$135 00",
+        "class": "other"
+    },
+    {
+        "text": "$150 00",
+        "class": "other"
+    },
+    {
+        "text": "$ 30. 00",
+        "class": "other"
+    },
+    {
+        "text": "Ground Transportation (round trip)",
+        "class": "question"
+    },
+    {
+        "text": "Extra banquet tickets tickets $40. 00",
+        "class": "answer"
+    },
+    {
+        "text": "Please complete this portion if you need transportation from and to the Knoxville Airport.",
+        "class": "question"
+    },
+    {
+        "text": "No. in Party:",
+        "class": "other"
+    },
+    {
+        "text": "FLIGHT #",
+        "class": "other"
+    },
+    {
+        "text": "Send this registration form, along with payment to the address noted below. Enclose a check or international money order payable in U. S. funds to the University of Tennessee - 47th TCRC",
+        "class": "question"
+    },
+    {
+        "text": "Mail to:",
+        "class": "answer"
+    },
+    {
+        "text": "Dr. Phil P. Hunter U. T. Tobacco Experiment Station Route 5 Box 113 Greeneville, TN 37743",
+        "class": "answer"
+    },
+    {
+        "text": "(615) ) 638- 5532",
+        "class": "other"
+    },
+    {
+        "text": "(615) ) 638- 6458",
+        "class": "other"
+    }
+]

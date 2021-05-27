@@ -1,0 +1,922 @@
+﻿[
+    {
+        "text": "Date:",
+        "box": [
+            457,
+            7,
+            47,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "on",
+        "box": [
+            496,
+            137,
+            22,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BLEND",
+        "box": [
+            7,
+            203,
+            50,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CASING",
+        "box": [
+            142,
+            200,
+            60,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "RECASING",
+        "box": [
+            291,
+            201,
+            75,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cigarettes",
+        "box": [
+            7,
+            281,
+            95,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Filters",
+        "box": [
+            381,
+            277,
+            71,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Responsibility",
+        "box": [
+            384,
+            476,
+            134,
+            22
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "apping",
+        "box": [
+            27,
+            485,
+            59,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Requirements",
+        "box": [
+            8,
+            638,
+            112,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Reports",
+        "box": [
+            10,
+            792,
+            70,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "6030",
+        "box": [
+            385,
+            46,
+            41,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "OGS",
+        "box": [
+            500,
+            219,
+            35,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "OGS",
+        "box": [
+            313,
+            221,
+            32,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "OGS",
+        "box": [
+            154,
+            222,
+            36,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "OGS",
+        "box": [
+            10,
+            222,
+            35,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "AMF",
+        "box": [
+            122,
+            313,
+            34,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "25.",
+        "box": [
+            169,
+            341,
+            20,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0",
+        "box": [
+            189,
+            342,
+            20,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "554",
+        "box": [
+            169,
+            404,
+            29,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Ammons",
+        "box": [
+            585,
+            510,
+            56,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Wicker",
+        "box": [
+            580,
+            529,
+            64,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Routh",
+        "box": [
+            585,
+            557,
+            46,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "\"",
+        "box": [
+            602,
+            571,
+            14,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "White",
+        "box": [
+            159,
+            514,
+            49,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Blue",
+        "box": [
+            161,
+            529,
+            42,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "White",
+        "box": [
+            161,
+            545,
+            49,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "\"",
+        "box": [
+            177,
+            561,
+            17,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "00093726",
+        "box": [
+            648,
+            806,
+            28,
+            96
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Maker",
+        "box": [
+            35,
+            311,
+            46,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Length",
+        "box": [
+            34,
+            327,
+            57,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Circumference",
+        "box": [
+            34,
+            342,
+            122,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Weight",
+        "box": [
+            32,
+            358,
+            63,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Paper",
+        "box": [
+            35,
+            406,
+            46,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Labels",
+        "box": [
+            36,
+            517,
+            56,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Closures",
+        "box": [
+            35,
+            532,
+            77,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cartons",
+        "box": [
+            36,
+            563,
+            67,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Markings",
+        "box": [
+            36,
+            577,
+            75,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Laboratory",
+        "box": [
+            36,
+            669,
+            94,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Other",
+        "box": [
+            35,
+            687,
+            49,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Kind",
+        "box": [
+            412,
+            310,
+            39,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Process",
+        "box": [
+            413,
+            342,
+            64,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Circumference",
+        "box": [
+            413,
+            388,
+            122,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Weight",
+        "box": [
+            413,
+            401,
+            59,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Plasticizer",
+        "box": [
+            415,
+            418,
+            103,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Shipping",
+        "box": [
+            415,
+            560,
+            74,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "September 21, 1976",
+        "box": [
+            522,
+            10,
+            174,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Sample No.",
+        "box": [
+            270,
+            43,
+            95,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Type of Cigarette",
+        "box": [
+            197,
+            74,
+            159,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "85 mm Filter",
+        "box": [
+            387,
+            74,
+            112,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Batch Size",
+        "box": [
+            263,
+            105,
+            95,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "50 lbs.",
+        "box": [
+            385,
+            105,
+            66,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Original Request Made By",
+        "box": [
+            7,
+            138,
+            222,
+            23
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Dr. A. W. Spears",
+        "box": [
+            257,
+            135,
+            148,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "September 21, 1976",
+        "box": [
+            535,
+            133,
+            166,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Sample Specifications Written By",
+        "box": [
+            7,
+            169,
+            295,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "W. E. Routh",
+        "box": [
+            338,
+            166,
+            106,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "FINAL FLAVOR",
+        "box": [
+            464,
+            197,
+            118,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Additional Spray",
+        "box": [
+            605,
+            180,
+            148,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "3. 4% PMO in EtoH",
+        "box": [
+            606,
+            218,
+            152,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "20 mm True plastic rod",
+        "box": [
+            468,
+            303,
+            208,
+            26
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Rod Length",
+        "box": [
+            413,
+            358,
+            94,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Pressure Drop",
+        "box": [
+            412,
+            372,
+            123,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Plug Wrap",
+        "box": [
+            413,
+            434,
+            91,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Tipping Paper",
+        "box": [
+            35,
+            420,
+            122,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Filter Length",
+        "box": [
+            35,
+            387,
+            120,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Pressure Drop",
+        "box": [
+            35,
+            376,
+            120,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "85 mm",
+        "box": [
+            124,
+            325,
+            49,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "To be det. (803 mg tobacco)",
+        "box": [
+            102,
+            356,
+            249,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "To be determined",
+        "box": [
+            166,
+            370,
+            151,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "20 mm",
+        "box": [
+            172,
+            390,
+            50,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "30 mm",
+        "box": [
+            170,
+            420,
+            53,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Tear rape",
+        "box": [
+            35,
+            547,
+            87,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Sample No. on overwrap",
+        "box": [
+            134,
+            574,
+            123,
+            34
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Tobacco Blend",
+        "box": [
+            413,
+            513,
+            124,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Filter Production",
+        "box": [
+            413,
+            529,
+            161,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Making & Packing",
+        "box": [
+            413,
+            543,
+            150,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Sample Requisition [Form 02: 02: 06]",
+        "box": [
+            415,
+            575,
+            167,
+            31
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Brown /Routh",
+        "box": [
+            585,
+            542,
+            103,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3 cartons",
+        "box": [
+            154,
+            669,
+            84,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "20, 000 cigts.",
+        "box": [
+            152,
+            682,
+            123,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Smoke Analysis PMO Analysis",
+        "box": [
+            190,
+            743,
+            129,
+            37
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Laboratory Analysis",
+        "box": [
+            10,
+            729,
+            175,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Written by",
+        "box": [
+            36,
+            823,
+            94,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Original to",
+        "box": [
+            36,
+            838,
+            103,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Copies to",
+        "box": [
+            38,
+            853,
+            84,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Dr. F. J. Schulz Dr. H. J. Minnemeyer",
+        "box": [
+            151,
+            851,
+            187,
+            35
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "P. D. Schickedantz",
+        "box": [
+            151,
+            817,
+            169,
+            24
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Dr. A. W. Spears",
+        "box": [
+            152,
+            837,
+            151,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Spray 50 lbs. tobacco with solution of 880 g (= 1. 94 lbs.) PMC in 1175 ml of denatured alcohol. This should give 3. 4% PMO add- on (3. 3% PMO contained) assuming 88% spraying efficiency. PMO delivery from 85 mm cigarette smoked to 30 mm butt should be 6. 5 mg/ cig.",
+        "box": [
+            388,
+            669,
+            347,
+            109
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Special Requirements",
+        "box": [
+            387,
+            633,
+            187,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Manager, H.J. Minnemeyer Research",
+        "box": [
+            415,
+            925,
+            293,
+            62
+        ],
+        "class": "other"
+    }
+]

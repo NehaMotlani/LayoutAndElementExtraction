@@ -1,0 +1,420 @@
+﻿[
+    {
+        "value": "Signature",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            527,
+            63,
+            15
+        ]
+    },
+    {
+        "value": "Department",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            319,
+            525,
+            73,
+            15
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            513,
+            523,
+            35,
+            15
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            515,
+            676,
+            38,
+            17
+        ]
+    },
+    {
+        "value": "Department",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            322,
+            679,
+            76,
+            18
+        ]
+    },
+    {
+        "value": "Signature",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            683,
+            60,
+            15
+        ]
+    },
+    {
+        "value": "T&N",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            56,
+            453,
+            30,
+            12
+        ]
+    },
+    {
+        "value": "WARNING",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            58,
+            394,
+            65,
+            13
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            51,
+            239,
+            43,
+            12
+        ]
+    },
+    {
+        "value": "44",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            462,
+            228,
+            56,
+            38
+        ]
+    },
+    {
+        "value": "8'",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            171,
+            447,
+            18,
+            17
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            181,
+            628,
+            158,
+            143
+        ]
+    },
+    {
+        "value": "33/16\"WX21/2\"H",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            171,
+            332,
+            125,
+            13
+        ]
+    },
+    {
+        "value": "10/22/98",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            113,
+            238,
+            55,
+            13
+        ]
+    },
+    {
+        "value": "(Date)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            540,
+            346,
+            35,
+            13
+        ]
+    },
+    {
+        "value": "REVISIONS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            60,
+            819,
+            78,
+            13
+        ]
+    },
+    {
+        "value": "BRAND",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            50,
+            159,
+            51,
+            17
+        ]
+    },
+    {
+        "value": "DESCRIPTION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            53,
+            199,
+            90,
+            15
+        ]
+    },
+    {
+        "value": "7848",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            120,
+            120,
+            33,
+            15
+        ]
+    },
+    {
+        "value": "JOB NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            53,
+            121,
+            55,
+            19
+        ]
+    },
+    {
+        "value": "BROWN & WILLIAMSON TOBACCO CORPORATION B&W",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            48,
+            35,
+            265,
+            68
+        ]
+    },
+    {
+        "value": "INC",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            502,
+            12,
+            154,
+            58
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            556,
+            71,
+            94,
+            40
+        ]
+    },
+    {
+        "value": "KOOL Natural",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            116,
+            159,
+            86,
+            15
+        ]
+    },
+    {
+        "value": "Passport Winter Program Ad- EMRO",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            145,
+            183,
+            274,
+            30
+        ]
+    },
+    {
+        "value": "7.96875 sq inches",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            173,
+            276,
+            115,
+            15
+        ]
+    },
+    {
+        "value": "SQ. INCHES/FEET",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            53,
+            274,
+            111,
+            19
+        ]
+    },
+    {
+        "value": "TRIM SIZE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            58,
+            334,
+            64,
+            18
+        ]
+    },
+    {
+        "value": "Exhibt 1(a) Statement A",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            173,
+            387,
+            140,
+            22
+        ]
+    },
+    {
+        "value": "Legal Approval",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            409,
+            319,
+            51,
+            29
+        ]
+    },
+    {
+        "value": "OTT APPROVALS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            53,
+            507,
+            113,
+            17
+        ]
+    },
+    {
+        "value": "LKelly ",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            95,
+            537,
+            85,
+            63
+        ]
+    },
+    {
+        "value": "production AE",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            326,
+            540,
+            110,
+            42
+        ]
+    },
+    {
+        "value": "10/22/98 10/22/98",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            517,
+            533,
+            92,
+            45
+        ]
+    },
+    {
+        "value": "B&W APPROVALS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            56,
+            663,
+            119,
+            14
+        ]
+    },
+    {
+        "value": "DATE COMPLETE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            324,
+            812,
+            111,
+            18
+        ]
+    },
+    {
+        "value": "REVISIONS APPROVED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            520,
+            811,
+            151,
+            14
+        ]
+    },
+    {
+        "value": "176103236 PRODUCED FROM B&W WEB SITE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            0,
+            953,
+            231,
+            31
+        ]
+    }
+]

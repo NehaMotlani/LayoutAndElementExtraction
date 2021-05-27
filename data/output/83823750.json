@@ -1,0 +1,138 @@
+[
+    {
+        "text": "",
+        "class": "other"
+    },
+    {
+        "text": "001",
+        "class": "other"
+    },
+    {
+        "text": "Date",
+        "class": "other"
+    },
+    {
+        "text": "To",
+        "class": "other"
+    },
+    {
+        "text": "2",
+        "class": "other"
+    },
+    {
+        "text": "Company",
+        "class": "other"
+    },
+    {
+        "text": "Sender",
+        "class": "other"
+    },
+    {
+        "text": "Reference",
+        "class": "other"
+    },
+    {
+        "text": "Message:",
+        "class": "other"
+    },
+    {
+        "text": "83823750",
+        "class": "other"
+    },
+    {
+        "text": "Confidentiality",
+        "class": "answer"
+    },
+    {
+        "text": "Note:",
+        "class": "answer"
+    },
+    {
+        "text": "/97 TUE 18: 39 FAX 212 5578",
+        "class": "header"
+    },
+    {
+        "text": "DPW 30 -59",
+        "class": "other"
+    },
+    {
+        "text": "DAVIS POLK & WARDWELL",
+        "class": "header"
+    },
+    {
+        "text": "Fax Transmittal",
+        "class": "question"
+    },
+    {
+        "text": "450 Lexington Avenue New York NY 10017 212- 450 4000",
+        "class": "question"
+    },
+    {
+        "text": "Robert H. Shaw, Esq.",
+        "class": "question"
+    },
+    {
+        "text": "November 11, 1997",
+        "class": "other"
+    },
+    {
+        "text": "Lorillard Tobacco Company",
+        "class": "header"
+    },
+    {
+        "text": "Fax Number",
+        "class": "other"
+    },
+    {
+        "text": "Voice Number",
+        "class": "other"
+    },
+    {
+        "text": "910 -335- 7077",
+        "class": "other"
+    },
+    {
+        "text": "910 -335- 7720",
+        "class": "other"
+    },
+    {
+        "text": "Number of Pages (this page included)",
+        "class": "question"
+    },
+    {
+        "text": "Charles Duggan",
+        "class": "other"
+    },
+    {
+        "text": "Sender Voice Number",
+        "class": "question"
+    },
+    {
+        "text": "Main Fax Operator Voice Number",
+        "class": "question"
+    },
+    {
+        "text": "212 -450- 4785",
+        "class": "other"
+    },
+    {
+        "text": "Sender Fax Number",
+        "class": "question"
+    },
+    {
+        "text": "212 -450 -5578",
+        "class": "other"
+    },
+    {
+        "text": "17560 -188",
+        "class": "other"
+    },
+    {
+        "text": "This facsimile intended only the person or entity to which it is addressed and may contain information that is privileged, confidential",
+        "class": "other"
+    },
+    {
+        "text": "or otherwise protected from disclosure distribution or copying of this facsimile or the information herein by anyone other than the intended recipient, or an employee or agent responsible for delivering the message to the intended recipient is prohibited. If you love received the facsimile in error, please notify us immediately by telephone and return the facsimile by mail.",
+        "class": "answer"
+    }
+]

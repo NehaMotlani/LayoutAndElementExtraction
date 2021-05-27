@@ -1,0 +1,652 @@
+﻿[
+    {
+        "text": "EXPLOSIVE",
+        "box": [
+            43,
+            391,
+            53,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FLAMMABLE",
+        "box": [
+            43,
+            412,
+            53,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "RADIOACTIVE",
+        "box": [
+            42,
+            432,
+            67,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SOLID",
+        "box": [
+            74,
+            471,
+            35,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LIQUID",
+        "box": [
+            70,
+            489,
+            36,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PRESSURIZED",
+        "box": [
+            42,
+            504,
+            68,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Colorless",
+        "box": [
+            215,
+            476,
+            70,
+            21
+        ],
+        "class": "other"
+    },
+    {
+        "text": "X",
+        "box": [
+            123,
+            483,
+            11,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "COLOR",
+        "box": [
+            289,
+            486,
+            32,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "1",
+        "box": [
+            399,
+            133,
+            15,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "642-138",
+        "box": [
+            592,
+            131,
+            54,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "B166",
+        "box": [
+            682,
+            17,
+            63,
+            31
+        ],
+        "class": "other"
+    },
+    {
+        "text": "SIGNATURE:",
+        "box": [
+            471,
+            183,
+            56,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "D.",
+        "box": [
+            538,
+            161,
+            110,
+            39
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            532,
+            158,
+            20,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            563,
+            162,
+            45,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "9/28/83",
+        "box": [
+            531,
+            233,
+            56,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "20.845",
+        "box": [
+            654,
+            235,
+            52,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "☑",
+        "box": [
+            425,
+            472,
+            14,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DESSICATOR",
+        "box": [
+            627,
+            459,
+            64,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FREEZER",
+        "box": [
+            627,
+            476,
+            46,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OTHER",
+        "box": [
+            628,
+            492,
+            32,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "B166",
+        "box": [
+            183,
+            230,
+            34,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3212",
+        "box": [
+            349,
+            162,
+            34,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "☑",
+        "box": [
+            605,
+            413,
+            15,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "00866042",
+        "box": [
+            693,
+            810,
+            20,
+            96
+        ],
+        "class": "other"
+    },
+    {
+        "text": "HAZLETON LABORATORIES AMERICA INC",
+        "box": [
+            304,
+            74,
+            251,
+            51
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "PROJECT SHEET",
+        "box": [
+            41,
+            82,
+            133,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "9200 EESAURG TURNPIKE VIENNA VIRGINIA 22180 USA",
+        "box": [
+            581,
+            77,
+            162,
+            39
+        ],
+        "class": "other"
+    },
+    {
+        "text": "DATE ISSUED",
+        "box": [
+            45,
+            140,
+            65,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Oct. 11, 1983",
+        "box": [
+            123,
+            130,
+            97,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PROJECT SHEET NO.",
+        "box": [
+            278,
+            141,
+            98,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PROJECT NO.",
+        "box": [
+            480,
+            141,
+            88,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "STUDY TITLE & PROPOSAL NUMBER",
+        "box": [
+            46,
+            159,
+            165,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Acute Intraperitoneal Toxicity Study in Rats",
+        "box": [
+            49,
+            173,
+            325,
+            20
+        ],
+        "class": "other"
+    },
+    {
+        "text": "PROJECT COORDINATOR",
+        "box": [
+            420,
+            161,
+            111,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LOT NO.(s)",
+        "box": [
+            419,
+            204,
+            61,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "RECEIPT DATE(s)",
+        "box": [
+            527,
+            204,
+            84,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LH- NUMBER(s)",
+        "box": [
+            659,
+            208,
+            73,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TEST MATERIAL(s)",
+        "box": [
+            45,
+            201,
+            89,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PERFORMING DEPARTMENTS",
+        "box": [
+            47,
+            291,
+            127,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "4 COPIES EACH DIRECTOR)",
+        "box": [
+            176,
+            292,
+            130,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Acute/ Dermal Toxicology",
+        "box": [
+            47,
+            303,
+            177,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "PROTECTIVE PRECAUTIONS REQUIRED:",
+        "box": [
+            43,
+            355,
+            182,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "HAZARDOUS, COMPOUND",
+        "box": [
+            165,
+            369,
+            103,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "CARCINOGEN (OSHA)",
+        "box": [
+            211,
+            391,
+            98,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CARCINOGEN (OTHER)",
+        "box": [
+            211,
+            413,
+            104,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PHYSICAL DESCRIPTION:",
+        "box": [
+            45,
+            451,
+            118,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "EXPERIMENTAL PROCEDURES",
+        "box": [
+            45,
+            522,
+            130,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "to performed in Acure/Dermal Toxicology, building 18.",
+        "box": [
+            189,
+            522,
+            390,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ORIGINAL SIGNED PROJECT SHEETS TO PSO",
+        "box": [
+            422,
+            295,
+            206,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FIXED DISTRIBUTION:",
+        "box": [
+            472,
+            316,
+            112,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(1 COPY TO EACH) LAB ANIMAL MEDICINE QUALITY ASSURANCE CONTRACTS Sponsor",
+        "box": [
+            587,
+            317,
+            138,
+            70
+        ],
+        "class": "other"
+    },
+    {
+        "text": "DIR. OF LIFE SCIENCES HEALTH SERVICES COMPOUND PREP (TOX) SCIENTIFIC RES TOX",
+        "box": [
+            430,
+            334,
+            109,
+            58
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FOLLOW DEPARTMENT AND COMPANY SAFETY MANUALS",
+        "box": [
+            420,
+            404,
+            162,
+            23
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "STORAGE CONDITIONS",
+        "box": [
+            423,
+            439,
+            100,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "STORE IN DARK",
+        "box": [
+            437,
+            455,
+            74,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REFRIGERATOR 8 C",
+        "box": [
+            437,
+            469,
+            105,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ROOM TEMPERATURE",
+        "box": [
+            437,
+            489,
+            93,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SPECIAL INSTRUCTIONS WHILE DOSING",
+        "box": [
+            437,
+            504,
+            178,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "The protocol for this study is attached.",
+        "box": [
+            91,
+            574,
+            292,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "The protocol was approved in sponsor letter of June 6, 1983.",
+        "box": [
+            95,
+            602,
+            436,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "The anticipated initiation date of this study is October 1983.",
+        "box": [
+            92,
+            630,
+            451,
+            21
+        ],
+        "class": "other"
+    },
+    {
+        "text": "The anticipated completion date of this study is November 1983.",
+        "box": [
+            91,
+            659,
+            459,
+            22
+        ],
+        "class": "other"
+    },
+    {
+        "text": "ML FORM NO. 5 REVISED 1- 81",
+        "box": [
+            49,
+            961,
+            74,
+            22
+        ],
+        "class": "other"
+    }
+]

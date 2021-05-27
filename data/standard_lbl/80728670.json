@@ -1,0 +1,398 @@
+﻿[
+    {
+        "value": "TO:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            148,
+            24,
+            17
+        ]
+    },
+    {
+        "value": "FROM:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            92,
+            190,
+            38,
+            21
+        ]
+    },
+    {
+        "value": "DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            469,
+            142,
+            39,
+            18
+        ]
+    },
+    {
+        "value": "Air",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            232,
+            472,
+            25,
+            15
+        ]
+    },
+    {
+        "value": "Auto",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            295,
+            471,
+            28,
+            15
+        ]
+    },
+    {
+        "value": "Train",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            360,
+            469,
+            41,
+            15
+        ]
+    },
+    {
+        "value": "Other",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            434,
+            466,
+            39,
+            18
+        ]
+    },
+    {
+        "value": "Dates",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            541,
+            644,
+            39,
+            18
+        ]
+    },
+    {
+        "value": "Boston",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            318,
+            381,
+            59,
+            15
+        ]
+    },
+    {
+        "value": "XX",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            345,
+            599,
+            22,
+            17
+        ]
+    },
+    {
+        "value": "X",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            676,
+            729,
+            15,
+            15
+        ]
+    },
+    {
+        "value": "80728670",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            719,
+            782,
+            24,
+            101
+        ]
+    },
+    {
+        "value": "FIELD TRIP",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            365,
+            84,
+            78,
+            17
+        ]
+    },
+    {
+        "value": "J. R. Mueller",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            180,
+            144,
+            99,
+            18
+        ]
+    },
+    {
+        "value": "Mary Anne Kayiatos",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            159,
+            182,
+            162,
+            21
+        ]
+    },
+    {
+        "value": "2 /28 /84",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            534,
+            134,
+            64,
+            20
+        ]
+    },
+    {
+        "value": "Please make the necessary Field Trip arrangements for",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            92,
+            249,
+            397,
+            19
+        ]
+    },
+    {
+        "value": "Ted van de kamp",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            497,
+            239,
+            137,
+            20
+        ]
+    },
+    {
+        "value": "Purpose of trip",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            295,
+            115,
+            20
+        ]
+    },
+    {
+        "value": "To evaluate Satin's overall performance and results of",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            230,
+            282,
+            485,
+            24
+        ]
+    },
+    {
+        "value": "Special Cities.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            105,
+            330,
+            135,
+            21
+        ]
+    },
+    {
+        "value": "Division (s) to be contacted",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            383,
+            204,
+            20
+        ]
+    },
+    {
+        "value": "Dates of contact",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            426,
+            120,
+            18
+        ]
+    },
+    {
+        "value": "Tuesday 3 /13 and Wednesday, 3 /14",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            240,
+            423,
+            291,
+            20
+        ]
+    },
+    {
+        "value": "Method of travel:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            91,
+            469,
+            128,
+            18
+        ]
+    },
+    {
+        "value": "Arrival date and time (include airline and flight no.)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            513,
+            403,
+            19
+        ]
+    },
+    {
+        "value": "Monday, 3 /12",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            514,
+            510,
+            115,
+            20
+        ]
+    },
+    {
+        "value": "Evening Shuttle",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            103,
+            550,
+            139,
+            18
+        ]
+    },
+    {
+        "value": "Hotel /Motel reservations needed",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            89,
+            602,
+            235,
+            18
+        ]
+    },
+    {
+        "value": "Reservations made at",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            92,
+            648,
+            150,
+            18
+        ]
+    },
+    {
+        "value": "Sales Personnel to be contacted",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            690,
+            235,
+            18
+        ]
+    },
+    {
+        "value": "Sales Personnel to be worked with:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            733,
+            256,
+            20
+        ]
+    },
+    {
+        "value": "D. M.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            362,
+            735,
+            29,
+            14
+        ]
+    },
+    {
+        "value": "A. D. M.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            426,
+            733,
+            46,
+            16
+        ]
+    },
+    {
+        "value": "Sales Representative",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            510,
+            733,
+            152,
+            15
+        ]
+    },
+    {
+        "value": "Return to J. R. Mueller no later than two weeks prior to anticipated trip.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            85,
+            927,
+            553,
+            20
+        ]
+    }
+]

@@ -1,0 +1,312 @@
+﻿[
+    {
+        "text": "DATE",
+        "box": [
+            439,
+            273,
+            35,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PMRM",
+        "box": [
+            275,
+            270,
+            33,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Cigarette",
+        "box": [
+            275,
+            500,
+            71,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "dimensions:",
+        "box": [
+            353,
+            499,
+            86,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ference.",
+        "box": [
+            274,
+            525,
+            66,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "cc:",
+        "box": [
+            114,
+            725,
+            23,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "RSS",
+        "box": [
+            151,
+            722,
+            25,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RDC",
+        "box": [
+            152,
+            735,
+            25,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PHL",
+        "box": [
+            154,
+            747,
+            23,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PRC",
+        "box": [
+            152,
+            761,
+            24,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BMC",
+        "box": [
+            152,
+            773,
+            24,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Records",
+        "box": [
+            154,
+            785,
+            53,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PROJECT INITIATION FORM",
+        "box": [
+            286,
+            183,
+            181,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "PROJECT CODE",
+        "box": [
+            116,
+            270,
+            95,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PROJECT NAME",
+        "box": [
+            116,
+            309,
+            93,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PROJECT LEADER",
+        "box": [
+            116,
+            348,
+            111,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "WORK REQUESTED BY",
+        "box": [
+            116,
+            385,
+            131,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PROJECT OBJECTIVE",
+        "box": [
+            116,
+            424,
+            134,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OTHER PERSONNEL ASSIGNED",
+        "box": [
+            115,
+            551,
+            116,
+            28
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "April 30, 1985",
+        "box": [
+            483,
+            270,
+            111,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PALL MALL Regular Menthol",
+        "box": [
+            275,
+            307,
+            192,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "J. F. Anders",
+        "box": [
+            273,
+            346,
+            96,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R. S. Sprinkle, III",
+        "box": [
+            275,
+            384,
+            147,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "To develop a nonfilter menthol cigarette delivering 21- 24 mg \"tar\" as a menthol companion to PALL MALL Famous Cigarettes.",
+        "box": [
+            275,
+            422,
+            318,
+            67
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "84 x 24.9 mm circum-",
+        "box": [
+            455,
+            499,
+            155,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "E. P. Barbee",
+        "box": [
+            275,
+            563,
+            93,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Approved by",
+        "box": [
+            390,
+            684,
+            88,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Other Personnel Assigned",
+        "box": [
+            152,
+            810,
+            190,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Project Leader",
+        "box": [
+            152,
+            797,
+            110,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ATX02 0226607",
+        "box": [
+            504,
+            869,
+            115,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "R. S. Sprinkle III",
+        "box": [
+            392,
+            701,
+            178,
+            48
+        ],
+        "class": "value_answer"
+    }
+]

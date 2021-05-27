@@ -1,0 +1,812 @@
+﻿[
+    {
+        "text": "COMPOUND",
+        "box": [
+            84,
+            109,
+            52,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SOURCE",
+        "box": [
+            85,
+            141,
+            34,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "INVESTIGATOR(S)",
+        "box": [
+            84,
+            203,
+            71,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SIGNATURE(S)",
+        "box": [
+            84,
+            232,
+            57,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REPORTED",
+        "box": [
+            508,
+            170,
+            43,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TESTED",
+        "box": [
+            327,
+            170,
+            34,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MALE",
+        "box": [
+            334,
+            296,
+            27,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FEMALE",
+        "box": [
+            404,
+            296,
+            34,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SOURCE",
+        "box": [
+            404,
+            328,
+            36,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Unk.",
+        "box": [
+            180,
+            162,
+            39,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "P.O.",
+        "box": [
+            300,
+            360,
+            17,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "A4",
+        "box": [
+            669,
+            127,
+            28,
+            24
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "12/28/78",
+        "box": [
+            377,
+            163,
+            74,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "X",
+        "box": [
+            369,
+            284,
+            18,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Unk.",
+        "box": [
+            591,
+            286,
+            39,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Camm",
+        "box": [
+            473,
+            323,
+            41,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Research",
+        "box": [
+            522,
+            320,
+            74,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "☑",
+        "box": [
+            288,
+            360,
+            14,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "☑",
+        "box": [
+            201,
+            388,
+            17,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "5",
+        "box": [
+            216,
+            487,
+            15,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10",
+        "box": [
+            208,
+            517,
+            20,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10",
+        "box": [
+            209,
+            546,
+            21,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10",
+        "box": [
+            211,
+            578,
+            20,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10",
+        "box": [
+            208,
+            606,
+            22,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1",
+        "box": [
+            122,
+            483,
+            10,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2",
+        "box": [
+            122,
+            511,
+            11,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3",
+        "box": [
+            123,
+            541,
+            10,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4",
+        "box": [
+            122,
+            571,
+            11,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "5",
+        "box": [
+            123,
+            602,
+            10,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1800",
+        "box": [
+            383,
+            487,
+            41,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2160",
+        "box": [
+            380,
+            518,
+            41,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2592",
+        "box": [
+            383,
+            547,
+            36,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3732",
+        "box": [
+            384,
+            577,
+            36,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4479",
+        "box": [
+            381,
+            605,
+            39,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CONCLUSION",
+        "box": [
+            82,
+            740,
+            53,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "00040534",
+        "box": [
+            680,
+            824,
+            21,
+            96
+        ],
+        "class": "other"
+    },
+    {
+        "text": "ACUTE TOXICITY IN MICE",
+        "box": [
+            295,
+            56,
+            217,
+            23
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "3-Hydroxy-3-methylbutanoic acid (Tur 13)",
+        "box": [
+            145,
+            98,
+            362,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Lorillard - Organic Chemistry",
+        "box": [
+            144,
+            128,
+            265,
+            24
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LORILLARD NO",
+        "box": [
+            411,
+            141,
+            62,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OR39- 23",
+        "box": [
+            499,
+            127,
+            65,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            615,
+            141,
+            35,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE RECEIVED",
+        "box": [
+            85,
+            172,
+            64,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "5/3/79 10/6/80 , Update",
+        "box": [
+            573,
+            148,
+            140,
+            36
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "H. S. Tong & M. S. Forte'",
+        "box": [
+            198,
+            194,
+            229,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            186,
+            211,
+            544,
+            53
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "B1014- 23",
+        "box": [
+            637,
+            194,
+            77,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "NOTEBOOK PAGE",
+        "box": [
+            543,
+            203,
+            74,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "STRAIN OF MICE",
+        "box": [
+            82,
+            297,
+            67,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Swiss- Webster",
+        "box": [
+            162,
+            286,
+            120,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DATE RECEIVED",
+        "box": [
+            493,
+            297,
+            67,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "AVERAGE WEIGHT RANGE (GM)",
+        "box": [
+            84,
+            327,
+            124,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ROUTE OF COMPOUND ADMINISTRATION",
+        "box": [
+            84,
+            362,
+            162,
+            11
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "☐ I.P.",
+        "box": [
+            362,
+            362,
+            24,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ I.V.",
+        "box": [
+            429,
+            362,
+            26,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ INHALATION",
+        "box": [
+            499,
+            363,
+            63,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMPOUND ",
+        "box": [
+            82,
+            390,
+            87,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": ".5 % METHYL CELULOSE",
+        "box": [
+            221,
+            390,
+            107,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ CORN OIL",
+        "box": [
+            369,
+            390,
+            54,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ SALINE",
+        "box": [
+            466,
+            390,
+            40,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ OTHER",
+        "box": [
+            550,
+            391,
+            39,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "GROUP NO.",
+        "box": [
+            105,
+            447,
+            48,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "% SOLUTION",
+        "box": [
+            218,
+            448,
+            51,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DOSAGE (mg/ kg BODY WEIGHT)",
+        "box": [
+            370,
+            448,
+            85,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "RESULTS (NO TESTED)",
+        "box": [
+            588,
+            450,
+            91,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1/ 6",
+        "box": [
+            574,
+            489,
+            29,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0/ 6",
+        "box": [
+            575,
+            515,
+            32,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0/ 6",
+        "box": [
+            575,
+            545,
+            28,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3/ 6",
+        "box": [
+            575,
+            575,
+            30,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "6/ 6",
+        "box": [
+            575,
+            605,
+            29,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "REFERENCE FOR CALCULATION",
+        "box": [
+            82,
+            651,
+            121,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Litchfield, J. T. and Wilcoxin F. , J. of Pharmacol",
+        "box": [
+            228,
+            638,
+            472,
+            23
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "and Exper. Ther. , 90: 99 , 1948.",
+        "box": [
+            92,
+            670,
+            272,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.5 (3.1 to 3.9 g /kg",
+        "box": [
+            239,
+            703,
+            181,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Dr. H. J. Minnemeyer Ms. L. B. Gray",
+        "box": [
+            345,
+            863,
+            185,
+            32
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Copies to the Following:",
+        "box": [
+            91,
+            865,
+            219,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LORILLARO RESEARCH CENTER",
+        "box": [
+            80,
+            946,
+            122,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "FORM 7 5/80",
+        "box": [
+            676,
+            946,
+            56,
+            12
+        ],
+        "class": "other"
+    },
+    {
+        "text": "of respiratory depression, constriction of blood vessels, and in- activity. Survivors recovered in 48 hours. The recommended safe dose for a single trial by inhalation in man is 0.3 mg.",
+        "box": [
+            89,
+            753,
+            599,
+            78
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "This compound appears to act as a CNS depressant with symptons",
+        "box": [
+            135,
+            728,
+            569,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LD50 (95% CONFIDENCE LIMITS)",
+        "box": [
+            82,
+            711,
+            121,
+            12
+        ],
+        "class": "value_question"
+    }
+]

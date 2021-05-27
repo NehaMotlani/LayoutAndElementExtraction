@@ -1,0 +1,321 @@
+﻿[
+    {
+        "value": "Agency:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            60,
+            247,
+            42,
+            14
+        ]
+    },
+    {
+        "value": "Contact:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            391,
+            243,
+            43,
+            11
+        ]
+    },
+    {
+        "value": "Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            388,
+            201,
+            28,
+            14
+        ]
+    },
+    {
+        "value": "Client:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            60,
+            352,
+            39,
+            17
+        ]
+    },
+    {
+        "value": "Address:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            60,
+            300,
+            50,
+            14
+        ]
+    },
+    {
+        "value": "Product:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            61,
+            409,
+            46,
+            15
+        ]
+    },
+    {
+        "value": "Film Cleared:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            61,
+            465,
+            73,
+            14
+        ]
+    },
+    {
+        "value": "RECEIVED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            573,
+            384,
+            50,
+            17
+        ]
+    },
+    {
+        "value": "CF:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            66,
+            779,
+            25,
+            13
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            66,
+            795,
+            20,
+            13
+        ]
+    },
+    {
+        "value": "cb",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            91,
+            779,
+            22,
+            14
+        ]
+    },
+    {
+        "value": "AMERICAN BROADCASTING COMPANY TELEVISION NETWORK",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            225,
+            61,
+            206,
+            44
+        ]
+    },
+    {
+        "value": "1333 Avenue of the Americas, New York, New York 10019 LT 1- 7777",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            208,
+            113,
+            242,
+            34
+        ]
+    },
+    {
+        "value": "SSC&B, Inc",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            119,
+            236,
+            88,
+            18
+        ]
+    },
+    {
+        "value": "September 25, 1969",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            440,
+            190,
+            156,
+            20
+        ]
+    },
+    {
+        "value": "Larry Odum",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            448,
+            232,
+            91,
+            21
+        ]
+    },
+    {
+        "value": "575 Lexington Avenue, New York, New York 10022",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            120,
+            289,
+            402,
+            19
+        ]
+    },
+    {
+        "value": "American Tobacco Company",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            120,
+            346,
+            211,
+            20
+        ]
+    },
+    {
+        "value": "Pall Mail Filter tip",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            119,
+            395,
+            178,
+            21
+        ]
+    },
+    {
+        "value": "VIDEO TAPE APPROVAL",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            191,
+            457,
+            169,
+            18
+        ]
+    },
+    {
+        "value": "SEP 30 ",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            553,
+            419,
+            86,
+            24
+        ]
+    },
+    {
+        "value": "PERCY F. SMITH",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            547,
+            455,
+            90,
+            17
+        ]
+    },
+    {
+        "value": "\"Presenter/ Girl Rev\" AT-M B-T-64 :60 \"Pall Mall Filter Tip\" AT-P/ F-T-317 :30",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            123,
+            490,
+            377,
+            34
+        ]
+    },
+    {
+        "value": "TAPE WILL FOLLOW AS SOON AS I RECEIVE IT FROM THE TAPE LIBRARY.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            122,
+            545,
+            474,
+            35
+        ]
+    },
+    {
+        "value": "PLEASE NOTIFY THIS DEPARTMENT OF ANY CHANGES IN THE CODE NUMBER(S).",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            63,
+            673,
+            459,
+            20
+        ]
+    },
+    {
+        "value": "Final approval is, of course, dependent upon time and placement of the commercial(s).",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            63,
+            698,
+            447,
+            23
+        ]
+    },
+    {
+        "value": "Film(s) enclosed.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            66,
+            747,
+            96,
+            14
+        ]
+    },
+    {
+        "value": "Sincerely, American Broadcasting Company Cynthia Fates C.B Department BROADCAST STANDARDS AND PRACTICES",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            394,
+            754,
+            198,
+            116
+        ]
+    },
+    {
+        "value": "XER 264/ REV 5/ 68",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            80,
+            873,
+            114,
+            13
+        ]
+    }
+]

@@ -1,0 +1,464 @@
+﻿[
+    {
+        "value": "FAX:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            177,
+            22,
+            15
+        ]
+    },
+    {
+        "value": "DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            337,
+            41,
+            14
+        ]
+    },
+    {
+        "value": "FROM:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            286,
+            42,
+            15
+        ]
+    },
+    {
+        "value": "CHARGEBACK:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            457,
+            288,
+            87,
+            17
+        ]
+    },
+    {
+        "value": "RECIPIENT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            106,
+            404,
+            70,
+            14
+        ]
+    },
+    {
+        "value": "COMPANY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            235,
+            402,
+            63,
+            17
+        ]
+    },
+    {
+        "value": "FAX",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            398,
+            404,
+            27,
+            14
+        ]
+    },
+    {
+        "value": "No.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            426,
+            405,
+            25,
+            13
+        ]
+    },
+    {
+        "value": "COMMENTS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            532,
+            70,
+            14
+        ]
+    },
+    {
+        "value": "No:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            538,
+            934,
+            24,
+            18
+        ]
+    },
+    {
+        "value": "Name:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            258,
+            936,
+            41,
+            17
+        ]
+    },
+    {
+        "value": "Yes",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            196,
+            936,
+            25,
+            15
+        ]
+    },
+    {
+        "value": "Confirmation:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            105,
+            937,
+            88,
+            15
+        ]
+    },
+    {
+        "value": "2074956978",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            686,
+            831,
+            20,
+            95
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            591,
+            102,
+            59,
+            42
+        ]
+    },
+    {
+        "value": "WINSTON & STRAWN",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            77,
+            95,
+            411,
+            56
+        ]
+    },
+    {
+        "value": "Fax Cover Sheet",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            514,
+            137,
+            100,
+            21
+        ]
+    },
+    {
+        "value": "MAMI TRIAL SITE, 2000 FIRST UNION FINANCIAL CENTER, 200 SOUTH BISCAYNE BOULEVARD MIAMI, FLORIDA 33131",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            95,
+            155,
+            371,
+            26
+        ]
+    },
+    {
+        "value": "(305) 400 6 06",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            126,
+            179,
+            99,
+            13
+        ]
+    },
+    {
+        "value": "200 PARK AVENUE NEWYORK NY 10166 4193 212 294-6700",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            77,
+            205,
+            120,
+            33
+        ]
+    },
+    {
+        "value": "400 L. STREET N WASHWINGTON DC 20005 3502 202 371 5700",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            219,
+            207,
+            127,
+            29
+        ]
+    },
+    {
+        "value": "35 WEST WACKER CHICAGO. IL 30601 312- 588 5800",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            360,
+            208,
+            82,
+            31
+        ]
+    },
+    {
+        "value": "21 AVENUE VICTOR HUGO 75 PARIS, FRANCE 33- 53 64 62 82",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            500,
+            209,
+            94,
+            30
+        ]
+    },
+    {
+        "value": "Fax Number:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            267,
+            256,
+            88,
+            17
+        ]
+    },
+    {
+        "value": "305 400- 6107",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            359,
+            256,
+            95,
+            17
+        ]
+    },
+    {
+        "value": "Kevin Narko",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            161,
+            286,
+            73,
+            18
+        ]
+    },
+    {
+        "value": "10/ 13/ 99",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            161,
+            335,
+            52,
+            14
+        ]
+    },
+    {
+        "value": "4162/ 158",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            468,
+            310,
+            55,
+            14
+        ]
+    },
+    {
+        "value": "Please Deliver as soon Possible To:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            246,
+            370,
+            226,
+            17
+        ]
+    },
+    {
+        "value": "John Mulderig",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            108,
+            430,
+            85,
+            19
+        ]
+    },
+    {
+        "value": "Gregory Little",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            109,
+            458,
+            83,
+            18
+        ]
+    },
+    {
+        "value": "Philip Morris",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            235,
+            430,
+            80,
+            20
+        ]
+    },
+    {
+        "value": "Philip Morris",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            236,
+            459,
+            77,
+            20
+        ]
+    },
+    {
+        "value": "917 -663 -5796",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            399,
+            432,
+            83,
+            17
+        ]
+    },
+    {
+        "value": "917- 663 5979",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            397,
+            461,
+            84,
+            15
+        ]
+    },
+    {
+        "value": "917- 663 3056",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            514,
+            432,
+            82,
+            15
+        ]
+    },
+    {
+        "value": "PHONE No.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            514,
+            404,
+            74,
+            16
+        ]
+    },
+    {
+        "value": "Total number of pages including this page:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            239,
+            497,
+            240,
+            19
+        ]
+    },
+    {
+        "value": "IF YOU DO NOT RECEIVE ALL THE PAGES, PLEASE CALL OUR FAX OPERATOR AS SOON AS POSSIBLE THANK YOU. 312- 558- 5948",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            85,
+            677,
+            535,
+            45
+        ]
+    },
+    {
+        "value": "The information contained in this facsimile message is attorncy privileged and confidential information intended only for the use of the individual or entity named above. If the reader of this message is not the intended recipient, or the employee or agent responsible to deliver it to the intended recipient, you are hereby notified that any dissemination, distribution or copying this communication strictly prohibited.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            82,
+            821,
+            557,
+            52
+        ]
+    },
+    {
+        "value": "If you have received this communication in error, please immediately notify us by telephone, and return the original message to us at the above address via the U. S. Postal Service. Thank you.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            84,
+            881,
+            552,
+            27
+        ]
+    },
+    {
+        "value": "Operator Initials:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            919,
+            99,
+            16
+        ]
+    }
+]

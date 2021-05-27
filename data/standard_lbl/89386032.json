@@ -1,0 +1,200 @@
+﻿[
+    {
+        "value": "EPL",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            70,
+            130,
+            53,
+            28
+        ]
+    },
+    {
+        "value": "Multiple",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            209,
+            405,
+            63,
+            11
+        ]
+    },
+    {
+        "value": "1419A",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            571,
+            274,
+            36,
+            15
+        ]
+    },
+    {
+        "value": "Species",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            441,
+            405,
+            52,
+            14
+        ]
+    },
+    {
+        "value": "Mice",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            527,
+            405,
+            34,
+            14
+        ]
+    },
+    {
+        "value": "89386032",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            675,
+            832,
+            15,
+            89
+        ]
+    },
+    {
+        "value": "EXPERIMENTAL PATHOLOGY LABORATORIES, INC.",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            141,
+            168,
+            283,
+            14
+        ]
+    },
+    {
+        "value": "QUALITY ASSURANCE REPORT CERTIFICATION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            291,
+            218,
+            147,
+            27
+        ]
+    },
+    {
+        "value": "Client Name",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            106,
+            274,
+            82,
+            16
+        ]
+    },
+    {
+        "value": "Study Director",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            106,
+            317,
+            102,
+            15
+        ]
+    },
+    {
+        "value": "Study Title",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            106,
+            360,
+            79,
+            15
+        ]
+    },
+    {
+        "value": "Test Article",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            109,
+            404,
+            86,
+            15
+        ]
+    },
+    {
+        "value": "Borriston Laboratories, Inc.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            200,
+            274,
+            197,
+            15
+        ]
+    },
+    {
+        "value": "Client Study No.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            404,
+            275,
+            117,
+            15
+        ]
+    },
+    {
+        "value": "Dr. William O. Iverson Pathologist Dr. Charley E. Gilmore",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            212,
+            316,
+            424,
+            19
+        ]
+    },
+    {
+        "value": "Bioassay of Cigarette Smoke Condensates for potential Tumorigenic Activity on Mouse Skin (Revised Pathology Report)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            214,
+            344,
+            380,
+            47
+        ]
+    },
+    {
+        "value": "A11 parts of the pathology phase of this study, including the final report, were reviewed by Experimental Pathology Laboratories Quality Assurance Unit on March 2- June 8, 1983 . All Findings were reported to the Study Director and Management.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            124,
+            486,
+            543,
+            107
+        ]
+    },
+    {
+        "value": "6/8/83",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            398,
+            661,
+            229,
+            88
+        ]
+    }
+]

@@ -1,0 +1,365 @@
+﻿[
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            156,
+            270,
+            55,
+            20
+        ]
+    },
+    {
+        "value": "TIME",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            360,
+            271,
+            43,
+            19
+        ]
+    },
+    {
+        "value": "NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            160,
+            380,
+            55,
+            19
+        ]
+    },
+    {
+        "value": "OFFICE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            158,
+            406,
+            70,
+            23
+        ]
+    },
+    {
+        "value": "NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            156,
+            516,
+            60,
+            20
+        ]
+    },
+    {
+        "value": "OFFICE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            156,
+            540,
+            68,
+            24
+        ]
+    },
+    {
+        "value": "11/4/93",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            235,
+            273,
+            60,
+            13
+        ]
+    },
+    {
+        "value": "COMMENTS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            155,
+            611,
+            111,
+            16
+        ]
+    },
+    {
+        "value": "cc:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            285,
+            786,
+            23,
+            13
+        ]
+    },
+    {
+        "value": "91372360",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            754,
+            745,
+            21,
+            75
+        ]
+    },
+    {
+        "value": "Lorillard TOBACCO COMPANY",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            120,
+            84,
+            230,
+            68
+        ]
+    },
+    {
+        "value": "Nov. 4 93 16:33",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            104,
+            29,
+            109,
+            16
+        ]
+    },
+    {
+        "value": "KONICA FAX 285",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            297,
+            29,
+            93,
+            15
+        ]
+    },
+    {
+        "value": "P. 1",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            690,
+            19,
+            37,
+            23
+        ]
+    },
+    {
+        "value": "101 N. CLASSEN BLVD. SUITE 102. OKLAHOMA CITY OK. 73118 TELEPHONE 405) 543- 0455 or 04600460",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            116,
+            152,
+            443,
+            15
+        ]
+    },
+    {
+        "value": "FACSIMILE COVER PAGE",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            318,
+            214,
+            206,
+            21
+        ]
+    },
+    {
+        "value": "3:28 CST",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            428,
+            273,
+            66,
+            13
+        ]
+    },
+    {
+        "value": "The following document, including cover page is 3 pages long.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            160,
+            298,
+            493,
+            22
+        ]
+    },
+    {
+        "value": "PLEASE TRANSMIT THIS DOCUMENT TO:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            156,
+            337,
+            351,
+            19
+        ]
+    },
+    {
+        "value": "Mr. A. J. Giacoio",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            249,
+            382,
+            143,
+            16
+        ]
+    },
+    {
+        "value": "New York- Sales Planning",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            249,
+            406,
+            209,
+            19
+        ]
+    },
+    {
+        "value": "212 545- 3299",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            365,
+            436,
+            110,
+            19
+        ]
+    },
+    {
+        "value": "FAX PHONE NUMBER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            159,
+            434,
+            183,
+            20
+        ]
+    },
+    {
+        "value": "THIS DOCUMENT IS FROM:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            160,
+            476,
+            225,
+            17
+        ]
+    },
+    {
+        "value": "R F ",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            253,
+            519,
+            96,
+            16
+        ]
+    },
+    {
+        "value": "Oklahoma City. OK",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            226,
+            544,
+            157,
+            18
+        ]
+    },
+    {
+        "value": "FAX PHONE NUMBER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            154,
+            571,
+            191,
+            19
+        ]
+    },
+    {
+        "value": "(400) 840- 0639",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            349,
+            572,
+            123,
+            19
+        ]
+    },
+    {
+        "value": "The attached Competitive information was secured in Oklahoma today. If you should have any questions.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            285,
+            611,
+            303,
+            78
+        ]
+    },
+    {
+        "value": "If any of these pages are not legible, or you do not receive all pages, please call this office as soon as possible.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            154,
+            709,
+            479,
+            34
+        ]
+    },
+    {
+        "value": "Mr. R. B. Spell",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            316,
+            783,
+            127,
+            15
+        ]
+    },
+    {
+        "value": "Mr. S. L. Enloe",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            321,
+            798,
+            123,
+            14
+        ]
+    },
+    {
+        "value": "please advise. Dick",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            286,
+            691,
+            207,
+            17
+        ]
+    }
+]

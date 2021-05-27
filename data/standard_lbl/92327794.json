@@ -1,0 +1,211 @@
+﻿[
+    {
+        "value": "TO:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            151,
+            319,
+            30,
+            20
+        ]
+    },
+    {
+        "value": "FROM:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            153,
+            349,
+            45,
+            17
+        ]
+    },
+    {
+        "value": "DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            151,
+            379,
+            47,
+            13
+        ]
+    },
+    {
+        "value": "P.1/8",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            663,
+            8,
+            42,
+            17
+        ]
+    },
+    {
+        "value": "8",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            513,
+            414,
+            13,
+            15
+        ]
+    },
+    {
+        "value": "92327794",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            696,
+            761,
+            22,
+            68
+        ]
+    },
+    {
+        "value": "Jul 22 93 02:42PM LORILLARD TOBACCO 919 373 6917",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            145,
+            12,
+            337,
+            18
+        ]
+    },
+    {
+        "value": "Lorillard TOBACCO COMPANY",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            100,
+            63,
+            211,
+            73
+        ]
+    },
+    {
+        "value": "2525E Market Street, P.O. Box 21688, Greensboro, North Carolina 27420 1688",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            306,
+            120,
+            340,
+            15
+        ]
+    },
+    {
+        "value": "VIA FACSIMILE",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            369,
+            224,
+            113,
+            15
+        ]
+    },
+    {
+        "value": "(919) 378- 001 Ron Goldbrenner",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            239,
+            296,
+            108,
+            36
+        ]
+    },
+    {
+        "value": "Becky Hayden",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            234,
+            346,
+            95,
+            13
+        ]
+    },
+    {
+        "value": "July 22, 1993",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            239,
+            372,
+            95,
+            15
+        ]
+    },
+    {
+        "value": "NUMBER OF PAGES (INCLUDING COVER SHEET):",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            153,
+            417,
+            340,
+            15
+        ]
+    },
+    {
+        "value": "OUR FAX NUMBER IS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            151,
+            445,
+            153,
+            17
+        ]
+    },
+    {
+        "value": "(919) 373- 6917",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            321,
+            444,
+            117,
+            18
+        ]
+    },
+    {
+        "value": "IF YOU DO NOT RECEIVE ANY OF THE PAGES, PLEASE CALL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            150,
+            566,
+            329,
+            32
+        ]
+    },
+    {
+        "value": "AT (919) AT THE GREENSBORO BRANCH AS SOON AS POSSIBLE.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            153,
+            593,
+            488,
+            32
+        ]
+    },
+    {
+        "value": "THANK YOU.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            150,
+            640,
+            87,
+            15
+        ]
+    }
+]

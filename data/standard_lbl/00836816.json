@@ -1,0 +1,332 @@
+﻿[
+    {
+        "value": "00836816",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            622,
+            784,
+            17,
+            80
+        ]
+    },
+    {
+        "value": "SIGNATURE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            869,
+            41,
+            10
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            486,
+            872,
+            18,
+            8
+        ]
+    },
+    {
+        "value": "TO",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            163,
+            732,
+            13,
+            7
+        ]
+    },
+    {
+        "value": "A30",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            103,
+            179,
+            27,
+            11
+        ]
+    },
+    {
+        "value": "pH",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            82,
+            219,
+            14,
+            13
+        ]
+    },
+    {
+        "value": "ORAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            103,
+            376,
+            22,
+            13
+        ]
+    },
+    {
+        "value": "SOLUBILITY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            355,
+            41,
+            11
+        ]
+    },
+    {
+        "value": "COMPOUND PHYSICAL PARAMETERS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            228,
+            141,
+            294,
+            20
+        ]
+    },
+    {
+        "value": "LRC FILE NUMBER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            170,
+            64,
+            8
+        ]
+    },
+    {
+        "value": "LOT NUMBER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            486,
+            170,
+            47,
+            11
+        ]
+    },
+    {
+        "value": "PHYSICAL STATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            196,
+            57,
+            8
+        ]
+    },
+    {
+        "value": "Clear Colorless liquid",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            103,
+            203,
+            183,
+            15
+        ]
+    },
+    {
+        "value": "The pH of a 50 % concentration of A30 in (52.6% dioxane/ water was calculated to be 8.13 at 24 C according to the extrapolation procedures by Dr. P. D. Schickedantz, Lorillard Research Center Accession Number 1662, Reference OR 83- 81.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            102,
+            228,
+            542,
+            56
+        ]
+    },
+    {
+        "value": "(See SOE for Biological Solutions)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            144,
+            359,
+            283,
+            14
+        ]
+    },
+    {
+        "value": "Reference OR 100- 32 . 5g A30 soluble in .5 mL corn oil at room temperature.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            109,
+            388,
+            449,
+            45
+        ]
+    },
+    {
+        "value": "ACUTE CARDIOVASCULAR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            483,
+            89,
+            13
+        ]
+    },
+    {
+        "value": "(See SOP for Determination of Solubility of Materials for Acute Cardiovascular and Respiratory Effects Study in Beagle Dogs) Reference OR 100- 32 .2 mg A30 soluble in .5 mL 10 % propylene glycol solution at 38 C. Add A30 to warm (38 C) propylene glycol; add warm water to make 10 % propylene glycol solution.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            108,
+            500,
+            543,
+            108
+        ]
+    },
+    {
+        "value": "Refrig erate in amber bottle at no more than 8 C.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            103,
+            644,
+            397,
+            14
+        ]
+    },
+    {
+        "value": "STORAGE RECOMMENDATIONS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            630,
+            109,
+            10
+        ]
+    },
+    {
+        "value": "COMPOUND SENSITIVE",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            85,
+            732,
+            78,
+            8
+        ]
+    },
+    {
+        "value": "☐ AIR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            103,
+            754,
+            25,
+            7
+        ]
+    },
+    {
+        "value": "☐ HEAT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            141,
+            753,
+            29,
+            8
+        ]
+    },
+    {
+        "value": "☐ MOISTURE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            186,
+            753,
+            48,
+            8
+        ]
+    },
+    {
+        "value": "☐ OTHER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            247,
+            753,
+            35,
+            8
+        ]
+    },
+    {
+        "value": "SAFETY COMMENTS SUGGESTED- PROCEDURES)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            85,
+            779,
+            199,
+            8
+        ]
+    },
+    {
+        "value": "LORILL ARD RESEARCH CENTER",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            81,
+            895,
+            108,
+            8
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            161,
+            858,
+            136,
+            50
+        ]
+    },
+    {
+        "value": "8/ 10/ 82",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            527,
+            869,
+            82,
+            39
+        ]
+    },
+    {
+        "value": "FORM ",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            630,
+            897,
+            47,
+            8
+        ]
+    }
+]

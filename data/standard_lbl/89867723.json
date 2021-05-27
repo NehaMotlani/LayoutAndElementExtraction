@@ -1,0 +1,640 @@
+﻿[
+    {
+        "value": "file",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            47,
+            31,
+            38,
+            71
+        ]
+    },
+    {
+        "value": "PRODUCT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            135,
+            78,
+            52,
+            15
+        ]
+    },
+    {
+        "value": "JOB#",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            598,
+            81,
+            29,
+            15
+        ]
+    },
+    {
+        "value": "yes",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            286,
+            623,
+            24,
+            11
+        ]
+    },
+    {
+        "value": "yes",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            286,
+            637,
+            24,
+            11
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            229,
+            645,
+            117,
+            31
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            228,
+            679,
+            50,
+            29
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            219,
+            708,
+            74,
+            77
+        ]
+    },
+    {
+        "value": "Director",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            264,
+            750,
+            60,
+            13
+        ]
+    },
+    {
+        "value": "Manager",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            226,
+            852,
+            52,
+            14
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            204,
+            813,
+            169,
+            91
+        ]
+    },
+    {
+        "value": "no",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            363,
+            623,
+            17,
+            11
+        ]
+    },
+    {
+        "value": "no",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            366,
+            637,
+            14,
+            11
+        ]
+    },
+    {
+        "value": "Facility:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            476,
+            608,
+            66,
+            14
+        ]
+    },
+    {
+        "value": "Agency:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            476,
+            622,
+            53,
+            14
+        ]
+    },
+    {
+        "value": "Incidence",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            472,
+            634,
+            66,
+            15
+        ]
+    },
+    {
+        "value": "Facility:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            490,
+            824,
+            66,
+            14
+        ]
+    },
+    {
+        "value": "Agency:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            490,
+            839,
+            52,
+            11
+        ]
+    },
+    {
+        "value": "89867723",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            703,
+            820,
+            18,
+            91
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            535,
+            10,
+            32,
+            15
+        ]
+    },
+    {
+        "value": "X",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            320,
+            622,
+            11,
+            13
+        ]
+    },
+    {
+        "value": "X",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            318,
+            637,
+            15,
+            10
+        ]
+    },
+    {
+        "value": "MARKETING RESEARCH PROJECT APPROVAL",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            307,
+            24,
+            251,
+            14
+        ]
+    },
+    {
+        "value": "April 27, 1981",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            577,
+            10,
+            103,
+            17
+        ]
+    },
+    {
+        "value": "(To be filled out by Marketing Research Department)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            232,
+            36,
+            361,
+            16
+        ]
+    },
+    {
+        "value": "New Products",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            203,
+            82,
+            86,
+            15
+        ]
+    },
+    {
+        "value": "PROJECT TITLE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            370,
+            70,
+            54,
+            25
+        ]
+    },
+    {
+        "value": "No Side Stream Smoke Focus Groups",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            429,
+            73,
+            131,
+            23
+        ]
+    },
+    {
+        "value": "5546/ 1481",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            634,
+            80,
+            66,
+            18
+        ]
+    },
+    {
+        "value": "Research Design (N, Cells, Elegibility, Design, Key Banner Breaks, Methodology, Cities)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            135,
+            108,
+            618,
+            19
+        ]
+    },
+    {
+        "value": "Three Groups (1 male/ 2 female) will be conducted in Ridgewood, N. J. on May 7th to explore the NSS concept/ product.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            123,
+            158,
+            555,
+            32
+        ]
+    },
+    {
+        "value": "The groups will be comprised of random Reduced Tar smokers. No group will be over represented by brand, type or size of cigarettes.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            122,
+            201,
+            528,
+            33
+        ]
+    },
+    {
+        "value": "All smokers will be 18 years and over and smoke 10+ cigarettes per day.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            122,
+            246,
+            505,
+            17
+        ]
+    },
+    {
+        "value": "Key Criteria For Analysis",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            131,
+            369,
+            180,
+            17
+        ]
+    },
+    {
+        "value": "To determine if the NSS concept/ product is viable based upon smokers reactions.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            122,
+            402,
+            564,
+            17
+        ]
+    },
+    {
+        "value": "Research Limitations",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            131,
+            471,
+            144,
+            16
+        ]
+    },
+    {
+        "value": "Information from this exploratory research is directional only.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            122,
+            504,
+            449,
+            19
+        ]
+    },
+    {
+        "value": "$ 6.816",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            251,
+            591,
+            45,
+            15
+        ]
+    },
+    {
+        "value": "Cost Estimate",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            128,
+            588,
+            96,
+            15
+        ]
+    },
+    {
+        "value": "+ - 10% Contingency Final Report Inc.",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            128,
+            617,
+            139,
+            31
+        ]
+    },
+    {
+        "value": "Prepared by:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            126,
+            659,
+            89,
+            17
+        ]
+    },
+    {
+        "value": "Approved by",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            127,
+            689,
+            86,
+            17
+        ]
+    },
+    {
+        "value": "Marketing Research",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            126,
+            749,
+            133,
+            17
+        ]
+    },
+    {
+        "value": "Product Manager",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            127,
+            793,
+            109,
+            15
+        ]
+    },
+    {
+        "value": "Group Product",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            126,
+            851,
+            96,
+            18
+        ]
+    },
+    {
+        "value": "Research Firm",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            471,
+            592,
+            97,
+            16
+        ]
+    },
+    {
+        "value": "Ruth Manko Assoc.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            584,
+            591,
+            119,
+            18
+        ]
+    },
+    {
+        "value": "Suburban Associates",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            554,
+            608,
+            140,
+            14
+        ]
+    },
+    {
+        "value": "D' Arcy/ deGarmo",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            557,
+            620,
+            103,
+            18
+        ]
+    },
+    {
+        "value": "Length Int.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            472,
+            663,
+            76,
+            15
+        ]
+    },
+    {
+        "value": "# Open Ends",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            472,
+            690,
+            77,
+            17
+        ]
+    },
+    {
+        "value": "# Banners",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            469,
+            719,
+            66,
+            17
+        ]
+    },
+    {
+        "value": "Topline Oral presentation w/ o 5/ 18",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            469,
+            747,
+            246,
+            18
+        ]
+    },
+    {
+        "value": "816. 00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            641,
+            837,
+            44,
+            14
+        ]
+    },
+    {
+        "value": "1. 500. 00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            624,
+            823,
+            61,
+            13
+        ]
+    },
+    {
+        "value": "$ 4. 500. 00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            622,
+            807,
+            63,
+            15
+        ]
+    },
+    {
+        "value": "Moderators fee:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            490,
+            806,
+            107,
+            17
+        ]
+    },
+    {
+        "value": "Final Written presentation w/ o 5/ 25",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            468,
+            791,
+            269,
+            20
+        ]
+    }
+]

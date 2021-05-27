@@ -1,0 +1,612 @@
+﻿[
+    {
+        "text": "NICOTINE:",
+        "box": [
+            367,
+            313,
+            82,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NONMENTHOL:",
+        "box": [
+            285,
+            257,
+            96,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NONFILTER:",
+        "box": [
+            285,
+            200,
+            89,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1985",
+        "box": [
+            311,
+            84,
+            36,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "King",
+        "box": [
+            309,
+            169,
+            41,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "20's",
+        "box": [
+            309,
+            281,
+            39,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "X",
+        "box": [
+            196,
+            197,
+            15,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "X",
+        "box": [
+            198,
+            225,
+            13,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2,303",
+        "box": [
+            355,
+            465,
+            38,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3,890",
+        "box": [
+            353,
+            493,
+            43,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "741",
+        "box": [
+            370,
+            521,
+            24,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "71,445",
+        "box": [
+            351,
+            550,
+            45,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "193",
+        "box": [
+            373,
+            605,
+            25,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "-",
+        "box": [
+            365,
+            581,
+            8,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "12,787",
+        "box": [
+            351,
+            634,
+            46,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "95,614",
+        "box": [
+            344,
+            661,
+            53,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "291,095",
+        "box": [
+            342,
+            696,
+            50,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "155,718",
+        "box": [
+            342,
+            716,
+            50,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "476,722",
+        "box": [
+            342,
+            747,
+            53,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "85,208",
+        "box": [
+            348,
+            781,
+            45,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "26,055",
+        "box": [
+            348,
+            810,
+            46,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1,221,771",
+        "box": [
+            494,
+            842,
+            68,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CIGARETTE REPORT FORM",
+        "box": [
+            267,
+            43,
+            187,
+            16
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "(1) YEAR COVERED:",
+        "box": [
+            81,
+            82,
+            143,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(2) BRAND FAMILY NAME:",
+        "box": [
+            80,
+            112,
+            189,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(3) VARIETY DESCRIPTION",
+        "box": [
+            81,
+            140,
+            207,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(4) PRODUCT LENGTH:",
+        "box": [
+            81,
+            168,
+            164,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(5) FILTER:",
+        "box": [
+            81,
+            198,
+            98,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(6) HARD PACK",
+        "box": [
+            82,
+            226,
+            117,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SOFT PACK:",
+        "box": [
+            284,
+            229,
+            87,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(7) MENTHOL:",
+        "box": [
+            82,
+            253,
+            101,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(8) PACK SIZE SOLD:",
+        "box": [
+            80,
+            282,
+            165,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(9) \"TAR\":",
+        "box": [
+            81,
+            310,
+            88,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(10) VARIETY UNIT SALES:",
+        "box": [
+            81,
+            339,
+            207,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(11) VARIETY DOLLAR SALES:",
+        "box": [
+            81,
+            366,
+            227,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(12) FIRST SALES DATE:",
+        "box": [
+            81,
+            397,
+            188,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LAST SALES DATE:",
+        "box": [
+            372,
+            398,
+            139,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REPORTABLE EXPENDITURES",
+        "box": [
+            260,
+            440,
+            200,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "(13) CAT- A- EXPENSES:",
+        "box": [
+            78,
+            468,
+            177,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(14) CAT- B- EXPENSES:",
+        "box": [
+            80,
+            497,
+            174,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(15) CAT- C- EXPENSES:",
+        "box": [
+            75,
+            524,
+            179,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(16) CAT- D- EXPENSES:",
+        "box": [
+            78,
+            550,
+            174,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(17) CAT- E- EXPENSES",
+        "box": [
+            80,
+            581,
+            172,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(18) CAT- F- EXPENSES:",
+        "box": [
+            80,
+            609,
+            175,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(19) CAT- G- EXPENSES:",
+        "box": [
+            77,
+            638,
+            174,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(20) CAT- H- EXPENSES:",
+        "box": [
+            82,
+            668,
+            172,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(21) CAT- I- EXPENSES:",
+        "box": [
+            80,
+            694,
+            175,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(22) CAT- J- EXPENSES:",
+        "box": [
+            78,
+            723,
+            175,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(23) CAT- K- EXPENSES:",
+        "box": [
+            80,
+            753,
+            171,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(24) CAT- L- EXPENSES:",
+        "box": [
+            80,
+            781,
+            173,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(25) CAT- M- EXPENSES:",
+        "box": [
+            80,
+            809,
+            172,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(26) TOTAL REPORTABLE EXPENDITURES FOR VARIETY:",
+        "box": [
+            82,
+            838,
+            404,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LUCKY STRIKE",
+        "box": [
+            310,
+            115,
+            105,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Low tar, king size, filter, hard pack",
+        "box": [
+            310,
+            142,
+            324,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(check one)",
+        "box": [
+            492,
+            200,
+            98,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(check one)",
+        "box": [
+            490,
+            229,
+            99,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0.8 mg (Jan. '85 Report)",
+        "box": [
+            472,
+            309,
+            207,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "X (check one)",
+        "box": [
+            411,
+            254,
+            178,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "11 mg",
+        "box": [
+            197,
+            309,
+            47,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "238,282",
+        "box": [
+            339,
+            341,
+            57,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "6,117,778",
+        "box": [
+            328,
+            366,
+            67,
+            17
+        ],
+        "class": "value_answer"
+    }
+]

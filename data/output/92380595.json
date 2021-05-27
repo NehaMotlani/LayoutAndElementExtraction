@@ -1,0 +1,334 @@
+[
+    {
+        "text": "RECEIVED",
+        "class": "answer"
+    },
+    {
+        "text": "DATE:",
+        "class": "answer"
+    },
+    {
+        "text": "TO:",
+        "class": "answer"
+    },
+    {
+        "text": "ATTN:",
+        "class": "answer"
+    },
+    {
+        "text": "RE:",
+        "class": "question"
+    },
+    {
+        "text": "x",
+        "class": "other"
+    },
+    {
+        "text": "033052",
+        "class": "other"
+    },
+    {
+        "text": "via:",
+        "class": "other"
+    },
+    {
+        "text": "x",
+        "class": "other"
+    },
+    {
+        "text": "Summons",
+        "class": "other"
+    },
+    {
+        "text": "Complaint",
+        "class": "other"
+    },
+    {
+        "text": "Other:",
+        "class": "answer"
+    },
+    {
+        "text": "X",
+        "class": "answer"
+    },
+    {
+        "text": "Garnishment",
+        "class": "other"
+    },
+    {
+        "text": "Subpoena",
+        "class": "other"
+    },
+    {
+        "text": "vs.",
+        "class": "question"
+    },
+    {
+        "text": "RETURN",
+        "class": "answer"
+    },
+    {
+        "text": "DATE",
+        "class": "answer"
+    },
+    {
+        "text": "Collect",
+        "class": "answer"
+    },
+    {
+        "text": ")",
+        "class": "other"
+    },
+    {
+        "text": ")",
+        "class": "other"
+    },
+    {
+        "text": ")",
+        "class": "other"
+    },
+    {
+        "text": ")",
+        "class": "other"
+    },
+    {
+        "text": "475,592",
+        "class": "other"
+    },
+    {
+        "text": "COMMENTS:",
+        "class": "other"
+    },
+    {
+        "text": "Phone",
+        "class": "other"
+    },
+    {
+        "text": "Other",
+        "class": "other"
+    },
+    {
+        "text": "X",
+        "class": "other"
+    },
+    {
+        "text": "92380595",
+        "class": "other"
+    },
+    {
+        "text": "Signed:",
+        "class": "other"
+    },
+    {
+        "text": "ORIGINAL",
+        "class": "other"
+    },
+    {
+        "text": "Executive Offices 1 GULF+ WESTE PLAZA . NEW YORK, NEW YORK 23- 7773 (212) 373- 7500",
+        "class": "header"
+    },
+    {
+        "text": "PRENTICE HALL CORPORATE SERVICES",
+        "class": "header"
+    },
+    {
+        "text": "United States Corporation Company",
+        "class": "question"
+    },
+    {
+        "text": "The Prentice- Hall Corporation System, Inc.",
+        "class": "other"
+    },
+    {
+        "text": "TX 3951 U",
+        "class": "answer"
+    },
+    {
+        "text": "12- 13- 89",
+        "class": "other"
+    },
+    {
+        "text": "LORILLARD, INC. ONE PARK AVENUE 18TH FL NEW YORK, N. Y. 10016",
+        "class": "answer"
+    },
+    {
+        "text": "DEC 14 89",
+        "class": "other"
+    },
+    {
+        "text": "MR. ARTHUR STEVENS, ESQ A. J. STEVENS",
+        "class": "question"
+    },
+    {
+        "text": "MOTOR CARRIER",
+        "class": "other"
+    },
+    {
+        "text": "OR STATUTORY",
+        "class": "other"
+    },
+    {
+        "text": "Account #",
+        "class": "answer"
+    },
+    {
+        "text": "LORILLARD, INC.",
+        "class": "other"
+    },
+    {
+        "text": "(Represented Company)",
+        "class": "answer"
+    },
+    {
+        "text": "NOTICE OF SERVICE OF PROCESS",
+        "class": "question"
+    },
+    {
+        "text": "We enclose the following documents which were served upon:",
+        "class": "answer"
+    },
+    {
+        "text": "UNITED STATES CORPORATION COMPANY IN TEXAS",
+        "class": "answer"
+    },
+    {
+        "text": "as registered agent for the above- captioned corporation on",
+        "class": "answer"
+    },
+    {
+        "text": "12- 13- 89",
+        "class": "other"
+    },
+    {
+        "text": "Personal Service",
+        "class": "question"
+    },
+    {
+        "text": "Mail: Regular",
+        "class": "question"
+    },
+    {
+        "text": "or Certified",
+        "class": "question"
+    },
+    {
+        "text": "Certified #",
+        "class": "other"
+    },
+    {
+        "text": "Duplicate copies of the Notice and Acknowledgement enclosed",
+        "class": "answer"
+    },
+    {
+        "text": "A self- addressed stamped envelope enclosed",
+        "class": "question"
+    },
+    {
+        "text": "Notice of Attorney's Lien",
+        "class": "question"
+    },
+    {
+        "text": "Notice of Mechanic's Lien",
+        "class": "answer"
+    },
+    {
+        "text": "Notice of Default Jucgment",
+        "class": "answer"
+    },
+    {
+        "text": "CITATION AND FIRST ORIGINAL PETITION",
+        "class": "question"
+    },
+    {
+        "text": "TITLE OF ACTION:",
+        "class": "answer"
+    },
+    {
+        "text": "WEBSTER CRECC",
+        "class": "other"
+    },
+    {
+        "text": "R. J. REYNOLDS TOBACCO COMPANY, ET AL",
+        "class": "question"
+    },
+    {
+        "text": "Case No.",
+        "class": "other"
+    },
+    {
+        "text": "COURT OR JURISDICTION",
+        "class": "answer"
+    },
+    {
+        "text": "345th Judicial District Court Travis County. Tx",
+        "class": "question"
+    },
+    {
+        "text": "Monday next 20 days from date of service",
+        "class": "answer"
+    },
+    {
+        "text": "Agent called New York Office",
+        "class": "answer"
+    },
+    {
+        "text": "Tel Call Placed Direct",
+        "class": "question"
+    },
+    {
+        "text": "Spoke to",
+        "class": "other"
+    },
+    {
+        "text": "ATTORNEYS FOR CLAIMANT",
+        "class": "answer"
+    },
+    {
+        "text": "Mary Ellen Felps 1000 West Ave. Austin, Tx. 78701",
+        "class": "other"
+    },
+    {
+        "text": "512/478- 4873",
+        "class": "other"
+    },
+    {
+        "text": "PAPERS TRANSMITTED TO CLIENT",
+        "class": "question"
+    },
+    {
+        "text": "Fed X",
+        "class": "question"
+    },
+    {
+        "text": "Reg Mail",
+        "class": "other"
+    },
+    {
+        "text": "FORM PREPARED BY",
+        "class": "question"
+    },
+    {
+        "text": "PAT HIGGINS",
+        "class": "other"
+    },
+    {
+        "text": "Date Received:",
+        "class": "answer"
+    },
+    {
+        "text": "12/ 14/ 89",
+        "class": "answer"
+    },
+    {
+        "text": "DUPLICATE COPY A BUSINESS REPLY ENVELOPE IS ENCLOSED FOR YOUR CONVENIENCE",
+        "class": "answer"
+    },
+    {
+        "text": "PLEASE ACKNOWLEDGE RECEIPT OF THIS NOTICE AND THE ENCLOSURES BY SIGNING",
+        "class": "answer"
+    },
+    {
+        "text": "AND RETURNING THE",
+        "class": "other"
+    }
+]

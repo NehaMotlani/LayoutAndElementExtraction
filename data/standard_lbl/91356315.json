@@ -1,0 +1,387 @@
+﻿[
+    {
+        "value": "DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            152,
+            193,
+            38,
+            17
+        ]
+    },
+    {
+        "value": "MANUFACTURER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            313,
+            101,
+            14
+        ]
+    },
+    {
+        "value": "9135631",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            661,
+            691,
+            17,
+            71
+        ]
+    },
+    {
+        "value": "CC:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            785,
+            27,
+            15
+        ]
+    },
+    {
+        "value": "COMPETITIVE ACTIVITIES AND PROMOTIONS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            225,
+            78,
+            302,
+            21
+        ]
+    },
+    {
+        "value": "REPORTED BY:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            67,
+            141,
+            87,
+            15
+        ]
+    },
+    {
+        "value": "VAL THURMAN, DIVISION MANAGER, LOUISVILLE, KY",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            211,
+            138,
+            384,
+            17
+        ]
+    },
+    {
+        "value": "4/ 26/ 91",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            209,
+            190,
+            63,
+            18
+        ]
+    },
+    {
+        "value": "SOURCE OF INFORMATION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            244,
+            87,
+            28
+        ]
+    },
+    {
+        "value": "SHORT STOP FOOD MARTS. LOUISVILLE, KY",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            215,
+            260,
+            315,
+            17
+        ]
+    },
+    {
+        "value": "PHILIP MORRIS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            205,
+            310,
+            113,
+            17
+        ]
+    },
+    {
+        "value": "BRAND (S) PROMOTED:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            365,
+            131,
+            18
+        ]
+    },
+    {
+        "value": "MARLBORO CIGARETTES",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            240,
+            359,
+            164,
+            15
+        ]
+    },
+    {
+        "value": "TYPE OF PROMOTION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            67,
+            416,
+            133,
+            18
+        ]
+    },
+    {
+        "value": "CARTON PROMOTION SWEEPSTAKES (SEE ATTACHMENTS)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            265,
+            415,
+            241,
+            39
+        ]
+    },
+    {
+        "value": "HOW WIDESPREAD?",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            550,
+            117,
+            18
+        ]
+    },
+    {
+        "value": "OTHER COMMENTS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            601,
+            117,
+            17
+        ]
+    },
+    {
+        "value": "L. H. LAKERSH",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            373,
+            797,
+            72,
+            13
+        ]
+    },
+    {
+        "value": "J. R. SLATER",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            372,
+            810,
+            77,
+            13
+        ]
+    },
+    {
+        "value": "S. T. JONES",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            372,
+            824,
+            75,
+            13
+        ]
+    },
+    {
+        "value": "R. S. GOLDBRENNER",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            374,
+            837,
+            123,
+            14
+        ]
+    },
+    {
+        "value": "S. F. SMITH",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            373,
+            851,
+            71,
+            13
+        ]
+    },
+    {
+        "value": "G. R. TELFORD",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            253,
+            797,
+            87,
+            14
+        ]
+    },
+    {
+        "value": "R. G. RYAN",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            251,
+            811,
+            68,
+            12
+        ]
+    },
+    {
+        "value": "N. P. RUFFALO",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            251,
+            823,
+            89,
+            15
+        ]
+    },
+    {
+        "value": "T. L. ACHEY",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            251,
+            838,
+            72,
+            14
+        ]
+    },
+    {
+        "value": "P. J. McCANN",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            251,
+            849,
+            83,
+            15
+        ]
+    },
+    {
+        "value": "A. J. GIACOIO",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            250,
+            865,
+            83,
+            11
+        ]
+    },
+    {
+        "value": "J. J. TATULLI",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            253,
+            877,
+            75,
+            15
+        ]
+    },
+    {
+        "value": "A. H. TISCH",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            96,
+            797,
+            67,
+            16
+        ]
+    },
+    {
+        "value": "R. H. ORCUTT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            96,
+            813,
+            81,
+            13
+        ]
+    },
+    {
+        "value": "M. A. PETERSON",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            95,
+            825,
+            98,
+            13
+        ]
+    },
+    {
+        "value": "M. L. ORLOWSKY",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            95,
+            839,
+            100,
+            11
+        ]
+    },
+    {
+        "value": "L. GORDON",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            96,
+            853,
+            68,
+            11
+        ]
+    },
+    {
+        "value": "J. P. MASTANDREA",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            95,
+            863,
+            111,
+            16
+        ]
+    }
+]

@@ -1,0 +1,420 @@
+﻿[
+    {
+        "value": "Description",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            264,
+            133,
+            80,
+            17
+        ]
+    },
+    {
+        "value": "Displays",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            493,
+            133,
+            67,
+            17
+        ]
+    },
+    {
+        "value": "BRANDS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            155,
+            186,
+            64,
+            15
+        ]
+    },
+    {
+        "value": "Adjustment",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            370,
+            225,
+            82,
+            14
+        ]
+    },
+    {
+        "value": "Carlton",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            166,
+            225,
+            52,
+            14
+        ]
+    },
+    {
+        "value": "Amount",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            584,
+            314,
+            57,
+            14
+        ]
+    },
+    {
+        "value": "Displays",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            156,
+            342,
+            52,
+            15
+        ]
+    },
+    {
+        "value": "31,000.00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            575,
+            341,
+            59,
+            17
+        ]
+    },
+    {
+        "value": "(31,000.00)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            573,
+            369,
+            64,
+            15
+        ]
+    },
+    {
+        "value": "Distribution:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            782,
+            91,
+            15
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            332,
+            758,
+            89,
+            39
+        ]
+    },
+    {
+        "value": "5/5",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            432,
+            774,
+            34,
+            21
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            570,
+            757,
+            110,
+            39
+        ]
+    },
+    {
+        "value": "0.00",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            603,
+            737,
+            32,
+            14
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            663,
+            841,
+            24,
+            14
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            663,
+            797,
+            24,
+            13
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            425,
+            797,
+            24,
+            14
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            425,
+            839,
+            25,
+            14
+        ]
+    },
+    {
+        "value": "THE AMERICAN TOBACCO COMPANY",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            36,
+            21,
+            103,
+            71
+        ]
+    },
+    {
+        "value": "APPROVED MARKETING PROJECT EXPENSE RECOMMENDATION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            355,
+            36,
+            330,
+            38
+        ]
+    },
+    {
+        "value": "S0002 Supp 2",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            137,
+            133,
+            103,
+            16
+        ]
+    },
+    {
+        "value": "Private Stock",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            149,
+            205,
+            86,
+            15
+        ]
+    },
+    {
+        "value": "Current Budget",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            356,
+            186,
+            111,
+            16
+        ]
+    },
+    {
+        "value": "$ 7,569,000.00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            547,
+            184,
+            86,
+            19
+        ]
+    },
+    {
+        "value": "Revised Budget",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            356,
+            263,
+            112,
+            17
+        ]
+    },
+    {
+        "value": "$ 7,569,000.00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            547,
+            263,
+            87,
+            16
+        ]
+    },
+    {
+        "value": "$ 0.00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            598,
+            225,
+            37,
+            15
+        ]
+    },
+    {
+        "value": "CAR- MMT- DSP",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            349,
+            341,
+            103,
+            17
+        ]
+    },
+    {
+        "value": "PRV- MMT- DSP",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            351,
+            366,
+            98,
+            16
+        ]
+    },
+    {
+        "value": "Prepared By:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            253,
+            782,
+            78,
+            18
+        ]
+    },
+    {
+        "value": "Approved By:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            476,
+            781,
+            85,
+            20
+        ]
+    },
+    {
+        "value": "Approved By:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            478,
+            825,
+            82,
+            18
+        ]
+    },
+    {
+        "value": "Prepared By:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            253,
+            825,
+            78,
+            18
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            138,
+            795,
+            54,
+            33
+        ]
+    },
+    {
+        "value": "Accounting File",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            53,
+            799,
+            71,
+            26
+        ]
+    },
+    {
+        "value": "Project No",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            134,
+            75,
+            15
+        ]
+    },
+    {
+        "value": "Offer Description",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            87,
+            313,
+            119,
+            17
+        ]
+    },
+    {
+        "value": "Charge Code",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            395,
+            313,
+            97,
+            18
+        ]
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "text": "RJRT",
+        "class": "other"
+    },
+    {
+        "text": "",
+        "class": "other"
+    },
+    {
+        "text": "Position",
+        "class": "other"
+    },
+    {
+        "text": "Change",
+        "class": "other"
+    },
+    {
+        "text": "of",
+        "class": "other"
+    },
+    {
+        "text": "Type",
+        "class": "other"
+    },
+    {
+        "text": "Addition",
+        "class": "other"
+    },
+    {
+        "text": "Deletion",
+        "class": "other"
+    },
+    {
+        "text": "Change",
+        "class": "other"
+    },
+    {
+        "text": "Mat",
+        "class": "other"
+    },
+    {
+        "text": "Affected",
+        "class": "other"
+    },
+    {
+        "text": "Glass",
+        "class": "other"
+    },
+    {
+        "text": "Brand/",
+        "class": "question"
+    },
+    {
+        "text": "Assembly/",
+        "class": "question"
+    },
+    {
+        "text": "Material",
+        "class": "question"
+    },
+    {
+        "text": "Slit",
+        "class": "other"
+    },
+    {
+        "text": "and",
+        "class": "question"
+    },
+    {
+        "text": "Mat",
+        "class": "question"
+    },
+    {
+        "text": "Glass",
+        "class": "question"
+    },
+    {
+        "text": "Design",
+        "class": "other"
+    },
+    {
+        "text": "Compatibity",
+        "class": "other"
+    },
+    {
+        "text": "Manufacturability",
+        "class": "question"
+    },
+    {
+        "text": "Other",
+        "class": "other"
+    },
+    {
+        "text": "Emergency",
+        "class": "other"
+    },
+    {
+        "text": "Urgent",
+        "class": "other"
+    },
+    {
+        "text": "Routine",
+        "class": "other"
+    },
+    {
+        "text": "Page",
+        "class": "other"
+    },
+    {
+        "text": "Date",
+        "class": "other"
+    },
+    {
+        "text": "Change",
+        "class": "question"
+    },
+    {
+        "text": "Order",
+        "class": "other"
+    },
+    {
+        "text": "Number",
+        "class": "other"
+    },
+    {
+        "text": "8410059",
+        "class": "other"
+    },
+    {
+        "text": "8-17-88",
+        "class": "other"
+    },
+    {
+        "text": "5398",
+        "class": "other"
+    },
+    {
+        "text": "880029",
+        "class": "other"
+    },
+    {
+        "text": "RFC",
+        "class": "other"
+    },
+    {
+        "text": "X",
+        "class": "other"
+    },
+    {
+        "text": "X",
+        "class": "other"
+    },
+    {
+        "text": "X",
+        "class": "other"
+    },
+    {
+        "text": "51484",
+        "class": "other"
+    },
+    {
+        "text": "3791",
+        "class": "other"
+    },
+    {
+        "text": "Date",
+        "class": "other"
+    },
+    {
+        "text": "DATE",
+        "class": "other"
+    },
+    {
+        "text": "HOLDER",
+        "class": "other"
+    },
+    {
+        "text": "SPEC",
+        "class": "other"
+    },
+    {
+        "text": "Title",
+        "class": "other"
+    },
+    {
+        "text": "Signature",
+        "class": "other"
+    },
+    {
+        "text": "Approved",
+        "class": "other"
+    },
+    {
+        "text": "Rejected",
+        "class": "question"
+    },
+    {
+        "text": "COMMITTEE",
+        "class": "other"
+    },
+    {
+        "text": "REVIEW",
+        "class": "question"
+    },
+    {
+        "text": "PRODUCT",
+        "class": "question"
+    },
+    {
+        "text": "COMMITTEE",
+        "class": "other"
+    },
+    {
+        "text": "ACCEPTANCE",
+        "class": "question"
+    },
+    {
+        "text": "PRODUCT",
+        "class": "question"
+    },
+    {
+        "text": "8-17-88",
+        "class": "other"
+    },
+    {
+        "text": "",
+        "class": "question"
+    },
+    {
+        "text": "",
+        "class": "other"
+    },
+    {
+        "text": "",
+        "class": "other"
+    },
+    {
+        "text": "KA",
+        "class": "other"
+    },
+    {
+        "text": "",
+        "class": "question"
+    },
+    {
+        "text": "",
+        "class": "other"
+    },
+    {
+        "text": "9/8/88",
+        "class": "other"
+    },
+    {
+        "text": "REQUEST FOR CHANGE",
+        "class": "header"
+    },
+    {
+        "text": "F- 1001 7/ 88",
+        "class": "other"
+    },
+    {
+        "text": "ORIGINATOR Name:",
+        "class": "answer"
+    },
+    {
+        "text": "Dan Straka",
+        "class": "other"
+    },
+    {
+        "text": "Date Prepared",
+        "class": "question"
+    },
+    {
+        "text": "1 of 1",
+        "class": "answer"
+    },
+    {
+        "text": "B-17-88",
+        "class": "other"
+    },
+    {
+        "text": "D. Marsh",
+        "class": "other"
+    },
+    {
+        "text": "Received By",
+        "class": "answer"
+    },
+    {
+        "text": "Telephone No",
+        "class": "question"
+    },
+    {
+        "text": "Department Name and Location",
+        "class": "question"
+    },
+    {
+        "text": "611- 13 3rd Floor",
+        "class": "question"
+    },
+    {
+        "text": "Description of Problem",
+        "class": "answer"
+    },
+    {
+        "text": "Spec Change",
+        "class": "other"
+    },
+    {
+        "text": "Cost Reduction",
+        "class": "question"
+    },
+    {
+        "text": "The current specifications for glass mat and slit glass mat can be made more accurate and complete with the following changes:",
+        "class": "answer"
+    },
+    {
+        "text": "Glass Mat:",
+        "class": "answer"
+    },
+    {
+        "text": "slit Glass Mat:",
+        "class": "answer"
+    },
+    {
+        "text": "Delete C- glass from Iten description. Change glass softening point to 756 + / - 10 degrees from 750. Change rolls per pallet to 2 from 1.",
+        "class": "answer"
+    },
+    {
+        "text": "Delete C- glass from item description Change bobbins per stack to 47 from 45. Add outside diameter specs of 30.0, 26.0 - 31.0 inches.",
+        "class": "answer"
+    },
+    {
+        "text": "Proposed Solution",
+        "class": "answer"
+    },
+    {
+        "text": "Change the current MSS specifications as outlined above.",
+        "class": "answer"
+    },
+    {
+        "text": "Accepted for Investigation",
+        "class": "other"
+    },
+    {
+        "text": "Final Disposition",
+        "class": "question"
+    },
+    {
+        "text": "Action Taken or Reason for Rejection",
+        "class": "question"
+    },
+    {
+        "text": "Proposed Effective Date",
+        "class": "question"
+    },
+    {
+        "text": "habanisy Dhes ",
+        "class": "answer"
+    }
+]

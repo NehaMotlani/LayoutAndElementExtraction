@@ -1,0 +1,286 @@
+[
+    {
+        "text": "ADDRESS",
+        "class": "question"
+    },
+    {
+        "text": "Baltimore",
+        "class": "other"
+    },
+    {
+        "text": "(A)",
+        "class": "other"
+    },
+    {
+        "text": "(B)",
+        "class": "other"
+    },
+    {
+        "text": "21205",
+        "class": "other"
+    },
+    {
+        "text": "THRU",
+        "class": "answer"
+    },
+    {
+        "text": "THRU",
+        "class": "answer"
+    },
+    {
+        "text": "$",
+        "class": "other"
+    },
+    {
+        "text": "$",
+        "class": "other"
+    },
+    {
+        "text": "$",
+        "class": "other"
+    },
+    {
+        "text": "THRU",
+        "class": "answer"
+    },
+    {
+        "text": "01/01/94",
+        "class": "answer"
+    },
+    {
+        "text": "01/01/95",
+        "class": "answer"
+    },
+    {
+        "text": "01/01/96",
+        "class": "answer"
+    },
+    {
+        "text": "12/31/94",
+        "class": "question"
+    },
+    {
+        "text": "12/31/95",
+        "class": "answer"
+    },
+    {
+        "text": "12/31/96",
+        "class": "answer"
+    },
+    {
+        "text": "5/26/93",
+        "class": "other"
+    },
+    {
+        "text": "87594142",
+        "class": "other"
+    },
+    {
+        "text": "APPLICATION FOR RESEARCH CONTRACT",
+        "class": "header"
+    },
+    {
+        "text": "CENTER FOR INDOOR AIR RESEARCH 1099 WINTERSON ROAD SUITE 280 LINTHICUM, MD. 21090 (410) 684-3777 FAX (410) 684-3729",
+        "class": "answer"
+    },
+    {
+        "text": "1. PRINCIPAL INVESTIGATOR NAME, TITLE, TELEPHONE # AND MAILING ADDRESS.",
+        "class": "header"
+    },
+    {
+        "text": "Steven R. Kleeberger, Ph. D.",
+        "class": "question"
+    },
+    {
+        "text": "Associate Professor",
+        "class": "question"
+    },
+    {
+        "text": "(410) 955-3515/955-0299",
+        "class": "answer"
+    },
+    {
+        "text": "Johns Hopkins University, School of Hyg. & Pub. Hlth.",
+        "class": "answer"
+    },
+    {
+        "text": "Environmental Health Sciences",
+        "class": "question"
+    },
+    {
+        "text": "615 North Wolfe Street, Baltimore, Maryland",
+        "class": "answer"
+    },
+    {
+        "text": "2. PROJECT TITLE",
+        "class": "answer"
+    },
+    {
+        "text": "Mechanisms of Chronic Ozone Exposure: Role of Inflammation",
+        "class": "answer"
+    },
+    {
+        "text": "3. KEY WORDS PLEASE PROVIDE THREE (3) KEY WORDS WHICH WILL BE USED AS REFERENCE HEADINGS Ozone,",
+        "class": "answer"
+    },
+    {
+        "text": "Inflammation, Mast Cell",
+        "class": "question"
+    },
+    {
+        "text": "4. INSTITUTION NAME AND ADDRESS OF INSTITUTION RESPONSIBLE AND ACCOUNTABLE FOR OF AWARDED ON THE OF DISPOSITION FUNDS BASIS THIS APPLICATION.",
+        "class": "question"
+    },
+    {
+        "text": "Johns Hopkins University",
+        "class": "answer"
+    },
+    {
+        "text": "615 North Wolfe Street",
+        "class": "question"
+    },
+    {
+        "text": "Maryland 21205",
+        "class": "other"
+    },
+    {
+        "text": "5. LOCATION LIST LOCATION WHERE RESEARCH WILL BE CONDUCTED IF OTHER THAN INSTITUTION IDENTIFIED IN #4 ABOVE.",
+        "class": "answer"
+    },
+    {
+        "text": "6. INCLUSIVE DATES AND TOTAL COSTS OF THIS SPECIFIC PROJECT RELATED TO EACH 12 MONTH PERIOD IF MORE THAN ONE YEAR IS REQUIRED TO COMPLETE PROJECT. SUMMARIZE FROM BUDGET PAGE ITEM 12(s). IT MUST BE UNDERSTOOD THAT AWARDS FOR 2ND AND 3RD PERIODS ARE DEPENDENT ON CENTER APPROVAL OF CONTINUATION APPLICATION.",
+        "class": "question"
+    },
+    {
+        "text": "(A) 1ST 12 MONTH PERIOD",
+        "class": "answer"
+    },
+    {
+        "text": "(B) 2ND 12 MONTH PERIOD IF REQUIRED",
+        "class": "answer"
+    },
+    {
+        "text": "(C) 3RD 12 MONTH PERIOD IF REQUIRED",
+        "class": "answer"
+    },
+    {
+        "text": "INCLUSIVE DATE",
+        "class": "answer"
+    },
+    {
+        "text": "210, 910",
+        "class": "other"
+    },
+    {
+        "text": "212, 481",
+        "class": "other"
+    },
+    {
+        "text": "220, 416",
+        "class": "other"
+    },
+    {
+        "text": "TOTAL COST",
+        "class": "other"
+    },
+    {
+        "text": "7. INSTITUTIONAL OFFICER. NAME, TITLE AND TELEPHONE NUMBER OF INDIVIDUAL AUTHORIZED TO SIGN FOR THE INSTITUTION IDENTIFIED IN #4 ABOVE. IT IS UNDERSTOOD THAT THE OFFICER, IN APPLYING FOR A CONTACT. HAS READ AND FOUND ACCEPTABLE THE CENTER'S MANAGEMENT OF RESEARCH CONTRACTS AND CONTRACT ADMINISTRATION POLICY.",
+        "class": "question"
+    },
+    {
+        "text": "Alan M. Goldberg, Ph. D.",
+        "class": "question"
+    },
+    {
+        "text": "Assoc. Dean for Research",
+        "class": "question"
+    },
+    {
+        "text": "(410) 955-9253",
+        "class": "question"
+    },
+    {
+        "text": "(A) NAME",
+        "class": "question"
+    },
+    {
+        "text": "(C) TELEPHONE",
+        "class": "other"
+    },
+    {
+        "text": "(D) SIGNATURE OF",
+        "class": "other"
+    },
+    {
+        "text": "(B) TITLE",
+        "class": "question"
+    },
+    {
+        "text": "(E) DATE",
+        "class": "other"
+    },
+    {
+        "text": "(C) City",
+        "class": "other"
+    },
+    {
+        "text": "(D) STATE/ZIP",
+        "class": "other"
+    },
+    {
+        "text": "(a) STREET",
+        "class": "question"
+    },
+    {
+        "text": "(A) INSTITUTION",
+        "class": "question"
+    },
+    {
+        "text": "(F) MAILING",
+        "class": "answer"
+    },
+    {
+        "text": "(D) DEPARTMENT",
+        "class": "question"
+    },
+    {
+        "text": "(A) NAME",
+        "class": "other"
+    },
+    {
+        "text": "(a) TITLE",
+        "class": "question"
+    },
+    {
+        "text": "(E) INSTITUTION",
+        "class": "answer"
+    },
+    {
+        "text": "(c) TELEPHONE",
+        "class": "answer"
+    },
+    {
+        "text": "(G) STATE/ZIP",
+        "class": "other"
+    },
+    {
+        "text": "8. PRELIMINARY STUDIES* QUALIFICATIONS OF INVESTIGATOR",
+        "class": "other"
+    },
+    {
+        "text": "9. EXPERIMENTAL PLAN* (A) METHODS DATA INTERPRETATION RESULTS INVESTIGATION LITERATURE CITED",
+        "class": "other"
+    },
+    {
+        "text": "10. AVAILABLE FACILITIES AND RESOURCES",
+        "class": "question"
+    },
+    {
+        "text": "11. OTHER SUPPORT",
+        "class": "other"
+    },
+    {
+        "text": "* APPEND AS MUCH MATERIAL AS REQUIRED TYPE, SINGLE SPACE USE 8-1/2 x 11\" WHITE PAPER AND LABEL EACH SHEET WITH NAME THE PRINCIPAL NVESTIGATOR IN THE UPPER RIGHT HAND CORNER AND PAGE NUMBER AT THE BOTTOM. CONSECUTIVELY NUMBER EACH ADDENDUM BEGINNING WITH PAGES 5. DO NOT INSERT PACES BETWEEN PAGES 1 AND 6 E.G. 2A 2B 3A ETC. INCLUDE NINE COPIES AND AN ORIGINAL If SENDING PHOTOGRAPHS, INCLUDE 2 ORIGINAL SETS. NOTE: EACH OF THE NINE COPIES MUST BE PLACED IN BINDER PER MAILING INSTRUCTIONS.",
+        "class": "answer"
+    }
+]

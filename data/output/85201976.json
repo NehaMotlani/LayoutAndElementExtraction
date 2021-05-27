@@ -1,0 +1,98 @@
+[
+    {
+        "text": "NAME",
+        "class": "other"
+    },
+    {
+        "text": "ADDRESS",
+        "class": "other"
+    },
+    {
+        "text": "CITY",
+        "class": "other"
+    },
+    {
+        "text": "STATE",
+        "class": "other"
+    },
+    {
+        "text": "ZIP",
+        "class": "other"
+    },
+    {
+        "text": "AGE",
+        "class": "other"
+    },
+    {
+        "text": "1.",
+        "class": "other"
+    },
+    {
+        "text": "2.",
+        "class": "other"
+    },
+    {
+        "text": "3.",
+        "class": "other"
+    },
+    {
+        "text": "SMOKING",
+        "class": "other"
+    },
+    {
+        "text": "85201976",
+        "class": "other"
+    },
+    {
+        "text": "Marden - Kane, Inc.",
+        "class": "header"
+    },
+    {
+        "text": "TRUE \"YOU FOUND IT\" SWEEPSTAKES SECOND PRIZE WINNER TRAVEL INFORMATION SHEET",
+        "class": "header"
+    },
+    {
+        "text": "THE DESTINATION IN THE CONTINENTAL UNITED STATES I WISH TO TRAVEL TO IS:",
+        "class": "header"
+    },
+    {
+        "text": "HOME PHONE",
+        "class": "other"
+    },
+    {
+        "text": "BUSINESS PHONE",
+        "class": "other"
+    },
+    {
+        "text": "NAME OF GUEST",
+        "class": "other"
+    },
+    {
+        "text": "RELATIONSHIP TO WINNER",
+        "class": "other"
+    },
+    {
+        "text": "PLEASE LIST THREE ALTERNATIVE DATES YOU WOULD LIKE TO TRAVEL",
+        "class": "question"
+    },
+    {
+        "text": "MAJOR AIRPORT NEAREST YOUR HOME",
+        "class": "other"
+    },
+    {
+        "text": "AIRLINE: (CHECK ONE)",
+        "class": "other"
+    },
+    {
+        "text": "NON- SMOKING",
+        "class": "other"
+    },
+    {
+        "text": "SPECIAL DIETARY REQUIREMENTS",
+        "class": "question"
+    },
+    {
+        "text": "ANY ADDITIONAL INFORMATION YOU WOULD LIKE TO PROVIDE",
+        "class": "answer"
+    }
+]

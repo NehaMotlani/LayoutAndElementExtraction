@@ -1,0 +1,882 @@
+﻿[
+    {
+        "text": "DATE:",
+        "box": [
+            85,
+            57,
+            43,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SUPPLIER:",
+        "box": [
+            81,
+            127,
+            80,
+            24
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PREVIOUS",
+        "box": [
+            82,
+            172,
+            71,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "$",
+        "box": [
+            161,
+            175,
+            11,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMMITMENTS",
+        "box": [
+            177,
+            170,
+            99,
+            25
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "THIS",
+        "box": [
+            284,
+            173,
+            36,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PROJECI:",
+        "box": [
+            328,
+            173,
+            68,
+            25
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "$",
+        "box": [
+            476,
+            177,
+            13,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "$",
+        "box": [
+            476,
+            205,
+            11,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "$",
+        "box": [
+            476,
+            258,
+            10,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REASONS:",
+        "box": [
+            78,
+            296,
+            73,
+            25
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMMITTED",
+        "box": [
+            359,
+            624,
+            85,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TO",
+        "box": [
+            451,
+            626,
+            21,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            475,
+            624,
+            50,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Year)",
+        "box": [
+            440,
+            642,
+            52,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(Current",
+        "box": [
+            360,
+            640,
+            75,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            588,
+            697,
+            41,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            589,
+            735,
+            38,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            587,
+            772,
+            42,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            588,
+            809,
+            39,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            587,
+            845,
+            41,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BEATTY",
+        "box": [
+            285,
+            694,
+            45,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "A.",
+        "box": [
+            261,
+            694,
+            15,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "D.",
+        "box": [
+            239,
+            693,
+            17,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "T.",
+        "box": [
+            239,
+            729,
+            15,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "E.",
+        "box": [
+            260,
+            729,
+            17,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SPROUGE",
+        "box": [
+            284,
+            767,
+            56,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ALBERT",
+        "box": [
+            286,
+            730,
+            43,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "A.",
+        "box": [
+            260,
+            767,
+            18,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "B.",
+        "box": [
+            240,
+            768,
+            15,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ORIGINAL",
+        "box": [
+            70,
+            865,
+            70,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CC:",
+        "box": [
+            68,
+            887,
+            28,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PROJECTED:",
+        "box": [
+            38,
+            430,
+            95,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "",
+        "box": [
+            219,
+            655,
+            156,
+            53
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            223,
+            708,
+            152,
+            32
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            362,
+            781,
+            123,
+            42
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            328,
+            804,
+            162,
+            60
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "681925147",
+        "box": [
+            624,
+            922,
+            128,
+            21
+        ],
+        "class": "other"
+    },
+    {
+        "text": "CHANGE OF AUTHORIZED COST",
+        "box": [
+            293,
+            17,
+            224,
+            28
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "AUTHORIZATION NO.:",
+        "box": [
+            441,
+            60,
+            161,
+            24
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NP -75",
+        "box": [
+            642,
+            66,
+            48,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "11/ 28/ 84",
+        "box": [
+            187,
+            57,
+            58,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PROJECT NAME:",
+        "box": [
+            82,
+            98,
+            117,
+            24
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "GEMINI AWARENESS ATTITUDE & USAGE MONITOR. - PORTLAND",
+        "box": [
+            215,
+            103,
+            386,
+            23
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BURKE MARKETING RESEARCH",
+        "box": [
+            203,
+            133,
+            177,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "220, 000",
+        "box": [
+            496,
+            175,
+            69,
+            21
+        ],
+        "class": "other"
+    },
+    {
+        "text": "+1 ,000 (0 .5% CHANGE)",
+        "box": [
+            504,
+            205,
+            214,
+            27
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "221, 000",
+        "box": [
+            497,
+            251,
+            64,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "AMOUNT OF CHANGE INCREASE ): (CIRCLE ONE)",
+        "box": [
+            78,
+            201,
+            329,
+            48
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ADJUSTED TOTAL COST OF PROJECT:",
+        "box": [
+            80,
+            253,
+            272,
+            24
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REVISED COST DUE TO A QUESTION ADDED TO THE SECOND WAVE AND CHANGES MADE IN WORDING OF OTHER QUESTIONS. THIS COVERS THE COST OF ADDITIONAL TELEPHONE INTERVIEW LENGTH, CODING OF THE OPEN- END, PROGRAMING CHANGES, TABULATION AND ANALYSIS.",
+        "box": [
+            135,
+            330,
+            559,
+            59
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Field Start",
+        "box": [
+            42,
+            450,
+            96,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Field Complete",
+        "box": [
+            41,
+            465,
+            126,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Final Report Due",
+        "box": [
+            42,
+            479,
+            143,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Aug. 1984",
+        "box": [
+            223,
+            448,
+            85,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Dec. 1984",
+        "box": [
+            223,
+            466,
+            83,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Jan. 1985",
+        "box": [
+            225,
+            480,
+            84,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "TOTAL AREA BUDGET:",
+        "box": [
+            365,
+            434,
+            155,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CURRENT BAL. AVAILABLE:",
+        "box": [
+            363,
+            461,
+            197,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "THIS CHANGE: (From Current Budget)",
+        "box": [
+            363,
+            486,
+            183,
+            34
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "THIS AMOUNT",
+        "box": [
+            360,
+            525,
+            106,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(From Next Year's Budget)",
+        "box": [
+            366,
+            542,
+            219,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NEW BALANCE:",
+        "box": [
+            359,
+            564,
+            112,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "16, 395. 66",
+        "box": [
+            644,
+            564,
+            82,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "200. 00",
+        "box": [
+            494,
+            528,
+            55,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "17 195. 66",
+        "box": [
+            645,
+            459,
+            78,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "-800. 00",
+        "box": [
+            662,
+            483,
+            67,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1984 (REV) 3, 488, 000. 00",
+        "box": [
+            531,
+            423,
+            195,
+            29
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3, 493, 204. 34",
+        "box": [
+            616,
+            624,
+            112,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "11/ /29 /84",
+        "box": [
+            573,
+            666,
+            79,
+            34
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "12 /10 /84",
+        "box": [
+            538,
+            705,
+            89,
+            43
+        ],
+        "class": "other"
+    },
+    {
+        "text": "12- 10- 84",
+        "box": [
+            559,
+            743,
+            86,
+            32
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "12/ 11/ 84",
+        "box": [
+            567,
+            786,
+            92,
+            30
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "12 -11",
+        "box": [
+            568,
+            821,
+            66,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SUBMITTED BY:",
+        "box": [
+            68,
+            675,
+            118,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "APPROVED BY:",
+        "box": [
+            68,
+            711,
+            108,
+            23
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "APPROVED BY:",
+        "box": [
+            70,
+            750,
+            106,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "APPROVED BY:",
+        "box": [
+            68,
+            785,
+            106,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "APPROVED BY:",
+        "box": [
+            70,
+            823,
+            106,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "- PROJECT FILE",
+        "box": [
+            147,
+            863,
+            127,
+            27
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "S. WILLINGER (3) ☑ RESEARCH GROUP MANAGER",
+        "box": [
+            163,
+            880,
+            196,
+            54
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "A. J. MELLMAN",
+        "box": [
+            236,
+            839,
+            102,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "L. R. GRAVELY",
+        "box": [
+            236,
+            802,
+            100,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "B a ",
+        "box": [
+            230,
+            732,
+            164,
+            52
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PROJECT No.",
+        "box": [
+            408,
+            890,
+            106,
+            24
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ACCOUNT NAME",
+        "box": [
+            412,
+            923,
+            114,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1984- 175NP",
+        "box": [
+            531,
+            894,
+            78,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "New Products",
+        "box": [
+            531,
+            923,
+            91,
+            15
+        ],
+        "class": "value_answer"
+    }
+]

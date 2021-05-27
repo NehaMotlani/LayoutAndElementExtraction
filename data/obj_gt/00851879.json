@@ -1,0 +1,282 @@
+﻿[
+    {
+        "text": "Date",
+        "box": [
+            534,
+            155,
+            35,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "5-13-81",
+        "box": [
+            571,
+            152,
+            59,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Subject",
+        "box": [
+            103,
+            201,
+            56,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            409,
+            279,
+            39,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "5-13-81",
+        "box": [
+            454,
+            275,
+            61,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Method",
+        "box": [
+            532,
+            282,
+            54,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☑",
+        "box": [
+            279,
+            392,
+            13,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "increased",
+        "box": [
+            317,
+            394,
+            80,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "decreased",
+        "box": [
+            487,
+            392,
+            77,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "00851879",
+        "box": [
+            622,
+            693,
+            17,
+            95
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Verbal Phone",
+        "box": [
+            587,
+            278,
+            104,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(Means of communication)",
+        "box": [
+            536,
+            297,
+            196,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Estimated cost of the study will be:",
+        "box": [
+            102,
+            358,
+            298,
+            19
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "not affected",
+        "box": [
+            633,
+            392,
+            103,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Description of change order:",
+        "box": [
+            103,
+            422,
+            231,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "The change was made so the protocol more closely conforms with the proposed regulations as stated in the Federal Register, Vol. 44, No. 145, 772.112-24 Primary Eye Irritation Study.",
+        "box": [
+            108,
+            566,
+            597,
+            49
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Twenty- four to 30 hours prior to dosing, both eyes of each rabbit will be examined by an experienced investigator using a slit lamp biomicroscope.",
+        "box": [
+            144,
+            503,
+            561,
+            51
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Section III A. 2nd paragraph- the first sentence is to be changed to read as follows:",
+        "box": [
+            102,
+            450,
+            603,
+            43
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "19 MAY 26 1981",
+        "box": [
+            589,
+            8,
+            156,
+            50
+        ],
+        "class": "other"
+    },
+    {
+        "text": "ADDENDUM I DAWSON RESEARCH CORPORATION Protocol Change Order No. 1",
+        "box": [
+            251,
+            45,
+            240,
+            82
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Protocol LRC-5A",
+        "box": [
+            105,
+            162,
+            124,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Change in the time of the Pre- dose Biomicroscopic Examination",
+        "box": [
+            165,
+            190,
+            490,
+            25
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Authorized by",
+        "box": [
+            105,
+            281,
+            105,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Dr. Connie Stone",
+        "box": [
+            221,
+            281,
+            131,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Authorized to",
+        "box": [
+            102,
+            331,
+            111,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Mr. Charles Burns",
+        "box": [
+            219,
+            324,
+            141,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Sponsor Signature",
+        "box": [
+            123,
+            848,
+            286,
+            99
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Study Director Signature",
+        "box": [
+            444,
+            842,
+            310,
+            104
+        ],
+        "class": "other"
+    }
+]

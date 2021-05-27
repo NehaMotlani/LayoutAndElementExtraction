@@ -1,0 +1,182 @@
+﻿[
+    {
+        "text": "NAME",
+        "box": [
+            75,
+            105,
+            24,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "STRUCTURE",
+        "box": [
+            75,
+            187,
+            47,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "II",
+        "box": [
+            205,
+            330,
+            17,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "COMMENTS",
+        "box": [
+            75,
+            351,
+            46,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "A41",
+        "box": [
+            461,
+            337,
+            25,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "00838511",
+        "box": [
+            677,
+            799,
+            20,
+            91
+        ],
+        "class": "other"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            513,
+            103,
+            24,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DECISION TREE ESTIMATION OF TOXIC RISK",
+        "box": [
+            209,
+            78,
+            370,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Paul Schickedantz, Jack Reid",
+        "box": [
+            106,
+            109,
+            213,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "12- 4- 80",
+        "box": [
+            560,
+            108,
+            53,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "COMPOUND NAME",
+        "box": [
+            74,
+            131,
+            74,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2-Hydroxycyclododecanone",
+        "box": [
+            104,
+            154,
+            184,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "OH O",
+        "box": [
+            123,
+            225,
+            86,
+            64
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ESTIMATED TOXICITY CLASS",
+        "box": [
+            75,
+            324,
+            111,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LORILLARD COMPOUND CODE NUMBER",
+        "box": [
+            398,
+            324,
+            158,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "This carbocyclic keto alcohol was placed in estimated toxicity class II due to the direct attachment of the ketone to the cyclic nucleus.",
+        "box": [
+            108,
+            377,
+            534,
+            30
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LORILLARD RESEARCH CENTER",
+        "box": [
+            74,
+            901,
+            126,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "FORM 1 (580)",
+        "box": [
+            663,
+            899,
+            58,
+            10
+        ],
+        "class": "other"
+    }
+]

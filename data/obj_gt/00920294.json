@@ -1,0 +1,502 @@
+﻿[
+    {
+        "text": "970220",
+        "box": [
+            504,
+            113,
+            38,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "To:",
+        "box": [
+            155,
+            130,
+            18,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "From:",
+        "box": [
+            138,
+            148,
+            35,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date:",
+        "box": [
+            141,
+            166,
+            31,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Mailfile Description",
+        "box": [
+            265,
+            246,
+            108,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Quantity:",
+        "box": [
+            122,
+            300,
+            50,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Maildate:",
+        "box": [
+            119,
+            320,
+            54,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Program#:",
+        "box": [
+            108,
+            332,
+            66,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Seeds",
+        "box": [
+            141,
+            469,
+            32,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Suppression",
+        "box": [
+            105,
+            487,
+            67,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Notes",
+        "box": [
+            78,
+            725,
+            34,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "1",
+        "box": [
+            159,
+            539,
+            10,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "2",
+        "box": [
+            161,
+            557,
+            10,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "3",
+        "box": [
+            161,
+            573,
+            8,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "4",
+        "box": [
+            161,
+            591,
+            8,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "7",
+        "box": [
+            162,
+            641,
+            7,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "6",
+        "box": [
+            161,
+            623,
+            8,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "8",
+        "box": [
+            161,
+            659,
+            8,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "9",
+        "box": [
+            162,
+            675,
+            8,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "10",
+        "box": [
+            156,
+            694,
+            14,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "5",
+        "box": [
+            161,
+            608,
+            8,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "5",
+        "box": [
+            190,
+            487,
+            8,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "25",
+        "box": [
+            260,
+            468,
+            14,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "273",
+        "box": [
+            211,
+            302,
+            25,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "700418",
+        "box": [
+            176,
+            334,
+            42,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3,",
+        "box": [
+            203,
+            250,
+            11,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "984",
+        "box": [
+            214,
+            250,
+            20,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "System",
+        "box": [
+            133,
+            216,
+            39,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "RJR Mailfile Table Update Sheet",
+        "box": [
+            78,
+            89,
+            242,
+            23
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Alert Number",
+        "box": [
+            432,
+            112,
+            71,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "RJR IR - Suz /Art",
+        "box": [
+            177,
+            130,
+            94,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Drew Huyett",
+        "box": [
+            176,
+            149,
+            70,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3/ 7/ 97",
+        "box": [
+            176,
+            165,
+            37,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "102- Eclipse",
+        "box": [
+            179,
+            198,
+            63,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Program Group",
+        "box": [
+            87,
+            198,
+            84,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Corp/ Multibrand",
+        "box": [
+            179,
+            215,
+            86,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mailfile ID:",
+        "box": [
+            109,
+            249,
+            64,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            177,
+            271,
+            58,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Mail Order- Indy Responders",
+        "box": [
+            378,
+            249,
+            161,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Dataset Name",
+        "box": [
+            299,
+            265,
+            75,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(Complete by IR)",
+        "box": [
+            433,
+            286,
+            56,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "3/ 17/ 97",
+        "box": [
+            176,
+            317,
+            42,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BRC Codes w81 carton order form",
+        "box": [
+            110,
+            367,
+            186,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "T Codes NA",
+        "box": [
+            127,
+            418,
+            68,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Mailfile Cells",
+        "box": [
+            99,
+            521,
+            73,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "HD home delivery",
+        "box": [
+            177,
+            536,
+            141,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SP sneak preview",
+        "box": [
+            175,
+            556,
+            146,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "This is for notes",
+        "box": [
+            88,
+            747,
+            90,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "51673 4300",
+        "box": [
+            680,
+            784,
+            13,
+            91
+        ],
+        "class": "other"
+    },
+    {
+        "text": "970220 XLS Mailfile",
+        "box": [
+            61,
+            940,
+            84,
+            14
+        ],
+        "class": "other"
+    }
+]

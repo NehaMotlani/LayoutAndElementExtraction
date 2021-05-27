@@ -1,0 +1,717 @@
+﻿[
+    {
+        "value": "Scott",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            535,
+            71,
+            54,
+            34
+        ]
+    },
+    {
+        "value": "Job#:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            468,
+            230,
+            46,
+            17
+        ]
+    },
+    {
+        "value": "Revision",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            80,
+            250,
+            57,
+            14
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            142,
+            246,
+            24,
+            22
+        ]
+    },
+    {
+        "value": "Reason:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            243,
+            250,
+            54,
+            20
+        ]
+    },
+    {
+        "value": "803108404",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            628,
+            795,
+            20,
+            119
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            203,
+            817,
+            13,
+            14
+        ]
+    },
+    {
+        "value": "Pasholuk",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            221,
+            817,
+            56,
+            18
+        ]
+    },
+    {
+        "value": "Jan",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            399,
+            665,
+            25,
+            17
+        ]
+    },
+    {
+        "value": "Feb",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            398,
+            683,
+            29,
+            14
+        ]
+    },
+    {
+        "value": "Jul",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            529,
+            668,
+            24,
+            11
+        ]
+    },
+    {
+        "value": "Aug",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            532,
+            683,
+            28,
+            14
+        ]
+    },
+    {
+        "value": "Sep",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            528,
+            700,
+            29,
+            13
+        ]
+    },
+    {
+        "value": "Oct",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            525,
+            715,
+            31,
+            14
+        ]
+    },
+    {
+        "value": "Nov",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            529,
+            730,
+            28,
+            11
+        ]
+    },
+    {
+        "value": "Dec",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            528,
+            744,
+            31,
+            15
+        ]
+    },
+    {
+        "value": "Director",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            221,
+            838,
+            59,
+            10
+        ]
+    },
+    {
+        "value": "MPIO",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            186,
+            834,
+            31,
+            14
+        ]
+    },
+    {
+        "value": "5543/295",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            534,
+            228,
+            61,
+            17
+        ]
+    },
+    {
+        "value": "1",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            193,
+            250,
+            36,
+            20
+        ]
+    },
+    {
+        "value": "#",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            176,
+            247,
+            14,
+            22
+        ]
+    },
+    {
+        "value": "Mar",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            397,
+            697,
+            29,
+            15
+        ]
+    },
+    {
+        "value": "Apr",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            401,
+            714,
+            27,
+            13
+        ]
+    },
+    {
+        "value": "May",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            398,
+            729,
+            28,
+            11
+        ]
+    },
+    {
+        "value": "Jun",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            399,
+            743,
+            27,
+            13
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            197,
+            811,
+            184,
+            54
+        ]
+    },
+    {
+        "value": "January 18, 1998",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            536,
+            119,
+            107,
+            16
+        ]
+    },
+    {
+        "value": "Date: PROJECT APPROVAL MARKET PLANNING AND INFORMATION DEPARTMENT",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            177,
+            117,
+            371,
+            63
+        ]
+    },
+    {
+        "value": "Sales Analysis ☐",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            211,
+            177,
+            134,
+            22
+        ]
+    },
+    {
+        "value": "Consumor Research ☑",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            358,
+            180,
+            165,
+            20
+        ]
+    },
+    {
+        "value": "Newport Lights",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            194,
+            214,
+            95,
+            15
+        ]
+    },
+    {
+        "value": "Direct Mail Conversion Research",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            193,
+            229,
+            202,
+            17
+        ]
+    },
+    {
+        "value": "Project Title:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            81,
+            229,
+            85,
+            15
+        ]
+    },
+    {
+        "value": "Lower Incidence",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            324,
+            251,
+            106,
+            16
+        ]
+    },
+    {
+        "value": "Marketing and or Research Objectives",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            80,
+            285,
+            251,
+            18
+        ]
+    },
+    {
+        "value": "Determine the level of interest and conversion opportunities among pompotitive smokers. receiving a Direct Mail offer for Newport Lights.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            78,
+            316,
+            540,
+            33
+        ]
+    },
+    {
+        "value": "Provide insight into the reasons for offer acceptance or rejection of offer and examine consumer perceptions about Newport Lights.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            78,
+            362,
+            516,
+            30
+        ]
+    },
+    {
+        "value": "Research Design",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            80,
+            398,
+            111,
+            13
+        ]
+    },
+    {
+        "value": "Interviews divided among 3 gorups:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            78,
+            426,
+            218,
+            18
+        ]
+    },
+    {
+        "value": "Group 1= Best redeeming customers (2+ paid coupons): n= 750 Group 2= Paid redeoming customers 1 paid coupon) n= 750 Group 3= Non- redeeming customers (no redemption) n= 750",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            140,
+            458,
+            393,
+            48
+        ]
+    },
+    {
+        "value": "The total sample size is 2,250. All smokers 21+ years of age.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            78,
+            515,
+            373,
+            20
+        ]
+    },
+    {
+        "value": "Respondent Incidence:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            578,
+            86,
+            37
+        ]
+    },
+    {
+        "value": "38% revised from 70%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            168,
+            596,
+            82,
+            33
+        ]
+    },
+    {
+        "value": "Interview Length:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            332,
+            587,
+            66,
+            28
+        ]
+    },
+    {
+        "value": "Screener Questionnaire",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            413,
+            584,
+            100,
+            33
+        ]
+    },
+    {
+        "value": "5 minutes",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            568,
+            588,
+            66,
+            12
+        ]
+    },
+    {
+        "value": "10 minutes",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            564,
+            605,
+            68,
+            11
+        ]
+    },
+    {
+        "value": "Research Firm:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            642,
+            101,
+            14
+        ]
+    },
+    {
+        "value": "Cost Estimate:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            675,
+            98,
+            17
+        ]
+    },
+    {
+        "value": "Revised From:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            708,
+            101,
+            15
+        ]
+    },
+    {
+        "value": "Prepared by",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            754,
+            88,
+            17
+        ]
+    },
+    {
+        "value": "Approved by:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            70,
+            785,
+            92,
+            18
+        ]
+    },
+    {
+        "value": "$100 600",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            204,
+            677,
+            59,
+            15
+        ]
+    },
+    {
+        "value": "$76 600",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            205,
+            708,
+            49,
+            14
+        ]
+    },
+    {
+        "value": "S. R. Benson ",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            201,
+            736,
+            179,
+            54
+        ]
+    },
+    {
+        "value": "Group Manager",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            187,
+            803,
+            103,
+            12
+        ]
+    },
+    {
+        "value": "Group Product Manager",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            187,
+            895,
+            165,
+            17
+        ]
+    },
+    {
+        "value": "Product Manager",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            184,
+            865,
+            119,
+            15
+        ]
+    },
+    {
+        "value": "Start Field w/o 11 /13 /95",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            398,
+            821,
+            147,
+            16
+        ]
+    },
+    {
+        "value": "Reporting Schedule:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            388,
+            852,
+            149,
+            14
+        ]
+    },
+    {
+        "value": "Topline w/o 12 /18 /95 Final Report 12/ 31/ 95",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            397,
+            881,
+            131,
+            33
+        ]
+    },
+    {
+        "value": "$100 600",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            577,
+            742,
+            58,
+            17
+        ]
+    },
+    {
+        "value": "Revised Costs (if any)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            398,
+            761,
+            162,
+            18
+        ]
+    },
+    {
+        "value": "Fieldwork Schedule:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            397,
+            788,
+            135,
+            18
+        ]
+    },
+    {
+        "value": "A & G Research",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            204,
+            642,
+            91,
+            17
+        ]
+    }
+]

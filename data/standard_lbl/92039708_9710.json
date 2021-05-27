@@ -1,0 +1,255 @@
+﻿[
+    {
+        "value": "TO:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            115,
+            24,
+            15
+        ]
+    },
+    {
+        "value": "FROM:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            141,
+            45,
+            17
+        ]
+    },
+    {
+        "value": "SUBJECT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            193,
+            64,
+            18
+        ]
+    },
+    {
+        "value": "92039708",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            687,
+            767,
+            13,
+            67
+        ]
+    },
+    {
+        "value": "SUBMISSION DATE",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            487,
+            119,
+            137,
+            14
+        ]
+    },
+    {
+        "value": "MAY 27 ☐",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            451,
+            145,
+            97,
+            18
+        ]
+    },
+    {
+        "value": "JUN 24 ☐",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            451,
+            165,
+            97,
+            20
+        ]
+    },
+    {
+        "value": "AUG 26 ☐",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            580,
+            147,
+            89,
+            17
+        ]
+    },
+    {
+        "value": "OCT 07 ☐",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            580,
+            165,
+            89,
+            21
+        ]
+    },
+    {
+        "value": "MAVERICK SPECIALS- PROGRESS REPORT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            184,
+            196,
+            306,
+            17
+        ]
+    },
+    {
+        "value": "R. B. SPELL",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            186,
+            116,
+            75,
+            14
+        ]
+    },
+    {
+        "value": "EFFECTIVENESS OF:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            95,
+            270,
+            147,
+            17
+        ]
+    },
+    {
+        "value": "Pre- Sell Booklet /Coupon Maverick /Harley B1 G1 F",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            254,
+            270,
+            369,
+            21
+        ]
+    },
+    {
+        "value": "(Report on May 27 only)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            101,
+            292,
+            163,
+            19
+        ]
+    },
+    {
+        "value": "PRE- SELL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            95,
+            313,
+            69,
+            14
+        ]
+    },
+    {
+        "value": "BOOKLET/ COUPON",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            94,
+            457,
+            138,
+            17
+        ]
+    },
+    {
+        "value": "MAVERICK/ HARLEY B1 G1 F",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            94,
+            605,
+            184,
+            15
+        ]
+    },
+    {
+        "value": "COMPETITIVE PROMOTIONAL ACTIVITY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            102,
+            746,
+            278,
+            15
+        ]
+    },
+    {
+        "value": "(Report on May 27 only)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            99,
+            764,
+            164,
+            17
+        ]
+    },
+    {
+        "value": "Average Coupon Buydown Value On Targeted Brands (Doral/ Basic/ Monarch/ Cambridge/ GPC",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            94,
+            786,
+            567,
+            20
+        ]
+    },
+    {
+        "value": "PACKS ☐",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            216,
+            820,
+            160,
+            20
+        ]
+    },
+    {
+        "value": "CARTONS ☐",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            218,
+            852,
+            159,
+            19
+        ]
+    },
+    {
+        "value": "1 of 3",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            649,
+            908,
+            42,
+            14
+        ]
+    }
+]

@@ -1,0 +1,541 @@
+﻿[
+    {
+        "value": "APPROVALS:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            59,
+            817,
+            108,
+            17
+        ]
+    },
+    {
+        "value": "Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            57,
+            73,
+            34,
+            13
+        ]
+    },
+    {
+        "value": "OBJECTIVE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            57,
+            281,
+            70,
+            11
+        ]
+    },
+    {
+        "value": "Cartons:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            59,
+            691,
+            38,
+            8
+        ]
+    },
+    {
+        "value": "Cases:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            59,
+            707,
+            31,
+            8
+        ]
+    },
+    {
+        "value": "TIMETABLE:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            57,
+            737,
+            71,
+            13
+        ]
+    },
+    {
+        "value": "Manufacturing:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            59,
+            757,
+            67,
+            10
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            346,
+            823,
+            20,
+            11
+        ]
+    },
+    {
+        "value": "TBD",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            60,
+            422,
+            25,
+            11
+        ]
+    },
+    {
+        "value": "TBD",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            462,
+            603,
+            25,
+            13
+        ]
+    },
+    {
+        "value": "TBD",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            67,
+            521,
+            24,
+            13
+        ]
+    },
+    {
+        "value": "TBD",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            134,
+            605,
+            24,
+            11
+        ]
+    },
+    {
+        "value": "500",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            289,
+            705,
+            21,
+            11
+        ]
+    },
+    {
+        "value": "$250",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            434,
+            704,
+            27,
+            11
+        ]
+    },
+    {
+        "value": "670886182",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            521,
+            939,
+            120,
+            18
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            677,
+            821,
+            21,
+            11
+        ]
+    },
+    {
+        "value": "Shipping:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            385,
+            756,
+            43,
+            13
+        ]
+    },
+    {
+        "value": "Start",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            56,
+            591,
+            22,
+            8
+        ]
+    },
+    {
+        "value": "Up:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            81,
+            589,
+            17,
+            11
+        ]
+    },
+    {
+        "value": "VOLUME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            57,
+            570,
+            54,
+            13
+        ]
+    },
+    {
+        "value": "NEW EXPORT PRODUCT DEVELOPMENT CHARTER",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            54,
+            52,
+            419,
+            18
+        ]
+    },
+    {
+        "value": "6/ 24/ 94",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            94,
+            73,
+            50,
+            11
+        ]
+    },
+    {
+        "value": "BRAND/PROJECT NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            56,
+            105,
+            146,
+            14
+        ]
+    },
+    {
+        "value": "RICHLAND Kings (Soft Pack) -Duty Free (Phoenix)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            57,
+            133,
+            496,
+            28
+        ]
+    },
+    {
+        "value": "MARKET (S):",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            57,
+            191,
+            70,
+            16
+        ]
+    },
+    {
+        "value": "World- wide Duty Free",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            57,
+            221,
+            208,
+            22
+        ]
+    },
+    {
+        "value": "Generate incremental volume for B& W by providing a low price brand to various international duty- free markets.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            66,
+            292,
+            500,
+            38
+        ]
+    },
+    {
+        "value": "SOURCE OF BUSINESS:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            57,
+            372,
+            136,
+            13
+        ]
+    },
+    {
+        "value": "Major Competitive Brands:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            57,
+            391,
+            122,
+            10
+        ]
+    },
+    {
+        "value": "Target Audience:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            384,
+            390,
+            78,
+            10
+        ]
+    },
+    {
+        "value": "Value- conscious Smokers",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            384,
+            420,
+            140,
+            13
+        ]
+    },
+    {
+        "value": "COST OR RETAIL PRICING:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            57,
+            489,
+            155,
+            11
+        ]
+    },
+    {
+        "value": "Est. Monthly Ongoing:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            384,
+            589,
+            102,
+            11
+        ]
+    },
+    {
+        "value": "INITIAL MATERIALS REQUIRED:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            57,
+            654,
+            179,
+            13
+        ]
+    },
+    {
+        "value": "Qty In Units",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            289,
+            656,
+            54,
+            11
+        ]
+    },
+    {
+        "value": "Dollar Cost",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            383,
+            656,
+            52,
+            10
+        ]
+    },
+    {
+        "value": "On Hand",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            289,
+            670,
+            49,
+            14
+        ]
+    },
+    {
+        "value": "On Hand",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            291,
+            687,
+            50,
+            14
+        ]
+    },
+    {
+        "value": "Pack Flats Labels:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            59,
+            675,
+            81,
+            10
+        ]
+    },
+    {
+        "value": "Product Specs Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            59,
+            774,
+            91,
+            10
+        ]
+    },
+    {
+        "value": "In- Market Arrival Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            384,
+            771,
+            102,
+            11
+        ]
+    },
+    {
+        "value": "Launch Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            384,
+            789,
+            60,
+            10
+        ]
+    },
+    {
+        "value": "Start Manufacture Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            59,
+            791,
+            105,
+            8
+        ]
+    },
+    {
+        "value": "Group Prod Dir",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            59,
+            841,
+            67,
+            9
+        ]
+    },
+    {
+        "value": "Dir. Int' Admin",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            59,
+            874,
+            66,
+            10
+        ]
+    },
+    {
+        "value": "Regional Dir/ VP",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            59,
+            908,
+            71,
+            11
+        ]
+    },
+    {
+        "value": "VP Int'l Planning",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            384,
+            839,
+            74,
+            12
+        ]
+    },
+    {
+        "value": "VP Int'l Marketing",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            383,
+            873,
+            82,
+            11
+        ]
+    },
+    {
+        "value": "Senior VP Int'l",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            385,
+            906,
+            65,
+            11
+        ]
+    }
+]

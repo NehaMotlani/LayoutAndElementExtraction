@@ -1,0 +1,402 @@
+﻿[
+    {
+        "text": "DATE:",
+        "box": [
+            10,
+            166,
+            38,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DEPARTMENT:",
+        "box": [
+            144,
+            165,
+            80,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Type",
+        "box": [
+            455,
+            208,
+            31,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EQPR",
+        "box": [
+            503,
+            205,
+            57,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "B&W",
+        "box": [
+            24,
+            32,
+            67,
+            70
+        ],
+        "class": "other"
+    },
+    {
+        "text": "QUALITY",
+        "box": [
+            589,
+            32,
+            75,
+            70
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Implement:",
+        "box": [
+            216,
+            648,
+            73,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Date",
+        "box": [
+            493,
+            647,
+            31,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "632120763",
+        "box": [
+            633,
+            771,
+            22,
+            122
+        ],
+        "class": "other"
+    },
+    {
+        "text": "QUALITY IMPROVEMENT SUGGESTION OUR MISSION IS SUPERIOR CONSUMER SATISFACTION",
+        "box": [
+            120,
+            45,
+            447,
+            49
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Highest Quality. Teamwork, Do Right Things Right The First Time",
+        "box": [
+            124,
+            94,
+            439,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "RESEARCH & DEVELOPMENT",
+        "box": [
+            228,
+            119,
+            230,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Quality Coord Only",
+        "box": [
+            497,
+            149,
+            131,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "June 21, 1993",
+        "box": [
+            53,
+            165,
+            93,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R&D Library",
+        "box": [
+            250,
+            163,
+            79,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Carol S. Lincoln",
+        "box": [
+            144,
+            191,
+            116,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "407- 64- 3484",
+        "box": [
+            147,
+            219,
+            78,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SUBMITTED BY:",
+        "box": [
+            11,
+            194,
+            91,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SUBMITTER'S SS#:",
+        "box": [
+            11,
+            223,
+            112,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date Rec'd",
+        "box": [
+            455,
+            179,
+            73,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "QIP Log #1",
+        "box": [
+            454,
+            193,
+            75,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Status (1993)",
+        "box": [
+            454,
+            221,
+            94,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Keywords (1993)",
+        "box": [
+            455,
+            236,
+            107,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "6/ 21/ 93",
+        "box": [
+            546,
+            168,
+            70,
+            29
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "93- 0301",
+        "box": [
+            541,
+            190,
+            86,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SUGGESTION: (Describe Current Situation and Idea)",
+        "box": [
+            11,
+            278,
+            347,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "The current system of managing records is too complex. The trend seems to be increasingly specific, when we should be getting more general. Right now, people must work to understand the system. We must spend too much time adninistering the system, labeling and cleaning our files. Complying is a real burden, both for the individual and for the records coordinators.",
+        "box": [
+            32,
+            306,
+            652,
+            124
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Describe Possible Solutions And Benefits",
+        "box": [
+            11,
+            476,
+            290,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1. Drop the category specifications altogether.",
+        "box": [
+            32,
+            500,
+            330,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2. Use moregeneral categories.",
+        "box": [
+            31,
+            528,
+            228,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "hote: I have passed this to Scott Appleton for the task force to use in streamlining the records management program.",
+        "box": [
+            32,
+            549,
+            622,
+            52
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PROFIT IMPROVEMENT:",
+        "box": [
+            11,
+            591,
+            134,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(If Applicable)",
+        "box": [
+            152,
+            591,
+            109,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RESPOND HERE",
+        "box": [
+            11,
+            647,
+            88,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ Yes",
+        "box": [
+            304,
+            644,
+            42,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ No",
+        "box": [
+            362,
+            644,
+            35,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ Pending",
+        "box": [
+            409,
+            642,
+            71,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approval Signature/ Date",
+        "box": [
+            54,
+            874,
+            168,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Responder/ Date",
+        "box": [
+            420,
+            874,
+            106,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Sign & Print Names) (See Instructions On Back)",
+        "box": [
+            263,
+            876,
+            153,
+            27
+        ],
+        "class": "value_question"
+    }
+]

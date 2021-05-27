@@ -1,0 +1,684 @@
+﻿[
+    {
+        "value": "BRAND",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            43,
+            89,
+            34,
+            14
+        ]
+    },
+    {
+        "value": "Domestic",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            117,
+            105,
+            59,
+            11
+        ]
+    },
+    {
+        "value": "X",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            200,
+            105,
+            11,
+            10
+        ]
+    },
+    {
+        "value": "Export",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            235,
+            103,
+            39,
+            14
+        ]
+    },
+    {
+        "value": "Description:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            45,
+            244,
+            82,
+            13
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            388,
+            506,
+            29,
+            15
+        ]
+    },
+    {
+        "value": "ENDORSEMENTS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            172,
+            535,
+            81,
+            14
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            360,
+            535,
+            31,
+            13
+        ]
+    },
+    {
+        "value": "CQA",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            561,
+            21,
+            15
+        ]
+    },
+    {
+        "value": "ELT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            644,
+            22,
+            15
+        ]
+    },
+    {
+        "value": "Marketing",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            78,
+            670,
+            61,
+            15
+        ]
+    },
+    {
+        "value": "APPROVAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            173,
+            698,
+            54,
+            15
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            362,
+            701,
+            31,
+            14
+        ]
+    },
+    {
+        "value": "CQA",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            729,
+            25,
+            15
+        ]
+    },
+    {
+        "value": "President",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            80,
+            757,
+            61,
+            14
+        ]
+    },
+    {
+        "value": "Rationale",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            411,
+            64,
+            13
+        ]
+    },
+    {
+        "value": "Military",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            344,
+            103,
+            54,
+            15
+        ]
+    },
+    {
+        "value": "Contract",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            479,
+            103,
+            60,
+            14
+        ]
+    },
+    {
+        "value": "X",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            310,
+            187,
+            11,
+            15
+        ]
+    },
+    {
+        "value": "Processing",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            365,
+            216,
+            73,
+            11
+        ]
+    },
+    {
+        "value": "X",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            309,
+            423,
+            14,
+            14
+        ]
+    },
+    {
+        "value": "X",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            311,
+            453,
+            11,
+            13
+        ]
+    },
+    {
+        "value": "10111",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            49,
+            797,
+            35,
+            15
+        ]
+    },
+    {
+        "value": "621626776",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            560,
+            845,
+            115,
+            22
+        ]
+    },
+    {
+        "value": "Attachment II",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            42,
+            49,
+            90,
+            11
+        ]
+    },
+    {
+        "value": "SPECIFICATION CHANGE PROPOSAL",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            232,
+            61,
+            197,
+            14
+        ]
+    },
+    {
+        "value": "ELI CUTTER KS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            124,
+            89,
+            90,
+            15
+        ]
+    },
+    {
+        "value": "SPECIFICATION CHANGE NUMBER 84- 79",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            365,
+            88,
+            237,
+            15
+        ]
+    },
+    {
+        "value": "TYPE OF SPECIFICATION CHANGE (Check all that apply)",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            71,
+            131,
+            346,
+            16
+        ]
+    },
+    {
+        "value": "Packaging, Temporary",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            148,
+            139,
+            13
+        ]
+    },
+    {
+        "value": "Cigarette Design, Trial",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            159,
+            160,
+            15
+        ]
+    },
+    {
+        "value": "Tar Adjustment < 1 mg",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            172,
+            147,
+            18
+        ]
+    },
+    {
+        "value": "New Product",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            189,
+            77,
+            14
+        ]
+    },
+    {
+        "value": "Equivalent Additive",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            203,
+            136,
+            14
+        ]
+    },
+    {
+        "value": "Equivalent Filter/ Paper/ /Tipping",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            215,
+            213,
+            17
+        ]
+    },
+    {
+        "value": "Packaging, Permanent",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            366,
+            145,
+            135,
+            16
+        ]
+    },
+    {
+        "value": "Cigarette Design, Permanent",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            363,
+            159,
+            192,
+            15
+        ]
+    },
+    {
+        "value": "Tar Adjustment > 1 mg",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            366,
+            173,
+            150,
+            15
+        ]
+    },
+    {
+        "value": "Discontinue Product",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            365,
+            189,
+            131,
+            14
+        ]
+    },
+    {
+        "value": "Equivalent Packaging Material",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            365,
+            201,
+            201,
+            15
+        ]
+    },
+    {
+        "value": "ELI CUTTER KS, for test market, using AMELIA \"B\" Blend (XLF -680G)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            141,
+            243,
+            450,
+            15
+        ]
+    },
+    {
+        "value": "*Cost Summary-",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            46,
+            271,
+            104,
+            15
+        ]
+    },
+    {
+        "value": "REQUESTED IMPLEMENTATION DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            297,
+            197,
+            16
+        ]
+    },
+    {
+        "value": "9 /17 /84",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            304,
+            300,
+            51,
+            13
+        ]
+    },
+    {
+        "value": "COST SUMMARY",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            74,
+            327,
+            82,
+            13
+        ]
+    },
+    {
+        "value": "Obsolete Material Cost",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            101,
+            342,
+            151,
+            13
+        ]
+    },
+    {
+        "value": "Special Equipment/ Material Cost",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            101,
+            355,
+            211,
+            15
+        ]
+    },
+    {
+        "value": "Est. Annual Product Cost Change",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            102,
+            370,
+            208,
+            14
+        ]
+    },
+    {
+        "value": "ATTACHMENTS (Check if Included)",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            73,
+            395,
+            212,
+            15
+        ]
+    },
+    {
+        "value": "Product Specification List",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            423,
+            175,
+            15
+        ]
+    },
+    {
+        "value": "Packaging Art Stat.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            439,
+            130,
+            14
+        ]
+    },
+    {
+        "value": "Processing Detail",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            451,
+            120,
+            15
+        ]
+    },
+    {
+        "value": "Initial Production Requirement",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            466,
+            205,
+            13
+        ]
+    },
+    {
+        "value": "Cost Analysis",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            367,
+            411,
+            90,
+            14
+        ]
+    },
+    {
+        "value": "Spec. Change Detail",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            367,
+            423,
+            131,
+            16
+        ]
+    },
+    {
+        "value": "Casing Flavoring Formulae",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            365,
+            437,
+            177,
+            16
+        ]
+    },
+    {
+        "value": "Blend Formulae",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            365,
+            451,
+            102,
+            14
+        ]
+    },
+    {
+        "value": "Prepared By:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            75,
+            507,
+            84,
+            15
+        ]
+    },
+    {
+        "value": "D. M. Frank",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            226,
+            506,
+            76,
+            15
+        ]
+    },
+    {
+        "value": "10/ 10/ 84",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            462,
+            506,
+            59,
+            15
+        ]
+    },
+    {
+        "value": "RD&E - Product",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            589,
+            96,
+            16
+        ]
+    },
+    {
+        "value": "RD&E - Process",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            617,
+            95,
+            15
+        ]
+    }
+]

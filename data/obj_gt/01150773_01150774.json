@@ -1,0 +1,332 @@
+﻿[
+    {
+        "text": "Date:",
+        "box": [
+            172,
+            429,
+            57,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "To:",
+        "box": [
+            196,
+            465,
+            31,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "From:",
+        "box": [
+            175,
+            507,
+            56,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Room:",
+        "box": [
+            168,
+            549,
+            60,
+            24
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Message:",
+        "box": [
+            87,
+            654,
+            92,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "803E",
+        "box": [
+            257,
+            549,
+            45,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2064782104",
+        "box": [
+            687,
+            800,
+            17,
+            94
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            482,
+            443,
+            168,
+            112
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            64,
+            950,
+            27,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "TELEPHONE:",
+        "box": [
+            88,
+            282,
+            64,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TELEFAX",
+        "box": [
+            328,
+            257,
+            46,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TELEX",
+        "box": [
+            311,
+            268,
+            34,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CABLE",
+        "box": [
+            337,
+            285,
+            34,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COVLING",
+        "box": [
+            372,
+            284,
+            47,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "COVINGTON & BURLING",
+        "box": [
+            214,
+            148,
+            327,
+            31
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "1201 PENNSYLVANIA AVENUE N. W. P. O. BOX 7566 WASHINGTON D. C. 20044 7566 (202) 562 5000",
+        "box": [
+            295,
+            189,
+            167,
+            51
+        ],
+        "class": "other"
+    },
+    {
+        "text": "LECONFIELD HOUSE CURZON STREET LONDON WIYIAS ENGLAND",
+        "box": [
+            92,
+            243,
+            137,
+            39
+        ],
+        "class": "other"
+    },
+    {
+        "text": "44 71 495 5655",
+        "box": [
+            154,
+            284,
+            58,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "89- 193 COVLING WSH",
+        "box": [
+            345,
+            270,
+            100,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(202) 662-6291",
+        "box": [
+            374,
+            257,
+            52,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BRUSSELS CORRESPONDENT OFFICE 44 AVENUE DES ARTS BRUSSELS 1040 BELGIUM",
+        "box": [
+            492,
+            242,
+            173,
+            40
+        ],
+        "class": "other"
+    },
+    {
+        "text": "32 512 7890",
+        "box": [
+            606,
+            282,
+            53,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "TELEPHONE:",
+        "box": [
+            542,
+            282,
+            63,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "THIS FACSIMILE TRANSMISSION IS INTENDED ONLY FOR THE ADDRESSEE SHOWN BELOW. IT MAY CONTAIN INFORMATION THAT IS PRIVILEGED, CONFIDENTIAL OR OTHER WISE PROTECTED FROM DISCLOSURE. ANY REVIEW, DISSEMINATION OR USE OF THIS TRANSMISSION OR ITS CONTENTS BY PERSONS OTHER THAN THE ADDRESSEE IS STRICTLY PROHIBITED. OF YOU HAVE RECEIVED THIS TRANSMISSION IN ERROR, PLEASE NOTIFY IMMEDIATELY BY TRIEPHONE AND MAIL THE ORIGINAL TO US AT THE ABOVE ADDRESS.",
+        "box": [
+            115,
+            323,
+            530,
+            61
+        ],
+        "class": "other"
+    },
+    {
+        "text": "January 15, 1997",
+        "box": [
+            256,
+            420,
+            170,
+            29
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mark Berlind",
+        "box": [
+            258,
+            465,
+            127,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "David H. Remes",
+        "box": [
+            253,
+            503,
+            153,
+            25
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "7 Pages ",
+        "box": [
+            264,
+            599,
+            302,
+            31
+        ],
+        "class": "other"
+    },
+    {
+        "text": "If there is a transmission problem, please call:",
+        "box": [
+            88,
+            753,
+            509,
+            25
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(202) 662 -6280 Telecommunications",
+        "box": [
+            138,
+            792,
+            358,
+            23
+        ],
+        "class": "other"
+    },
+    {
+        "text": "(202) 662 -5942 Leslie L. Daniels - Secretary",
+        "box": [
+            135,
+            817,
+            475,
+            22
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            524,
+            947,
+            159,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            229,
+            950,
+            114,
+            14
+        ],
+        "class": "other"
+    }
+]

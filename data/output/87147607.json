@@ -1,0 +1,174 @@
+[
+    {
+        "text": "VENDOR",
+        "class": "other"
+    },
+    {
+        "text": "TERMS",
+        "class": "answer"
+    },
+    {
+        "text": "CODE",
+        "class": "other"
+    },
+    {
+        "text": "DESCRIPTION",
+        "class": "other"
+    },
+    {
+        "text": "QUANTITY",
+        "class": "question"
+    },
+    {
+        "text": "DEPARTMENT",
+        "class": "other"
+    },
+    {
+        "text": "USE",
+        "class": "other"
+    },
+    {
+        "text": "ONLY",
+        "class": "other"
+    },
+    {
+        "text": "NC",
+        "class": "other"
+    },
+    {
+        "text": "DATE",
+        "class": "other"
+    },
+    {
+        "text": "Prev.",
+        "class": "question"
+    },
+    {
+        "text": "UNIT",
+        "class": "other"
+    },
+    {
+        "text": "PRICE",
+        "class": "other"
+    },
+    {
+        "text": "4111",
+        "class": "answer"
+    },
+    {
+        "text": "8700",
+        "class": "other"
+    },
+    {
+        "text": "87147607",
+        "class": "other"
+    },
+    {
+        "text": "FOR",
+        "class": "other"
+    },
+    {
+        "text": "PURCHASING",
+        "class": "question"
+    },
+    {
+        "text": "\u2610 PURCHASING",
+        "class": "other"
+    },
+    {
+        "text": "\u2610 STATIONARY",
+        "class": "answer"
+    },
+    {
+        "text": "PURCHASE REQUISITION",
+        "class": "header"
+    },
+    {
+        "text": "PLEASE INCLUDE ONLY ONE TYPE OF MATERIAL ON THIS REQUISITION",
+        "class": "header"
+    },
+    {
+        "text": "P. O. 1534 LT-1979",
+        "class": "other"
+    },
+    {
+        "text": "April 19, 1988",
+        "class": "other"
+    },
+    {
+        "text": "Piedmont Research Laboratory 2748 Patterson Ave., Greensboro,",
+        "class": "question"
+    },
+    {
+        "text": "ORDER NO",
+        "class": "other"
+    },
+    {
+        "text": "or Recommended Supplier",
+        "class": "other"
+    },
+    {
+        "text": "Lorillard Research Center",
+        "class": "question"
+    },
+    {
+        "text": "N. A. Thaggard",
+        "class": "question"
+    },
+    {
+        "text": "As required",
+        "class": "other"
+    },
+    {
+        "text": "DATE WANTED",
+        "class": "other"
+    },
+    {
+        "text": "SHIP TO (DEPT BRANCH)",
+        "class": "answer"
+    },
+    {
+        "text": "27407 NET 15 F. O. B. N/A VIA N/A",
+        "class": "answer"
+    },
+    {
+        "text": "420 English St., Greensboro, NC 27405",
+        "class": "question"
+    },
+    {
+        "text": "This is your authorization to prepare cigarette smoke condensate according to the protocol \"Standard Operating Procedure f\u00f8r the Preparation of Smoke Condensate for Mouse Skin Bioassay,\" for the period April 1, 1988 through December 31, 1988. Condensate will be prepared acording to a time schedule provided by Lorillard. The fixed price for condensate collection will be at a rate of $1, 750/10, 000 cigarettes smoked. Piedmont will pay the cost of consumable supplies. This work is to be conducted in accordance with the December 10, 1984 formal agreement between Piedmont Reseach Laboratories and Lorillard. All work is to be coordinated with our Mr. Neil Thaggard (919) 373-6628",
+        "class": "other"
+    },
+    {
+        "text": "FOLLOW UP DATE",
+        "class": "other"
+    },
+    {
+        "text": "BUDGET NO.",
+        "class": "other"
+    },
+    {
+        "text": "REQUISITION NO.",
+        "class": "other"
+    },
+    {
+        "text": "ISSUED BY",
+        "class": "other"
+    },
+    {
+        "text": "APPROVED BY",
+        "class": "other"
+    },
+    {
+        "text": "",
+        "class": "other"
+    },
+    {
+        "text": "DEPT. NO.",
+        "class": "other"
+    },
+    {
+        "text": "ACCT. NO.",
+        "class": "question"
+    }
+]

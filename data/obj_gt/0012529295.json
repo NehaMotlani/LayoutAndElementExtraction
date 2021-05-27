@@ -1,0 +1,882 @@
+﻿[
+    {
+        "text": "Date:",
+        "box": [
+            54,
+            132,
+            38,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Supplier",
+        "box": [
+            104,
+            265,
+            64,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Projected:",
+        "box": [
+            52,
+            364,
+            79,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "x",
+        "box": [
+            574,
+            204,
+            14,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "-0-",
+        "box": [
+            410,
+            296,
+            21,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "-O-",
+        "box": [
+            410,
+            322,
+            21,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Date",
+        "box": [
+            413,
+            706,
+            34,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            414,
+            732,
+            32,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            412,
+            761,
+            35,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            412,
+            787,
+            34,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            410,
+            818,
+            34,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Original",
+        "box": [
+            50,
+            848,
+            61,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "cc:",
+        "box": [
+            42,
+            867,
+            33,
+            9
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No.",
+        "box": [
+            496,
+            133,
+            21,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Yes",
+        "box": [
+            545,
+            204,
+            25,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No",
+        "box": [
+            593,
+            206,
+            18,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "-0-",
+        "box": [
+            440,
+            483,
+            33,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "CAPRI",
+        "box": [
+            461,
+            893,
+            42,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "/lsbg1006",
+        "box": [
+            45,
+            921,
+            71,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "465915288",
+        "box": [
+            560,
+            919,
+            129,
+            24
+        ],
+        "class": "other"
+    },
+    {
+        "text": "-",
+        "box": [
+            114,
+            850,
+            11,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MARKET RESEARCH AUTHORIZATION",
+        "box": [
+            263,
+            86,
+            214,
+            19
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "(Recommended Proposal Attached)",
+        "box": [
+            261,
+            103,
+            222,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "6DR IV per II Revised MRA request one on LS to be",
+        "box": [
+            505,
+            17,
+            205,
+            105
+        ],
+        "class": "other"
+    },
+    {
+        "text": "C- 40",
+        "box": [
+            567,
+            131,
+            43,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10/ /9 87",
+        "box": [
+            103,
+            131,
+            66,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Description: CAPRI Expansion:",
+        "box": [
+            53,
+            159,
+            213,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "California- A&U Wave II",
+        "box": [
+            277,
+            160,
+            180,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Requested By:",
+        "box": [
+            54,
+            205,
+            96,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "S. H. Trebilcock",
+        "box": [
+            162,
+            203,
+            123,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Research Request Attached:",
+        "box": [
+            344,
+            206,
+            190,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Competitive Proposals Obtained:",
+        "box": [
+            54,
+            233,
+            226,
+            19
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Cost ($)",
+        "box": [
+            284,
+            263,
+            62,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Est. Travel",
+        "box": [
+            394,
+            250,
+            48,
+            31
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Total Cost",
+        "box": [
+            488,
+            265,
+            77,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cost Per Interview",
+        "box": [
+            605,
+            251,
+            72,
+            30
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "$47 .22",
+        "box": [
+            605,
+            294,
+            51,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$74 .67",
+        "box": [
+            605,
+            318,
+            53,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$112 000 +/ - 10%",
+        "box": [
+            459,
+            322,
+            120,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$70 ,825 + - 10%",
+        "box": [
+            465,
+            291,
+            105,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$70 70,825 +/ - 10%",
+        "box": [
+            252,
+            291,
+            123,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$112, 000 +/ - 10%",
+        "box": [
+            256,
+            321,
+            121,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Kapuler Market Research",
+        "box": [
+            59,
+            292,
+            169,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Market Facts, Inc.",
+        "box": [
+            60,
+            322,
+            134,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Initiation Date",
+        "box": [
+            48,
+            381,
+            118,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Field Start",
+        "box": [
+            52,
+            409,
+            85,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Field Complete",
+        "box": [
+            52,
+            436,
+            105,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Final Report Due",
+        "box": [
+            52,
+            466,
+            119,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "8/ 3/ 87",
+        "box": [
+            171,
+            380,
+            51,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "9/ 23/ 87*",
+        "box": [
+            177,
+            407,
+            67,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10/ 11/ 87",
+        "box": [
+            169,
+            438,
+            61,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "11/ 16/ 87",
+        "box": [
+            180,
+            466,
+            63,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Summary of Research Budget",
+        "box": [
+            301,
+            364,
+            192,
+            19
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Total Area Budget:",
+        "box": [
+            296,
+            382,
+            138,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Current Bal. Available:",
+        "box": [
+            300,
+            409,
+            168,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "This Change (From Current Budget)",
+        "box": [
+            297,
+            440,
+            157,
+            30
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "780, 900. 00",
+        "box": [
+            534,
+            379,
+            91,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(381, 583. 08)",
+        "box": [
+            525,
+            408,
+            103,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "-70, 825. 00",
+        "box": [
+            535,
+            440,
+            89,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "New Balance",
+        "box": [
+            297,
+            525,
+            92,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(452 ,408, 08)",
+        "box": [
+            525,
+            525,
+            105,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1, 233, 308. 08",
+        "box": [
+            513,
+            570,
+            113,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Committed to Date: (Current Year)",
+        "box": [
+            295,
+            571,
+            135,
+            35
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Sample Size",
+        "box": [
+            50,
+            613,
+            89,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1. 500",
+        "box": [
+            152,
+            614,
+            42,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Recommemded Supplier:",
+        "box": [
+            47,
+            629,
+            159,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Kapuler Marketing Research",
+        "box": [
+            224,
+            630,
+            195,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Reason(s) for Recommendation",
+        "box": [
+            52,
+            645,
+            211,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Low bidder.",
+        "box": [
+            274,
+            643,
+            82,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Submitted By:",
+        "box": [
+            52,
+            702,
+            93,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "*Actual start date on the part of supplier Technically was due to start 9/ 7 (the) 10 week post intro period) See Project File Note) LJS 10/ 13/ 87",
+        "box": [
+            34,
+            496,
+            264,
+            123
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            51,
+            730,
+            92,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            52,
+            763,
+            87,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            47,
+            791,
+            94,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Budget Check:",
+        "box": [
+            47,
+            817,
+            98,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "L J L. J. Spurtier",
+        "box": [
+            150,
+            697,
+            166,
+            40
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "L. E. Gravely ",
+        "box": [
+            147,
+            719,
+            236,
+            48
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "K. F. Lyle",
+        "box": [
+            147,
+            836,
+            84,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Project File",
+        "box": [
+            131,
+            849,
+            91,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "S. Willinger (3)",
+        "box": [
+            125,
+            864,
+            123,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "G. D. Raphael",
+        "box": [
+            130,
+            880,
+            105,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "V. Hansberry (If Int.)",
+        "box": [
+            130,
+            892,
+            161,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Project No.",
+        "box": [
+            367,
+            864,
+            84,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Account Name",
+        "box": [
+            355,
+            894,
+            94,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1987- 113CA",
+        "box": [
+            462,
+            861,
+            74,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10/ 9/ 87",
+        "box": [
+            461,
+            699,
+            83,
+            29
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10/ 13/ 87",
+        "box": [
+            456,
+            725,
+            86,
+            25
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "This Amount (From Next Year's Budget)",
+        "box": [
+            298,
+            483,
+            184,
+            33
+        ],
+        "class": "value_question"
+    }
+]

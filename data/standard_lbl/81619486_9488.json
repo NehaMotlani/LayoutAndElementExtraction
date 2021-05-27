@@ -1,0 +1,684 @@
+﻿[
+    {
+        "value": "TO:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            67,
+            108,
+            22,
+            14
+        ]
+    },
+    {
+        "value": "FROM:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            138,
+            40,
+            15
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            450,
+            171,
+            14,
+            13
+        ]
+    },
+    {
+        "value": "GEOGRAPHY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            166,
+            237,
+            77,
+            13
+        ]
+    },
+    {
+        "value": "REGION:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            67,
+            263,
+            58,
+            13
+        ]
+    },
+    {
+        "value": "FULL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            298,
+            262,
+            32,
+            13
+        ]
+    },
+    {
+        "value": "PARTIAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            508,
+            263,
+            45,
+            12
+        ]
+    },
+    {
+        "value": "PARTIAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            508,
+            312,
+            47,
+            12
+        ]
+    },
+    {
+        "value": "FULL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            298,
+            311,
+            34,
+            14
+        ]
+    },
+    {
+        "value": "DIVISION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            69,
+            311,
+            59,
+            14
+        ]
+    },
+    {
+        "value": "SUBJECT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            203,
+            58,
+            13
+        ]
+    },
+    {
+        "value": "12",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            584,
+            336,
+            15,
+            13
+        ]
+    },
+    {
+        "value": "13",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            583,
+            356,
+            14,
+            17
+        ]
+    },
+    {
+        "value": "7",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            585,
+            380,
+            12,
+            14
+        ]
+    },
+    {
+        "value": "X",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            365,
+            311,
+            11,
+            12
+        ]
+    },
+    {
+        "value": "DISTRIBUTION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            156,
+            416,
+            97,
+            15
+        ]
+    },
+    {
+        "value": "70",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            297,
+            509,
+            14,
+            15
+        ]
+    },
+    {
+        "value": "121",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            294,
+            528,
+            19,
+            15
+        ]
+    },
+    {
+        "value": "81619486",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            660,
+            809,
+            22,
+            102
+        ]
+    },
+    {
+        "value": "S. P. ZOLOT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            140,
+            108,
+            65,
+            13
+        ]
+    },
+    {
+        "value": "SUBMISSION DATE",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            447,
+            109,
+            112,
+            14
+        ]
+    },
+    {
+        "value": "R. W. Richardson",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            141,
+            138,
+            88,
+            18
+        ]
+    },
+    {
+        "value": "JUNE 29",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            376,
+            139,
+            46,
+            14
+        ]
+    },
+    {
+        "value": "AUG 10",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            379,
+            169,
+            40,
+            14
+        ]
+    },
+    {
+        "value": "SEPT 21",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            525,
+            140,
+            46,
+            13
+        ]
+    },
+    {
+        "value": "NOV 9",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            529,
+            169,
+            38,
+            15
+        ]
+    },
+    {
+        "value": "MAVERICK SPECIALS EXPANSION MARKETS PROGRESS REPORT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            137,
+            199,
+            388,
+            16
+        ]
+    },
+    {
+        "value": "(ONLY IF PARTIAL REGION, CONTINUE WITH DIVISION (S) SCOPE)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            67,
+            284,
+            363,
+            16
+        ]
+    },
+    {
+        "value": "DIVISION NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            336,
+            95,
+            14
+        ]
+    },
+    {
+        "value": "Detroit North",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            186,
+            338,
+            69,
+            12
+        ]
+    },
+    {
+        "value": "Detroit South",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            189,
+            358,
+            69,
+            14
+        ]
+    },
+    {
+        "value": "Detroit Central",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            192,
+            380,
+            69,
+            15
+        ]
+    },
+    {
+        "value": "DIVISION NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            358,
+            96,
+            18
+        ]
+    },
+    {
+        "value": "DIVISION NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            91,
+            380,
+            97,
+            15
+        ]
+    },
+    {
+        "value": "DIVISION NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            298,
+            338,
+            93,
+            12
+        ]
+    },
+    {
+        "value": "DIVISION NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            296,
+            358,
+            95,
+            15
+        ]
+    },
+    {
+        "value": "DIVISION NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            297,
+            379,
+            96,
+            15
+        ]
+    },
+    {
+        "value": "Detroit East",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            393,
+            361,
+            63,
+            12
+        ]
+    },
+    {
+        "value": "Detroit West",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            398,
+            337,
+            62,
+            14
+        ]
+    },
+    {
+        "value": "# REPS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            503,
+            336,
+            42,
+            15
+        ]
+    },
+    {
+        "value": "# REPS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            503,
+            359,
+            41,
+            14
+        ]
+    },
+    {
+        "value": "# REPS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            501,
+            382,
+            43,
+            13
+        ]
+    },
+    {
+        "value": "Direct Accounts and Chains Headquartered within the Region (15+ Stores) Stocking No Maverick Specials",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            67,
+            443,
+            313,
+            26
+        ]
+    },
+    {
+        "value": "Name of Account",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            80,
+            482,
+            93,
+            15
+        ]
+    },
+    {
+        "value": "Ind/ Lor Volume",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            206,
+            478,
+            43,
+            27
+        ]
+    },
+    {
+        "value": "Number of Stores",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            272,
+            475,
+            59,
+            30
+        ]
+    },
+    {
+        "value": "Name of Account",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            369,
+            481,
+            90,
+            16
+        ]
+    },
+    {
+        "value": "Ind/ Lor Volume",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            494,
+            472,
+            43,
+            31
+        ]
+    },
+    {
+        "value": "Number of Stores",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            563,
+            477,
+            56,
+            28
+        ]
+    },
+    {
+        "value": "Meijer Gas",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            68,
+            510,
+            55,
+            14
+        ]
+    },
+    {
+        "value": "Ultra Diamond",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            69,
+            531,
+            72,
+            13
+        ]
+    },
+    {
+        "value": "245/ 19",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            208,
+            509,
+            37,
+            12
+        ]
+    },
+    {
+        "value": "223/ 25",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            207,
+            532,
+            37,
+            11
+        ]
+    },
+    {
+        "value": "Direct Accounts and Chains Headquartered Outside the Region (15+ Stores Stocking No Maverick Specials",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            68,
+            698,
+            321,
+            26
+        ]
+    },
+    {
+        "value": "Name of Account",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            739,
+            89,
+            11
+        ]
+    },
+    {
+        "value": "Ind/ Lor Volume",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            205,
+            732,
+            43,
+            25
+        ]
+    },
+    {
+        "value": "Number of Stores",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            273,
+            731,
+            58,
+            29
+        ]
+    },
+    {
+        "value": "Name of Account",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            373,
+            738,
+            87,
+            11
+        ]
+    },
+    {
+        "value": "Ind/ Lor Volume",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            497,
+            730,
+            42,
+            25
+        ]
+    },
+    {
+        "value": "Number of Stores",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            563,
+            731,
+            57,
+            25
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            68,
+            952,
+            78,
+            8
+        ]
+    },
+    {
+        "value": "Page 1 of 3",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            621,
+            949,
+            41,
+            10
+        ]
+    }
+]

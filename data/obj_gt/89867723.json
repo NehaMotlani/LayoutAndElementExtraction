@@ -1,0 +1,582 @@
+﻿[
+    {
+        "text": "file",
+        "box": [
+            47,
+            31,
+            38,
+            71
+        ],
+        "class": "other"
+    },
+    {
+        "text": "PRODUCT",
+        "box": [
+            135,
+            78,
+            52,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "JOB#",
+        "box": [
+            598,
+            81,
+            29,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "yes",
+        "box": [
+            286,
+            623,
+            24,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "yes",
+        "box": [
+            286,
+            637,
+            24,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            229,
+            645,
+            117,
+            31
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            228,
+            679,
+            50,
+            29
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            219,
+            708,
+            74,
+            77
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Director",
+        "box": [
+            264,
+            750,
+            60,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Manager",
+        "box": [
+            226,
+            852,
+            52,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            204,
+            813,
+            169,
+            91
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "no",
+        "box": [
+            363,
+            623,
+            17,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "no",
+        "box": [
+            366,
+            637,
+            14,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Facility:",
+        "box": [
+            476,
+            608,
+            66,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Agency:",
+        "box": [
+            476,
+            622,
+            53,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Incidence",
+        "box": [
+            472,
+            634,
+            66,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Facility:",
+        "box": [
+            490,
+            824,
+            66,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Agency:",
+        "box": [
+            490,
+            839,
+            52,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "89867723",
+        "box": [
+            703,
+            820,
+            18,
+            91
+        ],
+        "class": "other"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            535,
+            10,
+            32,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "X",
+        "box": [
+            320,
+            622,
+            11,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "X",
+        "box": [
+            318,
+            637,
+            15,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MARKETING RESEARCH PROJECT APPROVAL",
+        "box": [
+            307,
+            24,
+            251,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "April 27, 1981",
+        "box": [
+            577,
+            10,
+            103,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(To be filled out by Marketing Research Department)",
+        "box": [
+            232,
+            36,
+            361,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "New Products",
+        "box": [
+            203,
+            82,
+            86,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PROJECT TITLE",
+        "box": [
+            370,
+            70,
+            54,
+            25
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No Side Stream Smoke Focus Groups",
+        "box": [
+            429,
+            73,
+            131,
+            23
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "5546/ 1481",
+        "box": [
+            634,
+            80,
+            66,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Research Design (N, Cells, Elegibility, Design, Key Banner Breaks, Methodology, Cities)",
+        "box": [
+            135,
+            108,
+            618,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Three Groups (1 male/ 2 female) will be conducted in Ridgewood, N. J. on May 7th to explore the NSS concept/ product.",
+        "box": [
+            123,
+            158,
+            555,
+            32
+        ],
+        "class": "other"
+    },
+    {
+        "text": "The groups will be comprised of random Reduced Tar smokers. No group will be over represented by brand, type or size of cigarettes.",
+        "box": [
+            122,
+            201,
+            528,
+            33
+        ],
+        "class": "other"
+    },
+    {
+        "text": "All smokers will be 18 years and over and smoke 10+ cigarettes per day.",
+        "box": [
+            122,
+            246,
+            505,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Key Criteria For Analysis",
+        "box": [
+            131,
+            369,
+            180,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "To determine if the NSS concept/ product is viable based upon smokers reactions.",
+        "box": [
+            122,
+            402,
+            564,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Research Limitations",
+        "box": [
+            131,
+            471,
+            144,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Information from this exploratory research is directional only.",
+        "box": [
+            122,
+            504,
+            449,
+            19
+        ],
+        "class": "other"
+    },
+    {
+        "text": "$ 6.816",
+        "box": [
+            251,
+            591,
+            45,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Cost Estimate",
+        "box": [
+            128,
+            588,
+            96,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "+ - 10% Contingency Final Report Inc.",
+        "box": [
+            128,
+            617,
+            139,
+            31
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Prepared by:",
+        "box": [
+            126,
+            659,
+            89,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved by",
+        "box": [
+            127,
+            689,
+            86,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Marketing Research",
+        "box": [
+            126,
+            749,
+            133,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Product Manager",
+        "box": [
+            127,
+            793,
+            109,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Group Product",
+        "box": [
+            126,
+            851,
+            96,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Research Firm",
+        "box": [
+            471,
+            592,
+            97,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Ruth Manko Assoc.",
+        "box": [
+            584,
+            591,
+            119,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Suburban Associates",
+        "box": [
+            554,
+            608,
+            140,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "D' Arcy/ deGarmo",
+        "box": [
+            557,
+            620,
+            103,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Length Int.",
+        "box": [
+            472,
+            663,
+            76,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "# Open Ends",
+        "box": [
+            472,
+            690,
+            77,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "# Banners",
+        "box": [
+            469,
+            719,
+            66,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Topline Oral presentation w/ o 5/ 18",
+        "box": [
+            469,
+            747,
+            246,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "816. 00",
+        "box": [
+            641,
+            837,
+            44,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1. 500. 00",
+        "box": [
+            624,
+            823,
+            61,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$ 4. 500. 00",
+        "box": [
+            622,
+            807,
+            63,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Moderators fee:",
+        "box": [
+            490,
+            806,
+            107,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Final Written presentation w/ o 5/ 25",
+        "box": [
+            468,
+            791,
+            269,
+            20
+        ],
+        "class": "other"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "text": "COURT:",
+        "class": "answer"
+    },
+    {
+        "text": "Asbestos",
+        "class": "other"
+    },
+    {
+        "text": "JUDGE:",
+        "class": "other"
+    },
+    {
+        "text": "CASE FORM",
+        "class": "other"
+    },
+    {
+        "text": "CASE NAME:",
+        "class": "answer"
+    },
+    {
+        "text": "LORILLARD ENTITIES",
+        "class": "answer"
+    },
+    {
+        "text": "DATE FILED",
+        "class": "other"
+    },
+    {
+        "text": "DATE SERVED",
+        "class": "answer"
+    },
+    {
+        "text": "CASE TYPE:",
+        "class": "question"
+    },
+    {
+        "text": "PLAINTIEE'S COUNSEL:",
+        "class": "answer"
+    },
+    {
+        "text": "LORILLARD COUNSEL:",
+        "class": "other"
+    },
+    {
+        "text": "TRIAL DATE:",
+        "class": "other"
+    },
+    {
+        "text": "82504862 946225115",
+        "class": "other"
+    },
+    {
+        "text": "Wartnick Chaber, Harowitz, Smith& Tigerman StephenM. Tigerman 101 California Street Suite 2200 San Francisco California 94111 ",
+        "class": "other"
+    },
+    {
+        "text": "August 3, 1998",
+        "class": "other"
+    },
+    {
+        "text": "Lorillard Tobacco Company",
+        "class": "other"
+    },
+    {
+        "text": "San Francisco Superior Court- No. 996382",
+        "class": "answer"
+    },
+    {
+        "text": "Donald D. Sellers and Robin J. Sellers v. Raybestos Manhattan et al.",
+        "class": "answer"
+    }
+]

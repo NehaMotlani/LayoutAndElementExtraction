@@ -1,0 +1,98 @@
+[
+    {
+        "text": "DIVISION:",
+        "class": "other"
+    },
+    {
+        "text": "ACCOUNT:",
+        "class": "other"
+    },
+    {
+        "text": "(STATE)",
+        "class": "other"
+    },
+    {
+        "text": "DATES:",
+        "class": "other"
+    },
+    {
+        "text": "BRAND",
+        "class": "other"
+    },
+    {
+        "text": "NOTE:",
+        "class": "answer"
+    },
+    {
+        "text": "ACTION",
+        "class": "other"
+    },
+    {
+        "text": "PLAN:",
+        "class": "other"
+    },
+    {
+        "text": "CC:",
+        "class": "answer"
+    },
+    {
+        "text": "8624113",
+        "class": "other"
+    },
+    {
+        "text": "STYLEREP",
+        "class": "other"
+    },
+    {
+        "text": "INVENTORY FOR:",
+        "class": "other"
+    },
+    {
+        "text": "DIRECT ACCOUNT STATUS REPORT",
+        "class": "header"
+    },
+    {
+        "text": "# OF CARTONS ON HAND",
+        "class": "question"
+    },
+    {
+        "text": "AVERAGE WEEKLY MOVEMENT",
+        "class": "question"
+    },
+    {
+        "text": "# OF WEEKS ON HAND",
+        "class": "other"
+    },
+    {
+        "text": "STYLE LIGHT 100'S",
+        "class": "other"
+    },
+    {
+        "text": "STYLE LIGHT MENTHOL 100'S",
+        "class": "answer"
+    },
+    {
+        "text": "STYLE LIGHT BOX 100'S",
+        "class": "other"
+    },
+    {
+        "text": "STYLE MEN. LIGHT BOX 100'S",
+        "class": "answer"
+    },
+    {
+        "text": "STYLE SLIM LIGHT 100's",
+        "class": "other"
+    },
+    {
+        "text": "STYLE SLIM MEN. LT. 100's",
+        "class": "other"
+    },
+    {
+        "text": "REPORT STYLE INVENTORY ONLY. SUBMIT REPORT ONLY IF STYLE IS STILL ON HAND IN THIS ACCOUNT.",
+        "class": "answer"
+    },
+    {
+        "text": "REGIONAL SALES MANAGER, ALL DIVISIONS SERVICED BY THIS ACCOUNT.",
+        "class": "answer"
+    }
+]

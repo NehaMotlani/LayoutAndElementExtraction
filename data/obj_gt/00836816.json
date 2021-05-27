@@ -1,0 +1,302 @@
+﻿[
+    {
+        "text": "00836816",
+        "box": [
+            622,
+            784,
+            17,
+            80
+        ],
+        "class": "other"
+    },
+    {
+        "text": "SIGNATURE",
+        "box": [
+            84,
+            869,
+            41,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            486,
+            872,
+            18,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TO",
+        "box": [
+            163,
+            732,
+            13,
+            7
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "A30",
+        "box": [
+            103,
+            179,
+            27,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "pH",
+        "box": [
+            82,
+            219,
+            14,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ORAL",
+        "box": [
+            103,
+            376,
+            22,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SOLUBILITY",
+        "box": [
+            84,
+            355,
+            41,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMPOUND PHYSICAL PARAMETERS",
+        "box": [
+            228,
+            141,
+            294,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "LRC FILE NUMBER",
+        "box": [
+            84,
+            170,
+            64,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LOT NUMBER",
+        "box": [
+            486,
+            170,
+            47,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PHYSICAL STATE",
+        "box": [
+            85,
+            196,
+            57,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Clear Colorless liquid",
+        "box": [
+            103,
+            203,
+            183,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "The pH of a 50 % concentration of A30 in (52.6% dioxane/ water was calculated to be 8.13 at 24 C according to the extrapolation procedures by Dr. P. D. Schickedantz, Lorillard Research Center Accession Number 1662, Reference OR 83- 81.",
+        "box": [
+            102,
+            228,
+            542,
+            56
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(See SOE for Biological Solutions)",
+        "box": [
+            144,
+            359,
+            283,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Reference OR 100- 32 . 5g A30 soluble in .5 mL corn oil at room temperature.",
+        "box": [
+            109,
+            388,
+            449,
+            45
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ACUTE CARDIOVASCULAR",
+        "box": [
+            105,
+            483,
+            89,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(See SOP for Determination of Solubility of Materials for Acute Cardiovascular and Respiratory Effects Study in Beagle Dogs) Reference OR 100- 32 .2 mg A30 soluble in .5 mL 10 % propylene glycol solution at 38 C. Add A30 to warm (38 C) propylene glycol; add warm water to make 10 % propylene glycol solution.",
+        "box": [
+            108,
+            500,
+            543,
+            108
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Refrig erate in amber bottle at no more than 8 C.",
+        "box": [
+            103,
+            644,
+            397,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "STORAGE RECOMMENDATIONS",
+        "box": [
+            84,
+            630,
+            109,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMPOUND SENSITIVE",
+        "box": [
+            85,
+            732,
+            78,
+            8
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "☐ AIR",
+        "box": [
+            103,
+            754,
+            25,
+            7
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ HEAT",
+        "box": [
+            141,
+            753,
+            29,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ MOISTURE",
+        "box": [
+            186,
+            753,
+            48,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ OTHER",
+        "box": [
+            247,
+            753,
+            35,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SAFETY COMMENTS SUGGESTED- PROCEDURES)",
+        "box": [
+            85,
+            779,
+            199,
+            8
+        ],
+        "class": "other"
+    },
+    {
+        "text": "LORILL ARD RESEARCH CENTER",
+        "box": [
+            81,
+            895,
+            108,
+            8
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            161,
+            858,
+            136,
+            50
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "8/ 10/ 82",
+        "box": [
+            527,
+            869,
+            82,
+            39
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "FORM ",
+        "box": [
+            630,
+            897,
+            47,
+            8
+        ],
+        "class": "other"
+    }
+]

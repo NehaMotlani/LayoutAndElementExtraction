@@ -1,0 +1,596 @@
+﻿[
+    {
+        "value": "DIVISION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            138,
+            178,
+            78,
+            13
+        ]
+    },
+    {
+        "value": "80%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            512,
+            275,
+            23,
+            13
+        ]
+    },
+    {
+        "value": "5%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            520,
+            320,
+            16,
+            13
+        ]
+    },
+    {
+        "value": "5%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            607,
+            291,
+            17,
+            12
+        ]
+    },
+    {
+        "value": "10%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            601,
+            305,
+            21,
+            12
+        ]
+    },
+    {
+        "value": "100%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            600,
+            334,
+            35,
+            13
+        ]
+    },
+    {
+        "value": "0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            346,
+            482,
+            11,
+            12
+        ]
+    },
+    {
+        "value": "0%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            442,
+            481,
+            18,
+            11
+        ]
+    },
+    {
+        "value": "8",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            345,
+            498,
+            13,
+            11
+        ]
+    },
+    {
+        "value": "3%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            439,
+            496,
+            18,
+            12
+        ]
+    },
+    {
+        "value": "162",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            333,
+            513,
+            23,
+            12
+        ]
+    },
+    {
+        "value": "53%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            434,
+            512,
+            22,
+            12
+        ]
+    },
+    {
+        "value": "76",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            340,
+            529,
+            15,
+            10
+        ]
+    },
+    {
+        "value": "25%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            433,
+            528,
+            22,
+            10
+        ]
+    },
+    {
+        "value": "100%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            430,
+            556,
+            32,
+            12
+        ]
+    },
+    {
+        "value": "19%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            432,
+            543,
+            23,
+            11
+        ]
+    },
+    {
+        "value": "57",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            339,
+            544,
+            18,
+            9
+        ]
+    },
+    {
+        "value": "303",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            333,
+            555,
+            20,
+            12
+        ]
+    },
+    {
+        "value": "Liquor",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            368,
+            618,
+            48,
+            7
+        ]
+    },
+    {
+        "value": "ANNUALS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            202,
+            542,
+            61,
+            13
+        ]
+    },
+    {
+        "value": "TOTAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            203,
+            555,
+            45,
+            13
+        ]
+    },
+    {
+        "value": "%",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            425,
+            452,
+            10,
+            15
+        ]
+    },
+    {
+        "value": "92081358",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            698,
+            801,
+            19,
+            72
+        ]
+    },
+    {
+        "value": "URBAN CENTER INITIATIVE ASSIGNMENT PROFILE",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            301,
+            67,
+            240,
+            47
+        ]
+    },
+    {
+        "value": "11/30/93 17:07",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            99,
+            20,
+            110,
+            13
+        ]
+    },
+    {
+        "value": "708 369 1422",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            237,
+            19,
+            97,
+            15
+        ]
+    },
+    {
+        "value": "LORILLARD CHI",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            404,
+            16,
+            88,
+            13
+        ]
+    },
+    {
+        "value": "002/003 ",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            667,
+            7,
+            71,
+            18
+        ]
+    },
+    {
+        "value": "Chicago South",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            245,
+            175,
+            98,
+            13
+        ]
+    },
+    {
+        "value": "LIST THE INFORMATION BELOW AS IT PERTAINS TO THE URBAN CENTER PORTION OF YOUR ASSIGNMENT ONLY:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            136,
+            199,
+            532,
+            37
+        ]
+    },
+    {
+        "value": "POPULATION COMPOSITION:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            138,
+            249,
+            203,
+            12
+        ]
+    },
+    {
+        "value": "% BLACK =",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            231,
+            279,
+            83,
+            12
+        ]
+    },
+    {
+        "value": "% HISPANIC =",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            234,
+            293,
+            107,
+            13
+        ]
+    },
+    {
+        "value": "% WHITE =",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            237,
+            309,
+            87,
+            12
+        ]
+    },
+    {
+        "value": "% OTHER ",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            234,
+            321,
+            82,
+            15
+        ]
+    },
+    {
+        "value": "% TOTAL =",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            235,
+            337,
+            80,
+            13
+        ]
+    },
+    {
+        "value": "% OF RETAIL CALLS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            138,
+            366,
+            160,
+            16
+        ]
+    },
+    {
+        "value": "247- classifIed",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            332,
+            364,
+            119,
+            15
+        ]
+    },
+    {
+        "value": "57- annual",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            341,
+            381,
+            82,
+            13
+        ]
+    },
+    {
+        "value": "APPROXIMATE % OF RETAIL CALLS SECURED BY GLASS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            138,
+            392,
+            406,
+            17
+        ]
+    },
+    {
+        "value": "45% (136 calls)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            567,
+            392,
+            110,
+            13
+        ]
+    },
+    {
+        "value": "RETAIL CALL FREQUENCY:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            139,
+            425,
+            193,
+            13
+        ]
+    },
+    {
+        "value": "# CALLS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            314,
+            453,
+            60,
+            14
+        ]
+    },
+    {
+        "value": "50/ YR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            220,
+            485,
+            46,
+            12
+        ]
+    },
+    {
+        "value": "25/ YR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            218,
+            493,
+            46,
+            18
+        ]
+    },
+    {
+        "value": "12/ YR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            220,
+            513,
+            44,
+            13
+        ]
+    },
+    {
+        "value": "6/ YR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            227,
+            529,
+            41,
+            13
+        ]
+    },
+    {
+        "value": "PRIMARY CLASS OF TRADE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            140,
+            585,
+            200,
+            13
+        ]
+    },
+    {
+        "value": "Convenience/ Grocery",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            362,
+            584,
+            141,
+            13
+        ]
+    },
+    {
+        "value": "SECONDARY CLASS OF TRADE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            141,
+            615,
+            217,
+            13
+        ]
+    },
+    {
+        "value": "PRIMARY DISTRIBUTION CHANNEL (E. G. JOBBER, SUB- JOBBER MEMBERSHIP",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            140,
+            654,
+            570,
+            16
+        ]
+    },
+    {
+        "value": "CLUB, CASH & CARRY, ETC...):",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            142,
+            672,
+            240,
+            14
+        ]
+    },
+    {
+        "value": "*Jobber/ Membership",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            411,
+            670,
+            156,
+            15
+        ]
+    },
+    {
+        "value": "* A number of stores are part of an Arab owned collective that gets a large order delivered from a jobber and then distributes the cigarettes to each store.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            143,
+            699,
+            547,
+            58
+        ]
+    }
+]

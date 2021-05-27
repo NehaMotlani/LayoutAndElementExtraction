@@ -1,0 +1,434 @@
+[
+    {
+        "text": "10675",
+        "class": "other"
+    },
+    {
+        "text": "PROPOSAL",
+        "class": "other"
+    },
+    {
+        "text": "FOR",
+        "class": "question"
+    },
+    {
+        "text": "DATE",
+        "class": "answer"
+    },
+    {
+        "text": "TO",
+        "class": "other"
+    },
+    {
+        "text": "ADDRESS",
+        "class": "answer"
+    },
+    {
+        "text": "CITY",
+        "class": "answer"
+    },
+    {
+        "text": "STATE",
+        "class": "answer"
+    },
+    {
+        "text": "Attn:",
+        "class": "answer"
+    },
+    {
+        "text": "ITEM:",
+        "class": "answer"
+    },
+    {
+        "text": "MATERIAL:",
+        "class": "question"
+    },
+    {
+        "text": "ALUMINUM",
+        "class": "question"
+    },
+    {
+        "text": "SIZE:",
+        "class": "answer"
+    },
+    {
+        "text": "GAUGE",
+        "class": "answer"
+    },
+    {
+        "text": "COLORS:",
+        "class": "answer"
+    },
+    {
+        "text": "HOLES:",
+        "class": "question"
+    },
+    {
+        "text": "YES",
+        "class": "other"
+    },
+    {
+        "text": "EMBOSSED",
+        "class": "question"
+    },
+    {
+        "text": "SQUARE",
+        "class": "question"
+    },
+    {
+        "text": "CORNERS:",
+        "class": "question"
+    },
+    {
+        "text": "EDGES:",
+        "class": "question"
+    },
+    {
+        "text": "PACKING:",
+        "class": "question"
+    },
+    {
+        "text": "OTHER:",
+        "class": "answer"
+    },
+    {
+        "text": "\u2611",
+        "class": "question"
+    },
+    {
+        "text": "Aluminum",
+        "class": "question"
+    },
+    {
+        "text": "\u2611",
+        "class": "question"
+    },
+    {
+        "text": "4",
+        "class": "other"
+    },
+    {
+        "text": "\u2611",
+        "class": "answer"
+    },
+    {
+        "text": "\u2611",
+        "class": "question"
+    },
+    {
+        "text": "\u2611",
+        "class": "question"
+    },
+    {
+        "text": "Tooling:",
+        "class": "answer"
+    },
+    {
+        "text": "QUANTITIES:",
+        "class": "answer"
+    },
+    {
+        "text": "PRICE:",
+        "class": "answer"
+    },
+    {
+        "text": "BILLING:",
+        "class": "question"
+    },
+    {
+        "text": "WAREHOUSING:",
+        "class": "question"
+    },
+    {
+        "text": "\u2611",
+        "class": "question"
+    },
+    {
+        "text": "\u2611",
+        "class": "question"
+    },
+    {
+        "text": "87528380",
+        "class": "other"
+    },
+    {
+        "text": "",
+        "class": "other"
+    },
+    {
+        "text": "CONDITIONS:",
+        "class": "other"
+    },
+    {
+        "text": "4050",
+        "class": "other"
+    },
+    {
+        "text": "",
+        "class": "other"
+    },
+    {
+        "text": "TOTAL",
+        "class": "answer"
+    },
+    {
+        "text": "8650",
+        "class": "other"
+    },
+    {
+        "text": "",
+        "class": "other"
+    },
+    {
+        "text": "S",
+        "class": "header"
+    },
+    {
+        "text": "\u2611",
+        "class": "question"
+    },
+    {
+        "text": "10",
+        "class": "answer"
+    },
+    {
+        "text": "STOUT INDUSTRIES, INC.",
+        "class": "header"
+    },
+    {
+        "text": "6425 W. FLORISSANT AVE. ST. LOUIS MO 63136 . (314) 385- 2280",
+        "class": "other"
+    },
+    {
+        "text": "Lorillard Corporation",
+        "class": "other"
+    },
+    {
+        "text": "666 Fifth Avenue",
+        "class": "other"
+    },
+    {
+        "text": "New York",
+        "class": "other"
+    },
+    {
+        "text": "New York 10103",
+        "class": "other"
+    },
+    {
+        "text": "Metal \"Pack\" Plaque",
+        "class": "question"
+    },
+    {
+        "text": "October 16, 1987",
+        "class": "answer"
+    },
+    {
+        "text": "Mr. A. D. Steinberg",
+        "class": "other"
+    },
+    {
+        "text": "YOUR REPRESENTATIVE",
+        "class": "other"
+    },
+    {
+        "text": "It is our pleasure to propose the following:",
+        "class": "header"
+    },
+    {
+        "text": "Mr. Robert Kennedy",
+        "class": "question"
+    },
+    {
+        "text": "Harley Davidson Metal Plaque",
+        "class": "question"
+    },
+    {
+        "text": "171/4 x 231/2 \"",
+        "class": "other"
+    },
+    {
+        "text": ".025\" ",
+        "class": "other"
+    },
+    {
+        "text": "STEEL \u2610",
+        "class": "question"
+    },
+    {
+        "text": "OTHER \u2610",
+        "class": "answer"
+    },
+    {
+        "text": "Transparent gold, opaque black, white and orange",
+        "class": "question"
+    },
+    {
+        "text": "BASE COLOR",
+        "class": "answer"
+    },
+    {
+        "text": "SINGLE FACE",
+        "class": "question"
+    },
+    {
+        "text": "DOUBLE FACE \u2610",
+        "class": "other"
+    },
+    {
+        "text": "NO \u2610",
+        "class": "question"
+    },
+    {
+        "text": "NUMBER OF",
+        "class": "other"
+    },
+    {
+        "text": "ROUND \u2610",
+        "class": "answer"
+    },
+    {
+        "text": "ANGLE \u2610",
+        "class": "question"
+    },
+    {
+        "text": "CUT TO SHAPE \u2610",
+        "class": "other"
+    },
+    {
+        "text": "HEMMED \u2610",
+        "class": "question"
+    },
+    {
+        "text": "STAMP FRAME",
+        "class": "question"
+    },
+    {
+        "text": "BEADED BORDER \u2610",
+        "class": "other"
+    },
+    {
+        "text": "BACK FRAME \u2610",
+        "class": "other"
+    },
+    {
+        "text": "RIGHT ANGLE BEND \u2610",
+        "class": "question"
+    },
+    {
+        "text": "CURLED \u2610",
+        "class": "question"
+    },
+    {
+        "text": "PER CARTON",
+        "class": "question"
+    },
+    {
+        "text": "PER CRATE",
+        "class": "answer"
+    },
+    {
+        "text": "PER BUNDLE",
+        "class": "other"
+    },
+    {
+        "text": "Price is based on reproduction of customer supplied \"Pack\" box.",
+        "class": "answer"
+    },
+    {
+        "text": "Form die, brass emboss die to achieve detail on eagle.",
+        "class": "answer"
+    },
+    {
+        "text": "500 Plaques",
+        "class": "answer"
+    },
+    {
+        "text": "$ 9.18 each",
+        "class": "other"
+    },
+    {
+        "text": "One time tooling",
+        "class": "answer"
+    },
+    {
+        "text": "Steel tips",
+        "class": "answer"
+    },
+    {
+        "text": "@ $ 3,015.00",
+        "class": "other"
+    },
+    {
+        "text": "$ 1,045.00",
+        "class": "other"
+    },
+    {
+        "text": "BILL AS MANUFACTURE",
+        "class": "question"
+    },
+    {
+        "text": "\u2610 BILL AS SHIP FOR.",
+        "class": "answer"
+    },
+    {
+        "text": "\u2610 6 MOS.",
+        "class": "question"
+    },
+    {
+        "text": "\u2610 12 MOS",
+        "class": "other"
+    },
+    {
+        "text": "SHIP IMMEDIATELY",
+        "class": "answer"
+    },
+    {
+        "text": "\u2610 6 MOS. WHSE.",
+        "class": "answer"
+    },
+    {
+        "text": "\u2610 12 MOS. WHSE",
+        "class": "answer"
+    },
+    {
+        "text": "PER SHIPMENT",
+        "class": "other"
+    },
+    {
+        "text": "DROP SHIPPING:",
+        "class": "question"
+    },
+    {
+        "text": "TERMS - NET 10 DAYS A service charge of 11/2 per month will be applied to all unpaid balances over 30 days.",
+        "class": "other"
+    },
+    {
+        "text": "",
+        "class": "other"
+    },
+    {
+        "text": "STOUT INDUSTRIES INC,",
+        "class": "other"
+    },
+    {
+        "text": "A 15 service charge will be added to reight costs for all prepaid shipments involving 5 or more pieces.",
+        "class": "answer"
+    },
+    {
+        "text": "PRICES QUOTED HEREIN ARE BASED ON CURRENT COSTS AND ARE FOR IMMEDIATE ACCEPTANCE *These prices will be updated periodically from date of order, to reflect changes in material and labor costs. Prices and terms quoted herein are not subject to verbal changes unless confirmed in writing by the home office of this company in S. T. LOUIS M. O. All contracts for delivers are contingent upon fires, strikes or other causes beyond our control. Purchaser agrees to accept overun or underrun to the extent of 10% of the quantity ordered.",
+        "class": "answer"
+    },
+    {
+        "text": "Any taxes or governmental changes which the seller may be required to pay or collect upon the production sale storage, or delivery under any existing or",
+        "class": "answer"
+    },
+    {
+        "text": "future law shall be for the account of the buyer who shall promptly pay the amount hereof to the seller upon",
+        "class": "answer"
+    },
+    {
+        "text": "F. O. B. S. T. LOUIS MISSOURI Shipments via truck shipped freight collect.",
+        "class": "answer"
+    }
+]

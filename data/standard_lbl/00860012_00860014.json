@@ -1,0 +1,695 @@
+﻿[
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            253,
+            66,
+            46,
+            47
+        ]
+    },
+    {
+        "value": "4",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            390,
+            126,
+            13,
+            13
+        ]
+    },
+    {
+        "value": "3212",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            376,
+            152,
+            31,
+            15
+        ]
+    },
+    {
+        "value": "D,",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            546,
+            155,
+            13,
+            13
+        ]
+    },
+    {
+        "value": "Sereta",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            568,
+            154,
+            46,
+            14
+        ]
+    },
+    {
+        "value": "B121",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            176,
+            221,
+            29,
+            14
+        ]
+    },
+    {
+        "value": "SIGNATURE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            473,
+            173,
+            56,
+            14
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            543,
+            147,
+            99,
+            43
+        ]
+    },
+    {
+        "value": "EXPLOSIVE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            43,
+            362,
+            53,
+            15
+        ]
+    },
+    {
+        "value": "FLAMMABLE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            45,
+            385,
+            50,
+            13
+        ]
+    },
+    {
+        "value": "RADIOACTIVE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            46,
+            404,
+            67,
+            17
+        ]
+    },
+    {
+        "value": "SOLID",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            440,
+            32,
+            11
+        ]
+    },
+    {
+        "value": "X",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            123,
+            439,
+            11,
+            8
+        ]
+    },
+    {
+        "value": "LIQUID",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            454,
+            42,
+            13
+        ]
+    },
+    {
+        "value": "PRESSURIZED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            45,
+            469,
+            63,
+            11
+        ]
+    },
+    {
+        "value": "COLOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            293,
+            454,
+            31,
+            13
+        ]
+    },
+    {
+        "value": "Brown",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            219,
+            450,
+            39,
+            17
+        ]
+    },
+    {
+        "value": "00860012",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            693,
+            768,
+            17,
+            85
+        ]
+    },
+    {
+        "value": "DESSICATOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            637,
+            429,
+            57,
+            11
+        ]
+    },
+    {
+        "value": "FREEZER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            635,
+            444,
+            38,
+            13
+        ]
+    },
+    {
+        "value": "OTHER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            635,
+            459,
+            31,
+            13
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            613,
+            387,
+            13,
+            13
+        ]
+    },
+    {
+        "value": "HAZLETON LABORATORIES AMERICA INC",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            306,
+            68,
+            247,
+            51
+        ]
+    },
+    {
+        "value": "9200 LEESBURG TURNPIKE VIENNA VIRGINIA 22180 USA",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            587,
+            73,
+            163,
+            38
+        ]
+    },
+    {
+        "value": "PROJECT SHEET",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            38,
+            74,
+            131,
+            22
+        ]
+    },
+    {
+        "value": "December 13, 1983",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            126,
+            126,
+            126,
+            15
+        ]
+    },
+    {
+        "value": "DATE ISSUED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            46,
+            128,
+            62,
+            16
+        ]
+    },
+    {
+        "value": "PROJECT SHEET NO",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            284,
+            133,
+            88,
+            13
+        ]
+    },
+    {
+        "value": "PROJECT NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            483,
+            134,
+            85,
+            15
+        ]
+    },
+    {
+        "value": "642 149",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            591,
+            124,
+            53,
+            16
+        ]
+    },
+    {
+        "value": "PROJECT COORDINATOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            426,
+            151,
+            108,
+            16
+        ]
+    },
+    {
+        "value": "14 Day Single Dose Subacute Toxicity Study",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            52,
+            166,
+            308,
+            17
+        ]
+    },
+    {
+        "value": "STUDY TITLE & PROPOSAL NUMBER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            45,
+            149,
+            166,
+            14
+        ]
+    },
+    {
+        "value": "TEST MATERIAL (S)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            46,
+            190,
+            83,
+            15
+        ]
+    },
+    {
+        "value": "LOT NO (s)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            423,
+            194,
+            55,
+            13
+        ]
+    },
+    {
+        "value": "RECEIPT DATE (s)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            532,
+            194,
+            78,
+            14
+        ]
+    },
+    {
+        "value": "LH NUMBER (s)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            668,
+            194,
+            64,
+            15
+        ]
+    },
+    {
+        "value": "11 18 83",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            532,
+            222,
+            60,
+            15
+        ]
+    },
+    {
+        "value": "21 017",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            665,
+            222,
+            44,
+            15
+        ]
+    },
+    {
+        "value": "PERFORMING DEPARTMENTS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            46,
+            271,
+            123,
+            14
+        ]
+    },
+    {
+        "value": "Acute/ Dermal Toxicology",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            57,
+            285,
+            170,
+            17
+        ]
+    },
+    {
+        "value": "(4 COPIES EACH DIRECTOR)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            180,
+            274,
+            123,
+            13
+        ]
+    },
+    {
+        "value": "ORIGINAL SIGNED PROJECT SHEETS TO PSO",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            425,
+            274,
+            208,
+            17
+        ]
+    },
+    {
+        "value": "FIXED DISTRIBUTION:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            479,
+            299,
+            103,
+            13
+        ]
+    },
+    {
+        "value": "(1 COPY TO EACH)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            598,
+            299,
+            78,
+            12
+        ]
+    },
+    {
+        "value": "LAB ANIMAL MEDICINE QUALITY ASSURANCE CONTRACTS Sponsor",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            620,
+            316,
+            110,
+            50
+        ]
+    },
+    {
+        "value": "DIR OF LIFE SCIENCES HEALTH SERVICES COMPOUND PREP (TOX) SCIENTIFIC RES (TOX)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            434,
+            316,
+            105,
+            53
+        ]
+    },
+    {
+        "value": "PROTECTIVE PRECAUTIONS REQUIRED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            46,
+            332,
+            163,
+            15
+        ]
+    },
+    {
+        "value": "HAZARDOUS COMPOUND",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            170,
+            345,
+            98,
+            14
+        ]
+    },
+    {
+        "value": "CARCINOGEN (OSHA)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            215,
+            367,
+            93,
+            13
+        ]
+    },
+    {
+        "value": "CARCINOGEN (OTHER)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            218,
+            385,
+            94,
+            15
+        ]
+    },
+    {
+        "value": "FOLLOW DEPARTMENT AND COMPANY SAFETY MANUALS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            425,
+            376,
+            164,
+            26
+        ]
+    },
+    {
+        "value": "STORAGE CONDITIONS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            426,
+            409,
+            104,
+            15
+        ]
+    },
+    {
+        "value": "STORE IN DARK",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            441,
+            426,
+            79,
+            13
+        ]
+    },
+    {
+        "value": "☑ REFRIGERATOR 8 C",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            432,
+            440,
+            117,
+            16
+        ]
+    },
+    {
+        "value": "ROOM TEMPERATURE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            441,
+            458,
+            95,
+            11
+        ]
+    },
+    {
+        "value": "SPECIAL INSTRUCTIONS WHILE DOSING",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            443,
+            472,
+            175,
+            14
+        ]
+    },
+    {
+        "value": "to be performed in Acute /Dermal Toxicology, building 18.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            190,
+            489,
+            409,
+            19
+        ]
+    },
+    {
+        "value": "This project sheet is issued to correct Project Sheet which was issued on December 6, 1983 to Project Sheet No 3 instead of 2.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            101,
+            542,
+            541,
+            33
+        ]
+    },
+    {
+        "value": "Material Safety Data Sheet is attached to Project Sheet 1.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            94,
+            719,
+            424,
+            19
+        ]
+    },
+    {
+        "value": "NO ",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            52,
+            892,
+            72,
+            13
+        ]
+    },
+    {
+        "value": "EXPERIMENTAL PROCEDURES",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            49,
+            487,
+            126,
+            15
+        ]
+    },
+    {
+        "value": "PHYSICAL DESCRIPTION:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            45,
+            425,
+            117,
+            11
+        ]
+    }
+]

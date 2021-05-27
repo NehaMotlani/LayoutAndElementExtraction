@@ -1,0 +1,242 @@
+﻿[
+    {
+        "text": "Dates:",
+        "box": [
+            420,
+            380,
+            54,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "466603840",
+        "box": [
+            543,
+            841,
+            110,
+            21
+        ],
+        "class": "other"
+    },
+    {
+        "text": "/934g",
+        "box": [
+            102,
+            869,
+            47,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "/lr",
+        "box": [
+            75,
+            869,
+            28,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "700",
+        "box": [
+            327,
+            383,
+            29,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Dundee",
+        "box": [
+            489,
+            176,
+            54,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "State:",
+        "box": [
+            54,
+            184,
+            52,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Illinois",
+        "box": [
+            147,
+            183,
+            70,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SPECIAL EVENTS",
+        "box": [
+            284,
+            96,
+            124,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "City/ Town:",
+        "box": [
+            358,
+            182,
+            82,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Type of Event:",
+        "box": [
+            57,
+            243,
+            120,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Beauty Contest",
+        "box": [
+            300,
+            237,
+            117,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Estimated Attendance",
+        "box": [
+            59,
+            384,
+            185,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "March 3rd, 4th & 5th,",
+        "box": [
+            489,
+            376,
+            180,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Name of Event:",
+        "box": [
+            60,
+            441,
+            123,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Mrs. Illinois Beauty Pageant",
+        "box": [
+            297,
+            433,
+            238,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Contact (Name/ Telephone):",
+        "box": [
+            64,
+            525,
+            217,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Ms. Joy Weathers (Sales) 312/ 426 - 8000",
+        "box": [
+            300,
+            521,
+            313,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Audience Concentration",
+        "box": [
+            64,
+            584,
+            197,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "90 % White - 10 % Black Age category 21 yrs. to 45 yrs.",
+        "box": [
+            300,
+            577,
+            260,
+            48
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Recommended Brand(s) and Promotional Activity:",
+        "box": [
+            67,
+            691,
+            398,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BARCLAY sampling",
+        "box": [
+            503,
+            690,
+            138,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2 - 12M cases mixed.",
+        "box": [
+            165,
+            721,
+            177,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "To be placed on tables by B & W Reps.",
+        "box": [
+            169,
+            747,
+            309,
+            21
+        ],
+        "class": "value_answer"
+    }
+]

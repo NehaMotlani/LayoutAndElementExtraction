@@ -1,0 +1,288 @@
+﻿[
+    {
+        "value": "NAME",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            81,
+            415,
+            38,
+            14
+        ]
+    },
+    {
+        "value": "Strokes",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            513,
+            369,
+            61,
+            13
+        ]
+    },
+    {
+        "value": "NAME",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            797,
+            39,
+            13
+        ]
+    },
+    {
+        "value": "A",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            701,
+            898,
+            24,
+            34
+        ]
+    },
+    {
+        "value": "<>",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            465,
+            353,
+            36,
+            13
+        ]
+    },
+    {
+        "value": "<>",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            466,
+            370,
+            35,
+            11
+        ]
+    },
+    {
+        "value": "SPORTS REGISTRATION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            258,
+            45,
+            218,
+            24
+        ]
+    },
+    {
+        "value": "37TH ANNUAL MEETING AUGUST 15-18, 1996 RYE- TOWN HILTON HOTEL RYE, NEW YORK",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            246,
+            67,
+            249,
+            85
+        ]
+    },
+    {
+        "value": "Make copies of this form if necessary. Complete applicable section (s) and return to NYSAWMD.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            80,
+            183,
+            579,
+            32
+        ]
+    },
+    {
+        "value": "LORILLARD TOBACCO COMPANY",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            218,
+            229,
+            303,
+            20
+        ]
+    },
+    {
+        "value": "GOLF TOURNAMENT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            80,
+            286,
+            189,
+            20
+        ]
+    },
+    {
+        "value": "(Ladies & Men) . . . Friday, August 16, Tee off at 8:00 A. M. SHARP (no green fee)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            254,
+            291,
+            406,
+            33
+        ]
+    },
+    {
+        "value": "I will participate in the Golf Tournament",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            81,
+            353,
+            367,
+            17
+        ]
+    },
+    {
+        "value": "My handicap is:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            142,
+            369,
+            139,
+            16
+        ]
+    },
+    {
+        "value": "FIRM NAME",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            82,
+            444,
+            83,
+            15
+        ]
+    },
+    {
+        "value": "BROWN & WILLIAMSON TOBACCO CORPORATION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            155,
+            549,
+            457,
+            21
+        ]
+    },
+    {
+        "value": "TENNIS TOURNAMENT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            594,
+            210,
+            17
+        ]
+    },
+    {
+        "value": "(Ladies & Men) . . . Friday, August 16, starting time is 3:00 P. M.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            265,
+            595,
+            358,
+            35
+        ]
+    },
+    {
+        "value": "I will participate in the Tennis Tournament I would classify myself as (please check appropriate box)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            84,
+            661,
+            507,
+            30
+        ]
+    },
+    {
+        "value": "<> Beginner",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            705,
+            118,
+            16
+        ]
+    },
+    {
+        "value": "<> Fair",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            722,
+            81,
+            13
+        ]
+    },
+    {
+        "value": "<> Good",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            87,
+            736,
+            81,
+            13
+        ]
+    },
+    {
+        "value": "<> Excellent",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            87,
+            751,
+            125,
+            13
+        ]
+    },
+    {
+        "value": "FIRM NAME",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            85,
+            828,
+            82,
+            13
+        ]
+    },
+    {
+        "value": "NYSAWMD, INC. 211 EAST 43RD STREET, NEW YORK, NY 10017-4707",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            109,
+            905,
+            535,
+            15
+        ]
+    },
+    {
+        "value": "CONVFORM.96 ",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            88,
+            937,
+            60,
+            11
+        ]
+    }
+]

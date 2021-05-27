@@ -1,0 +1,464 @@
+﻿[
+    {
+        "value": "To",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            172,
+            205,
+            18,
+            15
+        ]
+    },
+    {
+        "value": "From:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            172,
+            236,
+            32,
+            15
+        ]
+    },
+    {
+        "value": "Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            173,
+            265,
+            28,
+            15
+        ]
+    },
+    {
+        "value": "Brand:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            309,
+            35,
+            17
+        ]
+    },
+    {
+        "value": "Title:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            339,
+            28,
+            14
+        ]
+    },
+    {
+        "value": "Eclipse",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            110,
+            304,
+            39,
+            15
+        ]
+    },
+    {
+        "value": "Description:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            359,
+            64,
+            20
+        ]
+    },
+    {
+        "value": "APAC",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            211,
+            459,
+            36,
+            15
+        ]
+    },
+    {
+        "value": "300",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            226,
+            490,
+            24,
+            14
+        ]
+    },
+    {
+        "value": "300",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            226,
+            549,
+            22,
+            15
+        ]
+    },
+    {
+        "value": "W25",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            425,
+            628,
+            39,
+            21
+        ]
+    },
+    {
+        "value": "APAC",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            362,
+            751,
+            35,
+            15
+        ]
+    },
+    {
+        "value": "C:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            845,
+            15,
+            15
+        ]
+    },
+    {
+        "value": "602399",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            376,
+            304,
+            42,
+            17
+        ]
+    },
+    {
+        "value": "RESPONSE CODE REQUEST CONFIRMATION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            127,
+            130,
+            468,
+            27
+        ]
+    },
+    {
+        "value": "Joe Leinster",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            219,
+            201,
+            70,
+            15
+        ]
+    },
+    {
+        "value": "Joyce Bagby",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            219,
+            230,
+            70,
+            18
+        ]
+    },
+    {
+        "value": "September 10, 1996",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            221,
+            258,
+            108,
+            20
+        ]
+    },
+    {
+        "value": "PPS Program #",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            282,
+            309,
+            85,
+            15
+        ]
+    },
+    {
+        "value": "Requested By:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            440,
+            307,
+            79,
+            19
+        ]
+    },
+    {
+        "value": "Sneak Preview Confirmation Call- Charlotte Tests",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            109,
+            334,
+            257,
+            20
+        ]
+    },
+    {
+        "value": "Record of confirmation calls for sneak preview appointments",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            134,
+            363,
+            315,
+            19
+        ]
+    },
+    {
+        "value": "Fullfillment Data Entry at",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            465,
+            135,
+            15
+        ]
+    },
+    {
+        "value": "Circulation Quantity:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            494,
+            111,
+            17
+        ]
+    },
+    {
+        "value": "Estimated Response:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            525,
+            115,
+            14
+        ]
+    },
+    {
+        "value": "Estimated Responders:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            554,
+            122,
+            15
+        ]
+    },
+    {
+        "value": "Distribution Drop Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            582,
+            122,
+            17
+        ]
+    },
+    {
+        "value": "10/ 03/ 96",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            207,
+            580,
+            45,
+            17
+        ]
+    },
+    {
+        "value": "100.00 %",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            219,
+            520,
+            53,
+            18
+        ]
+    },
+    {
+        "value": "Expiration Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            358,
+            582,
+            82,
+            18
+        ]
+    },
+    {
+        "value": "Response Code Assigned:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            228,
+            630,
+            177,
+            21
+        ]
+    },
+    {
+        "value": "Address, postal requirements, barcodes, document storage, and batch numbers to be supplied by:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            66,
+            705,
+            344,
+            32
+        ]
+    },
+    {
+        "value": "DE Fullfillment Vendor",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            358,
+            767,
+            117,
+            15
+        ]
+    },
+    {
+        "value": "Suzi Hicks RJR- IR",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            91,
+            844,
+            104,
+            17
+        ]
+    },
+    {
+        "value": "Karen Giddens",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            91,
+            862,
+            83,
+            20
+        ]
+    },
+    {
+        "value": "Drew Huyett",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            94,
+            884,
+            67,
+            17
+        ]
+    },
+    {
+        "value": "Jackson Roper",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            89,
+            908,
+            84,
+            15
+        ]
+    },
+    {
+        "value": "Debbie Lockery",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            418,
+            839,
+            81,
+            17
+        ]
+    },
+    {
+        "value": "Vanessa Oakley",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            418,
+            862,
+            89,
+            17
+        ]
+    },
+    {
+        "value": "Melissa Andrews - TBM",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            418,
+            884,
+            126,
+            19
+        ]
+    },
+    {
+        "value": "Tammi LaManna - M/ B",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            416,
+            906,
+            122,
+            18
+        ]
+    },
+    {
+        "value": "52251 2963",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            694,
+            867,
+            16,
+            94
+        ]
+    }
+]

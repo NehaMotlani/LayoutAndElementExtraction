@@ -1,0 +1,392 @@
+﻿[
+    {
+        "text": "Facility:",
+        "box": [
+            110,
+            158,
+            46,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Permit#:",
+        "box": [
+            542,
+            156,
+            52,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DESCRIPTION:",
+        "box": [
+            120,
+            281,
+            73,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CAS#",
+        "box": [
+            119,
+            394,
+            28,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MANUFACTURER:",
+        "box": [
+            119,
+            432,
+            89,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No",
+        "box": [
+            494,
+            471,
+            18,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Inorganic",
+        "box": [
+            497,
+            323,
+            45,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PHONE",
+        "box": [
+            536,
+            432,
+            49,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Other",
+        "box": [
+            135,
+            764,
+            28,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Organic",
+        "box": [
+            381,
+            324,
+            36,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Yes",
+        "box": [
+            376,
+            471,
+            20,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "74880",
+        "box": [
+            295,
+            568,
+            34,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "6240",
+        "box": [
+            309,
+            596,
+            28,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0001",
+        "box": [
+            612,
+            175,
+            28,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CITY OF REIDSVILLE CHEMICAL MANAGEMENT PLAN 1993 INVENTORY CHEMICAL USAGE FACT SHEET",
+        "box": [
+            228,
+            53,
+            364,
+            46
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Process Chemicals Used in Excess of 100 Pounds/ Day, Water Treatment Chemicals, Cleaning Compounds",
+        "box": [
+            251,
+            112,
+            313,
+            31
+        ],
+        "class": "other"
+    },
+    {
+        "text": "The American Tobacco Company",
+        "box": [
+            161,
+            176,
+            185,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CHEMICAL DESCRIPTION",
+        "box": [
+            335,
+            211,
+            137,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "PRODUCT (CHEMICAL) NAME:",
+        "box": [
+            123,
+            246,
+            152,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Fuller G2315 DC",
+        "box": [
+            295,
+            256,
+            100,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Liquid Adhesive",
+        "box": [
+            196,
+            286,
+            101,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PRODUCT CLASSIFICATION (Circle Dne):",
+        "box": [
+            119,
+            320,
+            199,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CHEMICAL FORMULA:",
+        "box": [
+            119,
+            358,
+            116,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Vinyl Acetate",
+        "box": [
+            267,
+            362,
+            85,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PERCENT ACTIVES (Non -water):",
+        "box": [
+            454,
+            395,
+            161,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": ".5%",
+        "box": [
+            623,
+            391,
+            42,
+            31
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            584,
+            441,
+            81,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "H. B. Fuller Company",
+        "box": [
+            237,
+            439,
+            133,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "108 -05 -4",
+        "box": [
+            197,
+            399,
+            52,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MSDS ON FILE? (Circle One):",
+        "box": [
+            116,
+            468,
+            139,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CHEMICAL USAGE",
+        "box": [
+            346,
+            518,
+            101,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "1993 ANNUAL USAGE (LBS.):",
+        "box": [
+            115,
+            556,
+            145,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1993 AVG. MONTHLY USAGE (LBS.)",
+        "box": [
+            115,
+            592,
+            179,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "APPLICATION (Circle One and Briefly Describe):",
+        "box": [
+            113,
+            626,
+            224,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Producion Process",
+        "box": [
+            138,
+            654,
+            86,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "label adhesive",
+        "box": [
+            289,
+            648,
+            89,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Water Treatment:",
+        "box": [
+            135,
+            691,
+            78,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Housekeeping Cleaning",
+        "box": [
+            137,
+            726,
+            106,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ATXO2 0132045",
+        "box": [
+            527,
+            876,
+            108,
+            14
+        ],
+        "class": "other"
+    }
+]

@@ -1,0 +1,299 @@
+﻿[
+    {
+        "value": "CLIENT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            49,
+            229,
+            38,
+            14
+        ]
+    },
+    {
+        "value": "PRODUCT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            49,
+            257,
+            46,
+            14
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            596,
+            147,
+            71,
+            29
+        ]
+    },
+    {
+        "value": "PUBLICATION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            373,
+            225,
+            64,
+            15
+        ]
+    },
+    {
+        "value": "ISSUE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            373,
+            254,
+            31,
+            14
+        ]
+    },
+    {
+        "value": "SPACE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            373,
+            278,
+            34,
+            14
+        ]
+    },
+    {
+        "value": "DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            547,
+            275,
+            28,
+            14
+        ]
+    },
+    {
+        "value": "ALTERNATIVES:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            102,
+            391,
+            91,
+            14
+        ]
+    },
+    {
+        "value": "HEADLINE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            103,
+            434,
+            64,
+            13
+        ]
+    },
+    {
+        "value": "ILLUSTRATION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            106,
+            461,
+            88,
+            13
+        ]
+    },
+    {
+        "value": "80707440",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            599,
+            832,
+            22,
+            85
+        ]
+    },
+    {
+        "value": "LORILLARD CORPORATION",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            108,
+            228,
+            148,
+            14
+        ]
+    },
+    {
+        "value": "Kent, Newport, True and Old Gold",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            110,
+            251,
+            218,
+            20
+        ]
+    },
+    {
+        "value": "JOB NO:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            50,
+            281,
+            41,
+            14
+        ]
+    },
+    {
+        "value": "Daily Newspapers",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            457,
+            223,
+            110,
+            15
+        ]
+    },
+    {
+        "value": "August 19, 1969",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            455,
+            251,
+            106,
+            15
+        ]
+    },
+    {
+        "value": "1000 lines B&W 1750 lines 2- color",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            415,
+            278,
+            127,
+            29
+        ]
+    },
+    {
+        "value": "8/ 8/ 69",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            587,
+            274,
+            43,
+            17
+        ]
+    },
+    {
+        "value": "New York Football Fans",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            172,
+            362,
+            151,
+            15
+        ]
+    },
+    {
+        "value": "LEAD- IN:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            365,
+            56,
+            14
+        ]
+    },
+    {
+        "value": "Los Angeles Football Fans Chicago Football Fans",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            205,
+            388,
+            172,
+            31
+        ]
+    },
+    {
+        "value": "Pick The Winners And Win Up $ 5 ,000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            180,
+            430,
+            256,
+            19
+        ]
+    },
+    {
+        "value": "Line Drawings of Football Scenes",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            207,
+            458,
+            219,
+            16
+        ]
+    },
+    {
+        "value": "BOLD SUB- HEAD:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            106,
+            487,
+            96,
+            15
+        ]
+    },
+    {
+        "value": "1st Prize $ 5,000 2nd Prize 2,000 3rd Prize 1,000 4th Prizes 500 fans will receive copies of \"The Golden Anniversary of Pro- Football\"",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            214,
+            497,
+            360,
+            70
+        ]
+    },
+    {
+        "value": "TEXT: Over 500 Prizes To Be Awarded",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            580,
+            247,
+            15
+        ]
+    },
+    {
+        "value": "Now you can win up $ 5,000 for simply picking the winners of the games listed below. Just check the box next to the team you think will win. Allow for the point spread in your selections. (For example, if a team is quoted as +7 pts. this means they must win the game by at least 7 points.) Prizes will be awarded by random drawings to those who have the greatest official number of winning selections. Full details are in the Rules.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            154,
+            592,
+            443,
+            110
+        ]
+    }
+]

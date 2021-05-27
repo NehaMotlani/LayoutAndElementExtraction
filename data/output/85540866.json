@@ -1,0 +1,54 @@
+[
+    {
+        "text": "(Name)",
+        "class": "other"
+    },
+    {
+        "text": "(Date)",
+        "class": "other"
+    },
+    {
+        "text": "(Position)",
+        "class": "other"
+    },
+    {
+        "text": "(Name)",
+        "class": "other"
+    },
+    {
+        "text": "85540866",
+        "class": "other"
+    },
+    {
+        "text": "MEDIA CONTACT SHEET",
+        "class": "header"
+    },
+    {
+        "text": "(Publication or station)",
+        "class": "other"
+    },
+    {
+        "text": "Reason for Contact",
+        "class": "question"
+    },
+    {
+        "text": "Questions/ Responses",
+        "class": "question"
+    },
+    {
+        "text": "Additional Comments",
+        "class": "question"
+    },
+    {
+        "text": "Inquiry handled by:",
+        "class": "question"
+    },
+    {
+        "text": "(Location address)",
+        "class": "other"
+    },
+    {
+        "text": "(Phone number)",
+        "class": "other"
+    }
+]

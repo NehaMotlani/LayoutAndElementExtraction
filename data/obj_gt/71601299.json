@@ -1,0 +1,372 @@
+﻿[
+    {
+        "text": "Date",
+        "box": [
+            88,
+            154,
+            29,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Number",
+        "box": [
+            130,
+            267,
+            47,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Project",
+        "box": [
+            85,
+            267,
+            41,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(s)",
+        "box": [
+            176,
+            401,
+            10,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "in",
+        "box": [
+            561,
+            560,
+            14,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "(s)",
+        "box": [
+            196,
+            497,
+            11,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Marketing Research - CPT Initiating Brief",
+        "box": [
+            201,
+            84,
+            308,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "15. 03. 2000",
+        "box": [
+            140,
+            152,
+            60,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BAT Korea",
+        "box": [
+            184,
+            186,
+            69,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Client Group",
+        "box": [
+            89,
+            184,
+            75,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Client Contact",
+        "box": [
+            89,
+            216,
+            83,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Alberto Marcheggiano Kyu Yeon Hwang",
+        "box": [
+            196,
+            219,
+            126,
+            31
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Research Liaison",
+        "box": [
+            408,
+            219,
+            95,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Subi. Jeong",
+        "box": [
+            527,
+            218,
+            64,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "to be assigned by Brown & Williamson USA",
+        "box": [
+            180,
+            265,
+            245,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Dunhill Lights, CPT",
+        "box": [
+            243,
+            300,
+            112,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Project Name/ Description:",
+        "box": [
+            84,
+            299,
+            156,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Market (s) / Zone (s)",
+        "box": [
+            85,
+            332,
+            108,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "South Korea",
+        "box": [
+            85,
+            366,
+            66,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Referent Brand",
+        "box": [
+            85,
+            401,
+            89,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Dunhill Lights Kent Super Lights Mild 7 This",
+        "box": [
+            82,
+            432,
+            179,
+            46
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Consumer Segment",
+        "box": [
+            84,
+            496,
+            112,
+            16
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Own Brand - Dunhill Smokers:",
+        "box": [
+            85,
+            527,
+            162,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "150 Males, 25 ~ 39 years old, ABC+ who live Seoul/ Pusan",
+        "box": [
+            250,
+            528,
+            319,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Competitors Brands - Mild7 Lights Smokers",
+        "box": [
+            84,
+            559,
+            236,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "150 Males, 25 ~ 39 years old, ABC+ who live",
+        "box": [
+            323,
+            559,
+            238,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Source of Business - This:",
+        "box": [
+            84,
+            603,
+            138,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "250 Males, (100 smokers 25 ~ 29 years old, 150 smokers, 30 ~ 39 years old)",
+        "box": [
+            223,
+            605,
+            404,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ABC+ who are not rejectors of imported cigarette and live in Seoul/ Pusan",
+        "box": [
+            85,
+            620,
+            386,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Source of Business - Local Premium KS Smokers",
+        "box": [
+            84,
+            651,
+            264,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "250 Males (100 smokers, 25 ~ 29 years old, 150",
+        "box": [
+            348,
+            649,
+            256,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "smokers, 30 ~ 39 years old ABC+ who are not rejectors of imported cigarette and live in Seoul/ Pusan",
+        "box": [
+            84,
+            666,
+            533,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Background / Problem Definition",
+        "box": [
+            84,
+            700,
+            186,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1999 showed that imported cigarettes are recovering from the 1997 / 1998 economic crisis and we forecasted continuos growth over the company's plan period.",
+        "box": [
+            105,
+            732,
+            484,
+            30
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BAT objective is to substantially increase its market share with growth coming primarily from its first priority brand: Dunhill Lights",
+        "box": [
+            103,
+            761,
+            513,
+            30
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "To achieve growth we consider fundamental to have a superior product in terms of acceptability among potential source of business as well as for our current franchise",
+        "box": [
+            105,
+            791,
+            517,
+            30
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "597133637 PRODUCED FROM B&W WEB SITE",
+        "box": [
+            0,
+            950,
+            230,
+            33
+        ],
+        "class": "other"
+    }
+]

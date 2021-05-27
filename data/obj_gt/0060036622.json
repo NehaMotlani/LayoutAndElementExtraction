@@ -1,0 +1,352 @@
+﻿[
+    {
+        "text": "TO:",
+        "box": [
+            247,
+            60,
+            22,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "From:",
+        "box": [
+            247,
+            116,
+            41,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Contribution",
+        "box": [
+            291,
+            258,
+            101,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Requested",
+        "box": [
+            249,
+            286,
+            75,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "by",
+        "box": [
+            331,
+            286,
+            20,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1976",
+        "box": [
+            642,
+            860,
+            34,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☑",
+        "box": [
+            265,
+            254,
+            21,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Message",
+        "box": [
+            356,
+            344,
+            61,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            353,
+            763,
+            21,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. G. J. Schramm",
+        "box": [
+            296,
+            59,
+            146,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. W. P. Myhan",
+        "box": [
+            507,
+            59,
+            129,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. F. X. Whelan",
+        "box": [
+            507,
+            73,
+            137,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. R. H. Stinnette",
+        "box": [
+            296,
+            74,
+            162,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. J. B. McCarthy",
+        "box": [
+            296,
+            88,
+            153,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "E. E. Curtin",
+        "box": [
+            296,
+            115,
+            105,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Request for contribution or membership to be considered by contributions Committee at next meeting",
+        "box": [
+            247,
+            186,
+            380,
+            45
+        ],
+        "class": "other"
+    },
+    {
+        "text": "☐ Membership",
+        "box": [
+            448,
+            256,
+            112,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Harvard Medical School and Dr. Gary Huber Boston, Massachusetts",
+        "box": [
+            377,
+            271,
+            189,
+            57
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Letter 8/ 1/ 76",
+        "box": [
+            454,
+            341,
+            113,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "For American Brands, Inc.",
+        "box": [
+            249,
+            372,
+            209,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Recent actions regarding above solicitor ",
+        "box": [
+            267,
+            429,
+            354,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1976 $ 40, 921. 30 by A. B., Inc.",
+        "box": [
+            331,
+            453,
+            232,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1975 84, 309. 94 A. B., Inc.",
+        "box": [
+            330,
+            466,
+            234,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1974 92, 131. 29 A. B., Inc.",
+        "box": [
+            328,
+            479,
+            238,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1973 91, 630. 53 A. B., Inc.",
+        "box": [
+            331,
+            492,
+            235,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Remarks -",
+        "box": [
+            267,
+            584,
+            78,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Payment -",
+        "box": [
+            243,
+            457,
+            78,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "For confirmation by the Committee. Check for $ 43, 910. 30 representing the ninth semi- annual installment to the Harvard Project transmitted August 1976.",
+        "box": [
+            246,
+            620,
+            390,
+            59
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Decision of Committee on Present Request -",
+        "box": [
+            251,
+            749,
+            354,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Pay - $",
+        "box": [
+            268,
+            778,
+            62,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Declined - Send letter",
+        "box": [
+            270,
+            804,
+            185,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "YES NO",
+        "box": [
+            546,
+            806,
+            68,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Consideration deferred until",
+        "box": [
+            270,
+            834,
+            237,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Committee meeting ",
+        "box": [
+            372,
+            860,
+            168,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "8/ 26",
+        "box": [
+            561,
+            834,
+            48,
+            42
+        ],
+        "class": "value_answer"
+    }
+]

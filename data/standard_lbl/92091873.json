@@ -1,0 +1,783 @@
+﻿[
+    {
+        "value": "Location",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            134,
+            53,
+            15
+        ]
+    },
+    {
+        "value": "Division",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            425,
+            130,
+            50,
+            15
+        ]
+    },
+    {
+        "value": "Invitations:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            432,
+            226,
+            70,
+            17
+        ]
+    },
+    {
+        "value": "Mugs",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            103,
+            254,
+            36,
+            15
+        ]
+    },
+    {
+        "value": "Posters",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            300,
+            52,
+            15
+        ]
+    },
+    {
+        "value": "720",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            177,
+            251,
+            28,
+            13
+        ]
+    },
+    {
+        "value": "40",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            186,
+            268,
+            17,
+            14
+        ]
+    },
+    {
+        "value": "20",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            184,
+            286,
+            20,
+            11
+        ]
+    },
+    {
+        "value": "100",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            179,
+            299,
+            27,
+            11
+        ]
+    },
+    {
+        "value": "50",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            547,
+            250,
+            21,
+            13
+        ]
+    },
+    {
+        "value": "Unknown",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            527,
+            281,
+            59,
+            14
+        ]
+    },
+    {
+        "value": "#Requested",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            433,
+            253,
+            84,
+            15
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            327,
+            28,
+            14
+        ]
+    },
+    {
+        "value": "Rec'd",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            138,
+            324,
+            36,
+            18
+        ]
+    },
+    {
+        "value": "Attendees:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            384,
+            365,
+            68,
+            15
+        ]
+    },
+    {
+        "value": "Counter",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            106,
+            387,
+            49,
+            15
+        ]
+    },
+    {
+        "value": "Floor",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            406,
+            34,
+            13
+        ]
+    },
+    {
+        "value": "Posters",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            102,
+            420,
+            50,
+            13
+        ]
+    },
+    {
+        "value": "15",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            201,
+            388,
+            20,
+            13
+        ]
+    },
+    {
+        "value": "9",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            205,
+            408,
+            14,
+            10
+        ]
+    },
+    {
+        "value": "100",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            193,
+            419,
+            29,
+            15
+        ]
+    },
+    {
+        "value": "40",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            534,
+            384,
+            20,
+            13
+        ]
+    },
+    {
+        "value": "35",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            535,
+            402,
+            20,
+            10
+        ]
+    },
+    {
+        "value": "10",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            535,
+            418,
+            18,
+            13
+        ]
+    },
+    {
+        "value": "Food",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            176,
+            647,
+            36,
+            15
+        ]
+    },
+    {
+        "value": "Cleanliness",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            177,
+            662,
+            71,
+            13
+        ]
+    },
+    {
+        "value": "Service",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            175,
+            676,
+            53,
+            14
+        ]
+    },
+    {
+        "value": "Fair",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            338,
+            690,
+            28,
+            13
+        ]
+    },
+    {
+        "value": "Average",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            464,
+            689,
+            50,
+            17
+        ]
+    },
+    {
+        "value": "X",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            475,
+            641,
+            18,
+            15
+        ]
+    },
+    {
+        "value": "X",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            616,
+            659,
+            11,
+            15
+        ]
+    },
+    {
+        "value": "X",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            616,
+            675,
+            15,
+            13
+        ]
+    },
+    {
+        "value": "Excellent",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            598,
+            687,
+            59,
+            13
+        ]
+    },
+    {
+        "value": "cc:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            155,
+            884,
+            22,
+            17
+        ]
+    },
+    {
+        "value": "92091873",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            675,
+            777,
+            15,
+            70
+        ]
+    },
+    {
+        "value": "6/",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            190,
+            321,
+            17,
+            18
+        ]
+    },
+    {
+        "value": "12/",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            211,
+            321,
+            22,
+            20
+        ]
+    },
+    {
+        "value": "95",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            235,
+            321,
+            15,
+            18
+        ]
+    },
+    {
+        "value": "NEWPORT RACING EVENT SURVEY",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            244,
+            101,
+            272,
+            16
+        ]
+    },
+    {
+        "value": "Leguna Seca, Monterey, Ca",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            176,
+            133,
+            205,
+            15
+        ]
+    },
+    {
+        "value": "San Jose/ 933",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            518,
+            126,
+            100,
+            21
+        ]
+    },
+    {
+        "value": "T. L. Roberts",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            517,
+            161,
+            99,
+            14
+        ]
+    },
+    {
+        "value": "Date (s)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            161,
+            50,
+            20
+        ]
+    },
+    {
+        "value": "September 10, 1995",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            177,
+            159,
+            147,
+            18
+        ]
+    },
+    {
+        "value": "Division Mgr",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            425,
+            158,
+            78,
+            20
+        ]
+    },
+    {
+        "value": "Date Submitted",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            284,
+            187,
+            100,
+            19
+        ]
+    },
+    {
+        "value": "September 26 1995",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            388,
+            182,
+            145,
+            17
+        ]
+    },
+    {
+        "value": "(submit by 30 days after event)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            311,
+            204,
+            160,
+            17
+        ]
+    },
+    {
+        "value": "Promotion Quantity:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            102,
+            230,
+            131,
+            15
+        ]
+    },
+    {
+        "value": "Displays (8)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            267,
+            73,
+            20
+        ]
+    },
+    {
+        "value": "Floor (40)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            103,
+            286,
+            67,
+            13
+        ]
+    },
+    {
+        "value": "Date Notified",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            434,
+            268,
+            86,
+            14
+        ]
+    },
+    {
+        "value": "Date Ordered",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            433,
+            282,
+            85,
+            17
+        ]
+    },
+    {
+        "value": "Date Rec'd",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            434,
+            323,
+            67,
+            18
+        ]
+    },
+    {
+        "value": "9/ 5/ 95",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            532,
+            267,
+            54,
+            17
+        ]
+    },
+    {
+        "value": "9/ 6/ 95",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            520,
+            321,
+            46,
+            19
+        ]
+    },
+    {
+        "value": "#Displays Placed:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            105,
+            363,
+            121,
+            18
+        ]
+    },
+    {
+        "value": "#Customers Invited",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            384,
+            385,
+            128,
+            20
+        ]
+    },
+    {
+        "value": "#Customers Attended",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            383,
+            404,
+            145,
+            14
+        ]
+    },
+    {
+        "value": "#Lorillard Personnel",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            383,
+            418,
+            137,
+            17
+        ]
+    },
+    {
+        "value": "Invitees' Comments:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            106,
+            450,
+            130,
+            15
+        ]
+    },
+    {
+        "value": "\"Thank You very much for the tickets, we had a great time\" Rogers Liquor, Marina California.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            109,
+            462,
+            585,
+            37
+        ]
+    },
+    {
+        "value": "\"We really appreciate Lorillard thinking us.\" Shiffert's Wholesale, Visalia, California.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            106,
+            493,
+            570,
+            34
+        ]
+    },
+    {
+        "value": "\"Thank you so much for the invitations... We had a great time.\" Mission Trail Oil Company (Rotten Robbie Stores) San Jose California.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            108,
+            524,
+            567,
+            34
+        ]
+    },
+    {
+        "value": "\"The races were great the Newport Hospitality area was terrific\". Coremark, Sacramento, California.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            106,
+            556,
+            535,
+            33
+        ]
+    },
+    {
+        "value": "Race Day Info:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            105,
+            601,
+            96,
+            15
+        ]
+    },
+    {
+        "value": "Event Attendance 100, 000 Hospitality Tent Attendance 35- 40",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            230,
+            598,
+            413,
+            19
+        ]
+    },
+    {
+        "value": "Quality of Hospitality Tent:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            106,
+            628,
+            168,
+            18
+        ]
+    },
+    {
+        "value": "Suggestions/ Recommendations:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            106,
+            718,
+            218,
+            18
+        ]
+    },
+    {
+        "value": "Perhaps the tickets could be sent but a little sooner This year the tickets arrived on Thursday and the race was Sunday. This made it difficult to get the tickets to customers on tine.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            148,
+            733,
+            525,
+            48
+        ]
+    },
+    {
+        "value": "R. P. Bonomo",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            191,
+            887,
+            93,
+            15
+        ]
+    }
+]

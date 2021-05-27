@@ -1,0 +1,365 @@
+﻿[
+    {
+        "value": "Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            172,
+            429,
+            57,
+            15
+        ]
+    },
+    {
+        "value": "To:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            196,
+            465,
+            31,
+            21
+        ]
+    },
+    {
+        "value": "From:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            175,
+            507,
+            56,
+            22
+        ]
+    },
+    {
+        "value": "Room:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            168,
+            549,
+            60,
+            24
+        ]
+    },
+    {
+        "value": "Message:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            87,
+            654,
+            92,
+            18
+        ]
+    },
+    {
+        "value": "803E",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            257,
+            549,
+            45,
+            20
+        ]
+    },
+    {
+        "value": "2064782104",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            687,
+            800,
+            17,
+            94
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            482,
+            443,
+            168,
+            112
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            64,
+            950,
+            27,
+            14
+        ]
+    },
+    {
+        "value": "TELEPHONE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            282,
+            64,
+            13
+        ]
+    },
+    {
+        "value": "TELEFAX",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            328,
+            257,
+            46,
+            11
+        ]
+    },
+    {
+        "value": "TELEX",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            311,
+            268,
+            34,
+            13
+        ]
+    },
+    {
+        "value": "CABLE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            337,
+            285,
+            34,
+            10
+        ]
+    },
+    {
+        "value": "COVLING",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            372,
+            284,
+            47,
+            11
+        ]
+    },
+    {
+        "value": "COVINGTON & BURLING",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            214,
+            148,
+            327,
+            31
+        ]
+    },
+    {
+        "value": "1201 PENNSYLVANIA AVENUE N. W. P. O. BOX 7566 WASHINGTON D. C. 20044 7566 (202) 562 5000",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            295,
+            189,
+            167,
+            51
+        ]
+    },
+    {
+        "value": "LECONFIELD HOUSE CURZON STREET LONDON WIYIAS ENGLAND",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            92,
+            243,
+            137,
+            39
+        ]
+    },
+    {
+        "value": "44 71 495 5655",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            154,
+            284,
+            58,
+            11
+        ]
+    },
+    {
+        "value": "89- 193 COVLING WSH",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            345,
+            270,
+            100,
+            13
+        ]
+    },
+    {
+        "value": "(202) 662-6291",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            374,
+            257,
+            52,
+            13
+        ]
+    },
+    {
+        "value": "BRUSSELS CORRESPONDENT OFFICE 44 AVENUE DES ARTS BRUSSELS 1040 BELGIUM",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            492,
+            242,
+            173,
+            40
+        ]
+    },
+    {
+        "value": "32 512 7890",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            606,
+            282,
+            53,
+            14
+        ]
+    },
+    {
+        "value": "TELEPHONE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            542,
+            282,
+            63,
+            14
+        ]
+    },
+    {
+        "value": "THIS FACSIMILE TRANSMISSION IS INTENDED ONLY FOR THE ADDRESSEE SHOWN BELOW. IT MAY CONTAIN INFORMATION THAT IS PRIVILEGED, CONFIDENTIAL OR OTHER WISE PROTECTED FROM DISCLOSURE. ANY REVIEW, DISSEMINATION OR USE OF THIS TRANSMISSION OR ITS CONTENTS BY PERSONS OTHER THAN THE ADDRESSEE IS STRICTLY PROHIBITED. OF YOU HAVE RECEIVED THIS TRANSMISSION IN ERROR, PLEASE NOTIFY IMMEDIATELY BY TRIEPHONE AND MAIL THE ORIGINAL TO US AT THE ABOVE ADDRESS.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            115,
+            323,
+            530,
+            61
+        ]
+    },
+    {
+        "value": "January 15, 1997",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            256,
+            420,
+            170,
+            29
+        ]
+    },
+    {
+        "value": "Mark Berlind",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            258,
+            465,
+            127,
+            22
+        ]
+    },
+    {
+        "value": "David H. Remes",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            253,
+            503,
+            153,
+            25
+        ]
+    },
+    {
+        "value": "7 Pages ",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            264,
+            599,
+            302,
+            31
+        ]
+    },
+    {
+        "value": "If there is a transmission problem, please call:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            88,
+            753,
+            509,
+            25
+        ]
+    },
+    {
+        "value": "(202) 662 -6280 Telecommunications",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            138,
+            792,
+            358,
+            23
+        ]
+    },
+    {
+        "value": "(202) 662 -5942 Leslie L. Daniels - Secretary",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            135,
+            817,
+            475,
+            22
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            524,
+            947,
+            159,
+            14
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            229,
+            950,
+            114,
+            14
+        ]
+    }
+]

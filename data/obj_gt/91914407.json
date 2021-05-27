@@ -1,0 +1,302 @@
+﻿[
+    {
+        "text": "1",
+        "box": [
+            196,
+            38,
+            24,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "COMPANY",
+        "box": [
+            189,
+            163,
+            63,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "TOBACCO",
+        "box": [
+            131,
+            162,
+            60,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Lorillard",
+        "box": [
+            41,
+            106,
+            222,
+            74
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "DATE:",
+        "box": [
+            63,
+            321,
+            47,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NAME:",
+        "box": [
+            61,
+            441,
+            52,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OFFICE:",
+        "box": [
+            61,
+            480,
+            64,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "14",
+        "box": [
+            541,
+            327,
+            20,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "NAME:",
+        "box": [
+            59,
+            626,
+            53,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMMENTS:",
+        "box": [
+            57,
+            726,
+            102,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CC:",
+        "box": [
+            246,
+            811,
+            27,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "91914407",
+        "box": [
+            698,
+            845,
+            17,
+            73
+        ],
+        "class": "other"
+    },
+    {
+        "text": "06/ 29/ 94 08: 25",
+        "box": [
+            59,
+            39,
+            113,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "LORILLARD 25 JAX SALES GENERAL NY",
+        "box": [
+            363,
+            35,
+            255,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "001",
+        "box": [
+            656,
+            35,
+            36,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "9143 PHILLIPS HWY. SUITE 120. JACKSONVILLE, FL 32256 TELEPHONE (904) 464 0800 FAX (904) 464 744",
+        "box": [
+            82,
+            180,
+            471,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "FACSIMILE COVER PAGE",
+        "box": [
+            214,
+            246,
+            338,
+            33
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "6- 29- 94",
+        "box": [
+            163,
+            325,
+            65,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "TOTAL PAGES",
+        "box": [
+            372,
+            321,
+            116,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(INCLUDING COVER SHEET)",
+        "box": [
+            372,
+            344,
+            227,
+            20
+        ],
+        "class": "other"
+    },
+    {
+        "text": "PLEASE DELIVER TRANSMISSION TO:",
+        "box": [
+            60,
+            401,
+            298,
+            21
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Mr. Al Giacoio",
+        "box": [
+            190,
+            441,
+            124,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "FAX PHONE NUMBER:",
+        "box": [
+            60,
+            524,
+            177,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "THIS DOCUMENT IS FROM:",
+        "box": [
+            59,
+            582,
+            219,
+            23
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Fred Paternostro",
+        "box": [
+            215,
+            627,
+            141,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "FAX TELEPHONE NUMBER:",
+        "box": [
+            56,
+            666,
+            220,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(904) 464- 0744",
+        "box": [
+            282,
+            669,
+            115,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "The attached was obtained from Mackoul Dist.",
+        "box": [
+            207,
+            728,
+            374,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R. E. KLEIN",
+        "box": [
+            281,
+            810,
+            87,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "IF ANY OF THESE PAGES ARE NOT LEGIBLE OR YOU DO NOT RECEIVE ALL OF THIS TRANSMISSION, PLEASE CALL (904) 464 0800 AS SOON AS POSSIBLE.",
+        "box": [
+            56,
+            911,
+            620,
+            46
+        ],
+        "class": "other"
+    }
+]

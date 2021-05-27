@@ -1,0 +1,145 @@
+﻿[
+    {
+        "value": "5",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            327,
+            237,
+            13,
+            14
+        ]
+    },
+    {
+        "value": "0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            330,
+            272,
+            11,
+            15
+        ]
+    },
+    {
+        "value": "2",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            324,
+            115,
+            14,
+            14
+        ]
+    },
+    {
+        "value": "A",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            742,
+            885,
+            24,
+            27
+        ]
+    },
+    {
+        "value": "KOOL & GPC GOLF BAG SURVEY",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            198,
+            38,
+            289,
+            22
+        ]
+    },
+    {
+        "value": "Section Number",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            52,
+            113,
+            110,
+            19
+        ]
+    },
+    {
+        "value": "Section Sales Manager's Name",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            53,
+            148,
+            217,
+            18
+        ]
+    },
+    {
+        "value": "Peter Hatch",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            341,
+            149,
+            81,
+            17
+        ]
+    },
+    {
+        "value": "Please place the following order for KOOL and/ or GPC Golf Bags for my Section:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            50,
+            201,
+            548,
+            21
+        ]
+    },
+    {
+        "value": "KOOL Golf Bags",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            60,
+            239,
+            114,
+            15
+        ]
+    },
+    {
+        "value": "GPC Golf Bags",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            71,
+            272,
+            100,
+            19
+        ]
+    },
+    {
+        "value": "Send the completed survey to Linda Daniels in Field Supply via fax (502- 568- 7189) OR CC: Mail no later than June 7.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            53,
+            324,
+            582,
+            39
+        ]
+    },
+    {
+        "value": "0022A wk4",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            53,
+            383,
+            52,
+            12
+        ]
+    }
+]

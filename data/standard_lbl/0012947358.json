@@ -1,0 +1,915 @@
+﻿[
+    {
+        "value": "VIA:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            53,
+            228,
+            21,
+            15
+        ]
+    },
+    {
+        "value": "TO:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            422,
+            43,
+            18,
+            13
+        ]
+    },
+    {
+        "value": "FROM:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            405,
+            99,
+            35,
+            13
+        ]
+    },
+    {
+        "value": "Per",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            420,
+            128,
+            17,
+            11
+        ]
+    },
+    {
+        "value": "DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            408,
+            183,
+            29,
+            15
+        ]
+    },
+    {
+        "value": "VIA:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            542,
+            177,
+            24,
+            13
+        ]
+    },
+    {
+        "value": "RE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            53,
+            270,
+            17,
+            11
+        ]
+    },
+    {
+        "value": "FOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            47,
+            309,
+            22,
+            13
+        ]
+    },
+    {
+        "value": "IN",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            250,
+            267,
+            21,
+            15
+        ]
+    },
+    {
+        "value": "Document(s)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            412,
+            61,
+            13
+        ]
+    },
+    {
+        "value": "Served:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            134,
+            412,
+            38,
+            13
+        ]
+    },
+    {
+        "value": "Court:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            440,
+            31,
+            11
+        ]
+    },
+    {
+        "value": "Remarks",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            684,
+            45,
+            13
+        ]
+    },
+    {
+        "value": "BY:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            426,
+            781,
+            17,
+            14
+        ]
+    },
+    {
+        "value": "Per",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            427,
+            811,
+            17,
+            13
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            47,
+            130,
+            20,
+            14
+        ]
+    },
+    {
+        "value": "(X)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            78,
+            230,
+            20,
+            13
+        ]
+    },
+    {
+        "value": "FLORIDA",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            310,
+            265,
+            71,
+            15
+        ]
+    },
+    {
+        "value": "(X)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            568,
+            190,
+            17,
+            13
+        ]
+    },
+    {
+        "value": "(city)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            475,
+            166,
+            21,
+            11
+        ]
+    },
+    {
+        "value": "(State)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            596,
+            165,
+            28,
+            11
+        ]
+    },
+    {
+        "value": "(City)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            471,
+            82,
+            22,
+            10
+        ]
+    },
+    {
+        "value": "(Originating",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            515,
+            109,
+            46,
+            10
+        ]
+    },
+    {
+        "value": "Agent)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            564,
+            109,
+            25,
+            10
+        ]
+    },
+    {
+        "value": "(State)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            589,
+            81,
+            28,
+            11
+        ]
+    },
+    {
+        "value": "(C",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            535,
+            54,
+            11,
+            10
+        ]
+    },
+    {
+        "value": "T.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            546,
+            54,
+            8,
+            8
+        ]
+    },
+    {
+        "value": "Office)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            554,
+            54,
+            29,
+            8
+        ]
+    },
+    {
+        "value": "(Name",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            608,
+            317,
+            27,
+            10
+        ]
+    },
+    {
+        "value": "State)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            635,
+            316,
+            24,
+            13
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            434,
+            209,
+            126,
+            123
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            553,
+            606,
+            134,
+            137
+        ]
+    },
+    {
+        "value": "(Address)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            535,
+            848,
+            36,
+            11
+        ]
+    },
+    {
+        "value": "9.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            60,
+            684,
+            11,
+            13
+        ]
+    },
+    {
+        "value": "8.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            59,
+            631,
+            11,
+            13
+        ]
+    },
+    {
+        "value": "7.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            59,
+            603,
+            10,
+            11
+        ]
+    },
+    {
+        "value": "6.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            56,
+            578,
+            13,
+            11
+        ]
+    },
+    {
+        "value": "5.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            59,
+            521,
+            11,
+            14
+        ]
+    },
+    {
+        "value": "4.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            54,
+            466,
+            14,
+            11
+        ]
+    },
+    {
+        "value": "3.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            57,
+            441,
+            10,
+            13
+        ]
+    },
+    {
+        "value": "2.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            57,
+            413,
+            11,
+            11
+        ]
+    },
+    {
+        "value": "1.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            57,
+            370,
+            10,
+            13
+        ]
+    },
+    {
+        "value": "C T SYSTEM The Corporation Trust Company C T Corporation System and Associated Companies",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            28,
+            32,
+            209,
+            74
+        ]
+    },
+    {
+        "value": "The Corporation Trust Company",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            440,
+            38,
+            232,
+            16
+        ]
+    },
+    {
+        "value": "New York, New York",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            457,
+            64,
+            155,
+            16
+        ]
+    },
+    {
+        "value": "C T Corporation System",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            458,
+            92,
+            176,
+            15
+        ]
+    },
+    {
+        "value": "Phyllis G. Jennings",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            458,
+            122,
+            142,
+            15
+        ]
+    },
+    {
+        "value": "Jacksonville, Florida",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            461,
+            148,
+            154,
+            16
+        ]
+    },
+    {
+        "value": "1- -27 -69",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            454,
+            180,
+            60,
+            15
+        ]
+    },
+    {
+        "value": "() Certified Mail",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            568,
+            176,
+            91,
+            13
+        ]
+    },
+    {
+        "value": "Certified Air Mail",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            587,
+            189,
+            87,
+            14
+        ]
+    },
+    {
+        "value": "Walliam Degenhardt Tax Director The American Tobacco Company 245 Park Avenue New York New York 1001",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            81,
+            126,
+            249,
+            60
+        ]
+    },
+    {
+        "value": "Recipienti",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            148,
+            186,
+            84,
+            13
+        ]
+    },
+    {
+        "value": "Certified Mail",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            229,
+            72,
+            14
+        ]
+    },
+    {
+        "value": "() Messenger",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            175,
+            229,
+            72,
+            14
+        ]
+    },
+    {
+        "value": "() Certified Air Mail",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            80,
+            246,
+            111,
+            14
+        ]
+    },
+    {
+        "value": "PROCESS SERVED",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            75,
+            267,
+            167,
+            18
+        ]
+    },
+    {
+        "value": "N. J.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            589,
+            300,
+            42,
+            15
+        ]
+    },
+    {
+        "value": "THE AMERICAN TOBACCO COMPANY",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            88,
+            307,
+            283,
+            15
+        ]
+    },
+    {
+        "value": "Name of Company",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            261,
+            323,
+            80,
+            8
+        ]
+    },
+    {
+        "value": "Enclosed are copies of legal proces served upon the statutory agent of the above company as follows:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            77,
+            335,
+            521,
+            19
+        ]
+    },
+    {
+        "value": "Title of Action:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            369,
+            73,
+            13
+        ]
+    },
+    {
+        "value": "Reuben Sunstein, Plaintiff, v. The American Tobacco Company, a New Jorsey corporation, Defendant.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            147,
+            356,
+            511,
+            41
+        ]
+    },
+    {
+        "value": "Summons and Complaint",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            186,
+            408,
+            176,
+            17
+        ]
+    },
+    {
+        "value": "Circuit Court, Dade County, Florida. No. 69 -1351",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            117,
+            430,
+            369,
+            23
+        ]
+    },
+    {
+        "value": "Nature of Action:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            465,
+            87,
+            14
+        ]
+    },
+    {
+        "value": "For personal injuries resulting after smoking \"Pall Mall\" and \"Lucky",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            168,
+            454,
+            499,
+            22
+        ]
+    },
+    {
+        "value": "Strike\" cigarettes manufactured by defendant, wherein plaintiff alleges breach of was- anties, seeks damages in excess of $5, 000 and demands trial by jury.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            63,
+            469,
+            620,
+            41
+        ]
+    },
+    {
+        "value": "On Whom Process was Served:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            520,
+            157,
+            15
+        ]
+    },
+    {
+        "value": "Phyllis G. Jonnings, Asst. Socy,. The Corporation Company, Jacksonville, Florida",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            244,
+            510,
+            445,
+            39
+        ]
+    },
+    {
+        "value": "Date and Hour of Service",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            575,
+            134,
+            15
+        ]
+    },
+    {
+        "value": "Appearance or Answer Dues",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            602,
+            141,
+            13
+        ]
+    },
+    {
+        "value": "Plaintiff's Attorney(s):",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            628,
+            110,
+            15
+        ]
+    },
+    {
+        "value": "Max A. Goldfarb 414 Biscayne Building Miami, Florida",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            244,
+            624,
+            161,
+            47
+        ]
+    },
+    {
+        "value": "January 27, 1969 9: 00 a. m.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            246,
+            568,
+            232,
+            21
+        ]
+    },
+    {
+        "value": "Within 20 days after service, exclusive of day of service.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            247,
+            592,
+            411,
+            21
+        ]
+    },
+    {
+        "value": "RECEIVED AND FORWARDED ON",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            418,
+            751,
+            170,
+            16
+        ]
+    },
+    {
+        "value": "1 29/29/ 69 (Date)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            610,
+            746,
+            80,
+            18
+        ]
+    },
+    {
+        "value": "THE CORPORATION TRUST COMPANY",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            448,
+            778,
+            211,
+            16
+        ]
+    },
+    {
+        "value": "V. Colvellm Asst. Secy. 277 Park Avenue",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            448,
+            795,
+            166,
+            56
+        ]
+    },
+    {
+        "value": "New York, New York 10017",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            450,
+            856,
+            172,
+            16
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            574,
+            880,
+            109,
+            13
+        ]
+    },
+    {
+        "value": "KINDLY ACKNOWLEDGE RECEIPT BY SIGNING AND RETURNING TO US THE ENCLOSED CARBON COPY OF THIS TRANSMITTAL FORM,",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            25,
+            782,
+            352,
+            30
+        ]
+    }
+]

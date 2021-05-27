@@ -1,0 +1,102 @@
+[
+    {
+        "text": "To:",
+        "class": "answer"
+    },
+    {
+        "text": "Firm:",
+        "class": "other"
+    },
+    {
+        "text": "FAX",
+        "class": "answer"
+    },
+    {
+        "text": "#:",
+        "class": "other"
+    },
+    {
+        "text": "From:",
+        "class": "answer"
+    },
+    {
+        "text": "Date:",
+        "class": "answer"
+    },
+    {
+        "text": "MSA",
+        "class": "other"
+    },
+    {
+        "text": "Autodial",
+        "class": "other"
+    },
+    {
+        "text": "Mike,",
+        "class": "other"
+    },
+    {
+        "text": "",
+        "class": "other"
+    },
+    {
+        "text": "8622042",
+        "class": "other"
+    },
+    {
+        "text": "LORILLARD TOBACCO COMPANY Market Planning and Information Department",
+        "class": "header"
+    },
+    {
+        "text": "Mike Mozina",
+        "class": "other"
+    },
+    {
+        "text": "Susan Smith",
+        "class": "other"
+    },
+    {
+        "text": "335- 7733",
+        "class": "other"
+    },
+    {
+        "text": "335- 7150",
+        "class": "other"
+    },
+    {
+        "text": "FAX #:",
+        "class": "answer"
+    },
+    {
+        "text": "Phone #:",
+        "class": "answer"
+    },
+    {
+        "text": "8/ 31/ 98",
+        "class": "other"
+    },
+    {
+        "text": "3 (including this cover page)",
+        "class": "answer"
+    },
+    {
+        "text": "# Pages:",
+        "class": "answer"
+    },
+    {
+        "text": "- Approval for AWS Quarterly Store Count Database to begin 3rd Quarter 1998",
+        "class": "answer"
+    },
+    {
+        "text": "- Table showing significant jump in Convenience Store market importance in 2nd Quarter 1998",
+        "class": "answer"
+    },
+    {
+        "text": "Talk to you soon!",
+        "class": "other"
+    },
+    {
+        "text": "As promised, here are:",
+        "class": "other"
+    }
+]

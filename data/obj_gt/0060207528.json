@@ -1,0 +1,442 @@
+﻿[
+    {
+        "text": "CONTRACT:",
+        "box": [
+            66,
+            240,
+            68,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CLIENT:",
+        "box": [
+            64,
+            271,
+            54,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MARKET:",
+        "box": [
+            66,
+            327,
+            52,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "9",
+        "box": [
+            316,
+            419,
+            20,
+            27
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "45",
+        "box": [
+            459,
+            419,
+            39,
+            25
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "54",
+        "box": [
+            601,
+            415,
+            42,
+            25
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "TOTAL",
+        "box": [
+            594,
+            443,
+            41,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ILLUMINATED",
+        "box": [
+            429,
+            443,
+            87,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REGULAR",
+        "box": [
+            291,
+            444,
+            56,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "D.E.C",
+        "box": [
+            67,
+            489,
+            43,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "S.P.V.",
+        "box": [
+            66,
+            536,
+            46,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "534.1",
+        "box": [
+            122,
+            478,
+            77,
+            25
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SIGNATURE",
+        "box": [
+            355,
+            853,
+            71,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            356,
+            895,
+            35,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            423,
+            799,
+            272,
+            67
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ATT.",
+        "box": [
+            67,
+            911,
+            31,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "527.6",
+        "box": [
+            542,
+            476,
+            74,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LAURENCE, CHARLES, FREE & LAWSON, INC.",
+        "box": [
+            146,
+            43,
+            443,
+            26
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "260 MADISON AVENUE, NEW YORK, NY 10016 (212) 213- 4646",
+        "box": [
+            176,
+            73,
+            382,
+            19
+        ],
+        "class": "other"
+    },
+    {
+        "text": "30- SHEET POSTING COMPLETION REPORT FORM",
+        "box": [
+            208,
+            133,
+            290,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "PLEASE RETURN TWO (2) COPIES OF THE LOCATION LIST ALONG WITH TWO (2) COPIES OF THIS COMPLETION REPORT FORM TO THE ATTENTION OF MR. JOSEPH VAZQUEZ AT THE ABOVE ADDRESS",
+        "box": [
+            64,
+            162,
+            566,
+            48
+        ],
+        "class": "other"
+    },
+    {
+        "text": "A- 530- 1059",
+        "box": [
+            158,
+            239,
+            78,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "THE AMERICAN TOBACCO COMPANY",
+        "box": [
+            130,
+            267,
+            211,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PALL MALL RED LIGHTS",
+        "box": [
+            158,
+            295,
+            150,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BRAND NAME:",
+        "box": [
+            67,
+            299,
+            81,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Akron OH.",
+        "box": [
+            147,
+            331,
+            71,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Patrick Media Group, Inc",
+        "box": [
+            205,
+            358,
+            175,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "F 75 GRP",
+        "box": [
+            170,
+            380,
+            114,
+            33
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PLANT OPERATOR:",
+        "box": [
+            64,
+            356,
+            113,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SIZE SHOWING:",
+        "box": [
+            64,
+            387,
+            97,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NUMBER OF PANELS",
+        "box": [
+            66,
+            430,
+            125,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "PLANT AVERAGE",
+        "box": [
+            531,
+            500,
+            99,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PLANT AVERAGE",
+        "box": [
+            531,
+            545,
+            103,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE POSTERS RECEIVED FROM LITHOGRAPHER:",
+        "box": [
+            67,
+            591,
+            299,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "6/ 27/ 89",
+        "box": [
+            385,
+            567,
+            86,
+            41
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "POSTER DESIGN:",
+        "box": [
+            64,
+            620,
+            105,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "THE TASTE BREAKS THROUGH",
+        "box": [
+            187,
+            616,
+            298,
+            23
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SCHEDULED POSTING DATE:",
+        "box": [
+            67,
+            649,
+            171,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "7/ 16/ 89",
+        "box": [
+            272,
+            645,
+            55,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "7/ 21/ 89",
+        "box": [
+            263,
+            665,
+            84,
+            32
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DATE POSTING COMPLETED:",
+        "box": [
+            66,
+            677,
+            173,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "THIS WILL CERTIFY THAT I HAVE EXAMINED THE RECORDS OF OUR BILLPOSTERS, AND VERIFY THAT ALL LOCATIONS LISTED ON THE ATTACHED LOCATION LIST WERE PROPERLY POSTED WITH THE CORRECT DESIGN WITHIN FIVE WORKING DAYS OF THE POSTING DATE ACCEPTED ON THE CONTRACT",
+        "box": [
+            221,
+            718,
+            448,
+            77
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Plant Manager/ Posting Supt",
+        "box": [
+            434,
+            865,
+            199,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2/ 25/ 89",
+        "box": [
+            411,
+            880,
+            98,
+            42
+        ],
+        "class": "value_answer"
+    }
+]

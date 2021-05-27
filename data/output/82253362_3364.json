@@ -1,0 +1,422 @@
+[
+    {
+        "text": "TO:",
+        "class": "answer"
+    },
+    {
+        "text": "FROM:",
+        "class": "answer"
+    },
+    {
+        "text": "SUBJECT:",
+        "class": "answer"
+    },
+    {
+        "text": "\u2611",
+        "class": "other"
+    },
+    {
+        "text": "GEOGRAPHY",
+        "class": "other"
+    },
+    {
+        "text": "REGION:",
+        "class": "other"
+    },
+    {
+        "text": "FULL",
+        "class": "other"
+    },
+    {
+        "text": "X",
+        "class": "other"
+    },
+    {
+        "text": "DIVISION:",
+        "class": "other"
+    },
+    {
+        "text": "FULL",
+        "class": "other"
+    },
+    {
+        "text": "PARTIAL",
+        "class": "other"
+    },
+    {
+        "text": "PARTIAL",
+        "class": "other"
+    },
+    {
+        "text": "DISTRIBUTION",
+        "class": "other"
+    },
+    {
+        "text": "20",
+        "class": "other"
+    },
+    {
+        "text": "15",
+        "class": "other"
+    },
+    {
+        "text": "29",
+        "class": "other"
+    },
+    {
+        "text": "44",
+        "class": "other"
+    },
+    {
+        "text": "17",
+        "class": "other"
+    },
+    {
+        "text": "34",
+        "class": "other"
+    },
+    {
+        "text": "15",
+        "class": "other"
+    },
+    {
+        "text": "20",
+        "class": "other"
+    },
+    {
+        "text": "22",
+        "class": "other"
+    },
+    {
+        "text": "27",
+        "class": "other"
+    },
+    {
+        "text": "15",
+        "class": "other"
+    },
+    {
+        "text": "37",
+        "class": "other"
+    },
+    {
+        "text": "Chevron",
+        "class": "question"
+    },
+    {
+        "text": "Exxon",
+        "class": "other"
+    },
+    {
+        "text": "Walgreen's",
+        "class": "other"
+    },
+    {
+        "text": "?",
+        "class": "other"
+    },
+    {
+        "text": "?",
+        "class": "other"
+    },
+    {
+        "text": "?",
+        "class": "other"
+    },
+    {
+        "text": "?",
+        "class": "other"
+    },
+    {
+        "text": "?",
+        "class": "other"
+    },
+    {
+        "text": "?",
+        "class": "other"
+    },
+    {
+        "text": "?",
+        "class": "other"
+    },
+    {
+        "text": "115",
+        "class": "other"
+    },
+    {
+        "text": "38",
+        "class": "other"
+    },
+    {
+        "text": "217",
+        "class": "other"
+    },
+    {
+        "text": "38",
+        "class": "other"
+    },
+    {
+        "text": "27",
+        "class": "other"
+    },
+    {
+        "text": "70",
+        "class": "other"
+    },
+    {
+        "text": "177",
+        "class": "other"
+    },
+    {
+        "text": "82253362",
+        "class": "other"
+    },
+    {
+        "text": "MAVPROGO",
+        "class": "other"
+    },
+    {
+        "text": "K. A. Sparrow",
+        "class": "other"
+    },
+    {
+        "text": "SUBMISSION DATE",
+        "class": "other"
+    },
+    {
+        "text": "MAY 19 \u2610",
+        "class": "question"
+    },
+    {
+        "text": "JUN 30 \u2610",
+        "class": "answer"
+    },
+    {
+        "text": "AUG 11 \u2610",
+        "class": "other"
+    },
+    {
+        "text": "SEP 22",
+        "class": "other"
+    },
+    {
+        "text": "J. L. McGinnis",
+        "class": "other"
+    },
+    {
+        "text": "MAVERICK SPECIALS MENTHOL - PROGRESS REPORT",
+        "class": "answer"
+    },
+    {
+        "text": "(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION (S) SCOPE)",
+        "class": "question"
+    },
+    {
+        "text": "DIVISION NAME:",
+        "class": "question"
+    },
+    {
+        "text": "DIVISION NAME:",
+        "class": "question"
+    },
+    {
+        "text": "DIVISION NAME:",
+        "class": "question"
+    },
+    {
+        "text": "DIVISION NAME:",
+        "class": "other"
+    },
+    {
+        "text": "DIVISION NAME:",
+        "class": "other"
+    },
+    {
+        "text": "DIVISION NAME:",
+        "class": "other"
+    },
+    {
+        "text": "# REPS",
+        "class": "other"
+    },
+    {
+        "text": "# REPS",
+        "class": "other"
+    },
+    {
+        "text": "# REPS",
+        "class": "other"
+    },
+    {
+        "text": "DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION (15+ STORES) STOCKING NO MAVERICK SPECIALS MENTHOL",
+        "class": "question"
+    },
+    {
+        "text": "NAME OF ACCOUNT",
+        "class": "question"
+    },
+    {
+        "text": "IND/ LOR VOLUME",
+        "class": "question"
+    },
+    {
+        "text": "NO. OF STORES",
+        "class": "question"
+    },
+    {
+        "text": "NAME OF ACCOUNT",
+        "class": "question"
+    },
+    {
+        "text": "IND/ LOR VOLUME",
+        "class": "other"
+    },
+    {
+        "text": "NO. OF STORES",
+        "class": "other"
+    },
+    {
+        "text": "Sac N Pac",
+        "class": "answer"
+    },
+    {
+        "text": "ACO Texaco",
+        "class": "answer"
+    },
+    {
+        "text": "Lone Star",
+        "class": "answer"
+    },
+    {
+        "text": "75/ 2",
+        "class": "other"
+    },
+    {
+        "text": "95/ 3",
+        "class": "other"
+    },
+    {
+        "text": "76/ 3",
+        "class": "other"
+    },
+    {
+        "text": "26/ 2",
+        "class": "question"
+    },
+    {
+        "text": "42/ 2",
+        "class": "answer"
+    },
+    {
+        "text": "106 /4",
+        "class": "answer"
+    },
+    {
+        "text": "62/ 2",
+        "class": "other"
+    },
+    {
+        "text": "78/ 4",
+        "class": "other"
+    },
+    {
+        "text": "319/ 16",
+        "class": "other"
+    },
+    {
+        "text": "65/ 3",
+        "class": "other"
+    },
+    {
+        "text": "69/ 3",
+        "class": "other"
+    },
+    {
+        "text": "80/ 4",
+        "class": "other"
+    },
+    {
+        "text": "Shopper Mart",
+        "class": "answer"
+    },
+    {
+        "text": "Neal One Stop",
+        "class": "answer"
+    },
+    {
+        "text": "Mini Mart",
+        "class": "answer"
+    },
+    {
+        "text": "Albertson's -Houston",
+        "class": "answer"
+    },
+    {
+        "text": "Valley Shamrock",
+        "class": "answer"
+    },
+    {
+        "text": "Get Go",
+        "class": "answer"
+    },
+    {
+        "text": "Speedy Stop",
+        "class": "answer"
+    },
+    {
+        "text": "Western Beverage",
+        "class": "answer"
+    },
+    {
+        "text": "Don & Bens",
+        "class": "answer"
+    },
+    {
+        "text": "DIRECT ACCOUNTS AND CHAINS HEADQUARTERED OUTSIDE THE REGION (15+ STORES) STOCKING NO MAVERICK SPECIALS MENTHOL",
+        "class": "header"
+    },
+    {
+        "text": "NAME OF ACCOUNT",
+        "class": "question"
+    },
+    {
+        "text": "IND/ LOR VOLUME",
+        "class": "question"
+    },
+    {
+        "text": "NO. OF STORES",
+        "class": "question"
+    },
+    {
+        "text": "NAME OF ACCOUNTS",
+        "class": "answer"
+    },
+    {
+        "text": "IND/ LOR VOLUME",
+        "class": "other"
+    },
+    {
+        "text": "NO. OF STORES",
+        "class": "other"
+    },
+    {
+        "text": "Brookshire Bro's",
+        "class": "other"
+    },
+    {
+        "text": "Eckerd Drugs S. Texas",
+        "class": "other"
+    },
+    {
+        "text": "Philip's 66",
+        "class": "other"
+    },
+    {
+        "text": "Star Enterprise",
+        "class": "other"
+    },
+    {
+        "text": "Page 1 of 3 Pages",
+        "class": "other"
+    }
+]

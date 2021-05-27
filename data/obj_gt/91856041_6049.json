@@ -1,0 +1,322 @@
+﻿[
+    {
+        "text": "HOURS:",
+        "box": [
+            156,
+            480,
+            71,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "SPECIFICS:",
+        "box": [
+            158,
+            606,
+            92,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "☑",
+        "box": [
+            232,
+            659,
+            14,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "☑",
+        "box": [
+            230,
+            715,
+            17,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0006",
+        "box": [
+            82,
+            899,
+            18,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "91856041",
+        "box": [
+            661,
+            772,
+            21,
+            67
+        ],
+        "class": "other"
+    },
+    {
+        "text": "SPECIAL EVENT INFORMATION SHEET",
+        "box": [
+            156,
+            225,
+            471,
+            30
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "GENERAL INFORMATION:",
+        "box": [
+            154,
+            324,
+            227,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "EVENT NAME:",
+        "box": [
+            158,
+            360,
+            83,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EVENT LOCATION:",
+        "box": [
+            156,
+            387,
+            110,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EVENT DATES:",
+        "box": [
+            158,
+            416,
+            80,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "The USO Spring Festival",
+        "box": [
+            282,
+            356,
+            153,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "42nd- 57th Street, New York NY",
+        "box": [
+            284,
+            385,
+            213,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "June 3, 1995",
+        "box": [
+            282,
+            413,
+            82,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MONDAY- FRIDAY",
+        "box": [
+            156,
+            513,
+            108,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SATURDAY- SUNDAY",
+        "box": [
+            158,
+            542,
+            116,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "llam- 6pm",
+        "box": [
+            286,
+            542,
+            68,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "check applicable box(es):",
+        "box": [
+            159,
+            631,
+            113,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "# OF BOOTH(S)",
+        "box": [
+            249,
+            656,
+            91,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ SAMPLING & PREMIUMS",
+        "box": [
+            232,
+            686,
+            152,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PREMIUMS ONLY",
+        "box": [
+            247,
+            715,
+            99,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ SIGNAGE",
+        "box": [
+            464,
+            655,
+            71,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ MUSIC VAN",
+        "box": [
+            464,
+            683,
+            86,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ RACING CAR",
+        "box": [
+            465,
+            714,
+            95,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SUPERVISOR INFORMATION:",
+        "box": [
+            159,
+            778,
+            250,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "NAME OF ALLWAYS SUPERVISOR:",
+        "box": [
+            156,
+            813,
+            190,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Jerome Curry",
+        "box": [
+            376,
+            813,
+            85,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PHONE NUMBER",
+        "box": [
+            159,
+            844,
+            101,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(201) 923-9208 ",
+        "box": [
+            275,
+            839,
+            97,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BEEPER NUMBER:",
+        "box": [
+            390,
+            841,
+            102,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(201) 698- 780",
+        "box": [
+            514,
+            839,
+            91,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Newport pleasure",
+        "box": [
+            106,
+            77,
+            551,
+            85
+        ],
+        "class": "value_header"
+    }
+]

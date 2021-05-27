@@ -1,0 +1,156 @@
+﻿[
+    {
+        "value": "Supplier:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            149,
+            170,
+            68,
+            11
+        ]
+    },
+    {
+        "value": "APPROVED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            196,
+            352,
+            63,
+            11
+        ]
+    },
+    {
+        "value": "Tester",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            149,
+            596,
+            47,
+            14
+        ]
+    },
+    {
+        "value": "Manager",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            149,
+            655,
+            57,
+            15
+        ]
+    },
+    {
+        "value": "TEST ADHESIVE EVALUATION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            288,
+            92,
+            191,
+            13
+        ]
+    },
+    {
+        "value": "Adhesive Code:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            149,
+            208,
+            111,
+            14
+        ]
+    },
+    {
+        "value": "Application: tipping, carton end flaps, etc.)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            148,
+            249,
+            256,
+            27
+        ]
+    },
+    {
+        "value": "Test Period:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            148,
+            299,
+            95,
+            13
+        ]
+    },
+    {
+        "value": "NOT APPROVED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            405,
+            353,
+            95,
+            13
+        ]
+    },
+    {
+        "value": "If not approved state reasons.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            149,
+            402,
+            232,
+            16
+        ]
+    },
+    {
+        "value": "Quality Control",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            148,
+            616,
+            120,
+            15
+        ]
+    },
+    {
+        "value": "Local Purchasing",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            147,
+            634,
+            128,
+            17
+        ]
+    },
+    {
+        "value": "Complete and return to D. R. Brickey, Department of Research and Development, as soon as possible.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            147,
+            689,
+            470,
+            31
+        ]
+    },
+    {
+        "value": "ATXO2 0083035",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            520,
+            883,
+            114,
+            14
+        ]
+    }
+]

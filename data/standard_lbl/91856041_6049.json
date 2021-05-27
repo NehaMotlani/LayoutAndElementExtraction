@@ -1,0 +1,354 @@
+﻿[
+    {
+        "value": "HOURS:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            156,
+            480,
+            71,
+            18
+        ]
+    },
+    {
+        "value": "SPECIFICS:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            158,
+            606,
+            92,
+            20
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            232,
+            659,
+            14,
+            14
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            230,
+            715,
+            17,
+            14
+        ]
+    },
+    {
+        "value": "0006",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            82,
+            899,
+            18,
+            10
+        ]
+    },
+    {
+        "value": "91856041",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            661,
+            772,
+            21,
+            67
+        ]
+    },
+    {
+        "value": "SPECIAL EVENT INFORMATION SHEET",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            156,
+            225,
+            471,
+            30
+        ]
+    },
+    {
+        "value": "GENERAL INFORMATION:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            154,
+            324,
+            227,
+            18
+        ]
+    },
+    {
+        "value": "EVENT NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            158,
+            360,
+            83,
+            17
+        ]
+    },
+    {
+        "value": "EVENT LOCATION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            156,
+            387,
+            110,
+            18
+        ]
+    },
+    {
+        "value": "EVENT DATES:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            158,
+            416,
+            80,
+            17
+        ]
+    },
+    {
+        "value": "The USO Spring Festival",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            282,
+            356,
+            153,
+            16
+        ]
+    },
+    {
+        "value": "42nd- 57th Street, New York NY",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            284,
+            385,
+            213,
+            14
+        ]
+    },
+    {
+        "value": "June 3, 1995",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            282,
+            413,
+            82,
+            14
+        ]
+    },
+    {
+        "value": "MONDAY- FRIDAY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            156,
+            513,
+            108,
+            20
+        ]
+    },
+    {
+        "value": "SATURDAY- SUNDAY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            158,
+            542,
+            116,
+            20
+        ]
+    },
+    {
+        "value": "llam- 6pm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            286,
+            542,
+            68,
+            18
+        ]
+    },
+    {
+        "value": "check applicable box(es):",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            159,
+            631,
+            113,
+            16
+        ]
+    },
+    {
+        "value": "# OF BOOTH(S)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            249,
+            656,
+            91,
+            17
+        ]
+    },
+    {
+        "value": "☐ SAMPLING & PREMIUMS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            232,
+            686,
+            152,
+            18
+        ]
+    },
+    {
+        "value": "PREMIUMS ONLY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            247,
+            715,
+            99,
+            15
+        ]
+    },
+    {
+        "value": "☐ SIGNAGE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            464,
+            655,
+            71,
+            16
+        ]
+    },
+    {
+        "value": "☐ MUSIC VAN",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            464,
+            683,
+            86,
+            18
+        ]
+    },
+    {
+        "value": "☐ RACING CAR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            465,
+            714,
+            95,
+            15
+        ]
+    },
+    {
+        "value": "SUPERVISOR INFORMATION:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            159,
+            778,
+            250,
+            18
+        ]
+    },
+    {
+        "value": "NAME OF ALLWAYS SUPERVISOR:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            156,
+            813,
+            190,
+            18
+        ]
+    },
+    {
+        "value": "Jerome Curry",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            376,
+            813,
+            85,
+            17
+        ]
+    },
+    {
+        "value": "PHONE NUMBER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            159,
+            844,
+            101,
+            15
+        ]
+    },
+    {
+        "value": "(201) 923-9208 ",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            275,
+            839,
+            97,
+            16
+        ]
+    },
+    {
+        "value": "BEEPER NUMBER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            390,
+            841,
+            102,
+            15
+        ]
+    },
+    {
+        "value": "(201) 698- 780",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            514,
+            839,
+            91,
+            15
+        ]
+    },
+    {
+        "value": "Newport pleasure",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            106,
+            77,
+            551,
+            85
+        ]
+    }
+]

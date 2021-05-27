@@ -1,0 +1,812 @@
+﻿[
+    {
+        "text": "Telephone:",
+        "box": [
+            503,
+            63,
+            57,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TELEPHONE",
+        "box": [
+            444,
+            134,
+            77,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "AME",
+        "box": [
+            14,
+            165,
+            28,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "AFFILLATION",
+        "box": [
+            372,
+            166,
+            81,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DDRESS",
+        "box": [
+            13,
+            193,
+            49,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TELEPHONE",
+        "box": [
+            446,
+            222,
+            78,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "AFFILIATION",
+        "box": [
+            372,
+            254,
+            81,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "AME",
+        "box": [
+            8,
+            254,
+            38,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DDRESS",
+        "box": [
+            7,
+            282,
+            57,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Position",
+        "box": [
+            349,
+            448,
+            41,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "resider",
+        "box": [
+            8,
+            447,
+            45,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Affiliation",
+        "box": [
+            20,
+            468,
+            50,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Affiliation",
+        "box": [
+            22,
+            521,
+            47,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Position",
+        "box": [
+            349,
+            500,
+            39,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Position",
+        "box": [
+            351,
+            573,
+            39,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Affiliation",
+        "box": [
+            20,
+            592,
+            52,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Topic.",
+        "box": [
+            20,
+            615,
+            31,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Affiliation",
+        "box": [
+            21,
+            666,
+            50,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Topic",
+        "box": [
+            21,
+            689,
+            29,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Position",
+        "box": [
+            352,
+            642,
+            39,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Position",
+        "box": [
+            349,
+            718,
+            42,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Position",
+        "box": [
+            349,
+            788,
+            42,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Affiliation",
+        "box": [
+            22,
+            807,
+            50,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Tοpic",
+        "box": [
+            20,
+            831,
+            29,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Affiliation",
+        "box": [
+            22,
+            737,
+            50,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Topic",
+        "box": [
+            21,
+            761,
+            28,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            529,
+            149,
+            22,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            552,
+            151,
+            22,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            605,
+            149,
+            36,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            605,
+            237,
+            38,
+            10
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Professor",
+        "box": [
+            419,
+            493,
+            85,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Professor",
+        "box": [
+            413,
+            635,
+            85,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Professor",
+        "box": [
+            419,
+            707,
+            91,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Cytogeneticist",
+        "box": [
+            413,
+            779,
+            131,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Topic",
+        "box": [
+            21,
+            546,
+            29,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Annual Meeting Los Angeles",
+        "box": [
+            75,
+            11,
+            150,
+            45
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "26- 31 May 1983",
+        "box": [
+            106,
+            53,
+            91,
+            20
+        ],
+        "class": "other"
+    },
+    {
+        "text": "ACCEPTED SYMPOSIUM",
+        "box": [
+            256,
+            0,
+            213,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Preliminary Program Information",
+        "box": [
+            261,
+            22,
+            202,
+            22
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Submit not later than 1 November",
+        "box": [
+            254,
+            59,
+            219,
+            22
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Return this form to:",
+        "box": [
+            501,
+            0,
+            135,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "AAAS Meetings Office 1101 Vermont Ave., N W. Washington, D. C. 20005",
+        "box": [
+            500,
+            17,
+            132,
+            47
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(202) 842- 9530",
+        "box": [
+            559,
+            64,
+            82,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "READ REVERSE SIDE BEFORE FILLING OUT THIS FORM",
+        "box": [
+            173,
+            101,
+            343,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "202/ 457- 4850",
+        "box": [
+            527,
+            127,
+            114,
+            24
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RINCIPAL ORGANIZER (who will receive correspondence):",
+        "box": [
+            14,
+            137,
+            323,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Marvin A Kastenbaum",
+        "box": [
+            61,
+            165,
+            187,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1825 Eye Street, NW Suite 800",
+        "box": [
+            61,
+            191,
+            259,
+            23
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CITY STATE, ",
+        "box": [
+            323,
+            193,
+            103,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Washington DC 20006",
+        "box": [
+            433,
+            190,
+            185,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            529,
+            236,
+            44,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "O ORGANIZER (if applicable):",
+        "box": [
+            10,
+            221,
+            176,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CITY, STATE, ZIP",
+        "box": [
+            324,
+            282,
+            100,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "INAL TITLE OF SYMPOSIUM",
+        "box": [
+            10,
+            360,
+            178,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FOR ONE SESSION",
+        "box": [
+            288,
+            324,
+            114,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "THE HUMAN CHROMOSOME",
+        "box": [
+            279,
+            351,
+            191,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Dr. William J. Schull",
+        "box": [
+            64,
+            439,
+            194,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Director - Genetics Centers",
+        "box": [
+            391,
+            436,
+            247,
+            24
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Univ. of Texas Graduate School of Biomedical Sciences (Houston)",
+        "box": [
+            73,
+            461,
+            585,
+            24
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "- Speaker",
+        "box": [
+            10,
+            499,
+            53,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Dr. Jorge J. Yunis",
+        "box": [
+            74,
+            494,
+            159,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Univ. of Minnesota School of Medicine",
+        "box": [
+            94,
+            510,
+            339,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "The Oncogene, the Fragile Site, and Nonrandom Aberrations",
+        "box": [
+            67,
+            534,
+            519,
+            23
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "- Speaker",
+        "box": [
+            10,
+            571,
+            55,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Dr. Sheldon Wolff",
+        "box": [
+            75,
+            561,
+            163,
+            23
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Chairman - Professor of Cytogenetic",
+        "box": [
+            391,
+            559,
+            322,
+            23
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Laborat. Radiobiology& Environmental Health - U. of Cal. San Francis",
+        "box": [
+            74,
+            582,
+            639,
+            24
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Sister- -Chromatid Exchanges",
+        "box": [
+            92,
+            608,
+            240,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "- Speaker",
+        "box": [
+            10,
+            645,
+            53,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Dr. Patricia Jacobs",
+        "box": [
+            67,
+            637,
+            178,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "University of Hawai - Dept. of Anatomy",
+        "box": [
+            87,
+            656,
+            357,
+            23
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Abnormal Human Chromosome Complements",
+        "box": [
+            66,
+            679,
+            343,
+            24
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Dr. Raymond White",
+        "box": [
+            92,
+            707,
+            165,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "- Speaker",
+        "box": [
+            8,
+            716,
+            55,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "University of Utah",
+        "box": [
+            95,
+            729,
+            169,
+            23
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Human Linkage Map based on DNA Markers",
+        "box": [
+            95,
+            749,
+            368,
+            24
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "- Speaker",
+        "box": [
+            10,
+            788,
+            54,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Dr. Michael A. Bender",
+        "box": [
+            75,
+            779,
+            190,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Brookhaven National Laboratory - Medical Department",
+        "box": [
+            98,
+            799,
+            483,
+            24
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Cyrogeneric Epidemiology",
+        "box": [
+            94,
+            824,
+            224,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "See Reverse Side",
+        "box": [
+            603,
+            852,
+            88,
+            18
+        ],
+        "class": "other"
+    }
+]

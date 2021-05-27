@@ -1,0 +1,288 @@
+﻿[
+    {
+        "value": "MARKET:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            205,
+            57,
+            14
+        ]
+    },
+    {
+        "value": "PRODUCT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            73,
+            257,
+            64,
+            17
+        ]
+    },
+    {
+        "value": "QUANTITIES:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            68,
+            447,
+            94,
+            14
+        ]
+    },
+    {
+        "value": "Date:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            201,
+            658,
+            49,
+            13
+        ]
+    },
+    {
+        "value": "Place:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            201,
+            686,
+            47,
+            11
+        ]
+    },
+    {
+        "value": "Time:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            203,
+            670,
+            46,
+            13
+        ]
+    },
+    {
+        "value": "3",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            215,
+            588,
+            7,
+            10
+        ]
+    },
+    {
+        "value": "Boston",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            218,
+            203,
+            41,
+            13
+        ]
+    },
+    {
+        "value": "80718412",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            577,
+            789,
+            20,
+            82
+        ]
+    },
+    {
+        "value": "FEDERAL DISTRIBUTING CORPORATION CIGARETTE SAMPLING PROGRAM",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            203,
+            102,
+            265,
+            62
+        ]
+    },
+    {
+        "value": "Old Gold Lights",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            216,
+            256,
+            103,
+            13
+        ]
+    },
+    {
+        "value": "October 3 through October 5",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            216,
+            323,
+            183,
+            14
+        ]
+    },
+    {
+        "value": "SAMPLING DATES: *",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            310,
+            67,
+            29
+        ]
+    },
+    {
+        "value": "SAMPLING HOURS: *",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            378,
+            68,
+            28
+        ]
+    },
+    {
+        "value": "9: 30 a. m. - 5: 30 p. m.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            216,
+            388,
+            143,
+            16
+        ]
+    },
+    {
+        "value": "270, 000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            216,
+            443,
+            48,
+            14
+        ]
+    },
+    {
+        "value": "NUMBER OF SAMPLING PERSONNEL:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            499,
+            82,
+            41
+        ]
+    },
+    {
+        "value": "24 per day",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            215,
+            522,
+            68,
+            12
+        ]
+    },
+    {
+        "value": "NUMBER OF SUPERVISORS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            70,
+            577,
+            98,
+            28
+        ]
+    },
+    {
+        "value": "ORIENTATION MEETING:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            70,
+            644,
+            89,
+            27
+        ]
+    },
+    {
+        "value": "October 3rd",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            267,
+            658,
+            76,
+            11
+        ]
+    },
+    {
+        "value": "9: 30 a. m.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            268,
+            673,
+            60,
+            10
+        ]
+    },
+    {
+        "value": "Boston Park Plaza Room 412 64 Arlington Street Boston, Mass 02117 617/ 426- 2000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            268,
+            684,
+            225,
+            52
+        ]
+    },
+    {
+        "value": "Tony Anari",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            214,
+            791,
+            67,
+            14
+        ]
+    },
+    {
+        "value": "FDC REPRESENTATIVES:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            71,
+            778,
+            131,
+            25
+        ]
+    },
+    {
+        "value": "*Subject to change due to local conditions",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            73,
+            845,
+            341,
+            15
+        ]
+    }
+]

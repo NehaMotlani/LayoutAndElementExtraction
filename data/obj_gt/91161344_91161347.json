@@ -1,0 +1,1482 @@
+﻿[
+    {
+        "text": "TO:",
+        "box": [
+            123,
+            71,
+            22,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PRODUCT",
+        "box": [
+            123,
+            143,
+            56,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EF1",
+        "box": [
+            244,
+            143,
+            25,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "5546/478",
+        "box": [
+            243,
+            174,
+            66,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Alabama",
+        "box": [
+            120,
+            279,
+            55,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Alaska",
+        "box": [
+            120,
+            296,
+            50,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Arizona",
+        "box": [
+            120,
+            309,
+            55,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Arkansas",
+        "box": [
+            118,
+            322,
+            66,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "California",
+        "box": [
+            118,
+            337,
+            78,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Colorada",
+        "box": [
+            116,
+            352,
+            65,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Connecticut",
+        "box": [
+            118,
+            365,
+            83,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Delaware",
+        "box": [
+            118,
+            380,
+            63,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Florida",
+        "box": [
+            115,
+            409,
+            58,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Georgia",
+        "box": [
+            116,
+            427,
+            55,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Hawaii",
+        "box": [
+            116,
+            440,
+            48,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "x",
+        "box": [
+            234,
+            279,
+            13,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            236,
+            309,
+            10,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            234,
+            324,
+            13,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            234,
+            341,
+            12,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            234,
+            354,
+            10,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            234,
+            369,
+            12,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            234,
+            385,
+            12,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            234,
+            399,
+            13,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            233,
+            427,
+            13,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            463,
+            281,
+            10,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            460,
+            297,
+            15,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            460,
+            311,
+            12,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            460,
+            346,
+            8,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            457,
+            359,
+            12,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            460,
+            374,
+            8,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            458,
+            389,
+            12,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            458,
+            404,
+            13,
+            7
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            460,
+            417,
+            10,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            457,
+            447,
+            12,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            460,
+            460,
+            12,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            460,
+            475,
+            10,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            457,
+            490,
+            12,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            458,
+            507,
+            10,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            458,
+            522,
+            10,
+            7
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            458,
+            537,
+            10,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            691,
+            299,
+            8,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            689,
+            316,
+            10,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            689,
+            329,
+            8,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            689,
+            344,
+            8,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            689,
+            370,
+            8,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            689,
+            402,
+            10,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            689,
+            417,
+            8,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            688,
+            432,
+            10,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            689,
+            460,
+            7,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            689,
+            475,
+            10,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            689,
+            490,
+            8,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            688,
+            503,
+            8,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            686,
+            520,
+            13,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Oklahoma",
+        "box": [
+            558,
+            282,
+            63,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Oregon",
+        "box": [
+            555,
+            299,
+            51,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Tennessee",
+        "box": [
+            555,
+            370,
+            73,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Texas",
+        "box": [
+            555,
+            385,
+            43,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Utah",
+        "box": [
+            553,
+            399,
+            35,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Vermont",
+        "box": [
+            555,
+            415,
+            55,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Virginia",
+        "box": [
+            553,
+            429,
+            65,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Washington",
+        "box": [
+            555,
+            445,
+            80,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Wisconsin",
+        "box": [
+            555,
+            472,
+            71,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Wyoming",
+        "box": [
+            555,
+            488,
+            56,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Louisiana",
+        "box": [
+            331,
+            281,
+            71,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Maine",
+        "box": [
+            331,
+            297,
+            42,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Maryland",
+        "box": [
+            329,
+            309,
+            68,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Massachusetts",
+        "box": [
+            331,
+            326,
+            100,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Michigan",
+        "box": [
+            331,
+            339,
+            63,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Minnesota",
+        "box": [
+            329,
+            354,
+            71,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Mississippi",
+        "box": [
+            331,
+            369,
+            83,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Missouri",
+        "box": [
+            329,
+            384,
+            61,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Montana",
+        "box": [
+            329,
+            400,
+            53,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Nebraska",
+        "box": [
+            329,
+            414,
+            60,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Nevada",
+        "box": [
+            329,
+            429,
+            45,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Ohio",
+        "box": [
+            327,
+            530,
+            30,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "x",
+        "box": [
+            231,
+            473,
+            13,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            231,
+            518,
+            12,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "x",
+        "box": [
+            231,
+            533,
+            10,
+            8
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Idaho",
+        "box": [
+            116,
+            455,
+            40,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Illinois",
+        "box": [
+            116,
+            470,
+            63,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Indiana",
+        "box": [
+            115,
+            487,
+            56,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Iowa",
+        "box": [
+            115,
+            502,
+            35,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Kansas",
+        "box": [
+            116,
+            515,
+            47,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Kentucky",
+        "box": [
+            111,
+            530,
+            68,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "QUANTITY",
+        "box": [
+            327,
+            606,
+            63,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "741",
+        "box": [
+            123,
+            635,
+            25,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "753",
+        "box": [
+            123,
+            651,
+            27,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "827",
+        "box": [
+            123,
+            664,
+            25,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "462",
+        "box": [
+            123,
+            678,
+            27,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "519",
+        "box": [
+            206,
+            635,
+            28,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "934",
+        "box": [
+            208,
+            651,
+            23,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "639",
+        "box": [
+            206,
+            664,
+            25,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PRODUCT",
+        "box": [
+            111,
+            738,
+            60,
+            12
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "QUANTITY",
+        "box": [
+            322,
+            739,
+            65,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "91161344",
+        "box": [
+            718,
+            822,
+            15,
+            71
+        ],
+        "class": "other"
+    },
+    {
+        "text": "3/20/78",
+        "box": [
+            618,
+            15,
+            55,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Today's Date",
+        "box": [
+            485,
+            15,
+            95,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Mr. Flinn",
+        "box": [
+            161,
+            75,
+            74,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. Donahue (Loews)",
+        "box": [
+            336,
+            73,
+            152,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. Hudson (Greensboro)",
+        "box": [
+            538,
+            75,
+            183,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Dr. Schultz (Greensboro",
+        "box": [
+            537,
+            91,
+            184,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. Tucker (Greensboro)",
+        "box": [
+            537,
+            105,
+            184,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Dr. Jones (Greensboro)",
+        "box": [
+            538,
+            118,
+            184,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. Gaalman",
+        "box": [
+            161,
+            90,
+            84,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. Goldbrenner",
+        "box": [
+            161,
+            101,
+            116,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. Duffy (Loews)",
+        "box": [
+            336,
+            88,
+            153,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. Miele (Loews)",
+        "box": [
+            334,
+            103,
+            154,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MRD #",
+        "box": [
+            120,
+            173,
+            40,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PROJECT ORIGINATED BY",
+        "box": [
+            121,
+            204,
+            161,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "William Doyle",
+        "box": [
+            311,
+            203,
+            100,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+        "box": [
+            90,
+            249,
+            386,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "D. C.",
+        "box": [
+            115,
+            395,
+            40,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "New Hampshire",
+        "box": [
+            329,
+            442,
+            99,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "New Jersey",
+        "box": [
+            329,
+            457,
+            77,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "New Mexico",
+        "box": [
+            332,
+            472,
+            76,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "New York",
+        "box": [
+            329,
+            488,
+            59,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "North Carolina",
+        "box": [
+            331,
+            500,
+            105,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "North Dakota",
+        "box": [
+            329,
+            517,
+            92,
+            9
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Pennsyl vania",
+        "box": [
+            558,
+            312,
+            94,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Rhode Island",
+        "box": [
+            558,
+            327,
+            91,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "South Carolina",
+        "box": [
+            556,
+            341,
+            111,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "South Dakota",
+        "box": [
+            556,
+            355,
+            95,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "West Virginia",
+        "box": [
+            558,
+            457,
+            98,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "*Chicago, Ill.",
+        "box": [
+            555,
+            503,
+            106,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "*NYC, N. Y.",
+        "box": [
+            555,
+            517,
+            81,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2. ESTIMATED TEST PRODUCT QUANTITIES (PER MARKET)",
+        "box": [
+            85,
+            573,
+            382,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "PRODUCT Code #",
+        "box": [
+            116,
+            605,
+            55,
+            28
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Code #",
+        "box": [
+            196,
+            618,
+            51,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(4's, 5's, 20's etc.)",
+        "box": [
+            547,
+            603,
+            161,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "All are 20's",
+        "box": [
+            571,
+            635,
+            93,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(4's, 5's, 20's etc.)",
+        "box": [
+            548,
+            738,
+            155,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "All are 20's",
+        "box": [
+            575,
+            767,
+            90,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Varies by market, see attached list. Approx. 20% of the total # by state will receive product",
+        "box": [
+            339,
+            635,
+            156,
+            73
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2a. ESTIMATED TOTALS BY PRODUCT ALL MARKETS COMBINED",
+        "box": [
+            76,
+            708,
+            419,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Code # 741",
+        "box": [
+            133,
+            752,
+            72,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Code # 753",
+        "box": [
+            135,
+            769,
+            73,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Code # 327",
+        "box": [
+            135,
+            782,
+            70,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Code # 462",
+        "box": [
+            135,
+            797,
+            69,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Code # #519",
+        "box": [
+            135,
+            812,
+            69,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Code # 934",
+        "box": [
+            135,
+            827,
+            69,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cade # 639",
+        "box": [
+            131,
+            842,
+            75,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1920 Packs",
+        "box": [
+            347,
+            754,
+            79,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1920 Packs",
+        "box": [
+            349,
+            769,
+            77,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "960 Packs",
+        "box": [
+            357,
+            784,
+            69,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "960 Packs",
+        "box": [
+            354,
+            797,
+            70,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1920 Packs",
+        "box": [
+            347,
+            812,
+            76,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1920 Packs",
+        "box": [
+            347,
+            827,
+            77,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1920 Packs",
+        "box": [
+            349,
+            842,
+            75,
+            12
+        ],
+        "class": "value_answer"
+    }
+]

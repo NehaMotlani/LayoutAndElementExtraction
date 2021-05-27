@@ -1,0 +1,618 @@
+﻿[
+    {
+        "value": "17,000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            68,
+            206,
+            51,
+            15
+        ]
+    },
+    {
+        "value": "8.000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            73,
+            234,
+            45,
+            18
+        ]
+    },
+    {
+        "value": "16.000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            70,
+            264,
+            51,
+            13
+        ]
+    },
+    {
+        "value": "19.000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            68,
+            294,
+            50,
+            15
+        ]
+    },
+    {
+        "value": "25,500",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            203,
+            206,
+            47,
+            15
+        ]
+    },
+    {
+        "value": "18,000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            203,
+            238,
+            47,
+            13
+        ]
+    },
+    {
+        "value": "20,000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            201,
+            264,
+            50,
+            15
+        ]
+    },
+    {
+        "value": "29,000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            199,
+            294,
+            51,
+            15
+        ]
+    },
+    {
+        "value": "4,000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            140,
+            266,
+            48,
+            13
+        ]
+    },
+    {
+        "value": "10,000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            135,
+            234,
+            50,
+            13
+        ]
+    },
+    {
+        "value": "8,500",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            138,
+            209,
+            47,
+            12
+        ]
+    },
+    {
+        "value": "10.000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            136,
+            294,
+            45,
+            12
+        ]
+    },
+    {
+        "value": "6450",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            272,
+            206,
+            37,
+            17
+        ]
+    },
+    {
+        "value": "6460",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            274,
+            234,
+            35,
+            18
+        ]
+    },
+    {
+        "value": "6470",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            272,
+            262,
+            33,
+            15
+        ]
+    },
+    {
+        "value": "6560",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            272,
+            292,
+            37,
+            18
+        ]
+    },
+    {
+        "value": "Consumer",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            324,
+            204,
+            61,
+            15
+        ]
+    },
+    {
+        "value": "Consumer",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            326,
+            238,
+            60,
+            13
+        ]
+    },
+    {
+        "value": "Consumer",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            326,
+            261,
+            63,
+            20
+        ]
+    },
+    {
+        "value": "Special",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            324,
+            297,
+            55,
+            12
+        ]
+    },
+    {
+        "value": "30,000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            576,
+            204,
+            48,
+            20
+        ]
+    },
+    {
+        "value": "28,000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            578,
+            236,
+            48,
+            17
+        ]
+    },
+    {
+        "value": "20,000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            578,
+            264,
+            48,
+            17
+        ]
+    },
+    {
+        "value": "42,000",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            576,
+            294,
+            50,
+            13
+        ]
+    },
+    {
+        "value": "4,500)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            636,
+            206,
+            60,
+            17
+        ]
+    },
+    {
+        "value": "(10,000)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            636,
+            238,
+            60,
+            17
+        ]
+    },
+    {
+        "value": "(13,000)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            638,
+            292,
+            58,
+            18
+        ]
+    },
+    {
+        "value": "Sales",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            135,
+            93,
+            38,
+            15
+        ]
+    },
+    {
+        "value": "ITEM",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            422,
+            146,
+            37,
+            18
+        ]
+    },
+    {
+        "value": "Division",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            53,
+            98,
+            68,
+            13
+        ]
+    },
+    {
+        "value": "Department",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            282,
+            100,
+            73,
+            13
+        ]
+    },
+    {
+        "value": "LT-1.71",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            664,
+            65,
+            35,
+            12
+        ]
+    },
+    {
+        "value": "60,000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            70,
+            899,
+            47,
+            20
+        ]
+    },
+    {
+        "value": "32,500",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            133,
+            899,
+            45,
+            20
+        ]
+    },
+    {
+        "value": "92,500",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            193,
+            900,
+            55,
+            17
+        ]
+    },
+    {
+        "value": "120,000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            576,
+            900,
+            50,
+            18
+        ]
+    },
+    {
+        "value": "27,500",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            638,
+            904,
+            50,
+            15
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            317,
+            939,
+            111,
+            12
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            570,
+            930,
+            123,
+            27
+        ]
+    },
+    {
+        "value": "APPROVAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            316,
+            927,
+            63,
+            10
+        ]
+    },
+    {
+        "value": "APPROVAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            570,
+            925,
+            61,
+            10
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            316,
+            897,
+            37,
+            13
+        ]
+    },
+    {
+        "value": "91104867",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            684,
+            771,
+            23,
+            75
+        ]
+    },
+    {
+        "value": "DEPARTMENT EXPENSE BUDGET SUMMARY",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            241,
+            51,
+            248,
+            10
+        ]
+    },
+    {
+        "value": "LORILLARD DIVISION DE LOEW'S CORP.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            58,
+            58,
+            178,
+            28
+        ]
+    },
+    {
+        "value": "Domestic Tax Free",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            359,
+            93,
+            131,
+            15
+        ]
+    },
+    {
+        "value": "Dept. Code No.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            520,
+            81,
+            65,
+            30
+        ]
+    },
+    {
+        "value": "ACTUAL 8 MONTHS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            58,
+            159,
+            63,
+            32
+        ]
+    },
+    {
+        "value": "PROJECTED 4 MONTHS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            125,
+            158,
+            64,
+            29
+        ]
+    },
+    {
+        "value": "TOTAL YEAR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            198,
+            159,
+            42,
+            28
+        ]
+    },
+    {
+        "value": "ACCOUNT NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            257,
+            145,
+            51,
+            29
+        ]
+    },
+    {
+        "value": "PROJECTED CURRENT YEAR EXPENSES 19",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            73,
+            121,
+            165,
+            34
+        ]
+    },
+    {
+        "value": "BUDGET YEAR 19",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            580,
+            148,
+            47,
+            38
+        ]
+    },
+    {
+        "value": "VS. CURRENT YEAR (INCR.) DECR.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            641,
+            126,
+            58,
+            68
+        ]
+    },
+    {
+        "value": "Form P.O. 1049-A 788",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            576,
+            50,
+            155,
+            21
+        ]
+    },
+    {
+        "value": "DATE SUBMITTED AND DEPT. MANAGER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            65,
+            925,
+            234,
+            13
+        ]
+    }
+]

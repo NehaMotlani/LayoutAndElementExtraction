@@ -1,0 +1,783 @@
+﻿[
+    {
+        "value": "LORILLARD",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            341,
+            110,
+            59,
+            14
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            473,
+            204,
+            34,
+            14
+        ]
+    },
+    {
+        "value": "SCOPE:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            115,
+            286,
+            46,
+            17
+        ]
+    },
+    {
+        "value": "*EXPLAIN:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            115,
+            309,
+            70,
+            20
+        ]
+    },
+    {
+        "value": "AREA",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            233,
+            285,
+            32,
+            14
+        ]
+    },
+    {
+        "value": "REGION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            318,
+            285,
+            50,
+            13
+        ]
+    },
+    {
+        "value": "DIVISION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            420,
+            282,
+            67,
+            15
+        ]
+    },
+    {
+        "value": "OTHER*",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            549,
+            279,
+            49,
+            17
+        ]
+    },
+    {
+        "value": "EXCELLENT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            550,
+            374,
+            73,
+            15
+        ]
+    },
+    {
+        "value": "EXCELLENT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            552,
+            413,
+            71,
+            14
+        ]
+    },
+    {
+        "value": "EXCELLENT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            552,
+            453,
+            71,
+            15
+        ]
+    },
+    {
+        "value": "EXCELLENT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            552,
+            492,
+            74,
+            15
+        ]
+    },
+    {
+        "value": "GOOD",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            476,
+            374,
+            35,
+            15
+        ]
+    },
+    {
+        "value": "GOOD",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            478,
+            415,
+            34,
+            14
+        ]
+    },
+    {
+        "value": "GOOD",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            479,
+            454,
+            32,
+            15
+        ]
+    },
+    {
+        "value": "GOOD",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            479,
+            493,
+            35,
+            15
+        ]
+    },
+    {
+        "value": "POOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            337,
+            377,
+            31,
+            14
+        ]
+    },
+    {
+        "value": "FAIR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            408,
+            415,
+            32,
+            17
+        ]
+    },
+    {
+        "value": "FAIR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            408,
+            376,
+            31,
+            15
+        ]
+    },
+    {
+        "value": "POOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            337,
+            416,
+            32,
+            14
+        ]
+    },
+    {
+        "value": "POOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            338,
+            457,
+            32,
+            14
+        ]
+    },
+    {
+        "value": "FAIR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            406,
+            455,
+            34,
+            15
+        ]
+    },
+    {
+        "value": "FAIR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            409,
+            494,
+            31,
+            15
+        ]
+    },
+    {
+        "value": "POOR",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            338,
+            494,
+            32,
+            15
+        ]
+    },
+    {
+        "value": "COMMENTS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            117,
+            535,
+            71,
+            17
+        ]
+    },
+    {
+        "value": "*EXPLAIN:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            123,
+            708,
+            70,
+            17
+        ]
+    },
+    {
+        "value": "YES",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            412,
+            679,
+            22,
+            14
+        ]
+    },
+    {
+        "value": "NO*",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            499,
+            679,
+            24,
+            14
+        ]
+    },
+    {
+        "value": "NO",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            508,
+            758,
+            15,
+            13
+        ]
+    },
+    {
+        "value": "YES",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            420,
+            758,
+            24,
+            15
+        ]
+    },
+    {
+        "value": "92094751",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            648,
+            784,
+            14,
+            60
+        ]
+    },
+    {
+        "value": "28",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            180,
+            236,
+            15,
+            11
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            518,
+            284,
+            14,
+            11
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            318,
+            416,
+            11,
+            14
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            321,
+            457,
+            8,
+            11
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            321,
+            494,
+            10,
+            11
+        ]
+    },
+    {
+        "value": "X",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            387,
+            680,
+            11,
+            13
+        ]
+    },
+    {
+        "value": "x",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            487,
+            758,
+            10,
+            11
+        ]
+    },
+    {
+        "value": "09 /07 /35 15 15:48:48",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            66,
+            109,
+            98,
+            13
+        ]
+    },
+    {
+        "value": "317 8450971",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            187,
+            109,
+            81,
+            13
+        ]
+    },
+    {
+        "value": "001 /002",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            587,
+            108,
+            55,
+            15
+        ]
+    },
+    {
+        "value": "SPECIAL PROMOTION EVALUATION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            258,
+            151,
+            221,
+            16
+        ]
+    },
+    {
+        "value": "03/ 07/ 415415 & 418418",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            120,
+            193,
+            108,
+            14
+        ]
+    },
+    {
+        "value": "AREA REGION DIVISION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            112,
+            208,
+            162,
+            14
+        ]
+    },
+    {
+        "value": "9/ 8 /95",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            434,
+            190,
+            39,
+            15
+        ]
+    },
+    {
+        "value": "PROMO #",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            112,
+            233,
+            60,
+            17
+        ]
+    },
+    {
+        "value": "PROMOTIONAL PERIOD:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            327,
+            229,
+            146,
+            18
+        ]
+    },
+    {
+        "value": "June /July 1995",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            494,
+            229,
+            94,
+            15
+        ]
+    },
+    {
+        "value": "ITEM/ BRAND",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            115,
+            261,
+            86,
+            14
+        ]
+    },
+    {
+        "value": "Newport Sunglasses",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            211,
+            258,
+            123,
+            15
+        ]
+    },
+    {
+        "value": "Newport Special Emphasis",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            194,
+            311,
+            159,
+            16
+        ]
+    },
+    {
+        "value": "CHAIN ACCEPTANCE:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            116,
+            377,
+            134,
+            15
+        ]
+    },
+    {
+        "value": "N/ A",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            260,
+            376,
+            21,
+            15
+        ]
+    },
+    {
+        "value": "INDEPENDENT ACCEPTANCE:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            117,
+            416,
+            182,
+            17
+        ]
+    },
+    {
+        "value": "CONSUMER ACCEPTANCE:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            117,
+            457,
+            157,
+            14
+        ]
+    },
+    {
+        "value": "EFFICIENCY RATING:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            119,
+            496,
+            139,
+            17
+        ]
+    },
+    {
+        "value": "Premiums packaged to large to store on a van. Could not get",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            203,
+            531,
+            396,
+            17
+        ]
+    },
+    {
+        "value": "enough on a van to sell all day. Retailers only accepted small quantities of deals. Consumers perceived value and not meet expectations.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            120,
+            560,
+            486,
+            41
+        ]
+    },
+    {
+        "value": "22, 320 (Indy East & West) NO SHOW SAMPLES",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            303,
+            651,
+            273,
+            17
+        ]
+    },
+    {
+        "value": "#ITEMS/ DEALS RECEIVED:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            122,
+            654,
+            171,
+            15
+        ]
+    },
+    {
+        "value": "WERE QUANTITIES APPROPRIATE?",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            120,
+            680,
+            223,
+            16
+        ]
+    },
+    {
+        "value": "Chain stores will not accept multiple Newport Promotions",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            214,
+            704,
+            367,
+            18
+        ]
+    },
+    {
+        "value": "(Tier system) at the same time.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            123,
+            735,
+            199,
+            15
+        ]
+    },
+    {
+        "value": "SHOULD PROMOTION BE REPEATED?",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            122,
+            758,
+            227,
+            20
+        ]
+    },
+    {
+        "value": "IF NO, EXPLAIN:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            123,
+            788,
+            115,
+            15
+        ]
+    },
+    {
+        "value": "This model/ type of sunglass was not received well at",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            247,
+            784,
+            340,
+            15
+        ]
+    },
+    {
+        "value": "consumer/ retail level.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            123,
+            813,
+            142,
+            13
+        ]
+    },
+    {
+        "value": "IF YES, CAN IT BE IMPROVED?",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            123,
+            838,
+            213,
+            17
+        ]
+    },
+    {
+        "value": "Velcro on strap did not hold. Two right",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            345,
+            835,
+            267,
+            16
+        ]
+    },
+    {
+        "value": "sides of velcro on same glass did not adhere.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            126,
+            860,
+            292,
+            19
+        ]
+    },
+    {
+        "value": "R 9 95",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            591,
+            881,
+            57,
+            80
+        ]
+    }
+]

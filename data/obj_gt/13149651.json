@@ -1,0 +1,752 @@
+﻿[
+    {
+        "text": "☑",
+        "box": [
+            263,
+            117,
+            10,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ORIGINAL",
+        "box": [
+            275,
+            117,
+            47,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Subject",
+        "box": [
+            46,
+            162,
+            32,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "State:",
+        "box": [
+            71,
+            205,
+            27,
+            8
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Local:",
+        "box": [
+            73,
+            297,
+            27,
+            8
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "",
+        "box": [
+            71,
+            339,
+            8,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1.",
+        "box": [
+            70,
+            316,
+            10,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "3.",
+        "box": [
+            249,
+            311,
+            10,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "4.",
+        "box": [
+            250,
+            335,
+            8,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☑",
+        "box": [
+            443,
+            221,
+            11,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "☑",
+        "box": [
+            568,
+            229,
+            11,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Yes",
+        "box": [
+            582,
+            232,
+            17,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐",
+        "box": [
+            448,
+            316,
+            10,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐",
+        "box": [
+            448,
+            328,
+            11,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☑",
+        "box": [
+            60,
+            388,
+            11,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "☑",
+        "box": [
+            170,
+            385,
+            13,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "GPR",
+        "box": [
+            73,
+            390,
+            21,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PRO",
+        "box": [
+            184,
+            387,
+            21,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Agency",
+        "box": [
+            67,
+            858,
+            34,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "262-6423",
+        "box": [
+            513,
+            860,
+            56,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Date",
+        "box": [
+            581,
+            845,
+            21,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2-2-83",
+        "box": [
+            588,
+            860,
+            43,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "680534113",
+        "box": [
+            662,
+            722,
+            21,
+            116
+        ],
+        "class": "other"
+    },
+    {
+        "text": "1981 Session",
+        "box": [
+            564,
+            70,
+            71,
+            19
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Amendment No. if Applicable",
+        "box": [
+            507,
+            117,
+            122,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LRB 1946",
+        "box": [
+            529,
+            103,
+            58,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LRB Or Bill No. han Au No",
+        "box": [
+            506,
+            89,
+            131,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ UPDATED",
+        "box": [
+            358,
+            115,
+            60,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ SUPPLEMENTAL",
+        "box": [
+            359,
+            127,
+            88,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ CORRECTED",
+        "box": [
+            261,
+            130,
+            74,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FISCAL ESTIMATE AD MBA 23 (Rev 11/80",
+        "box": [
+            45,
+            88,
+            107,
+            25
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Regulation of Smoking Public Places",
+        "box": [
+            81,
+            163,
+            264,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Fiscal Effect",
+        "box": [
+            47,
+            189,
+            60,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Asumptions Used in Arriving at Fiscal Estimate",
+        "box": [
+            53,
+            399,
+            197,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "This bill regulates smoking in university buildings which house educational programs and in inpatient health care facilities. Smoking within these or rooms, provided buildings would be allowed only specified facilities designate these \"smoking permitted\" areas. that signs are posted to",
+        "box": [
+            89,
+            405,
+            520,
+            68
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "university buildings would each It is estimated that, on the average, The per \"smoking signs. sign cost is require about three permitted\" This estimate is based on the estimated at $4 50 in 1982-83 dollars. 1981 increased to reflect Inflation from 1981 to 1983. per sign cost, and Thus, the expected one-time cost for the University Systet to implement no be about There are significant the provisions of the bill would $8,000. with the bill's provisions. continuing annual costs associated",
+        "box": [
+            91,
+            475,
+            523,
+            109
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Long Range Fiscal Implications",
+        "box": [
+            66,
+            775,
+            130,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "University of Wisconsin System",
+        "box": [
+            103,
+            870,
+            213,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Authorized Signature Telephone No. ",
+        "box": [
+            348,
+            839,
+            156,
+            54
+        ],
+        "class": "other"
+    },
+    {
+        "text": "680534113 RODUCED FROM B&W WEB SITE",
+        "box": [
+            0,
+            951,
+            231,
+            32
+        ],
+        "class": "other"
+    },
+    {
+        "text": "☐ No State Fiscal Effect",
+        "box": [
+            109,
+            201,
+            105,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Check columns below only if bill makes a rect appropriation or affect a sum sufficient appropriation.",
+        "box": [
+            122,
+            214,
+            252,
+            28
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ Increase Existing Appropriation",
+        "box": [
+            110,
+            247,
+            144,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ Decrease Existing Appropriation",
+        "box": [
+            110,
+            260,
+            147,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ Create New Appropriation",
+        "box": [
+            110,
+            274,
+            123,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ Increase Existing Revenues",
+        "box": [
+            271,
+            242,
+            123,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ Decrease Existing Revenues",
+        "box": [
+            271,
+            256,
+            126,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ Decrease Costs",
+        "box": [
+            444,
+            250,
+            75,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ No",
+        "box": [
+            610,
+            229,
+            27,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Increase Costs - May Be Possible to Absorb",
+        "box": [
+            457,
+            216,
+            182,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Within Agency's Budget",
+        "box": [
+            455,
+            233,
+            101,
+            11
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "☐ No oca government cost",
+        "box": [
+            110,
+            295,
+            122,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "5. Types of Local Governmental Unit Aflected:",
+        "box": [
+            433,
+            300,
+            200,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "☐ Villages",
+        "box": [
+            518,
+            313,
+            47,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ Others",
+        "box": [
+            518,
+            325,
+            40,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ Cities",
+        "box": [
+            602,
+            311,
+            36,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ Mandatory",
+        "box": [
+            360,
+            342,
+            58,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ SEG-S",
+        "box": [
+            323,
+            380,
+            41,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ SEG",
+        "box": [
+            271,
+            383,
+            32,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ PRS",
+        "box": [
+            228,
+            384,
+            32,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ FED",
+        "box": [
+            115,
+            387,
+            35,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Fund Source Affected",
+        "box": [
+            54,
+            374,
+            94,
+            12
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Affected Ch. 20 Appropriations",
+        "box": [
+            383,
+            365,
+            131,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "20. 285 1 (a), 1 (b), 1 (im)",
+        "box": [
+            408,
+            374,
+            163,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ Increase Revenues",
+        "box": [
+            260,
+            309,
+            88,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ Permissive",
+        "box": [
+            292,
+            320,
+            54,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ Mandatory",
+        "box": [
+            358,
+            318,
+            60,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ Decrease Revenues",
+        "box": [
+            261,
+            334,
+            88,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ Permissive",
+        "box": [
+            293,
+            345,
+            53,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Mandatory",
+        "box": [
+            177,
+            346,
+            59,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ Mandatory",
+        "box": [
+            177,
+            321,
+            59,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ Permissive",
+        "box": [
+            112,
+            324,
+            55,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Permane",
+        "box": [
+            113,
+            349,
+            56,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Decreas Corts",
+        "box": [
+            81,
+            338,
+            74,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ Increase Costs",
+        "box": [
+            80,
+            313,
+            72,
+            11
+        ],
+        "class": "value_question"
+    }
+]

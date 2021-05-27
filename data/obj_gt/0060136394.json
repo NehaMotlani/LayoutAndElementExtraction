@@ -1,0 +1,272 @@
+﻿[
+    {
+        "text": "SIGNED",
+        "box": [
+            226,
+            412,
+            43,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            520,
+            411,
+            34,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TOTAL:",
+        "box": [
+            506,
+            356,
+            43,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            35,
+            309,
+            109,
+            31
+        ],
+        "class": "other"
+    },
+    {
+        "text": "CLIENT",
+        "box": [
+            208,
+            145,
+            42,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PROGRAM",
+        "box": [
+            207,
+            172,
+            59,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "STATIONS",
+        "box": [
+            247,
+            196,
+            53,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            246,
+            221,
+            49,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "RS#39",
+        "box": [
+            85,
+            20,
+            38,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "RS",
+        "box": [
+            36,
+            10,
+            20,
+            8
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Accounting",
+        "box": [
+            56,
+            77,
+            57,
+            7
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Batten, Barton, Durstine & Osborn INCORPORATED CHANGE IN RADIO SCHEDULE",
+        "box": [
+            209,
+            57,
+            507,
+            74
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "WHAS 11/3/56 10/26/57",
+        "box": [
+            654,
+            10,
+            61,
+            64
+        ],
+        "class": "other"
+    },
+    {
+        "text": "THE AMERICAN TOBACCO COMPANY (LUCKY STRIKE)",
+        "box": [
+            309,
+            134,
+            320,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1/2 HOUR PROGRAMES",
+        "box": [
+            313,
+            165,
+            121,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "WHAS LOUISVILLE, KENTUCKY",
+        "box": [
+            309,
+            191,
+            210,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CONTRACT #1032",
+        "box": [
+            310,
+            218,
+            103,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ENTIRE SCHEDULE CANCELLED LAST BROADCAST SATURDAY, APRIL 13, 1957",
+        "box": [
+            175,
+            240,
+            458,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "REVISED CONTRACT TOTALS.",
+        "box": [
+            176,
+            271,
+            172,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "24 @ $ 150.00 TIME",
+        "box": [
+            359,
+            296,
+            161,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "24 @ $ 125.00 NET TALENT",
+        "box": [
+            359,
+            324,
+            172,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$ 6.600.00",
+        "box": [
+            561,
+            351,
+            78,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "APRIL 1,1957",
+        "box": [
+            584,
+            408,
+            96,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "HOPE MARTINEZ",
+        "box": [
+            309,
+            409,
+            95,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Form No. RA 905",
+        "box": [
+            54,
+            439,
+            77,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "GEN'L ACCT DEPT. APTEKICKSER MURIEL, KAMNIT PRE MALARA (2) HOPE MARTINEZ",
+        "box": [
+            34,
+            152,
+            124,
+            71
+        ],
+        "class": "other"
+    },
+    {
+        "text": "M. BOGGIANO Director) FRANK TOWERS",
+        "box": [
+            36,
+            94,
+            108,
+            45
+        ],
+        "class": "other"
+    }
+]

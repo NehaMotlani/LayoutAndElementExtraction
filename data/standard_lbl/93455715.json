@@ -1,0 +1,409 @@
+﻿[
+    {
+        "value": "DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            67,
+            178,
+            37,
+            24
+        ]
+    },
+    {
+        "value": "MANUFACTURERS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            63,
+            271,
+            111,
+            16
+        ]
+    },
+    {
+        "value": "4/7/88",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            118,
+            184,
+            55,
+            16
+        ]
+    },
+    {
+        "value": "93455715",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            681,
+            810,
+            18,
+            93
+        ]
+    },
+    {
+        "value": "cc:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            58,
+            720,
+            27,
+            13
+        ]
+    },
+    {
+        "value": "COMPETITIVE ACTIVITIES AND PROMOTIONS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            247,
+            64,
+            276,
+            24
+        ]
+    },
+    {
+        "value": "REPORTED BY:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            66,
+            136,
+            88,
+            24
+        ]
+    },
+    {
+        "value": "R. E. Klein, Regional Sales Manager, Cleveland, OH",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            184,
+            136,
+            443,
+            22
+        ]
+    },
+    {
+        "value": "SOURCE OF INFORMATION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            67,
+            223,
+            162,
+            22
+        ]
+    },
+    {
+        "value": "Best Cigarette Co., Mentor, OH",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            247,
+            225,
+            270,
+            21
+        ]
+    },
+    {
+        "value": "R. J. REYNOLDS AND PHILIP MORRIS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            193,
+            271,
+            283,
+            18
+        ]
+    },
+    {
+        "value": "TYPE OF PROMOTION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            58,
+            358,
+            138,
+            18
+        ]
+    },
+    {
+        "value": "SEE ATTACHED CORRESPONDENCE REGARDING:",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            207,
+            364,
+            340,
+            16
+        ]
+    },
+    {
+        "value": "- R. J. REYNOLDS SPRING DIRECT ACCOUNT INCENTIVE PROGRAM",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            187,
+            391,
+            500,
+            18
+        ]
+    },
+    {
+        "value": "- Philip Morris- SPECIAL PROMOTIONS ON MAKLBORO AND CAMBRIDGE CIGARETTES",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            187,
+            418,
+            467,
+            48
+        ]
+    },
+    {
+        "value": "HOW WIDESPREAD?",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            61,
+            485,
+            111,
+            22
+        ]
+    },
+    {
+        "value": "OTHER COMMENTS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            60,
+            533,
+            113,
+            19
+        ]
+    },
+    {
+        "value": "Mr. J. R. Ave",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            102,
+            720,
+            100,
+            17
+        ]
+    },
+    {
+        "value": "Mr. T. L. Achey",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            283,
+            722,
+            115,
+            18
+        ]
+    },
+    {
+        "value": "P. J. McCann",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            283,
+            737,
+            124,
+            17
+        ]
+    },
+    {
+        "value": "Mr. A. J. Giacoio",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            281,
+            751,
+            132,
+            18
+        ]
+    },
+    {
+        "value": "Mr. L. H. Kersh",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            283,
+            766,
+            112,
+            16
+        ]
+    },
+    {
+        "value": "Mr. R. G. Ryan",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            284,
+            781,
+            105,
+            15
+        ]
+    },
+    {
+        "value": "Mr. P. A. Lawless",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            281,
+            793,
+            128,
+            18
+        ]
+    },
+    {
+        "value": "Mr. J. E. Daghlian",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            284,
+            810,
+            134,
+            14
+        ]
+    },
+    {
+        "value": "Mr. R. S. Goldbrenner",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            281,
+            823,
+            155,
+            16
+        ]
+    },
+    {
+        "value": "Ms. E. R. Harrow",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            281,
+            837,
+            123,
+            16
+        ]
+    },
+    {
+        "value": "Ms. S. F. Smith",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            278,
+            850,
+            118,
+            16
+        ]
+    },
+    {
+        "value": "Mr. N. P. Ruffalo",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            100,
+            862,
+            128,
+            16
+        ]
+    },
+    {
+        "value": "Mr. C. Toti",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            102,
+            847,
+            81,
+            20
+        ]
+    },
+    {
+        "value": "Dr. S. T. Jones",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            100,
+            835,
+            113,
+            15
+        ]
+    },
+    {
+        "value": "Mr. G. R. Telford",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            100,
+            820,
+            130,
+            17
+        ]
+    },
+    {
+        "value": "Mr. L. Gordon",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            102,
+            805,
+            99,
+            18
+        ]
+    },
+    {
+        "value": "Mr. J. P. Mastandrea",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            103,
+            793,
+            150,
+            15
+        ]
+    },
+    {
+        "value": "Ms. S. Ridgway",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            102,
+            778,
+            106,
+            14
+        ]
+    },
+    {
+        "value": "Mr. M. A. Peterson Mr. T. H. Mau",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            100,
+            750,
+            137,
+            29
+        ]
+    },
+    {
+        "value": "Mr. R. H. Orcutt",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            100,
+            737,
+            123,
+            13
+        ]
+    }
+]

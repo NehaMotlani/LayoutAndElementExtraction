@@ -1,0 +1,288 @@
+﻿[
+    {
+        "value": "TO:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            68,
+            28,
+            20
+        ]
+    },
+    {
+        "value": "FROM:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            103,
+            46,
+            17
+        ]
+    },
+    {
+        "value": "SUBJECT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            138,
+            70,
+            15
+        ]
+    },
+    {
+        "value": "DISTRIBUTION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            39,
+            198,
+            103,
+            21
+        ]
+    },
+    {
+        "value": "ACCOUNT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            187,
+            335,
+            68,
+            18
+        ]
+    },
+    {
+        "value": "100'S",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            550,
+            334,
+            35,
+            14
+        ]
+    },
+    {
+        "value": "9131506",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            694,
+            749,
+            18,
+            92
+        ]
+    },
+    {
+        "value": "R. H. ORCUTT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            98,
+            67,
+            100,
+            20
+        ]
+    },
+    {
+        "value": "SUBMISSION DATE:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            483,
+            64,
+            136,
+            17
+        ]
+    },
+    {
+        "value": "OCT 3 ☐",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            464,
+            98,
+            93,
+            17
+        ]
+    },
+    {
+        "value": "OCT 31 ☐",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            465,
+            116,
+            92,
+            17
+        ]
+    },
+    {
+        "value": "DEC 26 ☐",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            575,
+            96,
+            84,
+            19
+        ]
+    },
+    {
+        "value": "JAN 23 ☐",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            575,
+            116,
+            87,
+            17
+        ]
+    },
+    {
+        "value": "HARLEY- DAVIDSON 100'S CIGARETTES PROGRESS REPORT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            115,
+            133,
+            408,
+            21
+        ]
+    },
+    {
+        "value": "EFFECTIVENESS OF PRE- SELL (REPORT ON OCT. 3 ONLY).",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            148,
+            194,
+            406,
+            21
+        ]
+    },
+    {
+        "value": "DIRECT ACCOUNT AND CHAIN VOIDS (USE X TO INDICATE A VOID).",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            42,
+            288,
+            457,
+            23
+        ]
+    },
+    {
+        "value": "NO. STORES",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            451,
+            320,
+            57,
+            28
+        ]
+    },
+    {
+        "value": "LTS. 100'S.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            594,
+            318,
+            35,
+            29
+        ]
+    },
+    {
+        "value": "% OF DISTRIBUTION ACHIEVED IN RETAIL OUTLETS:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            42,
+            559,
+            359,
+            21
+        ]
+    },
+    {
+        "value": "% CLASSIFIED CALLS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            304,
+            588,
+            130,
+            17
+        ]
+    },
+    {
+        "value": "% ANNUAL CALLS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            306,
+            610,
+            109,
+            15
+        ]
+    },
+    {
+        "value": "PROMOTIONAL IMPACT:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            42,
+            644,
+            169,
+            21
+        ]
+    },
+    {
+        "value": "$.50 OFF PACK:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            679,
+            93,
+            17
+        ]
+    },
+    {
+        "value": "SALES FORCE 20'S:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            43,
+            756,
+            115,
+            17
+        ]
+    },
+    {
+        "value": "$5.00 OFF CARTON:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            42,
+            832,
+            116,
+            17
+        ]
+    },
+    {
+        "value": "1 of 2",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            39,
+            923,
+            35,
+            17
+        ]
+    }
+]

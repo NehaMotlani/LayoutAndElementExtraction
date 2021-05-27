@@ -1,0 +1,792 @@
+﻿[
+    {
+        "text": "Date:",
+        "box": [
+            64,
+            103,
+            30,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Description:",
+        "box": [
+            64,
+            120,
+            70,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Supplier",
+        "box": [
+            153,
+            228,
+            51,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Budgeted:",
+        "box": [
+            296,
+            160,
+            57,
+            12
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Yes",
+        "box": [
+            470,
+            138,
+            25,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Yes",
+        "box": [
+            472,
+            156,
+            25,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "3,000",
+        "box": [
+            407,
+            237,
+            34,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "58,500",
+        "box": [
+            500,
+            234,
+            40,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "X",
+        "box": [
+            522,
+            138,
+            15,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "X",
+        "box": [
+            524,
+            154,
+            19,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "No",
+        "box": [
+            555,
+            135,
+            18,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No",
+        "box": [
+            555,
+            153,
+            21,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No.",
+        "box": [
+            518,
+            88,
+            27,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Wave",
+        "box": [
+            72,
+            410,
+            33,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(s)",
+        "box": [
+            103,
+            410,
+            19,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Qualatative",
+        "box": [
+            419,
+            431,
+            66,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$",
+        "box": [
+            476,
+            497,
+            12,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Analyst",
+        "box": [
+            195,
+            668,
+            45,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Date:",
+        "box": [
+            466,
+            641,
+            37,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date:",
+        "box": [
+            467,
+            677,
+            36,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date:",
+        "box": [
+            467,
+            705,
+            34,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date:",
+        "box": [
+            469,
+            735,
+            40,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date:",
+        "box": [
+            469,
+            763,
+            34,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Original:",
+        "box": [
+            85,
+            871,
+            43,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CC:",
+        "box": [
+            82,
+            885,
+            25,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MRADOM",
+        "box": [
+            85,
+            906,
+            37,
+            12
+        ],
+        "class": "other"
+    },
+    {
+        "text": "MA ETING RESEARCH AUTHORIZ ON",
+        "box": [
+            204,
+            24,
+            296,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "(DOMESTIC) (Recommended Proposal Attached)",
+        "box": [
+            246,
+            42,
+            213,
+            32
+        ],
+        "class": "other"
+    },
+    {
+        "text": "2/ 26/ 98",
+        "box": [
+            168,
+            99,
+            42,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "KOOL Natural Lights Packaging - Round I",
+        "box": [
+            169,
+            109,
+            226,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1998 -18D",
+        "box": [
+            555,
+            88,
+            53,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Requested by:",
+        "box": [
+            66,
+            148,
+            79,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Nick Wilkerson",
+        "box": [
+            171,
+            145,
+            84,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Research Req. Attached:",
+        "box": [
+            296,
+            141,
+            141,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Original Budgeted Amount:",
+        "box": [
+            277,
+            172,
+            154,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Competitive Proposals Obtained:",
+        "box": [
+            67,
+            195,
+            188,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cost ($)",
+        "box": [
+            320,
+            223,
+            43,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Est. Travel",
+        "box": [
+            397,
+            219,
+            62,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Total Cost",
+        "box": [
+            487,
+            217,
+            60,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Cost per Interview",
+        "box": [
+            575,
+            202,
+            54,
+            27
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "$ 55,500",
+        "box": [
+            304,
+            240,
+            49,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Rabid Research",
+        "box": [
+            66,
+            246,
+            90,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Proiected External Authorization Date",
+        "box": [
+            69,
+            307,
+            221,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "2 /26 /98",
+        "box": [
+            469,
+            299,
+            43,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "w /o 3/ 23 /98",
+        "box": [
+            449,
+            332,
+            63,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "w/ o 4/ 6/ 98",
+        "box": [
+            449,
+            379,
+            60,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Field Complete",
+        "box": [
+            72,
+            343,
+            89,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Wave (s)",
+        "box": [
+            73,
+            358,
+            46,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Final Supplier Report Due",
+        "box": [
+            73,
+            389,
+            149,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Project Type (Product Test, A & U, etc.)",
+        "box": [
+            73,
+            437,
+            220,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "$ 58,500",
+        "box": [
+            436,
+            464,
+            46,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$ 58,500",
+        "box": [
+            440,
+            481,
+            45,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Total Authorized Project Amount",
+        "box": [
+            73,
+            473,
+            192,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "To Be Deducted from 1998 Budget",
+        "box": [
+            90,
+            488,
+            200,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "To Be Deducted from 1999 Budget",
+        "box": [
+            90,
+            504,
+            200,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Sample Size:",
+        "box": [
+            78,
+            573,
+            73,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "12 groups",
+        "box": [
+            205,
+            569,
+            63,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Recommended Supplier:",
+        "box": [
+            76,
+            588,
+            141,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Reason (s) for Recommendation:",
+        "box": [
+            76,
+            605,
+            183,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Rabid Research",
+        "box": [
+            305,
+            582,
+            87,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Rabid was selected due to the critical timing of the project and the lack of availability of other suppliers",
+        "box": [
+            308,
+            591,
+            327,
+            39
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Submitted By:",
+        "box": [
+            79,
+            653,
+            87,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            81,
+            683,
+            82,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            82,
+            714,
+            83,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            79,
+            743,
+            86,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            84,
+            774,
+            84,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Senior VP Marketing (to $ 1,000,000)",
+        "box": [
+            201,
+            780,
+            195,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Director Market Research (to $ 250,000)",
+        "box": [
+            198,
+            753,
+            193,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Director Research Development (to $ 250,000)",
+        "box": [
+            199,
+            722,
+            212,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Autos Mgr. Trade & Consumer Research (to $ 100,000)",
+        "box": [
+            192,
+            663,
+            235,
+            50
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "naid",
+        "box": [
+            187,
+            635,
+            160,
+            31
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "B 90",
+        "box": [
+            527,
+            627,
+            70,
+            31
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            533,
+            660,
+            70,
+            27
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1998 -18D",
+        "box": [
+            564,
+            796,
+            58,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Project No.:",
+        "box": [
+            469,
+            799,
+            73,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Acct. Name:",
+        "box": [
+            472,
+            820,
+            73,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Project File",
+        "box": [
+            139,
+            868,
+            58,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MaDonna Sliker",
+        "box": [
+            138,
+            883,
+            85,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "220076948 PRODUCED FROM B&W WEB SITE",
+        "box": [
+            7,
+            951,
+            228,
+            32
+        ],
+        "class": "other"
+    }
+]

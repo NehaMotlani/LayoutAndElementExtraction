@@ -1,0 +1,816 @@
+﻿[
+    {
+        "value": "Title",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            45,
+            209,
+            46,
+            15
+        ]
+    },
+    {
+        "value": "OVERALL:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            46,
+            501,
+            71,
+            15
+        ]
+    },
+    {
+        "value": "SEX:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            45,
+            557,
+            36,
+            15
+        ]
+    },
+    {
+        "value": "AGE:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            45,
+            644,
+            39,
+            14
+        ]
+    },
+    {
+        "value": "BRAND SMOKER",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            45,
+            814,
+            116,
+            14
+        ]
+    },
+    {
+        "value": "Male",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            46,
+            574,
+            41,
+            11
+        ]
+    },
+    {
+        "value": "465508326",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            487,
+            883,
+            116,
+            25
+        ]
+    },
+    {
+        "value": "Female",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            46,
+            587,
+            53,
+            13
+        ]
+    },
+    {
+        "value": "6",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            366,
+            823,
+            15,
+            15
+        ]
+    },
+    {
+        "value": "7",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            370,
+            837,
+            8,
+            17
+        ]
+    },
+    {
+        "value": "(17)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            411,
+            823,
+            43,
+            17
+        ]
+    },
+    {
+        "value": "(205)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            412,
+            839,
+            45,
+            14
+        ]
+    },
+    {
+        "value": "3.1",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            208,
+            742,
+            28,
+            13
+        ]
+    },
+    {
+        "value": "4.2",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            211,
+            754,
+            25,
+            15
+        ]
+    },
+    {
+        "value": "(129)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            263,
+            740,
+            39,
+            15
+        ]
+    },
+    {
+        "value": "(95)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            261,
+            753,
+            39,
+            17
+        ]
+    },
+    {
+        "value": "5",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            366,
+            739,
+            13,
+            14
+        ]
+    },
+    {
+        "value": "9",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            367,
+            753,
+            14,
+            14
+        ]
+    },
+    {
+        "value": "(117)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            412,
+            737,
+            39,
+            17
+        ]
+    },
+    {
+        "value": "(105)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            415,
+            753,
+            38,
+            17
+        ]
+    },
+    {
+        "value": "(63)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            261,
+            655,
+            41,
+            14
+        ]
+    },
+    {
+        "value": "(66)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            263,
+            669,
+            39,
+            14
+        ]
+    },
+    {
+        "value": "(46)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            263,
+            684,
+            39,
+            13
+        ]
+    },
+    {
+        "value": "(49)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            263,
+            697,
+            38,
+            15
+        ]
+    },
+    {
+        "value": "3.2",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            208,
+            655,
+            27,
+            15
+        ]
+    },
+    {
+        "value": "3.0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            208,
+            670,
+            29,
+            13
+        ]
+    },
+    {
+        "value": "4.4",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            209,
+            683,
+            28,
+            14
+        ]
+    },
+    {
+        "value": "4.0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            209,
+            698,
+            27,
+            15
+        ]
+    },
+    {
+        "value": "1.9",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            209,
+            568,
+            25,
+            17
+        ]
+    },
+    {
+        "value": "5.0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            208,
+            585,
+            29,
+            13
+        ]
+    },
+    {
+        "value": "(104)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            261,
+            568,
+            39,
+            17
+        ]
+    },
+    {
+        "value": "(120)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            263,
+            585,
+            38,
+            14
+        ]
+    },
+    {
+        "value": "7",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            365,
+            567,
+            14,
+            15
+        ]
+    },
+    {
+        "value": "7",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            367,
+            584,
+            14,
+            13
+        ]
+    },
+    {
+        "value": "(101)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            415,
+            568,
+            36,
+            14
+        ]
+    },
+    {
+        "value": "(121)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            413,
+            582,
+            36,
+            15
+        ]
+    },
+    {
+        "value": "3.4%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            208,
+            496,
+            34,
+            20
+        ]
+    },
+    {
+        "value": "(224)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            261,
+            500,
+            39,
+            14
+        ]
+    },
+    {
+        "value": "7%",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            369,
+            497,
+            17,
+            15
+        ]
+    },
+    {
+        "value": "(222)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            412,
+            496,
+            36,
+            17
+        ]
+    },
+    {
+        "value": "BELAIR",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            144,
+            180,
+            59,
+            13
+        ]
+    },
+    {
+        "value": "285",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            609,
+            203,
+            29,
+            17
+        ]
+    },
+    {
+        "value": "%",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            209,
+            457,
+            17,
+            15
+        ]
+    },
+    {
+        "value": "%",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            365,
+            457,
+            15,
+            14
+        ]
+    },
+    {
+        "value": "SCORE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            196,
+            443,
+            45,
+            15
+        ]
+    },
+    {
+        "value": "BASE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            263,
+            443,
+            39,
+            15
+        ]
+    },
+    {
+        "value": "SCORE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            349,
+            443,
+            45,
+            14
+        ]
+    },
+    {
+        "value": "BASE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            416,
+            443,
+            36,
+            14
+        ]
+    },
+    {
+        "value": "PM6",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            237,
+            427,
+            31,
+            14
+        ]
+    },
+    {
+        "value": "COMMENTS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            553,
+            426,
+            71,
+            15
+        ]
+    },
+    {
+        "value": "Brand",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            45,
+            182,
+            47,
+            15
+        ]
+    },
+    {
+        "value": "NEWSPAPER SCORES AUDIENCE STUDIES",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            281,
+            84,
+            138,
+            43
+        ]
+    },
+    {
+        "value": "\" KALEIDOSCOPE - - GONE WITH THE WIND \" *",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            145,
+            205,
+            298,
+            17
+        ]
+    },
+    {
+        "value": "Project #",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            483,
+            176,
+            81,
+            15
+        ]
+    },
+    {
+        "value": "Total Sample",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            483,
+            205,
+            103,
+            15
+        ]
+    },
+    {
+        "value": "72- 31",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            609,
+            173,
+            46,
+            16
+        ]
+    },
+    {
+        "value": "Code #",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            43,
+            239,
+            57,
+            14
+        ]
+    },
+    {
+        "value": "Type of Ad",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            47,
+            264,
+            89,
+            20
+        ]
+    },
+    {
+        "value": "Newspaper (Date)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            47,
+            292,
+            137,
+            20
+        ]
+    },
+    {
+        "value": "R/ BSS- 71- 19",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            147,
+            235,
+            96,
+            16
+        ]
+    },
+    {
+        "value": "PARADE, 1 Page, 4- Color",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            149,
+            263,
+            194,
+            15
+        ]
+    },
+    {
+        "value": "PROVED RECALL",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            341,
+            426,
+            114,
+            17
+        ]
+    },
+    {
+        "value": "*This was a combination ad with RALEIGH.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            480,
+            499,
+            198,
+            30
+        ]
+    },
+    {
+        "value": "Under 25",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            43,
+            655,
+            76,
+            17
+        ]
+    },
+    {
+        "value": "25- 34",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            46,
+            670,
+            45,
+            15
+        ]
+    },
+    {
+        "value": "35- 44",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            49,
+            684,
+            45,
+            16
+        ]
+    },
+    {
+        "value": "45 & Over",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            49,
+            700,
+            81,
+            18
+        ]
+    },
+    {
+        "value": "Under 35 35 & Over",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            46,
+            742,
+            80,
+            30
+        ]
+    },
+    {
+        "value": "Test Brand Smokers",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            46,
+            828,
+            159,
+            15
+        ]
+    },
+    {
+        "value": "All Other Smokers",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            46,
+            841,
+            151,
+            15
+        ]
+    },
+    {
+        "value": "Pittsburgh Pittsburgh PUTSBURGH PRESS (4 /23 /72",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            215,
+            289,
+            401,
+            20
+        ]
+    },
+    {
+        "value": "San Diego SAN DIEGO UNION (4 /23 /72",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            216,
+            317,
+            400,
+            20
+        ]
+    },
+    {
+        "value": "Dayton DAYTON NEWS (4 /23 /72)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            216,
+            345,
+            401,
+            22
+        ]
+    },
+    {
+        "value": "Birmingham BIRMINGHAM NEWS (4 /23 /72)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            212,
+            372,
+            404,
+            21
+        ]
+    }
+]

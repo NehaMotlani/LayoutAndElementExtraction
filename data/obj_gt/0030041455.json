@@ -1,0 +1,132 @@
+﻿[
+    {
+        "text": "5",
+        "box": [
+            327,
+            237,
+            13,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0",
+        "box": [
+            330,
+            272,
+            11,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2",
+        "box": [
+            324,
+            115,
+            14,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "A",
+        "box": [
+            742,
+            885,
+            24,
+            27
+        ],
+        "class": "other"
+    },
+    {
+        "text": "KOOL & GPC GOLF BAG SURVEY",
+        "box": [
+            198,
+            38,
+            289,
+            22
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Section Number",
+        "box": [
+            52,
+            113,
+            110,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Section Sales Manager's Name",
+        "box": [
+            53,
+            148,
+            217,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Peter Hatch",
+        "box": [
+            341,
+            149,
+            81,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Please place the following order for KOOL and/ or GPC Golf Bags for my Section:",
+        "box": [
+            50,
+            201,
+            548,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "KOOL Golf Bags",
+        "box": [
+            60,
+            239,
+            114,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "GPC Golf Bags",
+        "box": [
+            71,
+            272,
+            100,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Send the completed survey to Linda Daniels in Field Supply via fax (502- 568- 7189) OR CC: Mail no later than June 7.",
+        "box": [
+            53,
+            324,
+            582,
+            39
+        ],
+        "class": "other"
+    },
+    {
+        "text": "0022A wk4",
+        "box": [
+            53,
+            383,
+            52,
+            12
+        ],
+        "class": "other"
+    }
+]

@@ -1,0 +1,312 @@
+﻿[
+    {
+        "text": "DATE:",
+        "box": [
+            61,
+            207,
+            36,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "INITIATED",
+        "box": [
+            61,
+            235,
+            68,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BY:",
+        "box": [
+            134,
+            236,
+            22,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COMPLETION",
+        "box": [
+            60,
+            261,
+            78,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "COUNTRY:",
+        "box": [
+            59,
+            320,
+            60,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PRODUCT:",
+        "box": [
+            59,
+            348,
+            60,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BELGIUM",
+        "box": [
+            191,
+            321,
+            56,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BY:",
+        "box": [
+            56,
+            549,
+            24,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE:",
+        "box": [
+            56,
+            591,
+            36,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NOTES:",
+        "box": [
+            54,
+            626,
+            46,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "620429480",
+        "box": [
+            501,
+            839,
+            122,
+            32
+        ],
+        "class": "other"
+    },
+    {
+        "text": "RECEIVED",
+        "box": [
+            527,
+            162,
+            94,
+            27
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SERVICE REQUEST FROM R & D BY INTERNATIONAL LICENSEE OPERATIONS",
+        "box": [
+            214,
+            94,
+            241,
+            46
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "",
+        "box": [
+            563,
+            11,
+            104,
+            40
+        ],
+        "class": "other"
+    },
+    {
+        "text": "REQUEST NO.:",
+        "box": [
+            60,
+            177,
+            89,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "25- 84",
+        "box": [
+            196,
+            177,
+            36,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "March 27, 1984",
+        "box": [
+            191,
+            207,
+            108,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "P. H. HARPER PHH",
+        "box": [
+            193,
+            221,
+            153,
+            31
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "TARGET DATE:",
+        "box": [
+            74,
+            292,
+            90,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "April 13, 1984",
+        "box": [
+            191,
+            292,
+            105,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LUCKY STRIKE Filter and VICEROY",
+        "box": [
+            193,
+            348,
+            229,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "NATURE OF WORK:",
+        "box": [
+            59,
+            377,
+            108,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Advise if locally obtained Yucatan Honey (sample enclosed) is an acceptable substitute for HALWAY.",
+        "box": [
+            168,
+            404,
+            359,
+            33
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "R & D COMMENTS:",
+        "box": [
+            56,
+            462,
+            97,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Target the P A 29Mar 84",
+        "box": [
+            183,
+            465,
+            233,
+            75
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "a) Nature of work should be specified in exact terms.",
+        "box": [
+            182,
+            626,
+            393,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "b) R & D should advise if completion date cannot be met.",
+        "box": [
+            180,
+            652,
+            367,
+            29
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "c) Two copies of this form to be sent to R & D by initiator and R & D is to return to T. O. one completed copy.",
+        "box": [
+            179,
+            697,
+            353,
+            43
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MH/ enm",
+        "box": [
+            53,
+            751,
+            48,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "0036/ (r) # 2894M",
+        "box": [
+            53,
+            796,
+            62,
+            28
+        ],
+        "class": "other"
+    },
+    {
+        "text": "APR 2 1984 P. H. H.",
+        "box": [
+            531,
+            193,
+            92,
+            55
+        ],
+        "class": "value_answer"
+    }
+]

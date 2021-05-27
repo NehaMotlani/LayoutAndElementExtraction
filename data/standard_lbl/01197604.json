@@ -1,0 +1,332 @@
+﻿[
+    {
+        "value": "DESCRIPTION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            102,
+            250,
+            94,
+            15
+        ]
+    },
+    {
+        "value": "SMOKER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            103,
+            436,
+            54,
+            18
+        ]
+    },
+    {
+        "value": "REMARKS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            101,
+            708,
+            64,
+            20
+        ]
+    },
+    {
+        "value": "195",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            264,
+            156,
+            28,
+            17
+        ]
+    },
+    {
+        "value": "II",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            263,
+            187,
+            21,
+            17
+        ]
+    },
+    {
+        "value": "01197604",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            665,
+            768,
+            18,
+            95
+        ]
+    },
+    {
+        "value": "SAMPLE DESCRIPTION:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            102,
+            126,
+            147,
+            19
+        ]
+    },
+    {
+        "value": "Tar Number:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            141,
+            158,
+            85,
+            18
+        ]
+    },
+    {
+        "value": "Batch Number:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            140,
+            186,
+            100,
+            19
+        ]
+    },
+    {
+        "value": "Tobacco Number:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            141,
+            218,
+            116,
+            18
+        ]
+    },
+    {
+        "value": "Sample No. 1166, RD 308",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            265,
+            218,
+            188,
+            18
+        ]
+    },
+    {
+        "value": "OLD GOLD Straights + 3% KNO3",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            212,
+            249,
+            214,
+            18
+        ]
+    },
+    {
+        "value": "SAMPLE WEIGHT:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            106,
+            311,
+            104,
+            17
+        ]
+    },
+    {
+        "value": "300 mm. tar, 100 mm acetone",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            226,
+            310,
+            223,
+            19
+        ]
+    },
+    {
+        "value": "METHOD OF PREPARATION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            103,
+            345,
+            168,
+            15
+        ]
+    },
+    {
+        "value": "Water removed by co- distillation with acetone under vacum at 45 C.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            288,
+            342,
+            344,
+            48
+        ]
+    },
+    {
+        "value": "NUMBER OF CIGARETTES SMOKED:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            102,
+            405,
+            214,
+            17
+        ]
+    },
+    {
+        "value": "100 unit",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            212,
+            434,
+            61,
+            18
+        ]
+    },
+    {
+        "value": "Railway Express",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            209,
+            464,
+            119,
+            19
+        ]
+    },
+    {
+        "value": "Dr. Dietrich Hoffman The Kettering New York, New York",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            212,
+            494,
+            182,
+            79
+        ]
+    },
+    {
+        "value": "SHIPPED VIA:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            103,
+            468,
+            92,
+            17
+        ]
+    },
+    {
+        "value": "SHIPPED TO:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            101,
+            497,
+            86,
+            17
+        ]
+    },
+    {
+        "value": "November 2, 1965",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            263,
+            585,
+            124,
+            18
+        ]
+    },
+    {
+        "value": "150 gm",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            264,
+            617,
+            52,
+            17
+        ]
+    },
+    {
+        "value": "February, 136",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            261,
+            647,
+            106,
+            18
+        ]
+    },
+    {
+        "value": "SUPPLIED UNTIL:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            102,
+            649,
+            119,
+            16
+        ]
+    },
+    {
+        "value": "REQUIREMENTS /MP.:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            102,
+            616,
+            133,
+            20
+        ]
+    },
+    {
+        "value": "DATE SHIPPED:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            102,
+            589,
+            99,
+            15
+        ]
+    },
+    {
+        "value": "Moisture content of tar .48% as determined by near infrared spectroscopy",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            120,
+            708,
+            508,
+            46
+        ]
+    },
+    {
+        "value": "11 /2",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            102,
+            922,
+            34,
+            17
+        ]
+    }
+]

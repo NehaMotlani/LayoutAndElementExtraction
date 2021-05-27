@@ -1,0 +1,376 @@
+﻿[
+    {
+        "value": "BRAND",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            141,
+            249,
+            34,
+            11
+        ]
+    },
+    {
+        "value": "DESCRIPTION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            142,
+            278,
+            64,
+            10
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            141,
+            307,
+            27,
+            10
+        ]
+    },
+    {
+        "value": "WARNING",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            141,
+            422,
+            47,
+            11
+        ]
+    },
+    {
+        "value": "7559",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            191,
+            216,
+            24,
+            13
+        ]
+    },
+    {
+        "value": "BKOOL",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            186,
+            247,
+            34,
+            13
+        ]
+    },
+    {
+        "value": "NA",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            172,
+            465,
+            13,
+            10
+        ]
+    },
+    {
+        "value": "Signature",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            166,
+            524,
+            41,
+            10
+        ]
+    },
+    {
+        "value": "Department",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            342,
+            520,
+            53,
+            13
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            486,
+            518,
+            22,
+            11
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            486,
+            633,
+            21,
+            11
+        ]
+    },
+    {
+        "value": "Department",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            342,
+            634,
+            50,
+            11
+        ]
+    },
+    {
+        "value": "Signature",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            165,
+            634,
+            43,
+            15
+        ]
+    },
+    {
+        "value": "REVISIONS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            142,
+            735,
+            53,
+            11
+        ]
+    },
+    {
+        "value": "BROWN & WILLIAMSON TOBACCO CORPORATION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            211,
+            151,
+            125,
+            26
+        ]
+    },
+    {
+        "value": "B & W",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            144,
+            179,
+            62,
+            27
+        ]
+    },
+    {
+        "value": "JOB NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            141,
+            218,
+            39,
+            11
+        ]
+    },
+    {
+        "value": "CMS Amerada Hess Dispenser Sign",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            212,
+            275,
+            155,
+            13
+        ]
+    },
+    {
+        "value": "12/ 15/ 97",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            180,
+            306,
+            37,
+            11
+        ]
+    },
+    {
+        "value": "261 sq",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            232,
+            334,
+            34,
+            11
+        ]
+    },
+    {
+        "value": "SQ. INCHES/FEET",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            141,
+            334,
+            84,
+            13
+        ]
+    },
+    {
+        "value": "14 1/2 X 18\"",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            193,
+            377,
+            55,
+            13
+        ]
+    },
+    {
+        "value": "TRIM SIZE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            141,
+            378,
+            47,
+            11
+        ]
+    },
+    {
+        "value": "3A 14 1/2\" X 8\" - 116 sq.\"",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            191,
+            422,
+            99,
+            25
+        ]
+    },
+    {
+        "value": "T & N",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            141,
+            465,
+            22,
+            11
+        ]
+    },
+    {
+        "value": "OTT APPROVALS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            142,
+            507,
+            82,
+            14
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            182,
+            531,
+            79,
+            30
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            353,
+            532,
+            47,
+            31
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            489,
+            529,
+            70,
+            31
+        ]
+    },
+    {
+        "value": "B & W APPROVALS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            140,
+            620,
+            88,
+            15
+        ]
+    },
+    {
+        "value": "DATE COMPLETE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            342,
+            732,
+            83,
+            13
+        ]
+    },
+    {
+        "value": "REVISIONS APPROVED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            487,
+            729,
+            110,
+            14
+        ]
+    },
+    {
+        "value": "210350475 PRODUCED FROM B & W WEB SITE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            1,
+            953,
+            230,
+            30
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            514,
+            141,
+            82,
+            71
+        ]
+    }
+]

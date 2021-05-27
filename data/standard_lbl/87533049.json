@@ -1,0 +1,497 @@
+﻿[
+    {
+        "value": "FROM:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            138,
+            137,
+            39,
+            13
+        ]
+    },
+    {
+        "value": "TO:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            137,
+            173,
+            25,
+            14
+        ]
+    },
+    {
+        "value": "cc:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            138,
+            214,
+            22,
+            11
+        ]
+    },
+    {
+        "value": "TRUE",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            423,
+            258,
+            31,
+            13
+        ]
+    },
+    {
+        "value": "N/A",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            425,
+            309,
+            21,
+            14
+        ]
+    },
+    {
+        "value": "N/A",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            425,
+            335,
+            21,
+            14
+        ]
+    },
+    {
+        "value": "N/A",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            425,
+            362,
+            21,
+            11
+        ]
+    },
+    {
+        "value": "$2.00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            425,
+            487,
+            34,
+            13
+        ]
+    },
+    {
+        "value": "Carton",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            423,
+            515,
+            43,
+            10
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            415,
+            549,
+            222,
+            50
+        ]
+    },
+    {
+        "value": "ANALYTICAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            137,
+            663,
+            84,
+            11
+        ]
+    },
+    {
+        "value": "REQUIREMENTS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            228,
+            663,
+            103,
+            11
+        ]
+    },
+    {
+        "value": "87533049",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            655,
+            750,
+            17,
+            80
+        ]
+    },
+    {
+        "value": "530430",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            415,
+            774,
+            94,
+            24
+        ]
+    },
+    {
+        "value": "1112",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            420,
+            802,
+            66,
+            21
+        ]
+    },
+    {
+        "value": "COUPON CODE REGISTRATION FORM",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            268,
+            85,
+            235,
+            15
+        ]
+    },
+    {
+        "value": "J. La Valle",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            225,
+            131,
+            75,
+            16
+        ]
+    },
+    {
+        "value": "S. A. Rapisarldi",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            219,
+            170,
+            130,
+            16
+        ]
+    },
+    {
+        "value": "R. G. Ryan ",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            218,
+            211,
+            89,
+            32
+        ]
+    },
+    {
+        "value": "Brand (s) Applicable",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            186,
+            261,
+            158,
+            15
+        ]
+    },
+    {
+        "value": "Media Type",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            187,
+            286,
+            82,
+            14
+        ]
+    },
+    {
+        "value": "Media Name",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            187,
+            311,
+            82,
+            14
+        ]
+    },
+    {
+        "value": "*Issue Frequency / Year",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            179,
+            337,
+            170,
+            13
+        ]
+    },
+    {
+        "value": "* Space / Color",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            180,
+            362,
+            98,
+            14
+        ]
+    },
+    {
+        "value": "Coupon Issue Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            189,
+            387,
+            137,
+            13
+        ]
+    },
+    {
+        "value": "Coupon Expiration Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            187,
+            411,
+            177,
+            15
+        ]
+    },
+    {
+        "value": "Circulation (#)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            187,
+            436,
+            119,
+            14
+        ]
+    },
+    {
+        "value": "Geographical Area (s)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            189,
+            461,
+            157,
+            15
+        ]
+    },
+    {
+        "value": "Coupon Value",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            189,
+            487,
+            96,
+            15
+        ]
+    },
+    {
+        "value": "Pack and / or Carton?",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            189,
+            513,
+            152,
+            12
+        ]
+    },
+    {
+        "value": "* Advertising Creative Title",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            180,
+            538,
+            219,
+            14
+        ]
+    },
+    {
+        "value": "Signature of Initiator",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            179,
+            587,
+            180,
+            15
+        ]
+    },
+    {
+        "value": "Date Initiated",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            179,
+            612,
+            114,
+            14
+        ]
+    },
+    {
+        "value": "May 3, 1990",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            422,
+            612,
+            76,
+            14
+        ]
+    },
+    {
+        "value": "ON - Carton Instant Redeemable",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            423,
+            285,
+            188,
+            13
+        ]
+    },
+    {
+        "value": "10 / 90",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            425,
+            383,
+            33,
+            14
+        ]
+    },
+    {
+        "value": "6 / 30 / 91",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            423,
+            408,
+            48,
+            14
+        ]
+    },
+    {
+        "value": "1. 213, 400",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            425,
+            436,
+            60,
+            11
+        ]
+    },
+    {
+        "value": "National",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            423,
+            461,
+            53,
+            13
+        ]
+    },
+    {
+        "value": "True Filter King Carton",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            425,
+            535,
+            152,
+            14
+        ]
+    },
+    {
+        "value": "Break - out separately byl packing as indicated",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            349,
+            659,
+            294,
+            13
+        ]
+    },
+    {
+        "value": "FOR CONTROL USE ONLY :",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            300,
+            760,
+            168,
+            15
+        ]
+    },
+    {
+        "value": "Code Assigned",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            300,
+            785,
+            105,
+            14
+        ]
+    },
+    {
+        "value": "Job Number",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            300,
+            811,
+            82,
+            13
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            142,
+            860,
+            136,
+            13
+        ]
+    }
+]

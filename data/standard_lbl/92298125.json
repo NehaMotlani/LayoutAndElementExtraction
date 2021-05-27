@@ -1,0 +1,222 @@
+﻿[
+    {
+        "value": "TO:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            94,
+            225,
+            28,
+            17
+        ]
+    },
+    {
+        "value": "FROM:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            95,
+            256,
+            47,
+            17
+        ]
+    },
+    {
+        "value": "DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            288,
+            41,
+            14
+        ]
+    },
+    {
+        "value": "RE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            353,
+            25,
+            14
+        ]
+    },
+    {
+        "value": "PAGES:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            320,
+            50,
+            18
+        ]
+    },
+    {
+        "value": "92298125",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            630,
+            809,
+            14,
+            68
+        ]
+    },
+    {
+        "value": "JAN 19 96 05:27 PM AB RESEARCH ASSOC.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            88,
+            82,
+            246,
+            17
+        ]
+    },
+    {
+        "value": "P 1/ 16",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            598,
+            81,
+            42,
+            13
+        ]
+    },
+    {
+        "value": "AB Research Associates, Inc.",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            74,
+            115,
+            275,
+            31
+        ]
+    },
+    {
+        "value": "TELECOPIER TRANSMITTAL COVER SHEET",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            215,
+            186,
+            291,
+            21
+        ]
+    },
+    {
+        "value": "Revisions",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            539,
+            169,
+            116,
+            128
+        ]
+    },
+    {
+        "value": "MARY MAZZA",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            176,
+            222,
+            95,
+            17
+        ]
+    },
+    {
+        "value": "Pam Churchill",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            177,
+            253,
+            88,
+            18
+        ]
+    },
+    {
+        "value": "JAN 19. 1995",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            179,
+            285,
+            87,
+            18
+        ]
+    },
+    {
+        "value": "(Including this cover sheet)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            303,
+            314,
+            166,
+            19
+        ]
+    },
+    {
+        "value": "CIGARETTE QUESTIONNAIRE",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            189,
+            348,
+            195,
+            18
+        ]
+    },
+    {
+        "value": "Here is yet another version of the questionnaire. Please note that the last 2 pages are at the alternate versions that we discussed. Take a look at the alternate Q9 to try to get at the intensity issue, and maybe we can improve on it from here.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            98,
+            425,
+            536,
+            54
+        ]
+    },
+    {
+        "value": "By the way, we received 13 more signature cards today and sent the cigarettes out. We are now up to 74 respondents who have been sent cigarettes. Hopefully we will get a lot of callbacks this weekend.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            101,
+            486,
+            534,
+            56
+        ]
+    },
+    {
+        "value": "Talk you Monday. Thanks",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            102,
+            556,
+            182,
+            18
+        ]
+    },
+    {
+        "value": "41 Kenosia Avenue, Danbury, CT 06810 Phone 203 794- 0323 Fax 203 748- 6304",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            117,
+            934,
+            504,
+            20
+        ]
+    }
+]

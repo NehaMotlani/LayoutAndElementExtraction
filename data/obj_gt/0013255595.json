@@ -1,0 +1,172 @@
+﻿[
+    {
+        "text": "DATE:",
+        "box": [
+            91,
+            158,
+            43,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SUBJECT:",
+        "box": [
+            89,
+            187,
+            71,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "WRITER:",
+        "box": [
+            89,
+            240,
+            59,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "APPROVALS:",
+        "box": [
+            87,
+            286,
+            91,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Other:",
+        "box": [
+            87,
+            508,
+            56,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "YES",
+        "box": [
+            439,
+            426,
+            31,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NO",
+        "box": [
+            570,
+            433,
+            20,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            602,
+            323,
+            42,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PUBLIC COMMUNICATIONS APPROVAL SHEET The Tobacco Institute",
+        "box": [
+            218,
+            91,
+            307,
+            49
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Attachment A",
+        "box": [
+            539,
+            53,
+            102,
+            22
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "NAME OR INITIALS",
+        "box": [
+            415,
+            314,
+            141,
+            24
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Division Head",
+        "box": [
+            88,
+            342,
+            110,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Bill Kloepfer",
+        "box": [
+            87,
+            367,
+            113,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Sam Chilcote",
+        "box": [
+            88,
+            397,
+            103,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Legal Approval Recommended/ Required:",
+        "box": [
+            88,
+            425,
+            306,
+            22
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "SH &B",
+        "box": [
+            88,
+            448,
+            35,
+            20
+        ],
+        "class": "other"
+    },
+    {
+        "text": "C& B",
+        "box": [
+            87,
+            479,
+            31,
+            17
+        ],
+        "class": "other"
+    }
+]

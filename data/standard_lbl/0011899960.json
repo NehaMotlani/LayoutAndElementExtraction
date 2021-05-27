@@ -1,0 +1,332 @@
+﻿[
+    {
+        "value": "Attention",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            15,
+            102,
+            80,
+            18
+        ]
+    },
+    {
+        "value": "Copies",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            15,
+            159,
+            56,
+            18
+        ]
+    },
+    {
+        "value": "Department",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            430,
+            106,
+            88,
+            15
+        ]
+    },
+    {
+        "value": "Subject",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            314,
+            159,
+            59,
+            17
+        ]
+    },
+    {
+        "value": "7",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            603,
+            43,
+            50,
+            46
+        ]
+    },
+    {
+        "value": "Publication",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            18,
+            237,
+            95,
+            24
+        ]
+    },
+    {
+        "value": "Time",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            348,
+            296,
+            38,
+            15
+        ]
+    },
+    {
+        "value": "Date",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            515,
+            297,
+            35,
+            17
+        ]
+    },
+    {
+        "value": "RECEIVED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            552,
+            736,
+            68,
+            20
+        ]
+    },
+    {
+        "value": "516007780",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            642,
+            708,
+            20,
+            122
+        ]
+    },
+    {
+        "value": "DR. HUGHES, MESSRS. ALAR, SANDEFUR,",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            102,
+            101,
+            299,
+            24
+        ]
+    },
+    {
+        "value": "CORPORATE AFFAIRS",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            524,
+            103,
+            145,
+            21
+        ]
+    },
+    {
+        "value": "BLOTT, BUTLER, MIDDLETON, CHRISTENSEN, PEPPLES, SACHS FREEDMAN",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            103,
+            128,
+            534,
+            23
+        ]
+    },
+    {
+        "value": "T. HUMBER, M. BATEMAN",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            85,
+            158,
+            180,
+            21
+        ]
+    },
+    {
+        "value": "L&M Lawsuit",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            406,
+            159,
+            97,
+            17
+        ]
+    },
+    {
+        "value": "PRESS QUERY",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            253,
+            209,
+            188,
+            22
+        ]
+    },
+    {
+        "value": "ADWEEK - Midwest",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            151,
+            240,
+            139,
+            20
+        ]
+    },
+    {
+        "value": "Reporter/ Editor",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            15,
+            270,
+            134,
+            19
+        ]
+    },
+    {
+        "value": "Fran Brock (312) 467- 6500",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            186,
+            267,
+            469,
+            23
+        ]
+    },
+    {
+        "value": "Received by",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            18,
+            296,
+            96,
+            18
+        ]
+    },
+    {
+        "value": "Mark Ahearn",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            133,
+            296,
+            100,
+            15
+        ]
+    },
+    {
+        "value": "1: 45 P. M.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            406,
+            292,
+            75,
+            24
+        ]
+    },
+    {
+        "value": "7/ 9/ 84",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            581,
+            295,
+            56,
+            19
+        ]
+    },
+    {
+        "value": "Deadline for response",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            18,
+            323,
+            178,
+            20
+        ]
+    },
+    {
+        "value": "Already handled",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            218,
+            324,
+            134,
+            20
+        ]
+    },
+    {
+        "value": "Describe the storyline, list the questions and proposed answers, and summarize handling, including clearances.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            17,
+            349,
+            663,
+            37
+        ]
+    },
+    {
+        "value": "Ms. Brock requested information regarding L&M lawsuit. I provided the approved prepared response.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            18,
+            433,
+            594,
+            37
+        ]
+    },
+    {
+        "value": "Reporter then requested clarification of generic cigarette vs. 'private label cigarette' and asked to be notified when further announcements regarding generics were made.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            17,
+            473,
+            660,
+            50
+        ]
+    },
+    {
+        "value": "J. M. A. JMA",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            314,
+            528,
+            126,
+            49
+        ]
+    },
+    {
+        "value": "JUL 10 1984 JOHN ALAR",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            547,
+            764,
+            92,
+            47
+        ]
+    }
+]

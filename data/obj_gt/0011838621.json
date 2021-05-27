@@ -1,0 +1,622 @@
+﻿[
+    {
+        "text": "Date:",
+        "box": [
+            53,
+            131,
+            34,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Description:",
+        "box": [
+            56,
+            156,
+            77,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Supplier:",
+        "box": [
+            56,
+            183,
+            59,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No.",
+        "box": [
+            436,
+            124,
+            21,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "27",
+        "box": [
+            475,
+            123,
+            15,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Decrease",
+        "box": [
+            244,
+            242,
+            54,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Reasons:",
+        "box": [
+            57,
+            297,
+            52,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": ".08",
+        "box": [
+            465,
+            237,
+            22,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".08",
+        "box": [
+            465,
+            261,
+            21,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PROJECTED:",
+        "box": [
+            56,
+            372,
+            68,
+            10
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "1.488.126.23",
+        "box": [
+            447,
+            399,
+            80,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".08",
+        "box": [
+            506,
+            422,
+            22,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0",
+        "box": [
+            401,
+            465,
+            13,
+            11
+        ],
+        "class": "other"
+    },
+    {
+        "text": "1.488.126.15",
+        "box": [
+            448,
+            513,
+            80,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1.471.873.85",
+        "box": [
+            448,
+            563,
+            81,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "cc:",
+        "box": [
+            61,
+            763,
+            22,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            380,
+            665,
+            27,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            381,
+            703,
+            28,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "International.",
+        "box": [
+            465,
+            777,
+            87,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "464537440",
+        "box": [
+            507,
+            813,
+            105,
+            24
+        ],
+        "class": "other"
+    },
+    {
+        "text": "MD Davis",
+        "box": [
+            156,
+            656,
+            141,
+            27
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            187,
+            693,
+            127,
+            29
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "INTERNATIONAL MARKETING RESEARCH CHANGE OF AUTHORIZED COST",
+        "box": [
+            200,
+            88,
+            209,
+            28
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "6/ 21/ 90",
+        "box": [
+            98,
+            128,
+            50,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Hong Kong: Cigarette Market Monitor",
+        "box": [
+            152,
+            149,
+            236,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MDR. HK",
+        "box": [
+            130,
+            179,
+            50,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Total Cost",
+        "box": [
+            341,
+            200,
+            67,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1990 Cost",
+        "box": [
+            439,
+            197,
+            57,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Previous Commitments This Project",
+        "box": [
+            54,
+            215,
+            230,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Amt. of Change:",
+        "box": [
+            57,
+            243,
+            97,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Increase X",
+        "box": [
+            161,
+            240,
+            73,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$ 43.335.00",
+        "box": [
+            330,
+            212,
+            77,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$ 4.376.47",
+        "box": [
+            330,
+            237,
+            77,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$ 47.711.47",
+        "box": [
+            331,
+            264,
+            78,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(10% Change)",
+        "box": [
+            254,
+            251,
+            77,
+            19
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Adjusted Total Cost of Project:",
+        "box": [
+            53,
+            265,
+            204,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "$ 0.00",
+        "box": [
+            423,
+            209,
+            62,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Original MRA did not include cost for the first month of the study (see L. Lee memo of September 11, 1989)",
+        "box": [
+            57,
+            310,
+            480,
+            38
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Internal Init. Date",
+        "box": [
+            59,
+            381,
+            123,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Ext. Auth. Date Wave(s)",
+        "box": [
+            59,
+            408,
+            95,
+            27
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Sumary of IMRD Budget",
+        "box": [
+            271,
+            365,
+            147,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "$ 2.960.000.00",
+        "box": [
+            440,
+            374,
+            86,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Total Area Budget:",
+        "box": [
+            274,
+            378,
+            116,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Current Bal. Available:",
+        "box": [
+            272,
+            401,
+            152,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "This Change: (From Current Budget)",
+        "box": [
+            274,
+            427,
+            136,
+            30
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Field Complete Wave(s)",
+        "box": [
+            59,
+            482,
+            94,
+            31
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Final Report Due (Supplier Rpt.) Wave(s)",
+        "box": [
+            60,
+            557,
+            108,
+            43
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "New Balance:",
+        "box": [
+            277,
+            518,
+            78,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Committed to Date: (Current Year)",
+        "box": [
+            277,
+            566,
+            116,
+            29
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "This Amount (From Next Year's Budget)",
+        "box": [
+            272,
+            466,
+            164,
+            28
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "6/ 21/ 90",
+        "box": [
+            430,
+            651,
+            85,
+            32
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4/ 22/ 90",
+        "box": [
+            443,
+            687,
+            75,
+            27
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Project No.",
+        "box": [
+            380,
+            753,
+            71,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Account Name",
+        "box": [
+            381,
+            778,
+            80,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1989- 29",
+        "box": [
+            465,
+            751,
+            47,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Submitted By:",
+        "box": [
+            63,
+            672,
+            84,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            63,
+            709,
+            79,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Original-",
+        "box": [
+            63,
+            750,
+            68,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Project File",
+        "box": [
+            154,
+            744,
+            80,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "MRA File N. W. Kremer",
+        "box": [
+            154,
+            758,
+            83,
+            29
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "N. W. Kremer",
+        "box": [
+            152,
+            721,
+            84,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "M. b. Davis",
+        "box": [
+            151,
+            682,
+            77,
+            15
+        ],
+        "class": "value_question"
+    }
+]

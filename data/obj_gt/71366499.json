@@ -1,0 +1,342 @@
+﻿[
+    {
+        "text": "BRAND",
+        "box": [
+            141,
+            249,
+            34,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DESCRIPTION",
+        "box": [
+            142,
+            278,
+            64,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            141,
+            307,
+            27,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "WARNING",
+        "box": [
+            141,
+            422,
+            47,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "7559",
+        "box": [
+            191,
+            216,
+            24,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BKOOL",
+        "box": [
+            186,
+            247,
+            34,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "NA",
+        "box": [
+            172,
+            465,
+            13,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Signature",
+        "box": [
+            166,
+            524,
+            41,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Department",
+        "box": [
+            342,
+            520,
+            53,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            486,
+            518,
+            22,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            486,
+            633,
+            21,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Department",
+        "box": [
+            342,
+            634,
+            50,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Signature",
+        "box": [
+            165,
+            634,
+            43,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REVISIONS",
+        "box": [
+            142,
+            735,
+            53,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BROWN & WILLIAMSON TOBACCO CORPORATION",
+        "box": [
+            211,
+            151,
+            125,
+            26
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "B & W",
+        "box": [
+            144,
+            179,
+            62,
+            27
+        ],
+        "class": "other"
+    },
+    {
+        "text": "JOB NO.",
+        "box": [
+            141,
+            218,
+            39,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CMS Amerada Hess Dispenser Sign",
+        "box": [
+            212,
+            275,
+            155,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "12/ 15/ 97",
+        "box": [
+            180,
+            306,
+            37,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "261 sq",
+        "box": [
+            232,
+            334,
+            34,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SQ. INCHES/FEET",
+        "box": [
+            141,
+            334,
+            84,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "14 1/2 X 18\"",
+        "box": [
+            193,
+            377,
+            55,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "TRIM SIZE",
+        "box": [
+            141,
+            378,
+            47,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "3A 14 1/2\" X 8\" - 116 sq.\"",
+        "box": [
+            191,
+            422,
+            99,
+            25
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "T & N",
+        "box": [
+            141,
+            465,
+            22,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OTT APPROVALS",
+        "box": [
+            142,
+            507,
+            82,
+            14
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "",
+        "box": [
+            182,
+            531,
+            79,
+            30
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            353,
+            532,
+            47,
+            31
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            489,
+            529,
+            70,
+            31
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "B & W APPROVALS",
+        "box": [
+            140,
+            620,
+            88,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "DATE COMPLETE",
+        "box": [
+            342,
+            732,
+            83,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REVISIONS APPROVED",
+        "box": [
+            487,
+            729,
+            110,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "210350475 PRODUCED FROM B & W WEB SITE",
+        "box": [
+            1,
+            953,
+            230,
+            30
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            514,
+            141,
+            82,
+            71
+        ],
+        "class": "other"
+    }
+]

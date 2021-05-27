@@ -1,0 +1,952 @@
+﻿[
+    {
+        "text": "RE",
+        "box": [
+            603,
+            38,
+            21,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            568,
+            89,
+            39,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Remarks",
+        "box": [
+            43,
+            504,
+            71,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Color",
+        "box": [
+            45,
+            166,
+            49,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Supplier",
+        "box": [
+            49,
+            119,
+            70,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Weight",
+        "box": [
+            223,
+            792,
+            60,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Draw",
+        "box": [
+            330,
+            793,
+            45,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Tars",
+        "box": [
+            469,
+            793,
+            43,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Nicotine",
+        "box": [
+            602,
+            792,
+            77,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "-339",
+        "box": [
+            628,
+            39,
+            36,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".0",
+        "box": [
+            640,
+            117,
+            17,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "6",
+        "box": [
+            623,
+            117,
+            15,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Good",
+        "box": [
+            624,
+            142,
+            41,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Good",
+        "box": [
+            623,
+            168,
+            47,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Good",
+        "box": [
+            626,
+            194,
+            41,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "#450",
+        "box": [
+            624,
+            219,
+            41,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3",
+        "box": [
+            635,
+            250,
+            14,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1067",
+        "box": [
+            626,
+            270,
+            39,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "White",
+        "box": [
+            257,
+            163,
+            50,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "\"D\"",
+        "box": [
+            268,
+            297,
+            31,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "24",
+        "box": [
+            249,
+            349,
+            18,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ".7",
+        "box": [
+            268,
+            348,
+            22,
+            20
+        ],
+        "class": "other"
+    },
+    {
+        "text": ".844",
+        "box": [
+            652,
+            402,
+            38,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SPRING",
+        "box": [
+            346,
+            709,
+            57,
+            24
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "AMF",
+        "box": [
+            226,
+            767,
+            35,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "85",
+        "box": [
+            649,
+            714,
+            28,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Hauni",
+        "box": [
+            588,
+            767,
+            47,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "011221115",
+        "box": [
+            719,
+            872,
+            20,
+            95
+        ],
+        "class": "other"
+    },
+    {
+        "text": "P. LORILLARD CO.",
+        "box": [
+            43,
+            63,
+            146,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "(Revised 5/ 9/ 61)",
+        "box": [
+            109,
+            87,
+            147,
+            22
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SQC -21",
+        "box": [
+            47,
+            88,
+            55,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Bale No.",
+        "box": [
+            46,
+            141,
+            74,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Total Denier as Marked",
+        "box": [
+            45,
+            194,
+            201,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Total Denier as Tested",
+        "box": [
+            46,
+            221,
+            201,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "% Moisture in Tow",
+        "box": [
+            41,
+            244,
+            162,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Maker No.",
+        "box": [
+            42,
+            270,
+            86,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "T. E.",
+        "box": [
+            256,
+            116,
+            39,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "58 ,000",
+        "box": [
+            254,
+            191,
+            59,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Research Division",
+        "box": [
+            204,
+            272,
+            159,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Type of Rod",
+        "box": [
+            42,
+            297,
+            105,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Length of Rod",
+        "box": [
+            43,
+            323,
+            124,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "120 mm.",
+        "box": [
+            237,
+            323,
+            68,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Circ of Rod",
+        "box": [
+            43,
+            348,
+            112,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Mean Draw of Rod",
+        "box": [
+            41,
+            373,
+            153,
+            23
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "0 .12 (new scale)",
+        "box": [
+            251,
+            370,
+            141,
+            24
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "86 .9 gms",
+        "box": [
+            236,
+            397,
+            85,
+            23
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "93 .3 gms.",
+        "box": [
+            240,
+            426,
+            83,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "99 .2 gms.",
+        "box": [
+            239,
+            451,
+            81,
+            24
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "99 .2 gms.",
+        "box": [
+            237,
+            479,
+            85,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Complete Weight",
+        "box": [
+            43,
+            479,
+            140,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Dry Wt. With Adhesive",
+        "box": [
+            45,
+            426,
+            189,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Dry Weight",
+        "box": [
+            45,
+            399,
+            94,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "* Special Plasticizer - 1 part LG- 168 - 15 parts Estrobond \"B\" Union Carbide LG- 168 additive .38%",
+        "box": [
+            140,
+            510,
+            560,
+            36
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Sample repeated as RE- 341 because 2. 1/ 58 ,000 tow was used instead of 2. 1/ 42 ,000 tow.",
+        "box": [
+            158,
+            563,
+            515,
+            34
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RESEARCH DIVISION",
+        "box": [
+            566,
+            64,
+            160,
+            24
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "11 /2 /61",
+        "box": [
+            617,
+            91,
+            67,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "% Plasticizer",
+        "box": [
+            404,
+            112,
+            121,
+            24
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Firmness of Rod",
+        "box": [
+            406,
+            141,
+            140,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Quality of Bloom",
+        "box": [
+            405,
+            166,
+            146,
+            23
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Width of Band",
+        "box": [
+            405,
+            194,
+            120,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Ref. Paper",
+        "box": [
+            405,
+            219,
+            94,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Quan of Trays Produced",
+        "box": [
+            401,
+            247,
+            214,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Rods per Min.",
+        "box": [
+            404,
+            272,
+            118,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Tape Speed",
+        "box": [
+            406,
+            299,
+            93,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "F. P. M. Delivery Roller",
+        "box": [
+            406,
+            323,
+            199,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "F. P. M. No. 1 Roller",
+        "box": [
+            404,
+            351,
+            175,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "F. P. M. No. 2 Roller",
+        "box": [
+            405,
+            376,
+            173,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Delivery Roller over Tape",
+        "box": [
+            405,
+            402,
+            230,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "400 F. P. M.",
+        "box": [
+            626,
+            299,
+            89,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "337 .5",
+        "box": [
+            624,
+            324,
+            49,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "477 .5",
+        "box": [
+            626,
+            351,
+            50,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "362 .5",
+        "box": [
+            628,
+            373,
+            46,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1 .194",
+        "box": [
+            642,
+            429,
+            51,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "120 psig",
+        "box": [
+            626,
+            454,
+            75,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "16 psig",
+        "box": [
+            634,
+            482,
+            68,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Pressure on Air Jet",
+        "box": [
+            404,
+            479,
+            178,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Pump Press. Card Roller",
+        "box": [
+            406,
+            454,
+            209,
+            23
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No. 1 Roller over Tape",
+        "box": [
+            404,
+            427,
+            203,
+            24
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date Made",
+        "box": [
+            45,
+            712,
+            84,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "11 /3 /61",
+        "box": [
+            131,
+            712,
+            64,
+            23
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Tobacco Used",
+        "box": [
+            226,
+            714,
+            112,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Length of Cigarettes",
+        "box": [
+            439,
+            712,
+            184,
+            25
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "% Moisture in Tobacco",
+        "box": [
+            41,
+            736,
+            196,
+            24
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Wt. of Cigarettes /4 oz.",
+        "box": [
+            394,
+            737,
+            211,
+            25
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Type of Maker",
+        "box": [
+            42,
+            764,
+            120,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Type of Tipper",
+        "box": [
+            394,
+            767,
+            131,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Smoking Results",
+        "box": [
+            42,
+            825,
+            144,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": ".922 1 .059 .54 .20 20 .2 7 .6 62 .4 1 .07 .41 61 .7",
+        "box": [
+            194,
+            824,
+            532,
+            25
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Production Supervised by:",
+        "box": [
+            128,
+            859,
+            231,
+            23
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            370,
+            849,
+            341,
+            38
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Benner",
+        "box": [
+            404,
+            887,
+            184,
+            45
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Recearch Engineer",
+        "box": [
+            459,
+            913,
+            155,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Dr. C. O. Jensen Mr. R. A. Wagner Mr. J. Berner Dr. A. W. Spears",
+        "box": [
+            137,
+            899,
+            163,
+            69
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Copies to:",
+        "box": [
+            42,
+            898,
+            92,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Wet Weight",
+        "box": [
+            41,
+            451,
+            97,
+            21
+        ],
+        "class": "value_question"
+    }
+]

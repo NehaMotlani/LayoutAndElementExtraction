@@ -1,0 +1,522 @@
+﻿[
+    {
+        "text": "COMMENTS",
+        "box": [
+            505,
+            427,
+            70,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Brand:",
+        "box": [
+            17,
+            174,
+            53,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Commercial:",
+        "box": [
+            18,
+            201,
+            95,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Supplier:",
+        "box": [
+            17,
+            254,
+            81,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Sample:",
+        "box": [
+            442,
+            198,
+            56,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Chicago:",
+        "box": [
+            20,
+            362,
+            66,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "8/8",
+        "box": [
+            302,
+            359,
+            28,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "98",
+        "box": [
+            189,
+            228,
+            20,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "336",
+        "box": [
+            548,
+            196,
+            27,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(234)",
+        "box": [
+            542,
+            211,
+            43,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Overall",
+        "box": [
+            111,
+            468,
+            61,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CITY",
+        "box": [
+            111,
+            497,
+            35,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Chicago",
+        "box": [
+            111,
+            523,
+            61,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SEX",
+        "box": [
+            108,
+            563,
+            35,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "AGE",
+        "box": [
+            113,
+            630,
+            30,
+            13
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Male",
+        "box": [
+            110,
+            576,
+            38,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Female",
+        "box": [
+            113,
+            590,
+            47,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "16-25",
+        "box": [
+            111,
+            646,
+            47,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "26-35",
+        "box": [
+            113,
+            658,
+            45,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "36-45",
+        "box": [
+            111,
+            669,
+            47,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1.7",
+        "box": [
+            264,
+            467,
+            27,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0.0",
+        "box": [
+            264,
+            508,
+            28,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.3",
+        "box": [
+            264,
+            522,
+            27,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0.0",
+        "box": [
+            266,
+            576,
+            30,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.3",
+        "box": [
+            266,
+            590,
+            28,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0.0",
+        "box": [
+            266,
+            643,
+            28,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0.0",
+        "box": [
+            264,
+            658,
+            30,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "0.0",
+        "box": [
+            266,
+            671,
+            27,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "9.3",
+        "box": [
+            267,
+            683,
+            27,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "465607116",
+        "box": [
+            445,
+            774,
+            118,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "0.0",
+        "box": [
+            266,
+            723,
+            30,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "5.0",
+        "box": [
+            267,
+            738,
+            28,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "P",
+        "box": [
+            613,
+            781,
+            18,
+            40
+        ],
+        "class": "other"
+    },
+    {
+        "text": "MR 1909 (3-69) 100",
+        "box": [
+            8,
+            40,
+            159,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "BROWN & WILLIAMSON TOBACCO CORPORATION FILTER SCORES",
+        "box": [
+            164,
+            63,
+            309,
+            43
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "RALEIGH (BELAIR portion not tested)",
+        "box": [
+            111,
+            171,
+            286,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Project #",
+        "box": [
+            442,
+            169,
+            76,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "1969- 105",
+        "box": [
+            530,
+            169,
+            68,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LAKE- NEW PACK: 40 (with BELAIR Badmin- ton: 20)",
+        "box": [
+            115,
+            198,
+            320,
+            26
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PM6 Base:",
+        "box": [
+            440,
+            214,
+            78,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Code #:",
+        "box": [
+            20,
+            226,
+            59,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BW- RT- 69-",
+        "box": [
+            113,
+            228,
+            76,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "AUDIENCE STUDIES",
+        "box": [
+            113,
+            254,
+            139,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "TEST DATES",
+        "box": [
+            281,
+            294,
+            86,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "L. Angeles",
+        "box": [
+            23,
+            339,
+            93,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "8/5 and 6",
+        "box": [
+            287,
+            331,
+            73,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PM6 SCORES",
+        "box": [
+            252,
+            414,
+            51,
+            29
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "This commercial was tested in color.",
+        "box": [
+            449,
+            467,
+            156,
+            24
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Los ",
+        "box": [
+            106,
+            512,
+            100,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "46 & Over",
+        "box": [
+            111,
+            684,
+            80,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "35 & Under",
+        "box": [
+            115,
+            723,
+            85,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "36 & Over",
+        "box": [
+            113,
+            738,
+            77,
+            15
+        ],
+        "class": "value_question"
+    }
+]

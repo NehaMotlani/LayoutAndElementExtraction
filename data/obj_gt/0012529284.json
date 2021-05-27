@@ -1,0 +1,712 @@
+﻿[
+    {
+        "text": "Date:",
+        "box": [
+            88,
+            85,
+            37,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Description:",
+        "box": [
+            88,
+            112,
+            91,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No.",
+        "box": [
+            493,
+            82,
+            24,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Supplier:",
+        "box": [
+            91,
+            177,
+            66,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Reasons:",
+        "box": [
+            90,
+            290,
+            69,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Increase",
+        "box": [
+            207,
+            235,
+            73,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Decrease",
+        "box": [
+            301,
+            232,
+            64,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            201,
+            431,
+            111,
+            103
+        ],
+        "class": "other"
+    },
+    {
+        "text": "PROJECTED:",
+        "box": [
+            85,
+            394,
+            81,
+            19
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "1987",
+        "box": [
+            573,
+            409,
+            39,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Com-",
+        "box": [
+            226,
+            561,
+            40,
+            12
+        ],
+        "class": "other"
+    },
+    {
+        "text": "cc:",
+        "box": [
+            88,
+            871,
+            27,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            442,
+            810,
+            34,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            443,
+            781,
+            31,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            442,
+            750,
+            33,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            442,
+            722,
+            34,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            442,
+            693,
+            37,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MRD00008",
+        "box": [
+            85,
+            945,
+            64,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "465915249",
+        "box": [
+            608,
+            934,
+            124,
+            28
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            253,
+            829,
+            40,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CHANGE OF AUTHORIZED COST",
+        "box": [
+            289,
+            70,
+            184,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "12- -4 -87",
+        "box": [
+            150,
+            87,
+            66,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "C -5-51",
+        "box": [
+            552,
+            85,
+            36,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CAPRI A&U EXPANSION - CALIFORNIA: WAVE 2 (87 -113) ,",
+        "box": [
+            204,
+            112,
+            449,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "WAVE 3 (87 –114) AND WAVE 4 (87 -115) .",
+        "box": [
+            105,
+            142,
+            321,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Kapuler Marketing Research",
+        "box": [
+            204,
+            177,
+            226,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Previous $ Commitments This Project",
+        "box": [
+            90,
+            202,
+            259,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "$ 212, 475 + 10%",
+        "box": [
+            395,
+            202,
+            136,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Amt. of Change:",
+        "box": [
+            90,
+            232,
+            109,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "$ NA ( % Change)",
+        "box": [
+            397,
+            232,
+            269,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "$ 212, 475 + 10%",
+        "box": [
+            395,
+            262,
+            135,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Adjusted Total Cost of Project:",
+        "box": [
+            90,
+            262,
+            230,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Adjustment due to timing of projects falling into 1988.",
+        "box": [
+            201,
+            319,
+            393,
+            30
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Internal Init. Date",
+        "box": [
+            90,
+            424,
+            142,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Ext. Auth. Date",
+        "box": [
+            88,
+            454,
+            114,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Field Complete",
+        "box": [
+            87,
+            482,
+            112,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Final Report Due (Supplier Rpt.)",
+        "box": [
+            88,
+            512,
+            125,
+            34
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Summary of Research Budget",
+        "box": [
+            323,
+            394,
+            196,
+            19
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "",
+        "box": [
+            543,
+            424,
+            93,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(886, 220. 53)",
+        "box": [
+            540,
+            451,
+            102,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "+14, 165. 00",
+        "box": [
+            545,
+            481,
+            91,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Total Area Budget:",
+        "box": [
+            325,
+            422,
+            132,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Current Balance Available:",
+        "box": [
+            323,
+            454,
+            197,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "This Change: (From Current Budget)",
+        "box": [
+            322,
+            484,
+            159,
+            32
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "This Amount",
+        "box": [
+            323,
+            527,
+            82,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(From Next Year' s Budget)",
+        "box": [
+            326,
+            545,
+            188,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "-14, 165. 00",
+        "box": [
+            421,
+            528,
+            94,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Start plete FR",
+        "box": [
+            174,
+            575,
+            153,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(872, 055. 53)",
+        "box": [
+            540,
+            584,
+            102,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1, 652, 955. 53",
+        "box": [
+            525,
+            644,
+            113,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "12 -4 -87",
+        "box": [
+            549,
+            692,
+            63,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "12 /2 /87",
+        "box": [
+            525,
+            799,
+            125,
+            31
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1987 -113 /114 /115 -CA",
+        "box": [
+            504,
+            867,
+            168,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Project No.",
+        "box": [
+            412,
+            871,
+            86,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Account Name",
+        "box": [
+            407,
+            900,
+            96,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Original -",
+        "box": [
+            90,
+            856,
+            75,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Project File",
+        "box": [
+            169,
+            856,
+            93,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "S. Willinger (3)",
+        "box": [
+            168,
+            870,
+            119,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "G. D. Raphael",
+        "box": [
+            166,
+            888,
+            99,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "V. Hansberry (If Int.)",
+        "box": [
+            160,
+            900,
+            175,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Budget Check",
+        "box": [
+            85,
+            811,
+            100,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            85,
+            781,
+            96,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            88,
+            749,
+            88,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Approved By:",
+        "box": [
+            88,
+            722,
+            90,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Submitted By:",
+        "box": [
+            87,
+            692,
+            97,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "S. L. Willinger",
+        "box": [
+            210,
+            692,
+            126,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Committed To Date:",
+        "box": [
+            323,
+            645,
+            135,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "New Balance:",
+        "box": [
+            325,
+            588,
+            88,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "87 -113 (70, 825) 9 /23 10 /11 11 /16 87 -114 (70. 825) 10 /13 10 /29 12 /7 87 -115 (70, 825 11 /16 12 /7 1 /11",
+        "box": [
+            30,
+            585,
+            296,
+            51
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            186,
+            795,
+            160,
+            52
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "",
+        "box": [
+            210,
+            828,
+            34,
+            10
+        ],
+        "class": "value_question"
+    }
+]

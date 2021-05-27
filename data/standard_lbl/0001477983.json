@@ -1,0 +1,717 @@
+﻿[
+    {
+        "value": "Retainer",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            459,
+            391,
+            47,
+            14
+        ]
+    },
+    {
+        "value": "No.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            300,
+            366,
+            38,
+            17
+        ]
+    },
+    {
+        "value": "$",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            316,
+            380,
+            8,
+            17
+        ]
+    },
+    {
+        "value": "$",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            314,
+            397,
+            10,
+            15
+        ]
+    },
+    {
+        "value": "$",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            297,
+            415,
+            11,
+            14
+        ]
+    },
+    {
+        "value": "$",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            507,
+            390,
+            13,
+            14
+        ]
+    },
+    {
+        "value": "$",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            598,
+            408,
+            10,
+            15
+        ]
+    },
+    {
+        "value": "Other",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            122,
+            461,
+            29,
+            18
+        ]
+    },
+    {
+        "value": "(please",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            155,
+            465,
+            39,
+            15
+        ]
+    },
+    {
+        "value": "explain):",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            194,
+            462,
+            47,
+            17
+        ]
+    },
+    {
+        "value": "Note:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            120,
+            479,
+            28,
+            17
+        ]
+    },
+    {
+        "value": "RIGL",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            148,
+            480,
+            31,
+            14
+        ]
+    },
+    {
+        "value": "22-10-2",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            179,
+            479,
+            38,
+            15
+        ]
+    },
+    {
+        "value": "(d)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            216,
+            482,
+            14,
+            13
+        ]
+    },
+    {
+        "value": "requires",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            230,
+            482,
+            42,
+            13
+        ]
+    },
+    {
+        "value": "disclosure",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            272,
+            480,
+            52,
+            14
+        ]
+    },
+    {
+        "value": "in",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            325,
+            483,
+            11,
+            13
+        ]
+    },
+    {
+        "value": "a",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            338,
+            485,
+            8,
+            11
+        ]
+    },
+    {
+        "value": "dollar",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            346,
+            482,
+            32,
+            15
+        ]
+    },
+    {
+        "value": "amount",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            377,
+            483,
+            36,
+            13
+        ]
+    },
+    {
+        "value": "of",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            415,
+            480,
+            15,
+            20
+        ]
+    },
+    {
+        "value": "the",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            429,
+            482,
+            14,
+            13
+        ]
+    },
+    {
+        "value": "compensation",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            446,
+            483,
+            66,
+            14
+        ]
+    },
+    {
+        "value": "for",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            510,
+            483,
+            17,
+            15
+        ]
+    },
+    {
+        "value": "lobbying",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            529,
+            483,
+            43,
+            15
+        ]
+    },
+    {
+        "value": "activity.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            571,
+            483,
+            41,
+            14
+        ]
+    },
+    {
+        "value": "(from)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            119,
+            665,
+            36,
+            20
+        ]
+    },
+    {
+        "value": "(to)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            119,
+            682,
+            20,
+            18
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            142,
+            697,
+            68,
+            25
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            214,
+            691,
+            66,
+            35
+        ]
+    },
+    {
+        "value": "REVIEWED:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            197,
+            904,
+            49,
+            13
+        ]
+    },
+    {
+        "value": "ACCEPTED:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            122,
+            904,
+            47,
+            13
+        ]
+    },
+    {
+        "value": "STATE OF RHODE ISLAND AND PROVIDENCE PLANTATIONS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            113,
+            80,
+            450,
+            18
+        ]
+    },
+    {
+        "value": "Office of the Secretary of State",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            112,
+            95,
+            169,
+            14
+        ]
+    },
+    {
+        "value": "James R. Langevin Secretary of State",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            113,
+            140,
+            214,
+            14
+        ]
+    },
+    {
+        "value": "Monthly Organization/ Employer Report",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            218,
+            182,
+            346,
+            25
+        ]
+    },
+    {
+        "value": "Room 43 State House Providence, Rhode Island 02903- 1105",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            482,
+            152,
+            178,
+            30
+        ]
+    },
+    {
+        "value": "401- 277- 2390",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            588,
+            180,
+            70,
+            15
+        ]
+    },
+    {
+        "value": "Due the 1st Monday of the month during the legislative session to report the previous months' activity.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            126,
+            207,
+            529,
+            21
+        ]
+    },
+    {
+        "value": "Reporting Period:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            122,
+            230,
+            94,
+            18
+        ]
+    },
+    {
+        "value": "Month of May",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            218,
+            232,
+            91,
+            16
+        ]
+    },
+    {
+        "value": "Organization/ Employer Name:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            120,
+            253,
+            165,
+            18
+        ]
+    },
+    {
+        "value": "R. J. Reynolds Tobacco",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            306,
+            254,
+            151,
+            17
+        ]
+    },
+    {
+        "value": "Lobbyist Name:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            119,
+            271,
+            86,
+            16
+        ]
+    },
+    {
+        "value": "Peter J. McGinn",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            249,
+            271,
+            105,
+            15
+        ]
+    },
+    {
+        "value": "If any addresses or telephone numbers have changed since the last reporting period please check here and note the change in the space provided at the end of this form.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            122,
+            286,
+            506,
+            37
+        ]
+    },
+    {
+        "value": "Compensation/ Expenditure Information:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            123,
+            327,
+            269,
+            20
+        ]
+    },
+    {
+        "value": "(indicate if attached pages)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            485,
+            624,
+            156,
+            18
+        ]
+    },
+    {
+        "value": "Please print name of Employer or Designee",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            433,
+            725,
+            220,
+            20
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            679,
+            730,
+            22,
+            120
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            612,
+            911,
+            39,
+            11
+        ]
+    },
+    {
+        "value": "FOR OFFICIAL USE",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            200,
+            786,
+            96,
+            15
+        ]
+    },
+    {
+        "value": "Please indicate the capacity in which you are executing this document:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            119,
+            757,
+            364,
+            19
+        ]
+    },
+    {
+        "value": "Signature Employer or Designee",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            119,
+            723,
+            187,
+            19
+        ]
+    },
+    {
+        "value": "List any changes of address telephone numbers:",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            116,
+            647,
+            272,
+            18
+        ]
+    },
+    {
+        "value": "During this reporting period, have you made any expenditure or incurred any obligation of $ 25.00 or more per occurence to promote or oppose any legislation, including but not limited mailings, meals, print or broadcast advertisements, or gifts (yes or no)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            119,
+            503,
+            535,
+            55
+        ]
+    },
+    {
+        "value": "yes, please detail. including the names of the persons receiving and in whose behalf such expenditures have been made, the amount, date, place, and reason for the expenditure.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            119,
+            554,
+            473,
+            37
+        ]
+    },
+    {
+        "value": "If yes, please complete the following.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            341,
+            365,
+            195,
+            18
+        ]
+    },
+    {
+        "value": "Compensation received lobbying:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            123,
+            380,
+            193,
+            17
+        ]
+    },
+    {
+        "value": "Part of salary received for lobbying:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            120,
+            397,
+            191,
+            17
+        ]
+    },
+    {
+        "value": "Amount earned but not received:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            122,
+            413,
+            173,
+            18
+        ]
+    },
+    {
+        "value": "Reimbursements for expenses (please itemize):",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            120,
+            429,
+            250,
+            18
+        ]
+    },
+    {
+        "value": "Contractual or agreed fee:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            459,
+            405,
+            138,
+            21
+        ]
+    },
+    {
+        "value": "Have you paid any type of compensation or incurred any obligation for payment to the above named",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            122,
+            346,
+            529,
+            21
+        ]
+    },
+    {
+        "value": "lobbyist for lobbying? (yes or no)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            122,
+            362,
+            177,
+            20
+        ]
+    }
+]

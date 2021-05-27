@@ -1,0 +1,242 @@
+﻿[
+    {
+        "text": "AUTHORS",
+        "box": [
+            92,
+            197,
+            70,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TITLE",
+        "box": [
+            92,
+            225,
+            45,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "RECOMMENDATION:",
+        "box": [
+            391,
+            310,
+            144,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "533",
+        "box": [
+            209,
+            169,
+            27,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Date",
+        "box": [
+            508,
+            172,
+            29,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "x",
+        "box": [
+            549,
+            310,
+            13,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "NOT",
+        "box": [
+            240,
+            339,
+            28,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "APPROVE",
+        "box": [
+            272,
+            339,
+            68,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "00070353",
+        "box": [
+            656,
+            742,
+            24,
+            94
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Manuscript Review Form",
+        "box": [
+            96,
+            67,
+            157,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "TOBACCO SCIENCE",
+        "box": [
+            334,
+            126,
+            124,
+            18
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "Registration No",
+        "box": [
+            94,
+            169,
+            97,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "March 18, 1968",
+        "box": [
+            543,
+            173,
+            106,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Andrew G. Kallianos, Richard K. Means, James D. Mold",
+        "box": [
+            208,
+            197,
+            390,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "\"Effect of Nitrates in Tobacco on the Catechol Yield in Cigarette Smoke\"",
+        "box": [
+            209,
+            223,
+            411,
+            47
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "REVIEW COMPLETED",
+        "box": [
+            92,
+            310,
+            153,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PRESENT FORM:",
+        "box": [
+            91,
+            338,
+            118,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "3/ 29/ 68",
+        "box": [
+            274,
+            304,
+            65,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "APPROVE IN ITS",
+        "box": [
+            570,
+            313,
+            116,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(Give reasons below):",
+        "box": [
+            345,
+            338,
+            131,
+            19
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "APPROVE TENTATIVELY",
+        "box": [
+            507,
+            341,
+            176,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SUBJECT TO THE FOLLOWING SUGGESTED REVISIONS: (itemize below):",
+        "box": [
+            92,
+            365,
+            487,
+            22
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Page 4 - Last line should be Mass spectrometric instead of Mass spectroscopic.",
+        "box": [
+            91,
+            416,
+            525,
+            45
+        ],
+        "class": "other"
+    },
+    {
+        "text": "NOTE- Execute in triplicate using additionall sheets if more space is required. Retain the third copy for your file Return the original (signed) and the first carbon (unsigned) along with the manuscript to this office The unsigned copy and the manuscript will be for returned to the author his consideration.",
+        "box": [
+            88,
+            845,
+            597,
+            56
+        ],
+        "class": "other"
+    }
+]

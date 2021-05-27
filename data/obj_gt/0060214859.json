@@ -1,0 +1,382 @@
+﻿[
+    {
+        "text": "Report",
+        "box": [
+            68,
+            175,
+            71,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "517",
+        "box": [
+            163,
+            179,
+            28,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ACCEPTED",
+        "box": [
+            148,
+            373,
+            78,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "XX",
+        "box": [
+            102,
+            433,
+            22,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "REJECTED",
+        "box": [
+            149,
+            433,
+            75,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Date",
+        "box": [
+            492,
+            226,
+            41,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Supplier",
+        "box": [
+            494,
+            257,
+            73,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Comments:",
+        "box": [
+            63,
+            615,
+            85,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Distribution:",
+        "box": [
+            59,
+            781,
+            122,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "6926",
+        "box": [
+            377,
+            754,
+            36,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Telephone#",
+        "box": [
+            265,
+            756,
+            102,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            641,
+            851,
+            57,
+            27
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "By",
+        "box": [
+            594,
+            859,
+            31,
+            29
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "No",
+        "box": [
+            471,
+            853,
+            42,
+            28
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "436",
+        "box": [
+            524,
+            853,
+            56,
+            27
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "505991060",
+        "box": [
+            730,
+            758,
+            22,
+            91
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Material Tested",
+        "box": [
+            98,
+            256,
+            139,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "P- 830 GLASS FIBER",
+        "box": [
+            253,
+            254,
+            159,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "10- NOV- 1986",
+        "box": [
+            588,
+            226,
+            103,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "OWENS CORNING",
+        "box": [
+            587,
+            257,
+            119,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2 ROLLS",
+        "box": [
+            668,
+            289,
+            66,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Quantity Received",
+        "box": [
+            493,
+            288,
+            159,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Lot or Sample#",
+        "box": [
+            98,
+            284,
+            136,
+            16
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ROLL 34 & 35",
+        "box": [
+            254,
+            285,
+            114,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "11- 6- 86",
+        "box": [
+            254,
+            316,
+            64,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Date Received",
+        "box": [
+            96,
+            314,
+            123,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Following physical/ visual properties out of specifications:",
+        "box": [
+            66,
+            479,
+            544,
+            24
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "WEIGHT OUT OF",
+        "box": [
+            620,
+            483,
+            121,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SPECIFICATIONS ON ROLLS 34 & 35. WT. AV. ROLL 34 (183. 04) ; WT. AV. ROLL 35 (183. 44) : SPECS. 190 -210 GMS/ SQM. LOI OUT DE SPEC. ON ROLL 34 (AV 2. 49%) SPECIFICATIONS (2.6 6- 3. 1% .",
+        "box": [
+            74,
+            510,
+            656,
+            66
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Kwb Kenneth W. Smits Technologist - QA",
+        "box": [
+            57,
+            714,
+            164,
+            51
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Mr. Lucien L. Bass, III",
+        "box": [
+            198,
+            785,
+            216,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Dr. L. H. O' Conner",
+        "box": [
+            198,
+            797,
+            161,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. L. W. Peterson",
+        "box": [
+            198,
+            814,
+            161,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. W. B. Scantland",
+        "box": [
+            197,
+            832,
+            172,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Ms. R. deLacy",
+        "box": [
+            197,
+            845,
+            124,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. M. D. Shannon",
+        "box": [
+            197,
+            859,
+            155,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. R. L. McGee",
+        "box": [
+            197,
+            874,
+            137,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "RJR SECRET ADDRESSED ONLY",
+        "box": [
+            520,
+            750,
+            152,
+            102
+        ],
+        "class": "other"
+    }
+]

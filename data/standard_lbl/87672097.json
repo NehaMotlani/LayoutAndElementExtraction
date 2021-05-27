@@ -1,0 +1,904 @@
+﻿[
+    {
+        "value": "COMPOUND",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            100,
+            115,
+            45,
+            10
+        ]
+    },
+    {
+        "value": "SOURCE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            100,
+            147,
+            33,
+            7
+        ]
+    },
+    {
+        "value": "Mapleine",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            154,
+            108,
+            72,
+            13
+        ]
+    },
+    {
+        "value": "Crescent",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            142,
+            139,
+            67,
+            12
+        ]
+    },
+    {
+        "value": "TESTED:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            328,
+            177,
+            33,
+            9
+        ]
+    },
+    {
+        "value": "REPORTED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            497,
+            178,
+            43,
+            7
+        ]
+    },
+    {
+        "value": "B75",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            481,
+            138,
+            31,
+            13
+        ]
+    },
+    {
+        "value": "MALE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            337,
+            293,
+            24,
+            10
+        ]
+    },
+    {
+        "value": "FEMALE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            400,
+            295,
+            33,
+            9
+        ]
+    },
+    {
+        "value": "SOURCE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            401,
+            323,
+            31,
+            9
+        ]
+    },
+    {
+        "value": "X",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            368,
+            289,
+            15,
+            12
+        ]
+    },
+    {
+        "value": "T",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            370,
+            358,
+            7,
+            7
+        ]
+    },
+    {
+        "value": "P.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            377,
+            356,
+            7,
+            7
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            359,
+            355,
+            12,
+            12
+        ]
+    },
+    {
+        "value": "OTHER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            548,
+            382,
+            27,
+            10
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            536,
+            382,
+            12,
+            10
+        ]
+    },
+    {
+        "value": "1",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            133,
+            467,
+            10,
+            9
+        ]
+    },
+    {
+        "value": "2",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            135,
+            494,
+            9,
+            9
+        ]
+    },
+    {
+        "value": "3",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            135,
+            522,
+            9,
+            7
+        ]
+    },
+    {
+        "value": "4",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            133,
+            551,
+            9,
+            7
+        ]
+    },
+    {
+        "value": "5",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            133,
+            576,
+            9,
+            10
+        ]
+    },
+    {
+        "value": "100",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            222,
+            470,
+            30,
+            13
+        ]
+    },
+    {
+        "value": "100",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            223,
+            494,
+            30,
+            15
+        ]
+    },
+    {
+        "value": "100",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            222,
+            552,
+            28,
+            13
+        ]
+    },
+    {
+        "value": "100",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            222,
+            525,
+            28,
+            12
+        ]
+    },
+    {
+        "value": "100",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            223,
+            579,
+            27,
+            13
+        ]
+    },
+    {
+        "value": "5000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            386,
+            470,
+            34,
+            15
+        ]
+    },
+    {
+        "value": "6000",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            386,
+            497,
+            36,
+            13
+        ]
+    },
+    {
+        "value": "7200",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            386,
+            525,
+            34,
+            16
+        ]
+    },
+    {
+        "value": "8640",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            385,
+            554,
+            37,
+            15
+        ]
+    },
+    {
+        "value": "10368",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            377,
+            578,
+            45,
+            16
+        ]
+    },
+    {
+        "value": "CONCLUSION:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            94,
+            705,
+            52,
+            10
+        ]
+    },
+    {
+        "value": "87672097",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            713,
+            741,
+            18,
+            90
+        ]
+    },
+    {
+        "value": "3/5/81",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            566,
+            289,
+            56,
+            13
+        ]
+    },
+    {
+        "value": "ACUTE TOXICITY IN MICE",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            298,
+            72,
+            200,
+            15
+        ]
+    },
+    {
+        "value": "LORILLARD NO",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            410,
+            147,
+            56,
+            10
+        ]
+    },
+    {
+        "value": "LOT NO",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            600,
+            150,
+            31,
+            9
+        ]
+    },
+    {
+        "value": "DATE RECEIVED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            100,
+            175,
+            58,
+            9
+        ]
+    },
+    {
+        "value": "12 /4 /80",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            175,
+            166,
+            60,
+            13
+        ]
+    },
+    {
+        "value": "3 /12 /81 -3 /24 /81",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            364,
+            168,
+            126,
+            13
+        ]
+    },
+    {
+        "value": "3 /30 /81",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            558,
+            168,
+            63,
+            14
+        ]
+    },
+    {
+        "value": "BC19 -15",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            603,
+            198,
+            60,
+            13
+        ]
+    },
+    {
+        "value": "NOTEBOOK PAGE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            533,
+            207,
+            67,
+            9
+        ]
+    },
+    {
+        "value": "H. S. Tong & A. A. Poole",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            181,
+            196,
+            208,
+            15
+        ]
+    },
+    {
+        "value": "INVESTIGATOR (S)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            204,
+            65,
+            10
+        ]
+    },
+    {
+        "value": "SIGNATURE (S)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            232,
+            55,
+            9
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            187,
+            214,
+            340,
+            42
+        ]
+    },
+    {
+        "value": "STRAIN OF MICE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            292,
+            59,
+            10
+        ]
+    },
+    {
+        "value": "Swiss- Webster",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            163,
+            287,
+            115,
+            14
+        ]
+    },
+    {
+        "value": "DATE RECEIVED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            484,
+            295,
+            60,
+            10
+        ]
+    },
+    {
+        "value": "AVERAGE WEIGHT RANGE (GM)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            99,
+            322,
+            116,
+            10
+        ]
+    },
+    {
+        "value": "16- 30",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            243,
+            311,
+            41,
+            15
+        ]
+    },
+    {
+        "value": "Camm Research",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            448,
+            314,
+            112,
+            12
+        ]
+    },
+    {
+        "value": "ROUTE OF COMPOUND ADMINISTRATION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            97,
+            352,
+            153,
+            11
+        ]
+    },
+    {
+        "value": "☐ P. O.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            290,
+            355,
+            30,
+            9
+        ]
+    },
+    {
+        "value": "☐ I. V.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            424,
+            356,
+            23,
+            10
+        ]
+    },
+    {
+        "value": "☐ INHALATION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            485,
+            355,
+            63,
+            12
+        ]
+    },
+    {
+        "value": "COMPOUND VEHICLE",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            99,
+            379,
+            79,
+            9
+        ]
+    },
+    {
+        "value": "☐ % METHYL CELLULOSE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            213,
+            380,
+            114,
+            10
+        ]
+    },
+    {
+        "value": "☐ CORN OIL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            368,
+            380,
+            47,
+            11
+        ]
+    },
+    {
+        "value": "☐ SALINE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            458,
+            382,
+            39,
+            9
+        ]
+    },
+    {
+        "value": "pure solution",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            582,
+            373,
+            117,
+            16
+        ]
+    },
+    {
+        "value": "GROUP NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            118,
+            433,
+            43,
+            9
+        ]
+    },
+    {
+        "value": "% SOLUTION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            225,
+            434,
+            48,
+            9
+        ]
+    },
+    {
+        "value": "DOSAGE (mg/kg) BODY WEIGHT",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            365,
+            434,
+            81,
+            17
+        ]
+    },
+    {
+        "value": "RESULTS (NO DEAD/NO TESTED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            570,
+            434,
+            85,
+            20
+        ]
+    },
+    {
+        "value": "0 /6",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            573,
+            470,
+            28,
+            17
+        ]
+    },
+    {
+        "value": "0 /6",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            573,
+            499,
+            27,
+            15
+        ]
+    },
+    {
+        "value": "0 /6",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            573,
+            525,
+            27,
+            16
+        ]
+    },
+    {
+        "value": "0 /6",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            573,
+            554,
+            28,
+            18
+        ]
+    },
+    {
+        "value": "0 /6",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            573,
+            582,
+            30,
+            13
+        ]
+    },
+    {
+        "value": "REFERENCE FOR CALCULATION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            97,
+            623,
+            111,
+            10
+        ]
+    },
+    {
+        "value": "Weil, Carrol S., Biometrics, Vol. 8, No. 3., Sept. 1952,",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            213,
+            612,
+            483,
+            21
+        ]
+    },
+    {
+        "value": "p. 249.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            93,
+            642,
+            61,
+            17
+        ]
+    },
+    {
+        "value": "LD0 = 10, 368 mg /kg",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            214,
+            669,
+            157,
+            21
+        ]
+    },
+    {
+        "value": "LD50 95% CONFIDENCE ",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            96,
+            678,
+            114,
+            11
+        ]
+    },
+    {
+        "value": "Higher doses were impractical. The recommended safe dose for",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            151,
+            696,
+            527,
+            21
+        ]
+    },
+    {
+        "value": "trial inhalation in man is 80. 6, 40. 3, or 26. 8 mg per cigarette . when smoked 1, 2 or 3 cigarettes per hour, respectively.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            93,
+            720,
+            564,
+            50
+        ]
+    },
+    {
+        "value": "Copies to the following:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            93,
+            798,
+            207,
+            18
+        ]
+    },
+    {
+        "value": "H. J. Minnemeyer L. B. Gray",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            314,
+            798,
+            140,
+            38
+        ]
+    },
+    {
+        "value": "LORILLARD RESEARCH CENTER",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            93,
+            897,
+            110,
+            10
+        ]
+    },
+    {
+        "value": "FORM ",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            653,
+            900,
+            52,
+            12
+        ]
+    }
+]

@@ -1,0 +1,332 @@
+﻿[
+    {
+        "value": "1",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            196,
+            38,
+            24,
+            17
+        ]
+    },
+    {
+        "value": "COMPANY",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            189,
+            163,
+            63,
+            15
+        ]
+    },
+    {
+        "value": "TOBACCO",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            131,
+            162,
+            60,
+            15
+        ]
+    },
+    {
+        "value": "Lorillard",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            41,
+            106,
+            222,
+            74
+        ]
+    },
+    {
+        "value": "DATE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            63,
+            321,
+            47,
+            18
+        ]
+    },
+    {
+        "value": "NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            61,
+            441,
+            52,
+            20
+        ]
+    },
+    {
+        "value": "OFFICE:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            61,
+            480,
+            64,
+            22
+        ]
+    },
+    {
+        "value": "14",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            541,
+            327,
+            20,
+            18
+        ]
+    },
+    {
+        "value": "NAME:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            59,
+            626,
+            53,
+            17
+        ]
+    },
+    {
+        "value": "COMMENTS:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            57,
+            726,
+            102,
+            21
+        ]
+    },
+    {
+        "value": "CC:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            246,
+            811,
+            27,
+            18
+        ]
+    },
+    {
+        "value": "91914407",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            698,
+            845,
+            17,
+            73
+        ]
+    },
+    {
+        "value": "06/ 29/ 94 08: 25",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            59,
+            39,
+            113,
+            17
+        ]
+    },
+    {
+        "value": "LORILLARD 25 JAX SALES GENERAL NY",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            363,
+            35,
+            255,
+            18
+        ]
+    },
+    {
+        "value": "001",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            656,
+            35,
+            36,
+            14
+        ]
+    },
+    {
+        "value": "9143 PHILLIPS HWY. SUITE 120. JACKSONVILLE, FL 32256 TELEPHONE (904) 464 0800 FAX (904) 464 744",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            82,
+            180,
+            471,
+            18
+        ]
+    },
+    {
+        "value": "FACSIMILE COVER PAGE",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            214,
+            246,
+            338,
+            33
+        ]
+    },
+    {
+        "value": "6- 29- 94",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            163,
+            325,
+            65,
+            15
+        ]
+    },
+    {
+        "value": "TOTAL PAGES",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            372,
+            321,
+            116,
+            20
+        ]
+    },
+    {
+        "value": "(INCLUDING COVER SHEET)",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            372,
+            344,
+            227,
+            20
+        ]
+    },
+    {
+        "value": "PLEASE DELIVER TRANSMISSION TO:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            60,
+            401,
+            298,
+            21
+        ]
+    },
+    {
+        "value": "Mr. Al Giacoio",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            190,
+            441,
+            124,
+            18
+        ]
+    },
+    {
+        "value": "FAX PHONE NUMBER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            60,
+            524,
+            177,
+            21
+        ]
+    },
+    {
+        "value": "THIS DOCUMENT IS FROM:",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            59,
+            582,
+            219,
+            23
+        ]
+    },
+    {
+        "value": "Fred Paternostro",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            215,
+            627,
+            141,
+            20
+        ]
+    },
+    {
+        "value": "FAX TELEPHONE NUMBER:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            56,
+            666,
+            220,
+            22
+        ]
+    },
+    {
+        "value": "(904) 464- 0744",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            282,
+            669,
+            115,
+            21
+        ]
+    },
+    {
+        "value": "The attached was obtained from Mackoul Dist.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            207,
+            728,
+            374,
+            20
+        ]
+    },
+    {
+        "value": "R. E. KLEIN",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            281,
+            810,
+            87,
+            21
+        ]
+    },
+    {
+        "value": "IF ANY OF THESE PAGES ARE NOT LEGIBLE OR YOU DO NOT RECEIVE ALL OF THIS TRANSMISSION, PLEASE CALL (904) 464 0800 AS SOON AS POSSIBLE.",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            56,
+            911,
+            620,
+            46
+        ]
+    }
+]

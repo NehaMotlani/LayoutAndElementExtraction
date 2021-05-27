@@ -1,0 +1,574 @@
+﻿[
+    {
+        "value": "COMMENTS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            505,
+            427,
+            70,
+            12
+        ]
+    },
+    {
+        "value": "Brand:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            17,
+            174,
+            53,
+            15
+        ]
+    },
+    {
+        "value": "Commercial:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            18,
+            201,
+            95,
+            13
+        ]
+    },
+    {
+        "value": "Supplier:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            17,
+            254,
+            81,
+            15
+        ]
+    },
+    {
+        "value": "Sample:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            442,
+            198,
+            56,
+            13
+        ]
+    },
+    {
+        "value": "Chicago:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            20,
+            362,
+            66,
+            15
+        ]
+    },
+    {
+        "value": "8/8",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            302,
+            359,
+            28,
+            15
+        ]
+    },
+    {
+        "value": "98",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            189,
+            228,
+            20,
+            13
+        ]
+    },
+    {
+        "value": "336",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            548,
+            196,
+            27,
+            12
+        ]
+    },
+    {
+        "value": "(234)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            542,
+            211,
+            43,
+            15
+        ]
+    },
+    {
+        "value": "Overall",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            111,
+            468,
+            61,
+            17
+        ]
+    },
+    {
+        "value": "CITY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            111,
+            497,
+            35,
+            13
+        ]
+    },
+    {
+        "value": "Chicago",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            111,
+            523,
+            61,
+            15
+        ]
+    },
+    {
+        "value": "SEX",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            108,
+            563,
+            35,
+            13
+        ]
+    },
+    {
+        "value": "AGE",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            113,
+            630,
+            30,
+            13
+        ]
+    },
+    {
+        "value": "Male",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            110,
+            576,
+            38,
+            13
+        ]
+    },
+    {
+        "value": "Female",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            113,
+            590,
+            47,
+            17
+        ]
+    },
+    {
+        "value": "16-25",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            111,
+            646,
+            47,
+            13
+        ]
+    },
+    {
+        "value": "26-35",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            113,
+            658,
+            45,
+            13
+        ]
+    },
+    {
+        "value": "36-45",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            111,
+            669,
+            47,
+            13
+        ]
+    },
+    {
+        "value": "1.7",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            264,
+            467,
+            27,
+            15
+        ]
+    },
+    {
+        "value": "0.0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            264,
+            508,
+            28,
+            13
+        ]
+    },
+    {
+        "value": "3.3",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            264,
+            522,
+            27,
+            13
+        ]
+    },
+    {
+        "value": "0.0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            266,
+            576,
+            30,
+            13
+        ]
+    },
+    {
+        "value": "3.3",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            266,
+            590,
+            28,
+            13
+        ]
+    },
+    {
+        "value": "0.0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            266,
+            643,
+            28,
+            12
+        ]
+    },
+    {
+        "value": "0.0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            264,
+            658,
+            30,
+            10
+        ]
+    },
+    {
+        "value": "0.0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            266,
+            671,
+            27,
+            12
+        ]
+    },
+    {
+        "value": "9.3",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            267,
+            683,
+            27,
+            13
+        ]
+    },
+    {
+        "value": "465607116",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            445,
+            774,
+            118,
+            17
+        ]
+    },
+    {
+        "value": "0.0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            266,
+            723,
+            30,
+            12
+        ]
+    },
+    {
+        "value": "5.0",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            267,
+            738,
+            28,
+            13
+        ]
+    },
+    {
+        "value": "P",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            613,
+            781,
+            18,
+            40
+        ]
+    },
+    {
+        "value": "MR 1909 (3-69) 100",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            8,
+            40,
+            159,
+            15
+        ]
+    },
+    {
+        "value": "BROWN & WILLIAMSON TOBACCO CORPORATION FILTER SCORES",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            164,
+            63,
+            309,
+            43
+        ]
+    },
+    {
+        "value": "RALEIGH (BELAIR portion not tested)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            111,
+            171,
+            286,
+            18
+        ]
+    },
+    {
+        "value": "Project #",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            442,
+            169,
+            76,
+            15
+        ]
+    },
+    {
+        "value": "1969- 105",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            530,
+            169,
+            68,
+            15
+        ]
+    },
+    {
+        "value": "LAKE- NEW PACK: 40 (with BELAIR Badmin- ton: 20)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            115,
+            198,
+            320,
+            26
+        ]
+    },
+    {
+        "value": "PM6 Base:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            440,
+            214,
+            78,
+            12
+        ]
+    },
+    {
+        "value": "Code #:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            20,
+            226,
+            59,
+            15
+        ]
+    },
+    {
+        "value": "BW- RT- 69-",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            113,
+            228,
+            76,
+            13
+        ]
+    },
+    {
+        "value": "AUDIENCE STUDIES",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            113,
+            254,
+            139,
+            15
+        ]
+    },
+    {
+        "value": "TEST DATES",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            281,
+            294,
+            86,
+            14
+        ]
+    },
+    {
+        "value": "L. Angeles",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            23,
+            339,
+            93,
+            13
+        ]
+    },
+    {
+        "value": "8/5 and 6",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            287,
+            331,
+            73,
+            18
+        ]
+    },
+    {
+        "value": "PM6 SCORES",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            252,
+            414,
+            51,
+            29
+        ]
+    },
+    {
+        "value": "This commercial was tested in color.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            449,
+            467,
+            156,
+            24
+        ]
+    },
+    {
+        "value": "Los ",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            106,
+            512,
+            100,
+            10
+        ]
+    },
+    {
+        "value": "46 & Over",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            111,
+            684,
+            80,
+            15
+        ]
+    },
+    {
+        "value": "35 & Under",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            115,
+            723,
+            85,
+            14
+        ]
+    },
+    {
+        "value": "36 & Over",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            113,
+            738,
+            77,
+            15
+        ]
+    }
+]

@@ -1,0 +1,392 @@
+﻿[
+    {
+        "text": "Name",
+        "box": [
+            124,
+            263,
+            41,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Address",
+        "box": [
+            126,
+            292,
+            67,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "City",
+        "box": [
+            126,
+            324,
+            38,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Novato",
+        "box": [
+            236,
+            323,
+            61,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "State",
+        "box": [
+            468,
+            321,
+            50,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Telephone",
+        "box": [
+            385,
+            349,
+            89,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CA",
+        "box": [
+            545,
+            321,
+            24,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Defendant",
+        "box": [
+            128,
+            475,
+            82,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Plaintiff",
+        "box": [
+            130,
+            443,
+            81,
+            20
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(",
+        "box": [
+            598,
+            594,
+            10,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "X",
+        "box": [
+            612,
+            594,
+            13,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ")",
+        "box": [
+            631,
+            594,
+            8,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "(",
+        "box": [
+            598,
+            624,
+            10,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": ")",
+        "box": [
+            631,
+            622,
+            10,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "X",
+        "box": [
+            613,
+            652,
+            11,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": ")",
+        "box": [
+            634,
+            652,
+            7,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "92433599",
+        "box": [
+            705,
+            816,
+            18,
+            77
+        ],
+        "class": "other"
+    },
+    {
+        "text": "1",
+        "box": [
+            420,
+            883,
+            11,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "94948",
+        "box": [
+            238,
+            352,
+            48,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "(",
+        "box": [
+            599,
+            655,
+            8,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "PRELIMINARY FACT SHEET NEW FILING - ASBESTOS LITIGATION",
+        "box": [
+            270,
+            94,
+            300,
+            49
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "(See General Order No. 29) (In Re: Complex Litigation)",
+        "box": [
+            289,
+            154,
+            260,
+            34
+        ],
+        "class": "other"
+    },
+    {
+        "text": "1. Name, address and telephone number of law firm representing claimant:",
+        "box": [
+            117,
+            214,
+            596,
+            35
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "BRAYTON, GISVOLD. & HARLEY",
+        "box": [
+            236,
+            260,
+            235,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "999 Grant Avenue, P. O. Box 2109",
+        "box": [
+            236,
+            288,
+            292,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Zip Code",
+        "box": [
+            126,
+            353,
+            77,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(415) 898- 1555",
+        "box": [
+            501,
+            349,
+            130,
+            19
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2. Names of first named plaintiff and first named defendant on the caption of the complaint:",
+        "box": [
+            116,
+            395,
+            596,
+            37
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "CHARLES WOODWARD",
+        "box": [
+            239,
+            444,
+            150,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ABEX CORPORATION, et al.",
+        "box": [
+            237,
+            473,
+            224,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3. Date of claimant's birth:",
+        "box": [
+            119,
+            520,
+            279,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "June 19, 1921",
+        "box": [
+            433,
+            518,
+            126,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "4. Case involves (check appropriate boxes):",
+        "box": [
+            122,
+            564,
+            415,
+            20
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "(a) Injury",
+        "box": [
+            131,
+            595,
+            94,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(b) Wrongful death",
+        "box": [
+            134,
+            626,
+            165,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(c) Consortium",
+        "box": [
+            134,
+            656,
+            130,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "5. Specify the nature or type of asbestos- related injury alleged by the claimant. (E. q., Asbestosis; Lung Cancer- adenocarcinoma Lung Cancer- Mesothelioma; Pleural Thickening; Fibrosis; etc.)",
+        "box": [
+            120,
+            683,
+            580,
+            66
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Mesothelioma and other asbestos- related lung disease",
+        "box": [
+            165,
+            757,
+            490,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "K:\\CLIENTS\\5002\\FACTSHIT.COM ",
+        "box": [
+            124,
+            873,
+            147,
+            24
+        ],
+        "class": "other"
+    }
+]

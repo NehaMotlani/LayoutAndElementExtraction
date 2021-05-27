@@ -1,0 +1,772 @@
+﻿[
+    {
+        "text": "TO:",
+        "box": [
+            58,
+            123,
+            24,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FROM:",
+        "box": [
+            61,
+            149,
+            40,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SUBJECT:",
+        "box": [
+            61,
+            206,
+            55,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "X",
+        "box": [
+            438,
+            143,
+            13,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "None",
+        "box": [
+            132,
+            334,
+            33,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DISTRIBUTION",
+        "box": [
+            70,
+            240,
+            87,
+            11
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "PACKING",
+        "box": [
+            96,
+            617,
+            44,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "%",
+        "box": [
+            309,
+            610,
+            14,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "%",
+        "box": [
+            503,
+            605,
+            11,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "542",
+        "box": [
+            219,
+            641,
+            20,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "475",
+        "box": [
+            219,
+            657,
+            22,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "479",
+        "box": [
+            222,
+            672,
+            18,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "451",
+        "box": [
+            218,
+            685,
+            23,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "22%",
+        "box": [
+            304,
+            638,
+            24,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "19%",
+        "box": [
+            306,
+            654,
+            23,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "19%",
+        "box": [
+            307,
+            670,
+            21,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "18%",
+        "box": [
+            307,
+            689,
+            25,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "365",
+        "box": [
+            402,
+            635,
+            22,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "346",
+        "box": [
+            402,
+            651,
+            22,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "371",
+        "box": [
+            405,
+            669,
+            20,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "355",
+        "box": [
+            407,
+            685,
+            19,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "36%",
+        "box": [
+            497,
+            632,
+            25,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "34%",
+        "box": [
+            499,
+            649,
+            22,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "35%",
+        "box": [
+            500,
+            682,
+            21,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "36%",
+        "box": [
+            499,
+            666,
+            22,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "100's",
+        "box": [
+            72,
+            676,
+            28,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "2.471",
+        "box": [
+            477,
+            534,
+            32,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1,020",
+        "box": [
+            480,
+            563,
+            29,
+            18
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "30",
+        "box": [
+            210,
+            829,
+            21,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$",
+        "box": [
+            203,
+            861,
+            10,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "20",
+        "box": [
+            289,
+            830,
+            22,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "30",
+        "box": [
+            363,
+            829,
+            22,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "3.00",
+        "box": [
+            214,
+            861,
+            22,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "PACKS",
+        "box": [
+            102,
+            831,
+            40,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "CARTONS",
+        "box": [
+            106,
+            861,
+            55,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DORAL",
+        "box": [
+            197,
+            812,
+            46,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BASIC",
+        "box": [
+            280,
+            809,
+            39,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "G.P.C",
+        "box": [
+            354,
+            811,
+            39,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "12/8/97",
+        "box": [
+            346,
+            920,
+            45,
+            18
+        ],
+        "class": "other"
+    },
+    {
+        "text": "81749056",
+        "box": [
+            687,
+            752,
+            28,
+            109
+        ],
+        "class": "other"
+    },
+    {
+        "text": "12/08/97 09: 01 FAX 1 732 583 8977",
+        "box": [
+            65,
+            77,
+            232,
+            17
+        ],
+        "class": "other"
+    },
+    {
+        "text": "LORILLARD TOE CO NYO - SALES",
+        "box": [
+            354,
+            76,
+            205,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "002/ 003",
+        "box": [
+            607,
+            74,
+            59,
+            15
+        ],
+        "class": "other"
+    },
+    {
+        "text": "S. P. ZOLOT",
+        "box": [
+            111,
+            121,
+            65,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "S. P. McBride",
+        "box": [
+            109,
+            149,
+            72,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "AREA REGION:",
+        "box": [
+            58,
+            178,
+            89,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DEC 8",
+        "box": [
+            359,
+            141,
+            37,
+            17
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "JAN 19",
+        "box": [
+            361,
+            170,
+            39,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SUBMISSION DATE",
+        "box": [
+            436,
+            109,
+            108,
+            15
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "FEB 23",
+        "box": [
+            525,
+            140,
+            38,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "MAVERICK SPECIALS NON- MENTHOL- EXPANSION PROGRESS REPORT",
+        "box": [
+            152,
+            203,
+            402,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "1/ 20",
+        "box": [
+            159,
+            177,
+            32,
+            10
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DIRECT ACCOUNTS PROJECTED TO ACCEPT WHICH REFUSED ONE OR MORE PACKING",
+        "box": [
+            63,
+            259,
+            487,
+            21
+        ],
+        "class": "other"
+    },
+    {
+        "text": "NAME OF ACCOUNT",
+        "box": [
+            89,
+            302,
+            116,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "# OF STORES SUPPLIED",
+        "box": [
+            235,
+            289,
+            74,
+            27
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BOX 80's",
+        "box": [
+            323,
+            302,
+            29,
+            25
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LT. BOX 80's",
+        "box": [
+            367,
+            303,
+            48,
+            23
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "100's",
+        "box": [
+            433,
+            304,
+            29,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LT. 100's",
+        "box": [
+            488,
+            301,
+            29,
+            25
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "K. S.",
+        "box": [
+            537,
+            303,
+            28,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LT. K. S.",
+        "box": [
+            591,
+            297,
+            24,
+            23
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TOTAL # OF INDEPENDENT SPECIAL EMPHASIS OUTLETS:",
+        "box": [
+            65,
+            533,
+            325,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TOTAL # OF INDEPENDENT NEWPORT #1 CLUB OUTLETS:",
+        "box": [
+            70,
+            566,
+            322,
+            18
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TOTAL # OF SP EMPHASIS OUTLEIS WITH DISTRIBUTION",
+        "box": [
+            175,
+            601,
+            110,
+            35
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TOTAL # OF NUMBER ONE CLUB OUTLETS WITH DISTRIBUTION",
+        "box": [
+            345,
+            597,
+            134,
+            35
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BOX 80's",
+        "box": [
+            69,
+            641,
+            52,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LT. BOX 80's",
+        "box": [
+            69,
+            660,
+            74,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LT. 100's",
+        "box": [
+            72,
+            694,
+            44,
+            13
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "K. S.",
+        "box": [
+            69,
+            710,
+            27,
+            12
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "LT. K. S.",
+        "box": [
+            72,
+            724,
+            46,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "COMPETITIVE PROMOTIONAL ACTIVITY",
+        "box": [
+            78,
+            756,
+            234,
+            17
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "PREDOMINANT BUYDOWN VALUE OF TARGETED BRANDS (DORAL G. P. C/ BASIC)",
+        "box": [
+            68,
+            783,
+            512,
+            21
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "(Where Applicable)",
+        "box": [
+            101,
+            874,
+            67,
+            13
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Mav- nm- 1. xls",
+        "box": [
+            87,
+            926,
+            85,
+            16
+        ],
+        "class": "other"
+    },
+    {
+        "text": "Page 1 of 2",
+        "box": [
+            584,
+            919,
+            73,
+            14
+        ],
+        "class": "other"
+    },
+    {
+        "text": "$ 2.00",
+        "box": [
+            283,
+            859,
+            29,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$ 3.00",
+        "box": [
+            360,
+            857,
+            29,
+            13
+        ],
+        "class": "value_answer"
+    }
+]

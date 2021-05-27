@@ -1,0 +1,728 @@
+﻿[
+    {
+        "value": "LOCATION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            263,
+            80,
+            41,
+            13
+        ]
+    },
+    {
+        "value": "REQUISITIONER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            263,
+            108,
+            60,
+            14
+        ]
+    },
+    {
+        "value": "SUPPLIER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            134,
+            38,
+            13
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            373,
+            250,
+            13,
+            10
+        ]
+    },
+    {
+        "value": "TERMS",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            372,
+            278,
+            25,
+            8
+        ]
+    },
+    {
+        "value": "FO",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            39,
+            275,
+            24,
+            8
+        ]
+    },
+    {
+        "value": "QUANTITY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            74,
+            303,
+            66,
+            14
+        ]
+    },
+    {
+        "value": "DESCRIPTION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            327,
+            306,
+            84,
+            13
+        ]
+    },
+    {
+        "value": "PRICE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            606,
+            306,
+            42,
+            15
+        ]
+    },
+    {
+        "value": "Attn:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            64,
+            169,
+            35,
+            13
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            225,
+            820,
+            22,
+            11
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            226,
+            849,
+            24,
+            8
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            226,
+            877,
+            22,
+            7
+        ]
+    },
+    {
+        "value": "BY",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            304,
+            877,
+            13,
+            10
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            304,
+            849,
+            22,
+            11
+        ]
+    },
+    {
+        "value": "OTHER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            47,
+            877,
+            28,
+            8
+        ]
+    },
+    {
+        "value": "M14789",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            469,
+            834,
+            46,
+            15
+        ]
+    },
+    {
+        "value": "☑",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            222,
+            795,
+            15,
+            21
+        ]
+    },
+    {
+        "value": "BUYER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            443,
+            878,
+            24,
+            10
+        ]
+    },
+    {
+        "value": "DATE",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            443,
+            852,
+            21,
+            8
+        ]
+    },
+    {
+        "value": "APPROVAL",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            34,
+            818,
+            10,
+            75
+        ]
+    },
+    {
+        "value": "",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            43,
+            41,
+            53,
+            53
+        ]
+    },
+    {
+        "value": "THE AMERICAN TOBACCO COMPANY",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            99,
+            39,
+            87,
+            57
+        ]
+    },
+    {
+        "value": "PURCHASE REQUISITION",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            492,
+            56,
+            210,
+            22
+        ]
+    },
+    {
+        "value": "AT 135 ",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            644,
+            36,
+            57,
+            12
+        ]
+    },
+    {
+        "value": "STAMFORD, CT",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            325,
+            85,
+            95,
+            17
+        ]
+    },
+    {
+        "value": "AUTHORIZATION NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            483,
+            81,
+            75,
+            10
+        ]
+    },
+    {
+        "value": "BUDGET NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            482,
+            110,
+            47,
+            10
+        ]
+    },
+    {
+        "value": "Mr. G. Schumacher",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            265,
+            122,
+            119,
+            14
+        ]
+    },
+    {
+        "value": "January 3, 1995",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            66,
+            122,
+            100,
+            15
+        ]
+    },
+    {
+        "value": "DATE OF REQUISITION",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            41,
+            106,
+            84,
+            12
+        ]
+    },
+    {
+        "value": "WEBCRAFT TECHNOLOGIES INC",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            64,
+            151,
+            216,
+            15
+        ]
+    },
+    {
+        "value": "Mr. Steven Katz",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            101,
+            168,
+            98,
+            14
+        ]
+    },
+    {
+        "value": "Route 4 and Adams Station North Brunswick, NJ 08901- 0623",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            64,
+            182,
+            206,
+            31
+        ]
+    },
+    {
+        "value": "NO SHIPPING REQUIRED",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            388,
+            151,
+            158,
+            17
+        ]
+    },
+    {
+        "value": "SHIP TO",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            373,
+            137,
+            30,
+            11
+        ]
+    },
+    {
+        "value": "SHIPMENT TO ARRIVE NOT LATER THAN",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            39,
+            246,
+            148,
+            12
+        ]
+    },
+    {
+        "value": "NO SHIPPING REQUIRED.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            64,
+            258,
+            166,
+            17
+        ]
+    },
+    {
+        "value": "NET 30 Days",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            385,
+            279,
+            81,
+            16
+        ]
+    },
+    {
+        "value": "CARLTON \"Free\" Carton\" Direct Mail Piece",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            179,
+            318,
+            263,
+            20
+        ]
+    },
+    {
+        "value": "This Purchase order is to cover all costs incurred to- date listed below.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            179,
+            352,
+            359,
+            30
+        ]
+    },
+    {
+        "value": "42,000 lbs. of 80 lb Sterling C/ 2/ S - 36- 1/ 2\" roll",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            179,
+            398,
+            290,
+            14
+        ]
+    },
+    {
+        "value": "31,000 lbs. of 80 lb. Sterling C/ 2/ S - 26- 1/ 2\" roll",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            177,
+            413,
+            292,
+            16
+        ]
+    },
+    {
+        "value": "Prep. (line negatives, paper prints, camera/ stripping)",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            179,
+            444,
+            327,
+            16
+        ]
+    },
+    {
+        "value": "Federal Express charges",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            179,
+            472,
+            156,
+            17
+        ]
+    },
+    {
+        "value": "ALL MATERIALS HAVE BEEN CANCELLED.",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            179,
+            504,
+            269,
+            14
+        ]
+    },
+    {
+        "value": "Charges to 1 /4 /95",
+        "formal_key": "other",
+        "key_type": "value",
+        "location": [
+            419,
+            542,
+            258,
+            130
+        ]
+    },
+    {
+        "value": "$20, 580. 00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            575,
+            398,
+            67,
+            14
+        ]
+    },
+    {
+        "value": "$15, 190. 00",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            574,
+            415,
+            68,
+            14
+        ]
+    },
+    {
+        "value": "$431 .25",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            592,
+            444,
+            51,
+            15
+        ]
+    },
+    {
+        "value": "$48 .75",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            599,
+            473,
+            43,
+            15
+        ]
+    },
+    {
+        "value": "DEPARTMENT CHARGED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            35,
+            764,
+            92,
+            11
+        ]
+    },
+    {
+        "value": "ACCOUNTING CHARGE NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            256,
+            764,
+            102,
+            11
+        ]
+    },
+    {
+        "value": "EXTRA COPIES TO:",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            378,
+            763,
+            70,
+            13
+        ]
+    },
+    {
+        "value": "D. Barcia",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            385,
+            777,
+            58,
+            14
+        ]
+    },
+    {
+        "value": "Adv. Expense",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            261,
+            777,
+            85,
+            15
+        ]
+    },
+    {
+        "value": "Brand Operations",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            60,
+            778,
+            115,
+            11
+        ]
+    },
+    {
+        "value": "STATE TAX STATUS",
+        "formal_key": "header",
+        "key_type": "value",
+        "location": [
+            35,
+            792,
+            74,
+            10
+        ]
+    },
+    {
+        "value": "NOT TO BE CHARGED BY SUPPLIER",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            236,
+            804,
+            128,
+            13
+        ]
+    },
+    {
+        "value": "☐ TO BE CHARGED",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            432,
+            804,
+            68,
+            12
+        ]
+    },
+    {
+        "value": "LOCAL APPROVAL",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            47,
+            820,
+            71,
+            10
+        ]
+    },
+    {
+        "value": "ADMIN CTR/MGMT CTR. (AS REQUIRED)",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            47,
+            846,
+            151,
+            14
+        ]
+    },
+    {
+        "value": "LOCAL P/ORELEASE NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            306,
+            821,
+            92,
+            10
+        ]
+    },
+    {
+        "value": "ADMIN CTR/MGMT CTR PURCHASE ORDER NO.",
+        "formal_key": "question",
+        "key_type": "value",
+        "location": [
+            443,
+            821,
+            174,
+            12
+        ]
+    },
+    {
+        "value": "January 3, 1995",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            469,
+            855,
+            99,
+            16
+        ]
+    },
+    {
+        "value": "M. Stock/ smm ",
+        "formal_key": "answer",
+        "key_type": "value",
+        "location": [
+            468,
+            876,
+            186,
+            25
+        ]
+    }
+]

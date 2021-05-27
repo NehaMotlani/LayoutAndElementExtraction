@@ -1,0 +1,662 @@
+﻿[
+    {
+        "text": "LOCATION",
+        "box": [
+            263,
+            80,
+            41,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "REQUISITIONER",
+        "box": [
+            263,
+            108,
+            60,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SUPPLIER",
+        "box": [
+            41,
+            134,
+            38,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "",
+        "box": [
+            373,
+            250,
+            13,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "TERMS",
+        "box": [
+            372,
+            278,
+            25,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "FO",
+        "box": [
+            39,
+            275,
+            24,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "QUANTITY",
+        "box": [
+            74,
+            303,
+            66,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DESCRIPTION",
+        "box": [
+            327,
+            306,
+            84,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "PRICE",
+        "box": [
+            606,
+            306,
+            42,
+            15
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Attn:",
+        "box": [
+            64,
+            169,
+            35,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            225,
+            820,
+            22,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            226,
+            849,
+            24,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            226,
+            877,
+            22,
+            7
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BY",
+        "box": [
+            304,
+            877,
+            13,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            304,
+            849,
+            22,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "OTHER",
+        "box": [
+            47,
+            877,
+            28,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "M14789",
+        "box": [
+            469,
+            834,
+            46,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "☑",
+        "box": [
+            222,
+            795,
+            15,
+            21
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "BUYER",
+        "box": [
+            443,
+            878,
+            24,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "DATE",
+        "box": [
+            443,
+            852,
+            21,
+            8
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "APPROVAL",
+        "box": [
+            34,
+            818,
+            10,
+            75
+        ],
+        "class": "other"
+    },
+    {
+        "text": "",
+        "box": [
+            43,
+            41,
+            53,
+            53
+        ],
+        "class": "other"
+    },
+    {
+        "text": "THE AMERICAN TOBACCO COMPANY",
+        "box": [
+            99,
+            39,
+            87,
+            57
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "PURCHASE REQUISITION",
+        "box": [
+            492,
+            56,
+            210,
+            22
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "AT 135 ",
+        "box": [
+            644,
+            36,
+            57,
+            12
+        ],
+        "class": "other"
+    },
+    {
+        "text": "STAMFORD, CT",
+        "box": [
+            325,
+            85,
+            95,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "AUTHORIZATION NO.",
+        "box": [
+            483,
+            81,
+            75,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "BUDGET NO.",
+        "box": [
+            482,
+            110,
+            47,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "Mr. G. Schumacher",
+        "box": [
+            265,
+            122,
+            119,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "January 3, 1995",
+        "box": [
+            66,
+            122,
+            100,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DATE OF REQUISITION",
+        "box": [
+            41,
+            106,
+            84,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "WEBCRAFT TECHNOLOGIES INC",
+        "box": [
+            64,
+            151,
+            216,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Mr. Steven Katz",
+        "box": [
+            101,
+            168,
+            98,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Route 4 and Adams Station North Brunswick, NJ 08901- 0623",
+        "box": [
+            64,
+            182,
+            206,
+            31
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "NO SHIPPING REQUIRED",
+        "box": [
+            388,
+            151,
+            158,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "SHIP TO",
+        "box": [
+            373,
+            137,
+            30,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "SHIPMENT TO ARRIVE NOT LATER THAN",
+        "box": [
+            39,
+            246,
+            148,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "NO SHIPPING REQUIRED.",
+        "box": [
+            64,
+            258,
+            166,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "NET 30 Days",
+        "box": [
+            385,
+            279,
+            81,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "CARLTON \"Free\" Carton\" Direct Mail Piece",
+        "box": [
+            179,
+            318,
+            263,
+            20
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "This Purchase order is to cover all costs incurred to- date listed below.",
+        "box": [
+            179,
+            352,
+            359,
+            30
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "42,000 lbs. of 80 lb Sterling C/ 2/ S - 36- 1/ 2\" roll",
+        "box": [
+            179,
+            398,
+            290,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "31,000 lbs. of 80 lb. Sterling C/ 2/ S - 26- 1/ 2\" roll",
+        "box": [
+            177,
+            413,
+            292,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Prep. (line negatives, paper prints, camera/ stripping)",
+        "box": [
+            179,
+            444,
+            327,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Federal Express charges",
+        "box": [
+            179,
+            472,
+            156,
+            17
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "ALL MATERIALS HAVE BEEN CANCELLED.",
+        "box": [
+            179,
+            504,
+            269,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Charges to 1 /4 /95",
+        "box": [
+            419,
+            542,
+            258,
+            130
+        ],
+        "class": "other"
+    },
+    {
+        "text": "$20, 580. 00",
+        "box": [
+            575,
+            398,
+            67,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$15, 190. 00",
+        "box": [
+            574,
+            415,
+            68,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$431 .25",
+        "box": [
+            592,
+            444,
+            51,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "$48 .75",
+        "box": [
+            599,
+            473,
+            43,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "DEPARTMENT CHARGED",
+        "box": [
+            35,
+            764,
+            92,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ACCOUNTING CHARGE NO.",
+        "box": [
+            256,
+            764,
+            102,
+            11
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "EXTRA COPIES TO:",
+        "box": [
+            378,
+            763,
+            70,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "D. Barcia",
+        "box": [
+            385,
+            777,
+            58,
+            14
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Adv. Expense",
+        "box": [
+            261,
+            777,
+            85,
+            15
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "Brand Operations",
+        "box": [
+            60,
+            778,
+            115,
+            11
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "STATE TAX STATUS",
+        "box": [
+            35,
+            792,
+            74,
+            10
+        ],
+        "class": "value_header"
+    },
+    {
+        "text": "NOT TO BE CHARGED BY SUPPLIER",
+        "box": [
+            236,
+            804,
+            128,
+            13
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "☐ TO BE CHARGED",
+        "box": [
+            432,
+            804,
+            68,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LOCAL APPROVAL",
+        "box": [
+            47,
+            820,
+            71,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ADMIN CTR/MGMT CTR. (AS REQUIRED)",
+        "box": [
+            47,
+            846,
+            151,
+            14
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "LOCAL P/ORELEASE NO.",
+        "box": [
+            306,
+            821,
+            92,
+            10
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "ADMIN CTR/MGMT CTR PURCHASE ORDER NO.",
+        "box": [
+            443,
+            821,
+            174,
+            12
+        ],
+        "class": "value_question"
+    },
+    {
+        "text": "January 3, 1995",
+        "box": [
+            469,
+            855,
+            99,
+            16
+        ],
+        "class": "value_answer"
+    },
+    {
+        "text": "M. Stock/ smm ",
+        "box": [
+            468,
+            876,
+            186,
+            25
+        ],
+        "class": "value_answer"
+    }
+]
