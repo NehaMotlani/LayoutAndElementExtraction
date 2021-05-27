@@ -10,7 +10,7 @@ from matplotlib import pyplot as plt
 from torch.utils.data import DataLoader, Dataset
 from torchvision import transforms
 import sys
-sys.path.insert(1, '/Users/nehamotlani/Desktop/College_Courses/Research/Code/bertword_chargrid/chargrid2d-icdar')
+sys.path.insert(1, '/Users/nehamotlani/Desktop/College_Courses/Research/Repo/LayoutAndElementExtraction/bertword_chargrid/chargrid2d-icdar')
 from chargrid2d.dataloader_utils.base_dataloader import BaseDataLoader
 from chargrid2d.dataloader_utils.generate_mask import MaskGenerator
 from chargrid2d.dataloader_utils.onehotencoder import OneHotEncoder
@@ -197,7 +197,7 @@ if __name__ == "__main__":
         alb.Resize(size, size)
     ], alb.BboxParams(format='coco', label_fields=['lbl_id'], min_area=2.0))
 
-    dataset = SegDataset('/Users/nehamotlani/Desktop/College_Courses/Research/Code/bertword_chargrid/chargrid2d-icdar/data/', 'train_files.txt', transform=aug)
+    dataset = SegDataset('/Users/nehamotlani/Desktop/College_Courses/Research/Repo/LayoutAndElementExtraction/bertword_chargrid/chargrid2d-icdar/data/', 'train_files.txt', transform=aug)
     data_loader = DataLoader(dataset, batch_size=4, shuffle=True, collate_fn=dataset.collate_fn)
     print(len(data_loader))
 

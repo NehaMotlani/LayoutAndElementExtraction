@@ -9,12 +9,12 @@ from chargrid2d.metrics import IoU
 from chargrid2d.model import Chargrid2D
 
 device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
-root = '/Users/nehamotlani/Desktop/College_Courses/Research/Code/bertword_chargrid/chargrid2d-icdar'
-def train(weights_folder='/Users/nehamotlani/Desktop/College_Courses/Research/Code/bertword_chargrid/chargrid2d-icdar/data/weights'):
+root = '/Users/nehamotlani/Desktop/College_Courses/Research/Repo/LayoutAndElementExtraction/bertword_chargrid/chargrid2d-icdar'
+def train(weights_folder='/Users/nehamotlani/Desktop/College_Courses/Research/Repo/LayoutAndElementExtraction/bertword_chargrid/chargrid2d-icdar/data/weights'):
     N_EPOCHS = 50
     best_loss = np.infty
 
-    dataloader = ChargridDataloader(root='/Users/nehamotlani/Desktop/College_Courses/Research/Code/bertword_chargrid/chargrid2d-icdar/data/', list_file_name_path='train_files.txt',
+    dataloader = ChargridDataloader(root='/Users/nehamotlani/Desktop/College_Courses/Research/Repo/LayoutAndElementExtraction/bertword_chargrid/chargrid2d-icdar/data/', list_file_name_path='train_files.txt',
                                     image_size=512, batch_size=1, validation_split=0.1)
     val_dataloader = dataloader.split_validation()
     loss_fn = ChargridLoss()

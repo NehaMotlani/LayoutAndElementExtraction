@@ -2,7 +2,7 @@ import torch
 import json
 import numpy as np
 # Opening JSON file
-f = open('/Users/nehamotlani/Desktop/College_Courses/Research/Code/bertword_chargrid/chargrid2d-icdar/data/final_embeddings.json',)
+f = open('/Users/nehamotlani/Desktop/College_Courses/Research/Repo/LayoutAndElementExtraction/bertword_chargrid/chargrid2d-icdar/data/final_embeddings.json',)
   
 # returns JSON object as 
 # a dictionary

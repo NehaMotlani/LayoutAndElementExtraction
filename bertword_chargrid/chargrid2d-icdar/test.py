@@ -194,7 +194,7 @@ def information_extraction(image, label_data):
 
     return res
 
-root = '/Users/nehamotlani/Desktop/College_Courses/Research/Code/bertword_chargrid/chargrid2d-icdar'
+root = '/Users/nehamotlani/Desktop/College_Courses/Research/Repo/LayoutAndElementExtraction/bertword_chargrid/chargrid2d-icdar'
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()

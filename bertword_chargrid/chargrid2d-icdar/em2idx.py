@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import json
-mypath = '/Users/nehamotlani/Desktop/College_Courses/Research/Code/bertword_chargrid/chargrid2d-icdar/data/'
+mypath = '/Users/nehamotlani/Desktop/College_Courses/Research/Repo/LayoutAndElementExtraction/bertword_chargrid/chargrid2d-icdar/data/'
 with open(mypath+'char2idx.json', encoding='utf-8-sig') as f:
     corpus = json.load(f)
 with open(mypath+'embeddings.json', encoding='utf-8-sig') as f:
@@ -14,5 +14,5 @@ for i in corpus:
 		dictt[corpus[i]] = embeddings[i]
 	else:
 		dictt[corpus[i]] = [0]*768
-with open("/Users/nehamotlani/Desktop/College_Courses/Research/Code/bertword_chargrid/chargrid2d-icdar/data/final_embeddings.json", "w") as outfile: 
+with open("/Users/nehamotlani/Desktop/College_Courses/Research/Repo/LayoutAndElementExtraction/bertword_chargrid/chargrid2d-icdar/data/final_embeddings.json", "w") as outfile: 
     json.dump(dictt, outfile)

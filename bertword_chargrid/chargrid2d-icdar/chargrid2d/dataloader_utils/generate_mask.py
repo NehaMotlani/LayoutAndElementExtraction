@@ -10,9 +10,9 @@ import numpy as np
 import torch
 # import utils
 import sys
-sys.path.insert(1, '/Users/nehamotlani/Desktop/College_Courses/Research/Code/bertword_chargrid/chargrid2d-icdar')
+sys.path.insert(1, '/Users/nehamotlani/Desktop/College_Courses/Research/Repo/LayoutAndElementExtraction/bertword_chargrid/chargrid2d-icdar')
 from chargrid2d.dataloader_utils.utils import make_folder, read_json, write_json
-root = '/Users/nehamotlani/Desktop/College_Courses/Research/Code/bertword_chargrid/chargrid2d-icdar'
+root = '/Users/nehamotlani/Desktop/College_Courses/Research/Repo/LayoutAndElementExtraction/bertword_chargrid/chargrid2d-icdar'
 
 class MaskGenerator():
     def __init__(self):
@@ -275,7 +275,7 @@ class MaskGenerator():
 
 if __name__ == "__main__":
 #     root = 'D:/cinnamon/dataset/kyocera/S3/data/20190924'
-    root = '/Users/nehamotlani/Desktop/College_Courses/Research/Code/bertword_chargrid/chargrid2d-icdar'
+    root = '/Users/nehamotlani/Desktop/College_Courses/Research/Repo/LayoutAndElementExtraction/bertword_chargrid/chargrid2d-icdar'
     parser = argparse.ArgumentParser()
     parser.add_argument('--root_folder', default=root, type=str)
 

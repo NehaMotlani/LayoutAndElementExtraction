@@ -1,7 +1,7 @@
 import json
 from os import listdir
 from os.path import isfile, join
-root = '/Users/nehamotlani/Desktop/College_Courses/Research/Code/bertword_chargrid/chargrid2d-icdar/'
+root = '/Users/nehamotlani/Desktop/College_Courses/Research/Repo/LayoutAndElementExtraction/bertword_chargrid/chargrid2d-icdar/'
 def EditDistDP(str1, str2):
 	len1 = len(str1)
 	len2 = len(str2)
@@ -21,21 +21,14 @@ def EditDistDP(str1, str2):
 	return DP[len2 % 2][len1]
 
 groundtruthfiles = [f for f in listdir(root+'data/test/changed') if isfile(join(root+'data/test/changed', f))]
-predictedfiles = [f for f in listdir(root+'data/output') if isfile(join(root+'data/output', f))]
+predictedfiles = [f for f in listdir(root+ 'data/output') if isfile(join(root+'data/output', f))]
 
 n = 0
 n0 = 0
 n1 = 0
 n2 = 0
 n3 = 0
-ans0 = 0
-ans1 = 0
-ans2 = 0
-ans3 = 0
-for file in predictedfiles:
-	if(file=='.DS_Store'):
-		print('here')
-		continue
+for file in groundtruthfiles:
 	groundtruth = open(root+'data/test/changed/'+file)
 	predicted = open(root+'data/output/'+file)
 	data_gt = json.load(groundtruth)
@@ -107,6 +100,7 @@ print('answer ',1-(ans3/n3))
 
 y_pred = []
 y_actual = []
+groundtruth_entities = 0
 # 0->other 1->question 2->header 3->answer 
 for file in groundtruthfiles:
 	if(file=='.DS_Store'):
@@ -119,30 +113,43 @@ for file in groundtruthfiles:
 	dict_data_gt = {}
 	dict_data_p = {}
 	for obj in data_gt:
-		dict_data_gt[obj['text']] = obj['class']
+		if obj['text'] in dict_data_gt:
+			dict_data_gt[obj['text']].append(obj['class'])
+		else:
+			dict_data_gt[obj['text']] = [obj['class']]
 	for obj in data_p:
-		dict_data_p[obj['text']] = obj['class']
+		if obj['text'] in dict_data_p:
+			dict_data_p[obj['text']].append(obj['class'])
+		else:
+			dict_data_p[obj['text']] = [obj['class']]
 	for i in dict_data_gt:
-		if(dict_data_gt[i]=='other'):
-			y_actual.append('other')
-		elif(dict_data_gt[i]=='question'):
-			y_actual.append('question')
-		elif(dict_data_gt[i]=='header'):
-			y_actual.append('header')
-		else:
-			y_actual.append('answer')
-		
-		if(dict_data_p[i]=='other'):
-			y_pred.append('other')
-		elif(dict_data_p[i]=='question'):
-			y_pred.append('question')
-		elif(dict_data_p[i]=='header'):
-			y_pred.append('header')
-		else:
-			y_pred.append('answer')	
-
+		for j in range(len(dict_data_gt[i])):
+			# print(dict_data_gt[i])
+			groundtruth_entities += 1
+			if(dict_data_gt[i][j]=='other'):
+				y_actual.append('other')
+			elif(dict_data_gt[i][j]=='question'):
+				y_actual.append('question')
+			elif(dict_data_gt[i][j]=='header'):
+				y_actual.append('header')
+			elif(dict_data_gt[i][j]=='answer'):
+				y_actual.append('answer')
+			
+			# if(j<len(dict_data_p[i])):
+			if(dict_data_p[i][j]=='other'):
+				y_pred.append('other')
+			elif(dict_data_p[i][j]=='question'):
+				y_pred.append('question')
+			elif(dict_data_p[i][j]=='header'):
+				y_pred.append('header')
+			elif(dict_data_p[i][j]=='answer'):
+				y_pred.append('answer')
+			# else:
+			# 	print('here')
+			# 	y_pred.append('unclassified')	
+print(groundtruth_entities)
 from sklearn import metrics
-print(metrics.confusion_matrix(y_actual, y_pred,labels = ['answer','header','other','question']))
+print(metrics.confusion_matrix(y_actual, y_pred))
 
 # Print the precision and recall, among other metrics
 print(metrics.classification_report(y_actual, y_pred, digits=3))
